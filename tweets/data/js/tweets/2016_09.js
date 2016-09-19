@@ -1,6 +1,610 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Sun Sep 18 19:58:49 +0000 2016",
+		"id": 777597769519337500,
+		"id_str": "777597769519337472",
+		"text": "RT @ian_livingstone: My recent #altc keynote about Games Workshop, Fighting Fantasy, videogames, games-based learning, coding in schools ht…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						31,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ian_livingstone",
+					"name": "Ian Livingstone",
+					"id": 114554280,
+					"id_str": "114554280",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cnY1VaAI6D",
+					"expanded_url": "https://www.youtube.com/watch?v=D7zOg4fe9L4",
+					"display_url": "youtube.com/watch?v=D7zOg4…",
+					"indices": [
+						139,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6473,
+			"friends_count": 1595,
+			"listed_count": 566,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 2315,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24429,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1469138729",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 17 11:55:47 +0000 2016",
+			"id": 777113821987082200,
+			"id_str": "777113821987082240",
+			"text": "My recent #altc keynote about Games Workshop, Fighting Fantasy, videogames, games-based learning, coding in schools https://t.co/cnY1VaAI6D",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "altc",
+						"indices": [
+							10,
+							15
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cnY1VaAI6D",
+						"expanded_url": "https://www.youtube.com/watch?v=D7zOg4fe9L4",
+						"display_url": "youtube.com/watch?v=D7zOg4…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 114554280,
+				"id_str": "114554280",
+				"name": "Ian Livingstone",
+				"screen_name": "ian_livingstone",
+				"location": "London",
+				"description": "Co-founder Games Workshop. Co-creator Fighting Fantasy. Chair Playdemic, Midoki, Sumo Digital. Co-author NextGen https://t.co/hOwvuZztP1 https://t.co/MyeBHirWfw",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/hOwvuZztP1",
+								"expanded_url": "http://bit.ly/1njpQ0o",
+								"display_url": "bit.ly/1njpQ0o",
+								"indices": [
+									113,
+									136
+								]
+							},
+							{
+								"url": "https://t.co/MyeBHirWfw",
+								"expanded_url": "http://bbc.in/1GIbm2p",
+								"display_url": "bbc.in/1GIbm2p",
+								"indices": [
+									137,
+									160
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 16407,
+				"friends_count": 1521,
+				"listed_count": 547,
+				"created_at": "Mon Feb 15 20:24:17 +0000 2010",
+				"favourites_count": 547,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4934,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000019348665/abb3c7c16e4ac17b160234ac79107881.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000019348665/abb3c7c16e4ac17b160234ac79107881.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/767017297181638657/Kpk5nilJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/767017297181638657/Kpk5nilJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/114554280/1441839170",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Sep 18 19:57:44 +0000 2016",
+		"id": 777597495438434300,
+		"id_str": "777597495438434304",
+		"text": "RT @Jonathan_Worth: Still time to join second round of #Cclasses https://t.co/pUNKUUm9Bo https://t.co/IO22Kd6LUb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Cclasses",
+					"indices": [
+						55,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jonathan_Worth",
+					"name": "Jonathan Worth",
+					"id": 17687064,
+					"id_str": "17687064",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pUNKUUm9Bo",
+					"expanded_url": "http://www.jonathanworth.org/connecting_classes/",
+					"display_url": "jonathanworth.org/connecting_cla…",
+					"indices": [
+						65,
+						88
+					]
+				},
+				{
+					"url": "https://t.co/IO22Kd6LUb",
+					"expanded_url": "https://twitter.com/contactsheetuog/status/776346674033725440",
+					"display_url": "twitter.com/contactsheetuo…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6473,
+			"friends_count": 1595,
+			"listed_count": 566,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 2315,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24429,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1469138729",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 15 09:25:12 +0000 2016",
+			"id": 776351148856967200,
+			"id_str": "776351148856967168",
+			"text": "Still time to join second round of #Cclasses https://t.co/pUNKUUm9Bo https://t.co/IO22Kd6LUb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Cclasses",
+						"indices": [
+							35,
+							44
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/pUNKUUm9Bo",
+						"expanded_url": "http://www.jonathanworth.org/connecting_classes/",
+						"display_url": "jonathanworth.org/connecting_cla…",
+						"indices": [
+							45,
+							68
+						]
+					},
+					{
+						"url": "https://t.co/IO22Kd6LUb",
+						"expanded_url": "https://twitter.com/contactsheetuog/status/776346674033725440",
+						"display_url": "twitter.com/contactsheetuo…",
+						"indices": [
+							69,
+							92
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17687064,
+				"id_str": "17687064",
+				"name": "Jonathan Worth",
+				"screen_name": "Jonathan_Worth",
+				"location": "UK",
+				"description": "I'm a photographer, teacher, cyclist. I'm also the author of the open undergraduate classes Phonar and Picbod. Views my own (but you can borrow CC-BY).",
+				"url": "http://t.co/PjQQmAy2wI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/PjQQmAy2wI",
+								"expanded_url": "http://about.me/jonathan_worth",
+								"display_url": "about.me/jonathan_worth",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5936,
+				"friends_count": 853,
+				"listed_count": 400,
+				"created_at": "Thu Nov 27 19:56:56 +0000 2008",
+				"favourites_count": 3259,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 17058,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "333333",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/465876056847560705/wvWHpWEN.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/465876056847560705/wvWHpWEN.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/665601634668556288/YAnbGKTm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/665601634668556288/YAnbGKTm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17687064/1399670019",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "8F8D8C",
+				"profile_text_color": "262411",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 776346674033725400,
+			"quoted_status_id_str": "776346674033725440",
+			"quoted_status": {
+				"created_at": "Thu Sep 15 09:07:25 +0000 2016",
+				"id": 776346674033725400,
+				"id_str": "776346674033725440",
+				"text": "Talking #ConnectedClasses at #uogsymp16 today @Jonathan_Worth #spreadingtheword",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "ConnectedClasses",
+							"indices": [
+								8,
+								25
+							]
+						},
+						{
+							"text": "uogsymp16",
+							"indices": [
+								29,
+								39
+							]
+						},
+						{
+							"text": "spreadingtheword",
+							"indices": [
+								62,
+								79
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "Jonathan_Worth",
+							"name": "Jonathan Worth",
+							"id": 17687064,
+							"id_str": "17687064",
+							"indices": [
+								46,
+								61
+							]
+						}
+					],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 740884126283268100,
+					"id_str": "740884126283268101",
+					"name": "Contact Sheet UOG",
+					"screen_name": "contactsheetUOG",
+					"location": "United Kingdom",
+					"description": "An open connected teaching research project at the University of Gloucestershire dealing with student anxiety and fear of failure.\nAlso on Facebook",
+					"url": "https://t.co/DECsJcYSFN",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/DECsJcYSFN",
+									"expanded_url": "https://contactsheetuog.wordpress.com",
+									"display_url": "contactsheetuog.wordpress.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 115,
+					"friends_count": 331,
+					"listed_count": 26,
+					"created_at": "Thu Jun 09 12:31:55 +0000 2016",
+					"favourites_count": 59,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 629,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/745640867726266369/kgqePbr4_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/745640867726266369/kgqePbr4_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/740884126283268101/1466609567",
+					"profile_link_color": "2B7BB9",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 2,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 776346674033725400,
+		"quoted_status_id_str": "776346674033725440",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Sep 17 08:15:02 +0000 2016",
 		"id": 777058267835031600,
 		"id_str": "777058267835031552",
