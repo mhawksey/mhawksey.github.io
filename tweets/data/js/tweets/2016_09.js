@@ -1,6 +1,481 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Mon Sep 26 18:22:30 +0000 2016",
+		"id": 780472629908078600,
+		"id_str": "780472629908078592",
+		"text": "Commonwealth of Learning 2016 Survey of #OER https://t.co/yypKWWKeys #ukoer #altc  #openedsig",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OER",
+					"indices": [
+						40,
+						44
+					]
+				},
+				{
+					"text": "ukoer",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "openedsig",
+					"indices": [
+						83,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yypKWWKeys",
+					"expanded_url": "http://oerhub.net/collaboration-2/col-2016-survey-of-oer/",
+					"display_url": "oerhub.net/collaboration-…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6496,
+			"friends_count": 1597,
+			"listed_count": 566,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 2338,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24468,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1469138729",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Sep 26 09:46:29 +0000 2016",
+		"id": 780342771106349000,
+		"id_str": "780342771106349056",
+		"text": "RT @DuncanBSS: Google tag manager introduction\nhttps://t.co/VPb2h5DqRo\nFollow-up to @mhawksey's #iwmw16 talk by @stadigitalcomms https://t.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "iwmw16",
+					"indices": [
+						96,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DuncanBSS",
+					"name": "Duncan Stephen",
+					"id": 12911,
+					"id_str": "12911",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"screen_name": "stadigitalcomms",
+					"name": "Digital comms team",
+					"id": 2249020477,
+					"id_str": "2249020477",
+					"indices": [
+						112,
+						128
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VPb2h5DqRo",
+					"expanded_url": "http://buff.ly/2cwcRt6",
+					"display_url": "buff.ly/2cwcRt6",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6496,
+			"friends_count": 1597,
+			"listed_count": 566,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 2338,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24468,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1469138729",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 25 16:15:13 +0000 2016",
+			"id": 780078211157942300,
+			"id_str": "780078211157942272",
+			"text": "Google tag manager introduction\nhttps://t.co/VPb2h5DqRo\nFollow-up to @mhawksey's #iwmw16 talk by @stadigitalcomms https://t.co/FGiqtO8qta",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "iwmw16",
+						"indices": [
+							81,
+							88
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mhawksey",
+						"name": "Martin Hawksey",
+						"id": 13046992,
+						"id_str": "13046992",
+						"indices": [
+							69,
+							78
+						]
+					},
+					{
+						"screen_name": "stadigitalcomms",
+						"name": "Digital comms team",
+						"id": 2249020477,
+						"id_str": "2249020477",
+						"indices": [
+							97,
+							113
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/VPb2h5DqRo",
+						"expanded_url": "http://buff.ly/2cwcRt6",
+						"display_url": "buff.ly/2cwcRt6",
+						"indices": [
+							32,
+							55
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 780078209224302600,
+						"id_str": "780078209224302593",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/CtNk_43WYAEb8zv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtNk_43WYAEb8zv.jpg",
+						"url": "https://t.co/FGiqtO8qta",
+						"display_url": "pic.twitter.com/FGiqtO8qta",
+						"expanded_url": "https://twitter.com/DuncanBSS/status/780078211157942272/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 573,
+								"h": 651,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 573,
+								"h": 651,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 573,
+								"h": 651,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 780078209224302600,
+						"id_str": "780078209224302593",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/CtNk_43WYAEb8zv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtNk_43WYAEb8zv.jpg",
+						"url": "https://t.co/FGiqtO8qta",
+						"display_url": "pic.twitter.com/FGiqtO8qta",
+						"expanded_url": "https://twitter.com/DuncanBSS/status/780078211157942272/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 573,
+								"h": 651,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 573,
+								"h": 651,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 573,
+								"h": 651,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12911,
+				"id_str": "12911",
+				"name": "Duncan Stephen",
+				"screen_name": "DuncanBSS",
+				"location": "Edinburgh, Scotland",
+				"description": "Digital manager and designer. ● Motorsport: @vee8",
+				"url": "https://t.co/D3gkphHIMC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/D3gkphHIMC",
+								"expanded_url": "http://duncanstephen.co.uk/",
+								"display_url": "duncanstephen.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1189,
+				"friends_count": 959,
+				"listed_count": 101,
+				"created_at": "Sat Nov 18 00:32:16 +0000 2006",
+				"favourites_count": 707,
+				"utc_offset": 3600,
+				"time_zone": "Europe/London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19939,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F2F8FA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/27528215/black-background.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/27528215/black-background.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/745194504416804865/ieAUIjg2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/745194504416804865/ieAUIjg2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12911/1456489021",
+				"profile_link_color": "0080A4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E5E5E5",
+				"profile_text_color": "636363",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Sep 25 21:33:28 +0000 2016",
 		"id": 780158302072209400,
 		"id_str": "780158302072209408",
