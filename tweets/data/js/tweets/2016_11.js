@@ -1,6 +1,367 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Mon Nov 14 00:45:25 +0000 2016",
+		"id": 797963611473842200,
+		"id_str": "797963611473842177",
+		"text": "@JenProf @jgmac1106 afraid not. Meeting some of the Drive team tomorrow. Probably not their department but will ask",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JenProf",
+					"name": "JenProf",
+					"id": 915117859,
+					"id_str": "915117859",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "jgmac1106",
+					"name": "Greg McVerry",
+					"id": 27620289,
+					"id_str": "27620289",
+					"indices": [
+						9,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 797869225956216800,
+		"in_reply_to_status_id_str": "797869225956216833",
+		"in_reply_to_user_id": 915117859,
+		"in_reply_to_user_id_str": "915117859",
+		"in_reply_to_screen_name": "JenProf",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6639,
+			"friends_count": 1631,
+			"listed_count": 576,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 2444,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24711,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 13 07:26:17 +0000 2016",
+		"id": 797702105133883400,
+		"id_str": "797702105133883392",
+		"text": "RT @wterral: Using the Google Slides API with Google Apps Script https://t.co/kKH52D0RvJ via @mhawksey #gafesummit",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "gafesummit",
+					"indices": [
+						103,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wterral",
+					"name": "Wanda Terral",
+					"id": 97917135,
+					"id_str": "97917135",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						93,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kKH52D0RvJ",
+					"expanded_url": "https://mashe.hawksey.info/2016/11/using-the-google-slides-api-with-google-apps-script/",
+					"display_url": "mashe.hawksey.info/2016/11/using-…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6639,
+			"friends_count": 1631,
+			"listed_count": 576,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 2444,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24711,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Nov 13 01:50:16 +0000 2016",
+			"id": 797617544295313400,
+			"id_str": "797617544295313408",
+			"text": "Using the Google Slides API with Google Apps Script https://t.co/kKH52D0RvJ via @mhawksey #gafesummit",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "gafesummit",
+						"indices": [
+							90,
+							101
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mhawksey",
+						"name": "Martin Hawksey",
+						"id": 13046992,
+						"id_str": "13046992",
+						"indices": [
+							80,
+							89
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/kKH52D0RvJ",
+						"expanded_url": "https://mashe.hawksey.info/2016/11/using-the-google-slides-api-with-google-apps-script/",
+						"display_url": "mashe.hawksey.info/2016/11/using-…",
+						"indices": [
+							52,
+							75
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 97917135,
+				"id_str": "97917135",
+				"name": "Wanda Terral",
+				"screen_name": "wterral",
+				"location": "Memphis, Tennessee, USA",
+				"description": "#EdTech/Frm Band Dir, IDT EdD UMemphis, Google Cert Innovator/Trainer #GTAATX #pbsdigitalinnovator 2016(Lead TN) #GAFEsummit, #EdCamp #BreakoutEDU #GoOpen",
+				"url": "https://t.co/BDN4LkoaX6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BDN4LkoaX6",
+								"expanded_url": "http://ignitionEdu.com",
+								"display_url": "ignitionEdu.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11093,
+				"friends_count": 12197,
+				"listed_count": 662,
+				"created_at": "Sat Dec 19 15:09:56 +0000 2009",
+				"favourites_count": 5768,
+				"utc_offset": -25200,
+				"time_zone": "America/Boise",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14360,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D0B2C3",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/580407374/9689gslcncnmkbms6ee8.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/580407374/9689gslcncnmkbms6ee8.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/787425666102853633/5X5-yI5I_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/787425666102853633/5X5-yI5I_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/97917135/1455504498",
+				"profile_link_color": "33CCCC",
+				"profile_sidebar_border_color": "B79C58",
+				"profile_sidebar_fill_color": "EFEEB6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 6,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Nov 12 20:11:43 +0000 2016",
 		"id": 797532346983583700,
 		"id_str": "797532346983583744",
