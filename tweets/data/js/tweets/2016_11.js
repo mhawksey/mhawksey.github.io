@@ -1,6 +1,474 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Sun Nov 27 09:15:47 +0000 2016",
+		"id": 802803092387405800,
+		"id_str": "802803092387405824",
+		"text": "RT @nelsonic: Stand-up comedy routine about Spreadsheets in case you've never watched this sketch, highly recommend @markwillfirth https://…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nelsonic",
+					"name": "Nelson Correia",
+					"id": 16884473,
+					"id_str": "16884473",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "markwillfirth",
+					"name": "Mark William Firth",
+					"id": 1281151159,
+					"id_str": "1281151159",
+					"indices": [
+						116,
+						130
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6702,
+			"friends_count": 1632,
+			"listed_count": 574,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 2482,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24776,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Nov 27 08:32:02 +0000 2016",
+			"id": 802792084516249600,
+			"id_str": "802792084516249600",
+			"text": "Stand-up comedy routine about Spreadsheets in case you've never watched this sketch, highly recommend @markwillfirth https://t.co/3qnF7Wuc0M",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "markwillfirth",
+						"name": "Mark William Firth",
+						"id": 1281151159,
+						"id_str": "1281151159",
+						"indices": [
+							102,
+							116
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/3qnF7Wuc0M",
+						"expanded_url": "https://www.youtube.com/watch?v=UBX2QQHlQ_I&feature=share",
+						"display_url": "youtube.com/watch?v=UBX2QQ…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16884473,
+				"id_str": "16884473",
+				"name": "Nelson Correia",
+				"screen_name": "nelsonic",
+				"location": "London",
+				"description": "Co-founder of https://t.co/kjEOl1kl8c [alpha] Past: http://t.co/16ujp6gC9g Present: https://t.co/l0dzDJiZOb  Future: ?",
+				"url": "https://t.co/l0dzDJiZOb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/l0dzDJiZOb",
+								"expanded_url": "https://github.com/nelsonic",
+								"display_url": "github.com/nelsonic",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/kjEOl1kl8c",
+								"expanded_url": "https://github.com/dwyl",
+								"display_url": "github.com/dwyl",
+								"indices": [
+									14,
+									37
+								]
+							},
+							{
+								"url": "http://t.co/16ujp6gC9g",
+								"expanded_url": "http://linkedin.com/in/nelsonic",
+								"display_url": "linkedin.com/in/nelsonic",
+								"indices": [
+									52,
+									74
+								]
+							},
+							{
+								"url": "https://t.co/l0dzDJiZOb",
+								"expanded_url": "https://github.com/nelsonic",
+								"display_url": "github.com/nelsonic",
+								"indices": [
+									84,
+									107
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1302,
+				"friends_count": 1441,
+				"listed_count": 108,
+				"created_at": "Tue Oct 21 11:43:14 +0000 2008",
+				"favourites_count": 2699,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3439,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/696103358298464259/xEUcfA4V_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/696103358298464259/xEUcfA4V_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16884473/1454798874",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 27 09:02:44 +0000 2016",
+		"id": 802799811154112500,
+		"id_str": "802799811154112514",
+		"text": "RT @olliebray: Nice photo... https://t.co/i8lZvdkFNd",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "olliebray",
+					"name": "Ollie Bray",
+					"id": 6896272,
+					"id_str": "6896272",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/i8lZvdkFNd",
+					"expanded_url": "https://twitter.com/alanmccredie/status/802668312479997952",
+					"display_url": "twitter.com/alanmccredie/s…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6702,
+			"friends_count": 1632,
+			"listed_count": 574,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 2482,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24776,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Nov 27 09:00:34 +0000 2016",
+			"id": 802799265550463000,
+			"id_str": "802799265550462976",
+			"text": "Nice photo... https://t.co/i8lZvdkFNd",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/i8lZvdkFNd",
+						"expanded_url": "https://twitter.com/alanmccredie/status/802668312479997952",
+						"display_url": "twitter.com/alanmccredie/s…",
+						"indices": [
+							14,
+							37
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6896272,
+				"id_str": "6896272",
+				"name": "Ollie Bray",
+				"screen_name": "olliebray",
+				"location": "Scotland",
+				"description": "I like to ride my bike, paddle my canoe & climb in the mountains. In my spare time I work on education policy & in schools around the world. @kingussiehigh",
+				"url": "http://t.co/dmffoaE8fJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/dmffoaE8fJ",
+								"expanded_url": "http://www.olliebray.com",
+								"display_url": "olliebray.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7792,
+				"friends_count": 1084,
+				"listed_count": 490,
+				"created_at": "Mon Jun 18 17:37:43 +0000 2007",
+				"favourites_count": 3566,
+				"utc_offset": 0,
+				"time_zone": "Edinburgh",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16039,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2713905014/64bb938354be947687bc5e76f6b170ae_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2713905014/64bb938354be947687bc5e76f6b170ae_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6896272/1438437574",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 802668312479998000,
+			"quoted_status_id_str": "802668312479997952",
+			"retweet_count": 8,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 802668312479998000,
+		"quoted_status_id_str": "802668312479997952",
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Nov 26 09:28:08 +0000 2016",
 		"id": 802443812379459600,
 		"id_str": "802443812379459584",
