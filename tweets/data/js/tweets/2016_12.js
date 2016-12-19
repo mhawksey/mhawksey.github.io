@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Sun Dec 18 07:50:20 +0000 2016",
+		"id": 810391733540421600,
+		"id_str": "810391733540421632",
+		"text": "RT @cgreen: Germany-wide consortium of research libraries announce boycott of Elsevier journals over #OA: https://t.co/JsSYrfsanj #openpoli…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OA",
+					"indices": [
+						101,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cgreen",
+					"name": "Cable Green",
+					"id": 821877,
+					"id_str": "821877",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JsSYrfsanj",
+					"expanded_url": "http://ow.ly/GpXb307e5EO",
+					"display_url": "ow.ly/GpXb307e5EO",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6754,
+			"friends_count": 1637,
+			"listed_count": 576,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 2539,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24897,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Dec 18 01:07:44 +0000 2016",
+			"id": 810290416654422000,
+			"id_str": "810290416654422016",
+			"text": "Germany-wide consortium of research libraries announce boycott of Elsevier journals over #OA: https://t.co/JsSYrfsanj #openpolicy",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OA",
+						"indices": [
+							89,
+							92
+						]
+					},
+					{
+						"text": "openpolicy",
+						"indices": [
+							118,
+							129
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JsSYrfsanj",
+						"expanded_url": "http://ow.ly/GpXb307e5EO",
+						"display_url": "ow.ly/GpXb307e5EO",
+						"indices": [
+							94,
+							117
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 821877,
+				"id_str": "821877",
+				"name": "Cable Green",
+				"screen_name": "cgreen",
+				"location": "Olympia, WA",
+				"description": "Director of Open Education @creativecommons",
+				"url": "http://t.co/g2evOIVtq1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/g2evOIVtq1",
+								"expanded_url": "http://creativecommons.org",
+								"display_url": "creativecommons.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5367,
+				"friends_count": 905,
+				"listed_count": 370,
+				"created_at": "Thu Mar 08 14:43:22 +0000 2007",
+				"favourites_count": 3009,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6356,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBDBDB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/269459808/by.large.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/269459808/by.large.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/677633997900521473/ziPnVm8L_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/677633997900521473/ziPnVm8L_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/821877/1400209755",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Dec 16 17:01:16 +0000 2016",
 		"id": 809805604059496400,
 		"id_str": "809805604059496448",
