@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Tue Dec 20 06:56:27 +0000 2016",
+		"id": 811102948851875800,
+		"id_str": "811102948851875840",
+		"text": "RT @NewsInTheBurg: Reclaim Hosting acquires The Foundry https://t.co/VdY8t011B4 https://t.co/p8izFgCxOm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NewsInTheBurg",
+					"name": "fredericksburg.com",
+					"id": 18991979,
+					"id_str": "18991979",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VdY8t011B4",
+					"expanded_url": "http://dlvr.it/MwSsl4",
+					"display_url": "dlvr.it/MwSsl4",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 810976893524582400,
+					"id_str": "810976893524582400",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/C0ErMBuVIAAdxTL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C0ErMBuVIAAdxTL.jpg",
+					"url": "https://t.co/p8izFgCxOm",
+					"display_url": "pic.twitter.com/p8izFgCxOm",
+					"expanded_url": "https://twitter.com/NewsInTheBurg/status/810976896162795520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 810976896162795500,
+					"source_status_id_str": "810976896162795520",
+					"source_user_id": 18991979,
+					"source_user_id_str": "18991979"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 810976893524582400,
+					"id_str": "810976893524582400",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/C0ErMBuVIAAdxTL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C0ErMBuVIAAdxTL.jpg",
+					"url": "https://t.co/p8izFgCxOm",
+					"display_url": "pic.twitter.com/p8izFgCxOm",
+					"expanded_url": "https://twitter.com/NewsInTheBurg/status/810976896162795520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 810976896162795500,
+					"source_status_id_str": "810976896162795520",
+					"source_user_id": 18991979,
+					"source_user_id_str": "18991979"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6752,
+			"friends_count": 1637,
+			"listed_count": 576,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 2544,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24901,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Dec 19 22:35:33 +0000 2016",
+			"id": 810976896162795500,
+			"id_str": "810976896162795520",
+			"text": "Reclaim Hosting acquires The Foundry https://t.co/VdY8t011B4 https://t.co/p8izFgCxOm",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VdY8t011B4",
+						"expanded_url": "http://dlvr.it/MwSsl4",
+						"display_url": "dlvr.it/MwSsl4",
+						"indices": [
+							37,
+							60
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 810976893524582400,
+						"id_str": "810976893524582400",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/media/C0ErMBuVIAAdxTL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C0ErMBuVIAAdxTL.jpg",
+						"url": "https://t.co/p8izFgCxOm",
+						"display_url": "pic.twitter.com/p8izFgCxOm",
+						"expanded_url": "https://twitter.com/NewsInTheBurg/status/810976896162795520/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 810976893524582400,
+						"id_str": "810976893524582400",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/media/C0ErMBuVIAAdxTL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C0ErMBuVIAAdxTL.jpg",
+						"url": "https://t.co/p8izFgCxOm",
+						"display_url": "pic.twitter.com/p8izFgCxOm",
+						"expanded_url": "https://twitter.com/NewsInTheBurg/status/810976896162795520/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18991979,
+				"id_str": "18991979",
+				"name": "fredericksburg.com",
+				"screen_name": "NewsInTheBurg",
+				"location": "Fredericksburg, VA",
+				"description": "Digital home of The Free Lance-Star • News, sports, events, deals, photos • Fredericksburg, Stafford, Spotsylvania, King George, Caroline, Orange, Culpeper",
+				"url": "http://t.co/XZPs2ltRaI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/XZPs2ltRaI",
+								"expanded_url": "http://www.fredericksburg.com",
+								"display_url": "fredericksburg.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10902,
+				"friends_count": 501,
+				"listed_count": 237,
+				"created_at": "Wed Jan 14 19:50:20 +0000 2009",
+				"favourites_count": 39,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 28362,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/12718490/GradientBG.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/12718490/GradientBG.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/585473846641328128/bCaOoatu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/585473846641328128/bCaOoatu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18991979/1428422757",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "191065",
+				"profile_sidebar_fill_color": "DCDAAD",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Dec 19 14:07:48 +0000 2016",
 		"id": 810849112895713300,
 		"id_str": "810849112895713282",
