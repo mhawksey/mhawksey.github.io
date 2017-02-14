@@ -1,6 +1,340 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Mon Feb 13 14:14:06 +0000 2017",
+		"id": 831144422809206800,
+		"id_str": "831144422809206784",
+		"text": "RT @acitoxford: Measure #SocialMedia #Impact at #OxEngage with @mhawksey @A_L_T @a_n_s @hurricaneally  https://t.co/Yx4eg3tJaO Image @nbate…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SocialMedia",
+					"indices": [
+						24,
+						36
+					]
+				},
+				{
+					"text": "Impact",
+					"indices": [
+						37,
+						44
+					]
+				},
+				{
+					"text": "OxEngage",
+					"indices": [
+						48,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "acitoxford",
+					"name": "ACIT Oxford",
+					"id": 123853852,
+					"id_str": "123853852",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						63,
+						72
+					]
+				},
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"screen_name": "a_n_s",
+					"name": "Michaela Livingstone",
+					"id": 24873245,
+					"id_str": "24873245",
+					"indices": [
+						80,
+						86
+					]
+				},
+				{
+					"screen_name": "hurricaneally",
+					"name": "Alun Edwards",
+					"id": 28317595,
+					"id_str": "28317595",
+					"indices": [
+						87,
+						101
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Yx4eg3tJaO",
+					"expanded_url": "http://blogs.it.ox.ac.uk/engage/2017/02/10/social-media-impact/",
+					"display_url": "blogs.it.ox.ac.uk/engage/2017/02…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6830,
+			"friends_count": 1662,
+			"listed_count": 578,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 2653,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25070,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Feb 12 09:42:00 +0000 2017",
+			"id": 830713556937109500,
+			"id_str": "830713556937109505",
+			"text": "Measure #SocialMedia #Impact at #OxEngage with @mhawksey @A_L_T @a_n_s @hurricaneally  https://t.co/Yx4eg3tJaO Imag… https://t.co/fN7x5ZLpIU",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SocialMedia",
+						"indices": [
+							8,
+							20
+						]
+					},
+					{
+						"text": "Impact",
+						"indices": [
+							21,
+							28
+						]
+					},
+					{
+						"text": "OxEngage",
+						"indices": [
+							32,
+							41
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mhawksey",
+						"name": "Martin Hawksey",
+						"id": 13046992,
+						"id_str": "13046992",
+						"indices": [
+							47,
+							56
+						]
+					},
+					{
+						"screen_name": "A_L_T",
+						"name": "ALT - alt.ac.uk",
+						"id": 41210876,
+						"id_str": "41210876",
+						"indices": [
+							57,
+							63
+						]
+					},
+					{
+						"screen_name": "a_n_s",
+						"name": "Michaela Livingstone",
+						"id": 24873245,
+						"id_str": "24873245",
+						"indices": [
+							64,
+							70
+						]
+					},
+					{
+						"screen_name": "hurricaneally",
+						"name": "Alun Edwards",
+						"id": 28317595,
+						"id_str": "28317595",
+						"indices": [
+							71,
+							85
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Yx4eg3tJaO",
+						"expanded_url": "http://blogs.it.ox.ac.uk/engage/2017/02/10/social-media-impact/",
+						"display_url": "blogs.it.ox.ac.uk/engage/2017/02…",
+						"indices": [
+							87,
+							110
+						]
+					},
+					{
+						"url": "https://t.co/fN7x5ZLpIU",
+						"expanded_url": "https://twitter.com/i/web/status/830713556937109505",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 123853852,
+				"id_str": "123853852",
+				"name": "ACIT Oxford",
+				"screen_name": "acitoxford",
+				"location": "Oxford, United Kingdom",
+				"description": "Tweets from the Academic IT group at @Ox_IT, @UniofOxford. Tech for teaching, learning, research and outreach.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2181,
+				"friends_count": 525,
+				"listed_count": 118,
+				"created_at": "Wed Mar 17 12:18:19 +0000 2010",
+				"favourites_count": 182,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4813,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/758086565/ltg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/758086565/ltg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/123853852/1476694241",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Feb 11 19:53:47 +0000 2017",
 		"id": 830505128033652700,
 		"id_str": "830505128033652739",
