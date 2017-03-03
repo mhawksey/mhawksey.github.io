@@ -1,6 +1,1378 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Thu Mar 02 18:16:42 +0000 2017",
+		"id": 837366065122377700,
+		"id_str": "837366065122377729",
+		"text": "IBM gets a patent on “out-of-office” e-mail messages—in 2017 https://t.co/GqknTR3678 ... Update IBM \"dedicate the patent to the public\"",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GqknTR3678",
+					"expanded_url": "https://arstechnica.co.uk/tech-policy/2017/03/effs-stupid-patent-of-the-month-ibm-claims-ownership-of-out-of-office-e-mail/",
+					"display_url": "arstechnica.co.uk/tech-policy/20…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6892,
+			"friends_count": 1679,
+			"listed_count": 581,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 2709,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25147,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Mar 02 13:59:30 +0000 2017",
+		"id": 837301338518224900,
+		"id_str": "837301338518224896",
+		"text": "RT @shedscotland: Recording: Effectively using Social Media in Learning and Teaching https://t.co/ZyVLkPPbaL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shedscotland",
+					"name": "ScottishHEdevelopers",
+					"id": 68657662,
+					"id_str": "68657662",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZyVLkPPbaL",
+					"expanded_url": "https://scottishhedevelopers.wordpress.com/2017/03/02/recording-effectively-using-social-media-in-learning-and-teaching",
+					"display_url": "scottishhedevelopers.wordpress.com/2017/03/02/rec…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6892,
+			"friends_count": 1679,
+			"listed_count": 581,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 2709,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25147,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Mar 02 09:52:27 +0000 2017",
+			"id": 837239166362607600,
+			"id_str": "837239166362607616",
+			"text": "Recording: Effectively using Social Media in Learning and Teaching https://t.co/ZyVLkPPbaL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZyVLkPPbaL",
+						"expanded_url": "https://scottishhedevelopers.wordpress.com/2017/03/02/recording-effectively-using-social-media-in-learning-and-teaching",
+						"display_url": "scottishhedevelopers.wordpress.com/2017/03/02/rec…",
+						"indices": [
+							67,
+							90
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 68657662,
+				"id_str": "68657662",
+				"name": "ScottishHEdevelopers",
+				"screen_name": "shedscotland",
+				"location": "Scotland",
+				"description": "We are the Scottish Higher Educational Developers",
+				"url": "http://t.co/aaUUtvZiri",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/aaUUtvZiri",
+								"expanded_url": "http://www.scottishhedevelopers.wordpress.com",
+								"display_url": "scottishhedevelopers.wordpress.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 169,
+				"friends_count": 175,
+				"listed_count": 3,
+				"created_at": "Tue Aug 25 10:07:56 +0000 2009",
+				"favourites_count": 51,
+				"utc_offset": 0,
+				"time_zone": "Edinburgh",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 120,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/491586602573910016/vFR7i0IA_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/491586602573910016/vFR7i0IA_normal.png",
+				"profile_link_color": "005EB8",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Mar 02 12:27:35 +0000 2017",
+		"id": 837278208240255000,
+		"id_str": "837278208240254976",
+		"text": "RT @dkernohan: Hey, #ukoer. In 90 minutes I'll be on this, which promises to be interesting and discursive. @Jisc https://t.co/ozWRPWpG8b",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ukoer",
+					"indices": [
+						20,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dkernohan",
+					"name": "David KernohⒶn",
+					"id": 12219232,
+					"id_str": "12219232",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "Jisc",
+					"name": "Jisc",
+					"id": 18829580,
+					"id_str": "18829580",
+					"indices": [
+						108,
+						113
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ozWRPWpG8b",
+					"expanded_url": "https://twitter.com/martin_hamilton/status/836670023326322688",
+					"display_url": "twitter.com/martin_hamilto…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6892,
+			"friends_count": 1679,
+			"listed_count": 581,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 2709,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25147,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Mar 02 12:07:48 +0000 2017",
+			"id": 837273228385128400,
+			"id_str": "837273228385128450",
+			"text": "Hey, #ukoer. In 90 minutes I'll be on this, which promises to be interesting and discursive. @Jisc https://t.co/ozWRPWpG8b",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ukoer",
+						"indices": [
+							5,
+							11
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Jisc",
+						"name": "Jisc",
+						"id": 18829580,
+						"id_str": "18829580",
+						"indices": [
+							93,
+							98
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ozWRPWpG8b",
+						"expanded_url": "https://twitter.com/martin_hamilton/status/836670023326322688",
+						"display_url": "twitter.com/martin_hamilto…",
+						"indices": [
+							99,
+							122
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12219232,
+				"id_str": "12219232",
+				"name": "David KernohⒶn",
+				"screen_name": "dkernohan",
+				"location": "Just behind an apocalypse.",
+				"description": "HE and EdTech wonk, father, musician. Writes stuff, runs @UKOER, into policy, stories, (un)civilisation. Personal account only. Don't have a doctorate.",
+				"url": "https://t.co/t4yXduFlpo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/t4yXduFlpo",
+								"expanded_url": "http://followersoftheapocalyp.se",
+								"display_url": "followersoftheapocalyp.se",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3620,
+				"friends_count": 1789,
+				"listed_count": 287,
+				"created_at": "Mon Jan 14 15:05:54 +0000 2008",
+				"favourites_count": 2740,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 47409,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/19494084/background.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/19494084/background.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/833625779854467072/zo_aZS4v_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/833625779854467072/zo_aZS4v_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12219232/1476274470",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "B5B5B5",
+				"profile_sidebar_fill_color": "B8B8B8",
+				"profile_text_color": "5C5C5C",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 836670023326322700,
+			"quoted_status_id_str": "836670023326322688",
+			"quoted_status": {
+				"created_at": "Tue Feb 28 20:10:52 +0000 2017",
+				"id": 836670023326322700,
+				"id_str": "836670023326322688",
+				"text": "Can #openscience &amp; #openeducation help us transcend closed borders? Let's discuss at Thursday's @Jisc think tank https://t.co/g99S60lhe3",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "openscience",
+							"indices": [
+								4,
+								16
+							]
+						},
+						{
+							"text": "openeducation",
+							"indices": [
+								23,
+								37
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "Jisc",
+							"name": "Jisc",
+							"id": 18829580,
+							"id_str": "18829580",
+							"indices": [
+								100,
+								105
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/g99S60lhe3",
+							"expanded_url": "https://www.jisc.ac.uk/events/think-tank-open-by-default-02-mar-2017",
+							"display_url": "jisc.ac.uk/events/think-t…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 39451174,
+					"id_str": "39451174",
+					"name": "Martin Hamilton",
+					"screen_name": "martin_hamilton",
+					"location": "London, England",
+					"description": "Futurist @Jisc - #cloudcomputing #edtech #hpc #openscience #openaccess #opendata",
+					"url": "https://t.co/HcyA8EKia3",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/HcyA8EKia3",
+									"expanded_url": "http://martinh.net/",
+									"display_url": "martinh.net",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1890,
+					"friends_count": 2345,
+					"listed_count": 241,
+					"created_at": "Tue May 12 06:54:06 +0000 2009",
+					"favourites_count": 3381,
+					"utc_offset": 0,
+					"time_zone": "London",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 15659,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "392337",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/452908537748803584/-vwN9WeG.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/452908537748803584/-vwN9WeG.png",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/832647661459165184/BKr5nodY_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/832647661459165184/BKr5nodY_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/39451174/1470005465",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "A9AD9F",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 0,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 6,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 836670023326322700,
+		"quoted_status_id_str": "836670023326322688",
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Mar 02 12:21:21 +0000 2017",
+		"id": 837276640489111600,
+		"id_str": "837276640489111553",
+		"text": "ALT Annual Survey is also evidence that Staff dev are increasingly important as a driver for #edtech… https://t.co/UQ0UrEaHW4",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edtech",
+					"indices": [
+						93,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UQ0UrEaHW4",
+					"expanded_url": "https://twitter.com/i/web/status/837276640489111553",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6892,
+			"friends_count": 1679,
+			"listed_count": 581,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 2709,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25147,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 837276448561889300,
+		"quoted_status_id_str": "837276448561889281",
+		"quoted_status": {
+			"created_at": "Thu Mar 02 12:20:35 +0000 2017",
+			"id": 837276448561889300,
+			"id_str": "837276448561889281",
+			"text": "the #cmalt scheme has helped many to reflect on their skills and progress their role as a learning technologist… https://t.co/K8JkNPMWc3",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "cmalt",
+						"indices": [
+							4,
+							10
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/K8JkNPMWc3",
+						"expanded_url": "https://twitter.com/i/web/status/837276448561889281",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 81817497,
+				"id_str": "81817497",
+				"name": "Teresa MacKinnon",
+				"screen_name": "WarwickLanguage",
+				"location": "Coventry, UK",
+				"description": "Principal Teaching Fellow at University of Warwick, Senior Fellow HEA, CMALT Learning Technologist.",
+				"url": "http://t.co/8aDcc9kevF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/8aDcc9kevF",
+								"expanded_url": "http://about.me/teresamackinnon",
+								"display_url": "about.me/teresamackinnon",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4657,
+				"friends_count": 5003,
+				"listed_count": 494,
+				"created_at": "Mon Oct 12 11:11:38 +0000 2009",
+				"favourites_count": 10237,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 38761,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/754956635450200064/iN-luRsi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/754956635450200064/iN-luRsi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/81817497/1354468137",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Mar 02 12:02:13 +0000 2017",
+		"id": 837271826095013900,
+		"id_str": "837271826095013888",
+		"text": "RT @A_L_T: Join us for our webinar Launching the New Strategy for ALT 2017-2020 in 30 mins #altc\nhttps://t.co/sbFaiFZRln",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						91,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sbFaiFZRln",
+					"expanded_url": "http://ow.ly/b3id308zF2l",
+					"display_url": "ow.ly/b3id308zF2l",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6892,
+			"friends_count": 1679,
+			"listed_count": 581,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 2709,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25147,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Mar 02 11:30:44 +0000 2017",
+			"id": 837263903646187500,
+			"id_str": "837263903646187521",
+			"text": "Join us for our webinar Launching the New Strategy for ALT 2017-2020 in 30 mins #altc\nhttps://t.co/sbFaiFZRln",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "altc",
+						"indices": [
+							80,
+							85
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/sbFaiFZRln",
+						"expanded_url": "http://ow.ly/b3id308zF2l",
+						"display_url": "ow.ly/b3id308zF2l",
+						"indices": [
+							86,
+							109
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41210876,
+				"id_str": "41210876",
+				"name": "ALT - alt.ac.uk",
+				"screen_name": "A_L_T",
+				"location": "UK",
+				"description": "The Association for Learning Technology (ALT): Improving practice – Promoting research – Influencing policy. Connecting learning technologists.",
+				"url": "http://t.co/d7hBNekdUq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/d7hBNekdUq",
+								"expanded_url": "http://www.alt.ac.uk/",
+								"display_url": "alt.ac.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9093,
+				"friends_count": 2983,
+				"listed_count": 556,
+				"created_at": "Tue May 19 21:06:36 +0000 2009",
+				"favourites_count": 1796,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 9806,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1393501047",
+				"profile_link_color": "079948",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Mar 02 10:21:57 +0000 2017",
+		"id": 837246590318436400,
+		"id_str": "837246590318436352",
+		"text": "RT @A_L_T: Join us for our webinar Launching the New Strategy for ALT 2017-2020 today at 12.00 #altc\nhttps://t.co/P4RmSwanhK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						95,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/P4RmSwanhK",
+					"expanded_url": "http://ow.ly/SUSC308zEVa",
+					"display_url": "ow.ly/SUSC308zEVa",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6892,
+			"friends_count": 1679,
+			"listed_count": 581,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 2709,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25147,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Mar 02 09:20:11 +0000 2017",
+			"id": 837231048484347900,
+			"id_str": "837231048484347904",
+			"text": "Join us for our webinar Launching the New Strategy for ALT 2017-2020 today at 12.00 #altc\nhttps://t.co/P4RmSwanhK",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "altc",
+						"indices": [
+							84,
+							89
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/P4RmSwanhK",
+						"expanded_url": "http://ow.ly/SUSC308zEVa",
+						"display_url": "ow.ly/SUSC308zEVa",
+						"indices": [
+							90,
+							113
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41210876,
+				"id_str": "41210876",
+				"name": "ALT - alt.ac.uk",
+				"screen_name": "A_L_T",
+				"location": "UK",
+				"description": "The Association for Learning Technology (ALT): Improving practice – Promoting research – Influencing policy. Connecting learning technologists.",
+				"url": "http://t.co/d7hBNekdUq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/d7hBNekdUq",
+								"expanded_url": "http://www.alt.ac.uk/",
+								"display_url": "alt.ac.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9093,
+				"friends_count": 2983,
+				"listed_count": 556,
+				"created_at": "Tue May 19 21:06:36 +0000 2009",
+				"favourites_count": 1796,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 9806,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1393501047",
+				"profile_link_color": "079948",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Mar 01 18:24:17 +0000 2017",
 		"id": 837005586919215100,
 		"id_str": "837005586919215104",
