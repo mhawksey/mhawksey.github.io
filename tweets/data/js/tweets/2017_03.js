@@ -1,6 +1,381 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Wed Mar 08 09:19:53 +0000 2017",
+		"id": 839405297722605600,
+		"id_str": "839405297722605568",
+		"text": "@jilltxt hmm strange. Always the same error? Are you able to do a screen recording. I use https://t.co/2CbBZwXlYa  @kimosman @mpondu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jilltxt",
+					"name": "Jill Walker Rettberg",
+					"id": 782934,
+					"id_str": "782934",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "kimosman",
+					"name": "Kim Osman",
+					"id": 177817784,
+					"id_str": "177817784",
+					"indices": [
+						115,
+						124
+					]
+				},
+				{
+					"screen_name": "mpondu",
+					"name": "Joe Fahs",
+					"id": 6656922,
+					"id_str": "6656922",
+					"indices": [
+						125,
+						132
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2CbBZwXlYa",
+					"expanded_url": "https://www.useloom.com/?ref=54636",
+					"display_url": "useloom.com/?ref=54636",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 839399563257577500,
+		"in_reply_to_status_id_str": "839399563257577472",
+		"in_reply_to_user_id": 782934,
+		"in_reply_to_user_id_str": "782934",
+		"in_reply_to_screen_name": "jilltxt",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6918,
+			"friends_count": 1681,
+			"listed_count": 581,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 2723,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25168,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Mar 08 08:20:19 +0000 2017",
+		"id": 839390311034011600,
+		"id_str": "839390311034011648",
+		"text": "RT @Czernie: Press Release: the Unbundled University: Researching emerging models in an unequal landscape https://t.co/BpHwpdZBdF …  @ESRC…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Czernie",
+					"name": "Laura Czerniewicz",
+					"id": 55540675,
+					"id_str": "55540675",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "ESRC",
+					"name": "ESRC",
+					"id": 19393236,
+					"id_str": "19393236",
+					"indices": [
+						133,
+						138
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BpHwpdZBdF",
+					"expanded_url": "https://www.uct.ac.za/usr/press/2017/2017-03-07_LeedsUCTTech_EM.pdf",
+					"display_url": "uct.ac.za/usr/press/2017…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6918,
+			"friends_count": 1681,
+			"listed_count": 581,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 2723,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25168,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 07 18:52:23 +0000 2017",
+			"id": 839186985126350800,
+			"id_str": "839186985126350848",
+			"text": "Press Release: the Unbundled University: Researching emerging models in an unequal landscape https://t.co/BpHwpdZBdF …  @ESRC @NRF_News",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ESRC",
+						"name": "ESRC",
+						"id": 19393236,
+						"id_str": "19393236",
+						"indices": [
+							120,
+							125
+						]
+					},
+					{
+						"screen_name": "NRF_News",
+						"name": "NRF South Africa",
+						"id": 2603293424,
+						"id_str": "2603293424",
+						"indices": [
+							126,
+							135
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/BpHwpdZBdF",
+						"expanded_url": "https://www.uct.ac.za/usr/press/2017/2017-03-07_LeedsUCTTech_EM.pdf",
+						"display_url": "uct.ac.za/usr/press/2017…",
+						"indices": [
+							93,
+							116
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 55540675,
+				"id_str": "55540675",
+				"name": "Laura Czerniewicz",
+				"screen_name": "Czernie",
+				"location": "South Africa",
+				"description": "ICTs in higher ed,  open education, inequality in knowledge & HE, digital scholarship, student practices, theory, South Africa",
+				"url": "http://t.co/wsKyI5KUCO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/wsKyI5KUCO",
+								"expanded_url": "http://lauraczerniewicz.uct.ac.za",
+								"display_url": "lauraczerniewicz.uct.ac.za",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3262,
+				"friends_count": 1772,
+				"listed_count": 249,
+				"created_at": "Fri Jul 10 11:54:26 +0000 2009",
+				"favourites_count": 1043,
+				"utc_offset": -10800,
+				"time_zone": "Greenland",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7633,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E61751",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/34822970/monoprint_flowers.JPG",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/34822970/monoprint_flowers.JPG",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/765550924282654720/UeigHehW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/765550924282654720/UeigHehW_normal.jpg",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E698C7",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 5,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Mar 07 20:04:08 +0000 2017",
 		"id": 839205041865113600,
 		"id_str": "839205041865113600",
