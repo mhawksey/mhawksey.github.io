@@ -1,6 +1,364 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sun Mar 12 17:51:35 +0000 2017",
+		"id": 840983624660967400,
+		"id_str": "840983624660967425",
+		"text": "RT @JeffreyKeefer: Who else wants to attend #OER17? https://t.co/pfYEtOoQVZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OER17",
+					"indices": [
+						44,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JeffreyKeefer",
+					"name": "Jeffrey Keefer",
+					"id": 815875,
+					"id_str": "815875",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pfYEtOoQVZ",
+					"expanded_url": "https://twitter.com/OERConf/status/839823304865288192",
+					"display_url": "twitter.com/OERConf/status…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6943,
+			"friends_count": 1691,
+			"listed_count": 579,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 2746,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25200,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 12 12:00:01 +0000 2017",
+			"id": 840895151564283900,
+			"id_str": "840895151564283904",
+			"text": "Who else wants to attend #OER17? https://t.co/pfYEtOoQVZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OER17",
+						"indices": [
+							25,
+							31
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/pfYEtOoQVZ",
+						"expanded_url": "https://twitter.com/OERConf/status/839823304865288192",
+						"display_url": "twitter.com/OERConf/status…",
+						"indices": [
+							33,
+							56
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 815875,
+				"id_str": "815875",
+				"name": "Jeffrey Keefer",
+				"screen_name": "JeffreyKeefer",
+				"location": "New York City",
+				"description": "Director of Training & Knowledge Management (Land for People!) + Educational Researcher + Professor = Actor-Network Theory + Liminality + Networked Learning",
+				"url": "https://t.co/lRXFFfcYzY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lRXFFfcYzY",
+								"expanded_url": "http://jeffreykeefer.com",
+								"display_url": "jeffreykeefer.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3197,
+				"friends_count": 849,
+				"listed_count": 373,
+				"created_at": "Tue Mar 06 20:25:42 +0000 2007",
+				"favourites_count": 321,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 56517,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/628645313415221248/9oPlzgMq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/628645313415221248/9oPlzgMq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/815875/1398521546",
+				"profile_link_color": "146185",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 839823304865288200,
+			"quoted_status_id_str": "839823304865288192",
+			"quoted_status": {
+				"created_at": "Thu Mar 09 13:00:53 +0000 2017",
+				"id": 839823304865288200,
+				"id_str": "839823304865288192",
+				"text": "Final call for #OER17: The Politics of Open registration closes 16 March 2017 https://t.co/2K0JwjnhYi #opened… https://t.co/ITujfPpune",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "OER17",
+							"indices": [
+								15,
+								21
+							]
+						},
+						{
+							"text": "opened",
+							"indices": [
+								102,
+								109
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/2K0JwjnhYi",
+							"expanded_url": "https://oer17.oerconf.org/",
+							"display_url": "oer17.oerconf.org",
+							"indices": [
+								78,
+								101
+							]
+						},
+						{
+							"url": "https://t.co/ITujfPpune",
+							"expanded_url": "https://twitter.com/i/web/status/839823304865288192",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2695133612,
+					"id_str": "2695133612",
+					"name": "#OER17",
+					"screen_name": "OERConf",
+					"location": "London, England",
+					"description": "The official Twitter for OER17 5-6th April 2017. This year our theme is The Politics of Open' and will be held in London",
+					"url": "https://t.co/CnV8F6pKa0",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/CnV8F6pKa0",
+									"expanded_url": "https://oer17.oerconf.org/",
+									"display_url": "oer17.oerconf.org",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 854,
+					"friends_count": 459,
+					"listed_count": 58,
+					"created_at": "Thu Jul 31 08:18:01 +0000 2014",
+					"favourites_count": 491,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 1149,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/817060624937218049/QfQBJW-u_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/817060624937218049/QfQBJW-u_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/2695133612/1483550643",
+					"profile_link_color": "444444",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3,
+				"favorite_count": 0,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 4,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 839823304865288200,
+		"quoted_status_id_str": "839823304865288192",
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Mar 11 15:14:46 +0000 2017",
 		"id": 840581772740046800,
 		"id_str": "840581772740046848",
