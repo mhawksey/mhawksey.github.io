@@ -1,6 +1,525 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sat Mar 25 19:52:40 +0000 2017",
+		"id": 845725137882304500,
+		"id_str": "845725137882304512",
+		"text": "@ken_bauer @VConnecting @hj_dewaard @Autumm @Bali_Maha @sensor63 possible to get the mp4 so we can loop in the #oer17 YT pre live stream?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "oer17",
+					"indices": [
+						111,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ken_bauer",
+					"name": "Ken Bauer",
+					"id": 16033586,
+					"id_str": "16033586",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "VConnecting",
+					"name": "Virtually Connecting",
+					"id": 3230962884,
+					"id_str": "3230962884",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"screen_name": "hj_dewaard",
+					"name": "HJ DeWaard",
+					"id": 2894844952,
+					"id_str": "2894844952",
+					"indices": [
+						24,
+						35
+					]
+				},
+				{
+					"screen_name": "Autumm",
+					"name": "Autumm Caines",
+					"id": 6292182,
+					"id_str": "6292182",
+					"indices": [
+						36,
+						43
+					]
+				},
+				{
+					"screen_name": "Bali_Maha",
+					"name": "ℳąhą Bąℓi مها بالي",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						44,
+						54
+					]
+				},
+				{
+					"screen_name": "sensor63",
+					"name": "Simon Ensor",
+					"id": 84562932,
+					"id_str": "84562932",
+					"indices": [
+						55,
+						64
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 844692083474645000,
+		"in_reply_to_status_id_str": "844692083474644992",
+		"in_reply_to_user_id": 16033586,
+		"in_reply_to_user_id_str": "16033586",
+		"in_reply_to_screen_name": "ken_bauer",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6977,
+			"friends_count": 1699,
+			"listed_count": 578,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 2802,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25309,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Mar 25 19:47:36 +0000 2017",
+		"id": 845723865175265300,
+		"id_str": "845723865175265280",
+		"text": "RT @Bali_Maha: Curious about @VConnecting? Ask me or @Autumm @mweller @suebecks @friedelitis @WarwickLanguage @SuzanKoseoglu @KateGreen28 a…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bali_Maha",
+					"name": "ℳąhą Bąℓi مها بالي",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "VConnecting",
+					"name": "Virtually Connecting",
+					"id": 3230962884,
+					"id_str": "3230962884",
+					"indices": [
+						29,
+						41
+					]
+				},
+				{
+					"screen_name": "Autumm",
+					"name": "Autumm Caines",
+					"id": 6292182,
+					"id_str": "6292182",
+					"indices": [
+						53,
+						60
+					]
+				},
+				{
+					"screen_name": "mweller",
+					"name": "Martin Weller",
+					"id": 7127162,
+					"id_str": "7127162",
+					"indices": [
+						61,
+						69
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						70,
+						79
+					]
+				},
+				{
+					"screen_name": "friedelitis",
+					"name": "Christian Friedrich",
+					"id": 512388879,
+					"id_str": "512388879",
+					"indices": [
+						80,
+						92
+					]
+				},
+				{
+					"screen_name": "WarwickLanguage",
+					"name": "Teresa MacKinnon",
+					"id": 81817497,
+					"id_str": "81817497",
+					"indices": [
+						93,
+						109
+					]
+				},
+				{
+					"screen_name": "SuzanKoseoglu",
+					"name": "Suzan Koseoglu",
+					"id": 204949740,
+					"id_str": "204949740",
+					"indices": [
+						110,
+						124
+					]
+				},
+				{
+					"screen_name": "KateGreen28",
+					"name": "Kate Green",
+					"id": 388818412,
+					"id_str": "388818412",
+					"indices": [
+						125,
+						137
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6977,
+			"friends_count": 1699,
+			"listed_count": 578,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 2802,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25309,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 24 17:17:00 +0000 2017",
+			"id": 845323576777588700,
+			"id_str": "845323576777588736",
+			"text": "Curious about @VConnecting? Ask me or @Autumm @mweller @suebecks @friedelitis @WarwickLanguage @SuzanKoseoglu @KateGreen28 at #oer17",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "oer17",
+						"indices": [
+							126,
+							132
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "VConnecting",
+						"name": "Virtually Connecting",
+						"id": 3230962884,
+						"id_str": "3230962884",
+						"indices": [
+							14,
+							26
+						]
+					},
+					{
+						"screen_name": "Autumm",
+						"name": "Autumm Caines",
+						"id": 6292182,
+						"id_str": "6292182",
+						"indices": [
+							38,
+							45
+						]
+					},
+					{
+						"screen_name": "mweller",
+						"name": "Martin Weller",
+						"id": 7127162,
+						"id_str": "7127162",
+						"indices": [
+							46,
+							54
+						]
+					},
+					{
+						"screen_name": "suebecks",
+						"name": "Sue Beckingham",
+						"id": 34904126,
+						"id_str": "34904126",
+						"indices": [
+							55,
+							64
+						]
+					},
+					{
+						"screen_name": "friedelitis",
+						"name": "Christian Friedrich",
+						"id": 512388879,
+						"id_str": "512388879",
+						"indices": [
+							65,
+							77
+						]
+					},
+					{
+						"screen_name": "WarwickLanguage",
+						"name": "Teresa MacKinnon",
+						"id": 81817497,
+						"id_str": "81817497",
+						"indices": [
+							78,
+							94
+						]
+					},
+					{
+						"screen_name": "SuzanKoseoglu",
+						"name": "Suzan Koseoglu",
+						"id": 204949740,
+						"id_str": "204949740",
+						"indices": [
+							95,
+							109
+						]
+					},
+					{
+						"screen_name": "KateGreen28",
+						"name": "Kate Green",
+						"id": 388818412,
+						"id_str": "388818412",
+						"indices": [
+							110,
+							122
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1535273520,
+				"id_str": "1535273520",
+				"name": "ℳąhą Bąℓi مها بالي",
+				"screen_name": "Bali_Maha",
+				"location": "AUC, Cairo, #Egypt",
+				"description": "Assoc Prof prac @CLTAUC. Part of @HybridPed+@vconnecting+@DigPedLab+@ProfHacker+@dmlresearchhub Was #PhDmum @SheffieldUni. Writaholic/Learnaholic",
+				"url": "https://t.co/pjHqig6ctM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pjHqig6ctM",
+								"expanded_url": "http://blog.mahabali.me",
+								"display_url": "blog.mahabali.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4390,
+				"friends_count": 3729,
+				"listed_count": 419,
+				"created_at": "Thu Jun 20 23:42:32 +0000 2013",
+				"favourites_count": 51728,
+				"utc_offset": 7200,
+				"time_zone": "Cairo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 43351,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/457652639686090754/OQUJ2Nt9.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/457652639686090754/OQUJ2Nt9.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/523419361185234944/kWBLJiqq_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/523419361185234944/kWBLJiqq_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1535273520/1380017817",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Mar 24 20:22:01 +0000 2017",
 		"id": 845370136571904000,
 		"id_str": "845370136571904001",
