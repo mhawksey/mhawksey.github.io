@@ -1,6 +1,607 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Thu May 04 21:08:15 +0000 2017",
+		"id": 860239673305727000,
+		"id_str": "860239673305726977",
+		"text": "RT @NicoMiceli: So cool! AIY Projects: Do-it-yourself AI for Makers  https://t.co/7LLCCYWuWO &amp; site: https://t.co/WBz25zcvkl cc @tgwilson @…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NicoMiceli",
+					"name": "Nico Miceli",
+					"id": 280295417,
+					"id_str": "280295417",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "tgwilson",
+					"name": "Tim Wilson",
+					"id": 9459132,
+					"id_str": "9459132",
+					"indices": [
+						132,
+						141
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7LLCCYWuWO",
+					"expanded_url": "https://developers.googleblog.com/2017/05/aiy-projects-voice-kit.html",
+					"display_url": "developers.googleblog.com/2017/05/aiy-pr…",
+					"indices": [
+						69,
+						92
+					]
+				},
+				{
+					"url": "https://t.co/WBz25zcvkl",
+					"expanded_url": "https://aiyprojects.withgoogle.com/",
+					"display_url": "aiyprojects.withgoogle.com",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7078,
+			"friends_count": 1722,
+			"listed_count": 575,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 2941,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25499,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 04 21:00:00 +0000 2017",
+			"id": 860237596622024700,
+			"id_str": "860237596622024704",
+			"text": "So cool! AIY Projects: Do-it-yourself AI for Makers  https://t.co/7LLCCYWuWO &amp; site: https://t.co/WBz25zcvkl cc @tgwilson @mhawksey",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tgwilson",
+						"name": "Tim Wilson",
+						"id": 9459132,
+						"id_str": "9459132",
+						"indices": [
+							116,
+							125
+						]
+					},
+					{
+						"screen_name": "mhawksey",
+						"name": "Martin Hawksey",
+						"id": 13046992,
+						"id_str": "13046992",
+						"indices": [
+							126,
+							135
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/7LLCCYWuWO",
+						"expanded_url": "https://developers.googleblog.com/2017/05/aiy-projects-voice-kit.html",
+						"display_url": "developers.googleblog.com/2017/05/aiy-pr…",
+						"indices": [
+							53,
+							76
+						]
+					},
+					{
+						"url": "https://t.co/WBz25zcvkl",
+						"expanded_url": "https://aiyprojects.withgoogle.com/",
+						"display_url": "aiyprojects.withgoogle.com",
+						"indices": [
+							89,
+							112
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 280295417,
+				"id_str": "280295417",
+				"name": "Nico Miceli",
+				"screen_name": "NicoMiceli",
+				"location": "Philadelphia, PA",
+				"description": "Analytics Manager @ Google via Team Demystified | Google Dev Expert for @GoogleAnalytics | hacker/maker | fan of riding bikes & snowboards down/off mountains",
+				"url": "https://t.co/XozGI3HbWQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XozGI3HbWQ",
+								"expanded_url": "http://nicomiceli.com",
+								"display_url": "nicomiceli.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1463,
+				"friends_count": 485,
+				"listed_count": 110,
+				"created_at": "Mon Apr 11 01:55:42 +0000 2011",
+				"favourites_count": 820,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6573,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/799341307785256961/fQB6BDAC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/799341307785256961/fQB6BDAC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/280295417/1387332828",
+				"profile_link_color": "081CFA",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu May 04 21:06:44 +0000 2017",
+		"id": 860239294669230100,
+		"id_str": "860239294669230080",
+		"text": "@NicoMiceli @tgwilson Looking forward to picking up a kit with my groceries :)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NicoMiceli",
+					"name": "Nico Miceli",
+					"id": 280295417,
+					"id_str": "280295417",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "tgwilson",
+					"name": "Tim Wilson",
+					"id": 9459132,
+					"id_str": "9459132",
+					"indices": [
+						12,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 860237596622024700,
+		"in_reply_to_status_id_str": "860237596622024704",
+		"in_reply_to_user_id": 280295417,
+		"in_reply_to_user_id_str": "280295417",
+		"in_reply_to_screen_name": "NicoMiceli",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7078,
+			"friends_count": 1722,
+			"listed_count": 575,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 2941,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25499,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu May 04 12:34:39 +0000 2017",
+		"id": 860110423768657900,
+		"id_str": "860110423768657920",
+		"text": "RT @LornaMCampbell: Please RT. Join the campaign to reform European copyright for education https://t.co/RMXssVbc3H Only 11 days left to si…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LornaMCampbell",
+					"name": "Lorna M. Campbell",
+					"id": 4016151,
+					"id_str": "4016151",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RMXssVbc3H",
+					"expanded_url": "https://rightcopyright.eu/",
+					"display_url": "rightcopyright.eu",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7078,
+			"friends_count": 1722,
+			"listed_count": 575,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 2941,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25499,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 04 12:15:45 +0000 2017",
+			"id": 860105667499229200,
+			"id_str": "860105667499229184",
+			"text": "Please RT. Join the campaign to reform European copyright for education https://t.co/RMXssVbc3H Only 11 days left to sign! #oer #ukoer",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "oer",
+						"indices": [
+							123,
+							127
+						]
+					},
+					{
+						"text": "ukoer",
+						"indices": [
+							128,
+							134
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/RMXssVbc3H",
+						"expanded_url": "https://rightcopyright.eu/",
+						"display_url": "rightcopyright.eu",
+						"indices": [
+							72,
+							95
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4016151,
+				"id_str": "4016151",
+				"name": "Lorna M. Campbell",
+				"screen_name": "LornaMCampbell",
+				"location": "Glasgow",
+				"description": "Tweets about open education technology, policy & practice, 18th century naval history, and nonsense. Not necessarily in that order.",
+				"url": "https://t.co/9HmEQnxTzb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9HmEQnxTzb",
+								"expanded_url": "http://lornamcampbell.org",
+								"display_url": "lornamcampbell.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2584,
+				"friends_count": 2196,
+				"listed_count": 175,
+				"created_at": "Tue Apr 10 11:25:09 +0000 2007",
+				"favourites_count": 9943,
+				"utc_offset": 3600,
+				"time_zone": "Edinburgh",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 25278,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "AFD3F2",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/885507316/870a557f18260a78b2985f829355d2b9.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/885507316/870a557f18260a78b2985f829355d2b9.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/768472775090638851/1bgBAlp7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/768472775090638851/1bgBAlp7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4016151/1445333850",
+				"profile_link_color": "1F59AB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed May 03 17:28:50 +0000 2017",
 		"id": 859822067037990900,
 		"id_str": "859822067037990913",
