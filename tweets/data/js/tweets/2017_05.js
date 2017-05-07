@@ -1,6 +1,609 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Sat May 06 21:24:58 +0000 2017",
+		"id": 860968657589067800,
+		"id_str": "860968657589067776",
+		"text": "RT @josiefraser: 60+ resources &amp; posts in response to #oer17 - https://t.co/uGmHl21jQs if yours is not on the list, let me or @A_L_T know :…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "oer17",
+					"indices": [
+						58,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "josiefraser",
+					"name": "Josie Fraser",
+					"id": 746923,
+					"id_str": "746923",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						130,
+						136
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uGmHl21jQs",
+					"expanded_url": "http://goo.gl/p7RXnY",
+					"display_url": "goo.gl/p7RXnY",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7079,
+			"friends_count": 1722,
+			"listed_count": 575,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 2944,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25502,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat May 06 14:20:34 +0000 2017",
+			"id": 860861851319631900,
+			"id_str": "860861851319631873",
+			"text": "60+ resources &amp; posts in response to #oer17 - https://t.co/uGmHl21jQs if yours is not on the list, let me or @A_L_T know :) #oer #oep #oeped",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "oer17",
+						"indices": [
+							41,
+							47
+						]
+					},
+					{
+						"text": "oer",
+						"indices": [
+							128,
+							132
+						]
+					},
+					{
+						"text": "oep",
+						"indices": [
+							133,
+							137
+						]
+					},
+					{
+						"text": "oeped",
+						"indices": [
+							138,
+							144
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "A_L_T",
+						"name": "ALT - alt.ac.uk",
+						"id": 41210876,
+						"id_str": "41210876",
+						"indices": [
+							113,
+							119
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/uGmHl21jQs",
+						"expanded_url": "http://goo.gl/p7RXnY",
+						"display_url": "goo.gl/p7RXnY",
+						"indices": [
+							50,
+							73
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 746923,
+				"id_str": "746923",
+				"name": "Josie Fraser",
+				"screen_name": "josiefraser",
+				"location": "Leicester, London, Bristol, UK",
+				"description": "Social & educational technologist. @WikimediaUK board member. #OER17 co-chair. Digital literacy, identity & communities; open education; online rights",
+				"url": "https://t.co/2sQSrXturV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2sQSrXturV",
+								"expanded_url": "http://www.josiefraser.com/",
+								"display_url": "josiefraser.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14190,
+				"friends_count": 2298,
+				"listed_count": 1386,
+				"created_at": "Fri Feb 02 08:58:46 +0000 2007",
+				"favourites_count": 5244,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 29402,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/237296523/art04.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/237296523/art04.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/769496416712613888/wMLbJBw6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/769496416712613888/wMLbJBw6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/746923/1445379014",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat May 06 14:58:53 +0000 2017",
+		"id": 860871495370911700,
+		"id_str": "860871495370911744",
+		"text": "RT @pippagardner: 5 Scottish tech start-ups to watch in 2017 https://t.co/jJTC6ud3TH @UrbanTide  @amiqus @pixeyio @MindMateApp @BeezerApps…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pippagardner",
+					"name": "Pippa Gardner",
+					"id": 51471540,
+					"id_str": "51471540",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "UrbanTide",
+					"name": "UrbanTide",
+					"id": 2437529844,
+					"id_str": "2437529844",
+					"indices": [
+						85,
+						95
+					]
+				},
+				{
+					"screen_name": "amiqus",
+					"name": "Amiqus",
+					"id": 3379374099,
+					"id_str": "3379374099",
+					"indices": [
+						97,
+						104
+					]
+				},
+				{
+					"screen_name": "pixeyio",
+					"name": "Pixey",
+					"id": 3401738614,
+					"id_str": "3401738614",
+					"indices": [
+						105,
+						113
+					]
+				},
+				{
+					"screen_name": "MindMateApp",
+					"name": "MindMate",
+					"id": 3107415695,
+					"id_str": "3107415695",
+					"indices": [
+						114,
+						126
+					]
+				},
+				{
+					"screen_name": "BeezerApps",
+					"name": "Beezer Apps",
+					"id": 728188131191754800,
+					"id_str": "728188131191754752",
+					"indices": [
+						127,
+						138
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jJTC6ud3TH",
+					"expanded_url": "http://www.scotsman.com/future-scotland/tech/5-scottish-tech-start-ups-to-watch-in-2017-1-4437125",
+					"display_url": "scotsman.com/future-scotlan…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7079,
+			"friends_count": 1722,
+			"listed_count": 575,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 2944,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25502,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat May 06 14:49:15 +0000 2017",
+			"id": 860869073315516400,
+			"id_str": "860869073315516416",
+			"text": "5 Scottish tech start-ups to watch in 2017 https://t.co/jJTC6ud3TH @UrbanTide  @amiqus @pixeyio @MindMateApp @BeezerApps @infventures #EIE17",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "EIE17",
+						"indices": [
+							134,
+							140
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UrbanTide",
+						"name": "UrbanTide",
+						"id": 2437529844,
+						"id_str": "2437529844",
+						"indices": [
+							67,
+							77
+						]
+					},
+					{
+						"screen_name": "amiqus",
+						"name": "Amiqus",
+						"id": 3379374099,
+						"id_str": "3379374099",
+						"indices": [
+							79,
+							86
+						]
+					},
+					{
+						"screen_name": "pixeyio",
+						"name": "Pixey",
+						"id": 3401738614,
+						"id_str": "3401738614",
+						"indices": [
+							87,
+							95
+						]
+					},
+					{
+						"screen_name": "MindMateApp",
+						"name": "MindMate",
+						"id": 3107415695,
+						"id_str": "3107415695",
+						"indices": [
+							96,
+							108
+						]
+					},
+					{
+						"screen_name": "BeezerApps",
+						"name": "Beezer Apps",
+						"id": 728188131191754800,
+						"id_str": "728188131191754752",
+						"indices": [
+							109,
+							120
+						]
+					},
+					{
+						"screen_name": "infventures",
+						"name": "Informatics Ventures",
+						"id": 29512757,
+						"id_str": "29512757",
+						"indices": [
+							121,
+							133
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/jJTC6ud3TH",
+						"expanded_url": "http://www.scotsman.com/future-scotland/tech/5-scottish-tech-start-ups-to-watch-in-2017-1-4437125",
+						"display_url": "scotsman.com/future-scotlan…",
+						"indices": [
+							43,
+							66
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 51471540,
+				"id_str": "51471540",
+				"name": "Pippa Gardner",
+				"screen_name": "pippagardner",
+				"location": "UK",
+				"description": "Co-founder and CEO @UrbanTide #SmartCities & #Data experts. Programme & Project Manager by trade. Public & Private sector. Like strategy then love delivering.",
+				"url": "https://t.co/mhW782PH4K",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mhW782PH4K",
+								"expanded_url": "http://www.urbantide.com",
+								"display_url": "urbantide.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 717,
+				"friends_count": 221,
+				"listed_count": 51,
+				"created_at": "Sat Jun 27 15:47:30 +0000 2009",
+				"favourites_count": 607,
+				"utc_offset": 3600,
+				"time_zone": "Edinburgh",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 697,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3166804533/73a914358e98ab0b037911410e0dc16d_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3166804533/73a914358e98ab0b037911410e0dc16d_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/51471540/1414258930",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri May 05 17:30:42 +0000 2017",
 		"id": 860547312166326300,
 		"id_str": "860547312166326274",
