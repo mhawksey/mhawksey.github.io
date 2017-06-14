@@ -1,6 +1,662 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Tue Jun 13 14:20:13 +0000 2017",
+		"id": 874632505768521700,
+		"id_str": "874632505768521728",
+		"text": "RT @VivienRolfe: So excited- no higher ed stone will be left unturned - Team Wonkhe welcomes David Kernohan https://t.co/8K6ciVYK8H #DS106…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DS106",
+					"indices": [
+						132,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VivienRolfe",
+					"name": "Viv Rolfe",
+					"id": 214901910,
+					"id_str": "214901910",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8K6ciVYK8H",
+					"expanded_url": "http://wonkhe.com/team-wonkhe-welcomes-david-kernohan/",
+					"display_url": "wonkhe.com/team-wonkhe-we…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7171,
+			"friends_count": 1755,
+			"listed_count": 576,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 3104,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25704,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 13 14:19:22 +0000 2017",
+			"id": 874632292047740900,
+			"id_str": "874632292047740932",
+			"text": "So excited- no higher ed stone will be left unturned - Team Wonkhe welcomes David Kernohan https://t.co/8K6ciVYK8H #DS106 #UKOER",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DS106",
+						"indices": [
+							115,
+							121
+						]
+					},
+					{
+						"text": "UKOER",
+						"indices": [
+							122,
+							128
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8K6ciVYK8H",
+						"expanded_url": "http://wonkhe.com/team-wonkhe-welcomes-david-kernohan/",
+						"display_url": "wonkhe.com/team-wonkhe-we…",
+						"indices": [
+							91,
+							114
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 214901910,
+				"id_str": "214901910",
+				"name": "Viv Rolfe",
+				"screen_name": "VivienRolfe",
+				"location": "Bristol",
+				"description": "#OER #OpenEd Co-chair for #OER18. Gut physiology. Jazz. Bletherer. New to Dursley. @UKOpenTextbooks @UK_SWOT @metat_l #openedsig #femedtech",
+				"url": "http://t.co/WCmR4c7ycU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/WCmR4c7ycU",
+								"expanded_url": "http://www.vivrolfe.com",
+								"display_url": "vivrolfe.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1755,
+				"friends_count": 2055,
+				"listed_count": 110,
+				"created_at": "Fri Nov 12 14:22:54 +0000 2010",
+				"favourites_count": 6150,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10419,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "050505",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/536193318422474753/nZhtwMeE.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/536193318422474753/nZhtwMeE.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/751158600010174464/XqYg6I4q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/751158600010174464/XqYg6I4q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/214901910/1480875552",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 18,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jun 13 14:19:27 +0000 2017",
+		"id": 874632311710646300,
+		"id_str": "874632311710646274",
+		"text": "RT @gsuite: #TuesdayTip: Make paragraphs pop with borders and shading in @googledocs https://t.co/NAOCIZzwPx",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TuesdayTip",
+					"indices": [
+						12,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gsuite",
+					"name": "G Suite",
+					"id": 17003765,
+					"id_str": "17003765",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "googledocs",
+					"name": "Google Docs",
+					"id": 488683847,
+					"id_str": "488683847",
+					"indices": [
+						73,
+						84
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 874631407670222800,
+					"id_str": "874631407670222850",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DCNQoZuVYAIezWv.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DCNQoZuVYAIezWv.jpg",
+					"url": "https://t.co/NAOCIZzwPx",
+					"display_url": "pic.twitter.com/NAOCIZzwPx",
+					"expanded_url": "https://twitter.com/gsuite/status/874632074447245312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 300,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 170,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 874632074447245300,
+					"source_status_id_str": "874632074447245312",
+					"source_user_id": 17003765,
+					"source_user_id_str": "17003765"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 874631407670222800,
+					"id_str": "874631407670222850",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DCNQoZuVYAIezWv.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DCNQoZuVYAIezWv.jpg",
+					"url": "https://t.co/NAOCIZzwPx",
+					"display_url": "pic.twitter.com/NAOCIZzwPx",
+					"expanded_url": "https://twitter.com/gsuite/status/874632074447245312/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 300,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 170,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 874632074447245300,
+					"source_status_id_str": "874632074447245312",
+					"source_user_id": 17003765,
+					"source_user_id_str": "17003765",
+					"video_info": {
+						"aspect_ratio": [
+							2,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DCNQoZuVYAIezWv.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7171,
+			"friends_count": 1755,
+			"listed_count": 576,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 3104,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25704,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 13 14:18:31 +0000 2017",
+			"id": 874632074447245300,
+			"id_str": "874632074447245312",
+			"text": "#TuesdayTip: Make paragraphs pop with borders and shading in @googledocs https://t.co/NAOCIZzwPx",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TuesdayTip",
+						"indices": [
+							0,
+							11
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "googledocs",
+						"name": "Google Docs",
+						"id": 488683847,
+						"id_str": "488683847",
+						"indices": [
+							61,
+							72
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 874631407670222800,
+						"id_str": "874631407670222850",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DCNQoZuVYAIezWv.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DCNQoZuVYAIezWv.jpg",
+						"url": "https://t.co/NAOCIZzwPx",
+						"display_url": "pic.twitter.com/NAOCIZzwPx",
+						"expanded_url": "https://twitter.com/gsuite/status/874632074447245312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 900,
+								"h": 450,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 300,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 170,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 874631407670222800,
+						"id_str": "874631407670222850",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DCNQoZuVYAIezWv.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DCNQoZuVYAIezWv.jpg",
+						"url": "https://t.co/NAOCIZzwPx",
+						"display_url": "pic.twitter.com/NAOCIZzwPx",
+						"expanded_url": "https://twitter.com/gsuite/status/874632074447245312/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"large": {
+								"w": 900,
+								"h": 450,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 300,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 170,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								2,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DCNQoZuVYAIezWv.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17003765,
+				"id_str": "17003765",
+				"name": "G Suite",
+				"screen_name": "gsuite",
+				"location": "Mountain View, CA",
+				"description": "Intelligent apps for business.",
+				"url": "https://t.co/w9DdEr5j0t",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/w9DdEr5j0t",
+								"expanded_url": "http://gsuite.google.com",
+								"display_url": "gsuite.google.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 721087,
+				"friends_count": 3529,
+				"listed_count": 9155,
+				"created_at": "Mon Oct 27 18:29:35 +0000 2008",
+				"favourites_count": 2382,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 9936,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/601069737422950400/CrUAcSx4.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/601069737422950400/CrUAcSx4.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/798286339351289856/oYkAxyQM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/798286339351289856/oYkAxyQM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17003765/1479160860",
+				"profile_link_color": "4285F4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 32,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jun 12 16:53:02 +0000 2017",
 		"id": 874308575505657900,
 		"id_str": "874308575505657856",
