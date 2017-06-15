@@ -1,6 +1,685 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Wed Jun 14 15:25:26 +0000 2017",
+		"id": 875011304314069000,
+		"id_str": "875011304314068992",
+		"text": "RT @mathbabedotorg: In which I suggest we should make EdTech more accountable:\n\nhttps://t.co/SrGxn6snSD via @bv",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mathbabedotorg",
+					"name": "Cathy O'Neil",
+					"id": 365145609,
+					"id_str": "365145609",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "BV",
+					"name": "Bloomberg View",
+					"id": 227682918,
+					"id_str": "227682918",
+					"indices": [
+						108,
+						111
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SrGxn6snSD",
+					"expanded_url": "https://www.bloomberg.com/view/articles/2017-06-14/what-s-wrong-with-letting-tech-run-our-schools",
+					"display_url": "bloomberg.com/view/articles/…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7174,
+			"friends_count": 1756,
+			"listed_count": 576,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 3107,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25707,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 14 12:07:10 +0000 2017",
+			"id": 874961409775480800,
+			"id_str": "874961409775480833",
+			"text": "In which I suggest we should make EdTech more accountable:\n\nhttps://t.co/SrGxn6snSD via @bv",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BV",
+						"name": "Bloomberg View",
+						"id": 227682918,
+						"id_str": "227682918",
+						"indices": [
+							88,
+							91
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/SrGxn6snSD",
+						"expanded_url": "https://www.bloomberg.com/view/articles/2017-06-14/what-s-wrong-with-letting-tech-run-our-schools",
+						"display_url": "bloomberg.com/view/articles/…",
+						"indices": [
+							60,
+							83
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 365145609,
+				"id_str": "365145609",
+				"name": "Cathy O'Neil",
+				"screen_name": "mathbabedotorg",
+				"location": "New York",
+				"description": "Mathematician, data nerd, blogger, writer, loud mouth",
+				"url": "https://t.co/tb49ourX4t",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tb49ourX4t",
+								"expanded_url": "http://mathbabe.org",
+								"display_url": "mathbabe.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15927,
+				"friends_count": 740,
+				"listed_count": 735,
+				"created_at": "Tue Aug 30 23:02:08 +0000 2011",
+				"favourites_count": 5444,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6960,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/699918785772285952/3prh47FM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/699918785772285952/3prh47FM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/365145609/1415649207",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jun 14 11:25:20 +0000 2017",
+		"id": 874950879635550200,
+		"id_str": "874950879635550209",
+		"text": "RT @jar: @urbaneprofessor @patlockley @drnickpearce @sbayne you might like @sbayne ’s talk from today - available at https://t.co/p2vkCLJngJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jar",
+					"name": "Jen Ross",
+					"id": 1350231,
+					"id_str": "1350231",
+					"indices": [
+						3,
+						7
+					]
+				},
+				{
+					"screen_name": "urbaneprofessor",
+					"name": "Peter Matthews",
+					"id": 232585099,
+					"id_str": "232585099",
+					"indices": [
+						9,
+						25
+					]
+				},
+				{
+					"screen_name": "patlockley",
+					"name": "patlockley",
+					"id": 18833145,
+					"id_str": "18833145",
+					"indices": [
+						26,
+						37
+					]
+				},
+				{
+					"screen_name": "drnickpearce",
+					"name": "Nick Pearce",
+					"id": 86986302,
+					"id_str": "86986302",
+					"indices": [
+						38,
+						51
+					]
+				},
+				{
+					"screen_name": "sbayne",
+					"name": "Sian Bayne",
+					"id": 1504951,
+					"id_str": "1504951",
+					"indices": [
+						52,
+						59
+					]
+				},
+				{
+					"screen_name": "sbayne",
+					"name": "Sian Bayne",
+					"id": 1504951,
+					"id_str": "1504951",
+					"indices": [
+						75,
+						82
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/p2vkCLJngJ",
+					"expanded_url": "https://www.youtube.com/watch?v=fn35Ueu7DSs",
+					"display_url": "youtube.com/watch?v=fn35Ue…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7174,
+			"friends_count": 1756,
+			"listed_count": 576,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 3107,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25707,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 14 11:25:08 +0000 2017",
+			"id": 874950828645380100,
+			"id_str": "874950828645380096",
+			"text": "@urbaneprofessor @patlockley @drnickpearce @sbayne you might like @sbayne ’s talk from today - available at https://t.co/p2vkCLJngJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "urbaneprofessor",
+						"name": "Peter Matthews",
+						"id": 232585099,
+						"id_str": "232585099",
+						"indices": [
+							0,
+							16
+						]
+					},
+					{
+						"screen_name": "patlockley",
+						"name": "patlockley",
+						"id": 18833145,
+						"id_str": "18833145",
+						"indices": [
+							17,
+							28
+						]
+					},
+					{
+						"screen_name": "drnickpearce",
+						"name": "Nick Pearce",
+						"id": 86986302,
+						"id_str": "86986302",
+						"indices": [
+							29,
+							42
+						]
+					},
+					{
+						"screen_name": "sbayne",
+						"name": "Sian Bayne",
+						"id": 1504951,
+						"id_str": "1504951",
+						"indices": [
+							43,
+							50
+						]
+					},
+					{
+						"screen_name": "sbayne",
+						"name": "Sian Bayne",
+						"id": 1504951,
+						"id_str": "1504951",
+						"indices": [
+							66,
+							73
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/p2vkCLJngJ",
+						"expanded_url": "https://www.youtube.com/watch?v=fn35Ueu7DSs",
+						"display_url": "youtube.com/watch?v=fn35Ue…",
+						"indices": [
+							108,
+							131
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 874950275789983700,
+			"in_reply_to_status_id_str": "874950275789983744",
+			"in_reply_to_user_id": 232585099,
+			"in_reply_to_user_id_str": "232585099",
+			"in_reply_to_screen_name": "urbaneprofessor",
+			"user": {
+				"id": 1350231,
+				"id_str": "1350231",
+				"name": "Jen Ross",
+				"screen_name": "jar",
+				"location": "Edinburgh",
+				"description": "senior lecturer in Digital Education at the University of Edinburgh. Researching online education and digital cultural heritage.",
+				"url": "http://t.co/bYS0b9nkMf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/bYS0b9nkMf",
+								"expanded_url": "http://www.jenrossity.net/blog",
+								"display_url": "jenrossity.net/blog",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2731,
+				"friends_count": 1673,
+				"listed_count": 181,
+				"created_at": "Sat Mar 17 13:03:44 +0000 2007",
+				"favourites_count": 411,
+				"utc_offset": 3600,
+				"time_zone": "Edinburgh",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3573,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF6699",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/673048513/9e180f4b75e1ec5e5370692f5f11e768.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/673048513/9e180f4b75e1ec5e5370692f5f11e768.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/639718550903615489/7J1P3slb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/639718550903615489/7J1P3slb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1350231/1415954391",
+				"profile_link_color": "B40B43",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E5507E",
+				"profile_text_color": "362720",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jun 14 09:01:03 +0000 2017",
+		"id": 874914570678276100,
+		"id_str": "874914570678276099",
+		"text": "All change for @philbarker https://t.co/GCPGcZwKZY and @dkernohan https://t.co/RraRkMM90z Looking forward to following their shenanigans",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "philbarker",
+					"name": "Phil Barker 🐝",
+					"id": 11143372,
+					"id_str": "11143372",
+					"indices": [
+						15,
+						26
+					]
+				},
+				{
+					"screen_name": "dkernohan",
+					"name": "David KernohⒶn",
+					"id": 12219232,
+					"id_str": "12219232",
+					"indices": [
+						55,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GCPGcZwKZY",
+					"expanded_url": "https://blogs.pjjk.net/phil/ending-beginning/",
+					"display_url": "blogs.pjjk.net/phil/ending-be…",
+					"indices": [
+						27,
+						50
+					]
+				},
+				{
+					"url": "https://t.co/RraRkMM90z",
+					"expanded_url": "http://wonkhe.com/team-wonkhe-welcomes-david-kernohan/",
+					"display_url": "wonkhe.com/team-wonkhe-we…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7174,
+			"friends_count": 1756,
+			"listed_count": 576,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 3107,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25707,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jun 13 14:20:13 +0000 2017",
 		"id": 874632505768521700,
 		"id_str": "874632505768521728",
