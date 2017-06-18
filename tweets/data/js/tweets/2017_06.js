@@ -1,6 +1,582 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Sat Jun 17 12:41:09 +0000 2017",
+		"id": 876057122932502500,
+		"id_str": "876057122932502529",
+		"text": "RT @AdamWagner1: This is the most extraordinary, devastating interview with @DavidLammy https://t.co/QFbKwOUf6I",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AdamWagner1",
+					"name": "Adam Wagner",
+					"id": 123979525,
+					"id_str": "123979525",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "DavidLammy",
+					"name": "David Lammy",
+					"id": 18020612,
+					"id_str": "18020612",
+					"indices": [
+						76,
+						87
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 875746164922044400,
+					"id_str": "875746164922044416",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/875746164922044416/img/MAz8wdYu5ihyQqRj.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/875746164922044416/img/MAz8wdYu5ihyQqRj.jpg",
+					"url": "https://t.co/QFbKwOUf6I",
+					"display_url": "pic.twitter.com/QFbKwOUf6I",
+					"expanded_url": "https://twitter.com/Channel4News/status/875750893043548160/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 875750893043548200,
+					"source_status_id_str": "875750893043548160",
+					"source_user_id": 14569869,
+					"source_user_id_str": "14569869"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 875746164922044400,
+					"id_str": "875746164922044416",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/875746164922044416/img/MAz8wdYu5ihyQqRj.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/875746164922044416/img/MAz8wdYu5ihyQqRj.jpg",
+					"url": "https://t.co/QFbKwOUf6I",
+					"display_url": "pic.twitter.com/QFbKwOUf6I",
+					"expanded_url": "https://twitter.com/Channel4News/status/875750893043548160/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 875750893043548200,
+					"source_status_id_str": "875750893043548160",
+					"source_user_id": 14569869,
+					"source_user_id_str": "14569869",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 178240,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/875746164922044416/vid/480x480/KlHZWu901m-fr6N2.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/875746164922044416/vid/240x240/23Ejk9kijETM8D7m.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/875746164922044416/pl/j4ptzIXGH7l85cUG.m3u8"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/875746164922044416/vid/720x720/9xN1jEkFMwrkTL1s.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 14569869,
+							"id_str": "14569869",
+							"name": "Channel 4 News",
+							"screen_name": "Channel4News",
+							"location": "",
+							"description": "Stories that reveal and inspire, challenging expectations.",
+							"url": "http://t.co/YO0ZZvoyrC",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/YO0ZZvoyrC",
+											"expanded_url": "http://www.channel4.com/news",
+											"display_url": "channel4.com/news",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1570223,
+							"friends_count": 4113,
+							"listed_count": 8557,
+							"created_at": "Mon Apr 28 14:29:37 +0000 2008",
+							"favourites_count": 442,
+							"utc_offset": 3600,
+							"time_zone": "London",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 84673,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "2C1C36",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/648955077240164352/qBTtGdoJ.png",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/648955077240164352/qBTtGdoJ.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/875404558528393216/cTknVhwm_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/875404558528393216/cTknVhwm_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/14569869/1464103587",
+							"profile_link_color": "421174",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "FAF0F6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7177,
+			"friends_count": 1755,
+			"listed_count": 576,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 3112,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25715,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 16 19:05:46 +0000 2017",
+			"id": 875791527355850800,
+			"id_str": "875791527355850753",
+			"text": "This is the most extraordinary, devastating interview with @DavidLammy https://t.co/QFbKwOUf6I",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DavidLammy",
+						"name": "David Lammy",
+						"id": 18020612,
+						"id_str": "18020612",
+						"indices": [
+							59,
+							70
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 875746164922044400,
+						"id_str": "875746164922044416",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/875746164922044416/img/MAz8wdYu5ihyQqRj.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/875746164922044416/img/MAz8wdYu5ihyQqRj.jpg",
+						"url": "https://t.co/QFbKwOUf6I",
+						"display_url": "pic.twitter.com/QFbKwOUf6I",
+						"expanded_url": "https://twitter.com/Channel4News/status/875750893043548160/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 875750893043548200,
+						"source_status_id_str": "875750893043548160",
+						"source_user_id": 14569869,
+						"source_user_id_str": "14569869"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 875746164922044400,
+						"id_str": "875746164922044416",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/875746164922044416/img/MAz8wdYu5ihyQqRj.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/875746164922044416/img/MAz8wdYu5ihyQqRj.jpg",
+						"url": "https://t.co/QFbKwOUf6I",
+						"display_url": "pic.twitter.com/QFbKwOUf6I",
+						"expanded_url": "https://twitter.com/Channel4News/status/875750893043548160/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 875750893043548200,
+						"source_status_id_str": "875750893043548160",
+						"source_user_id": 14569869,
+						"source_user_id_str": "14569869",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 178240,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/875746164922044416/vid/480x480/KlHZWu901m-fr6N2.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/875746164922044416/vid/240x240/23Ejk9kijETM8D7m.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/875746164922044416/pl/j4ptzIXGH7l85cUG.m3u8"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/875746164922044416/vid/720x720/9xN1jEkFMwrkTL1s.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false,
+							"source_user": {
+								"id": 14569869,
+								"id_str": "14569869",
+								"name": "Channel 4 News",
+								"screen_name": "Channel4News",
+								"location": "",
+								"description": "Stories that reveal and inspire, challenging expectations.",
+								"url": "http://t.co/YO0ZZvoyrC",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "http://t.co/YO0ZZvoyrC",
+												"expanded_url": "http://www.channel4.com/news",
+												"display_url": "channel4.com/news",
+												"indices": [
+													0,
+													22
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 1570223,
+								"friends_count": 4113,
+								"listed_count": 8557,
+								"created_at": "Mon Apr 28 14:29:37 +0000 2008",
+								"favourites_count": 442,
+								"utc_offset": 3600,
+								"time_zone": "London",
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 84673,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "2C1C36",
+								"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/648955077240164352/qBTtGdoJ.png",
+								"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/648955077240164352/qBTtGdoJ.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/875404558528393216/cTknVhwm_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/875404558528393216/cTknVhwm_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/14569869/1464103587",
+								"profile_link_color": "421174",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "FAF0F6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 123979525,
+				"id_str": "123979525",
+				"name": "Adam Wagner",
+				"screen_name": "AdamWagner1",
+				"location": "London",
+				"description": "Human rights barrister at @1CrownOfficeRow. Founder @rights_info and @ukhumanrightsb. Views my own",
+				"url": "https://t.co/2OMANhGJrx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2OMANhGJrx",
+								"expanded_url": "http://www.1cor.com/barrister/Adam-Wagner",
+								"display_url": "1cor.com/barrister/Adam…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32206,
+				"friends_count": 2672,
+				"listed_count": 824,
+				"created_at": "Wed Mar 17 21:14:06 +0000 2010",
+				"favourites_count": 3859,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 51272,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793035596038021120/PuLNNFAA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793035596038021120/PuLNNFAA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/123979525/1484636822",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14235,
+			"favorite_count": 17757,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 14235,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jun 16 19:00:13 +0000 2017",
 		"id": 875790133785768000,
 		"id_str": "875790133785767937",
