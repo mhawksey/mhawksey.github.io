@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Sat Sep 16 08:02:19 +0000 2017",
+		"id": 908964250894389200,
+		"id_str": "908964250894389248",
+		"text": "RT @HoloMarkeD: DIY Attribution Dashboard Using R Shiny &amp; Google Cloud Computing https://t.co/CnyTUsnX7D via @EmpiricalPath",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HoloMarkeD",
+					"name": "Mark Edmondson",
+					"id": 10062312,
+					"id_str": "10062312",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "EmpiricalPath",
+					"name": "Empirical Path LLC",
+					"id": 109379298,
+					"id_str": "109379298",
+					"indices": [
+						113,
+						127
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CnyTUsnX7D",
+					"expanded_url": "https://www.empiricalpath.com/article-attribution-dashboard/",
+					"display_url": "empiricalpath.com/article-attrib…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7302,
+			"friends_count": 1783,
+			"listed_count": 579,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 3352,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25991,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 15 14:23:38 +0000 2017",
+			"id": 908697822257610800,
+			"id_str": "908697822257610753",
+			"text": "DIY Attribution Dashboard Using R Shiny &amp; Google Cloud Computing https://t.co/CnyTUsnX7D via @EmpiricalPath",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EmpiricalPath",
+						"name": "Empirical Path LLC",
+						"id": 109379298,
+						"id_str": "109379298",
+						"indices": [
+							97,
+							111
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/CnyTUsnX7D",
+						"expanded_url": "https://www.empiricalpath.com/article-attribution-dashboard/",
+						"display_url": "empiricalpath.com/article-attrib…",
+						"indices": [
+							69,
+							92
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 10062312,
+				"id_str": "10062312",
+				"name": "Mark Edmondson",
+				"screen_name": "HoloMarkeD",
+				"location": "Copenhagen, Denmark",
+				"description": "Google Developer Expert - Google Analytics. I work at IIH Nordic playing with web data. Tweets about GA, GTM, Adobe, R, Shiny, Statistics.",
+				"url": "https://t.co/oLy2U7Dfaa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oLy2U7Dfaa",
+								"expanded_url": "http://markedmondson.me",
+								"display_url": "markedmondson.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3596,
+				"friends_count": 1524,
+				"listed_count": 389,
+				"created_at": "Thu Nov 08 11:03:30 +0000 2007",
+				"favourites_count": 3931,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16178,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F3F2EA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/465420972363759617/ZRhbgM17.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/465420972363759617/ZRhbgM17.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/477837951309979649/_Cc9fYWM_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/477837951309979649/_Cc9fYWM_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/10062312/1402772577",
+				"profile_link_color": "87782D",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "0B0E30",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Sep 15 17:34:29 +0000 2017",
 		"id": 908745852365230100,
 		"id_str": "908745852365230081",
