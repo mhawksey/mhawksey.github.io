@@ -1,6 +1,366 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Mon Sep 25 11:57:15 +0000 2017",
+		"id": 912284862983393300,
+		"id_str": "912284862983393284",
+		"text": "RT @nlafferty: This is what all those #darksideofTEL2017 tweets look like https://t.co/PXC8g7SDeO https://t.co/Uu5n54cI5E",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "darksideofTEL2017",
+					"indices": [
+						38,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nlafferty",
+					"name": "Natalie Lafferty",
+					"id": 14107935,
+					"id_str": "14107935",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PXC8g7SDeO",
+					"expanded_url": "https://hawksey.info/tagsexplorer/?key=1BO2c0avPjru2ItgAxLR0rU3FFKN2MNbeqZuIFXVn1qQ&gid=400689247&mentions=true&retweets=true",
+					"display_url": "hawksey.info/tagsexplorer/?…",
+					"indices": [
+						74,
+						97
+					]
+				},
+				{
+					"url": "https://t.co/Uu5n54cI5E",
+					"expanded_url": "https://twitter.com/medisensemeded/status/911216578225741825",
+					"display_url": "twitter.com/medisensemeded…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7309,
+			"friends_count": 1787,
+			"listed_count": 580,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 3368,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26010,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 22 21:59:11 +0000 2017",
+			"id": 911349180010045400,
+			"id_str": "911349180010045441",
+			"text": "This is what all those #darksideofTEL2017 tweets look like https://t.co/PXC8g7SDeO https://t.co/Uu5n54cI5E",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "darksideofTEL2017",
+						"indices": [
+							23,
+							41
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PXC8g7SDeO",
+						"expanded_url": "https://hawksey.info/tagsexplorer/?key=1BO2c0avPjru2ItgAxLR0rU3FFKN2MNbeqZuIFXVn1qQ&gid=400689247&mentions=true&retweets=true",
+						"display_url": "hawksey.info/tagsexplorer/?…",
+						"indices": [
+							59,
+							82
+						]
+					},
+					{
+						"url": "https://t.co/Uu5n54cI5E",
+						"expanded_url": "https://twitter.com/medisensemeded/status/911216578225741825",
+						"display_url": "twitter.com/medisensemeded…",
+						"indices": [
+							83,
+							106
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14107935,
+				"id_str": "14107935",
+				"name": "Natalie Lafferty",
+				"screen_name": "nlafferty",
+				"location": "Dundee, UK",
+				"description": "Still learning ... Open education practitioner in higher & medical education.  #FOAMed, educational technology, learning environments,  football & arts",
+				"url": "http://t.co/VBgkQovJhQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/VBgkQovJhQ",
+								"expanded_url": "http://about.me/nlafferty",
+								"display_url": "about.me/nlafferty",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3769,
+				"friends_count": 2262,
+				"listed_count": 236,
+				"created_at": "Sun Mar 09 15:54:26 +0000 2008",
+				"favourites_count": 3275,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 24611,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433034931892002816/HIwXAfEb.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433034931892002816/HIwXAfEb.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/603337796728791041/ah0duK64_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/603337796728791041/ah0duK64_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14107935/1392078385",
+				"profile_link_color": "13867D",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "78CEC7",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 911216578225741800,
+			"quoted_status_id_str": "911216578225741825",
+			"quoted_status": {
+				"created_at": "Fri Sep 22 13:12:16 +0000 2017",
+				"id": 911216578225741800,
+				"id_str": "911216578225741825",
+				"text": "Trying to keep up with tweets and talks at #darksideofTEL2017 - how do you find tweeting at conferences? Benefits/d… https://t.co/etXCPaYkoU",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "darksideofTEL2017",
+							"indices": [
+								43,
+								61
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/etXCPaYkoU",
+							"expanded_url": "https://twitter.com/i/web/status/911216578225741825",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 3233768374,
+					"id_str": "3233768374",
+					"name": "Medisense",
+					"screen_name": "MedisenseMedEd",
+					"location": "",
+					"description": "A #MedEd platform with a difference, developing creative learning tools & innovating in patient safety. Home of #PatientSim, #SixSecondStudying & terrible puns!",
+					"url": "https://t.co/kH1gy7LdAb",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/kH1gy7LdAb",
+									"expanded_url": "http://www.medisense.org.uk",
+									"display_url": "medisense.org.uk",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 2291,
+					"friends_count": 4994,
+					"listed_count": 65,
+					"created_at": "Mon May 04 16:11:08 +0000 2015",
+					"favourites_count": 448,
+					"utc_offset": 3600,
+					"time_zone": "London",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 1744,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/595262967400259584/kQbjkQkc_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/595262967400259584/kQbjkQkc_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/3233768374/1431824226",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2,
+				"favorite_count": 8,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 8,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 911216578225741800,
+		"quoted_status_id_str": "911216578225741825",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Sep 21 13:34:29 +0000 2017",
 		"id": 910859780503240700,
 		"id_str": "910859780503240704",
