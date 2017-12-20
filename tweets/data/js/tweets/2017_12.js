@@ -1,6 +1,605 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Tue Dec 19 09:35:17 +0000 2017",
+		"id": 943052105262288900,
+		"id_str": "943052105262288897",
+		"text": "RT @A_L_T: #altc members interested in social media in education might want to follow #SocMedHE17 / @SocMedHE today",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "SocMedHE17",
+					"indices": [
+						86,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						3,
+						9
+					]
+				},
+				{
+					"screen_name": "SocMedHE",
+					"name": "@SocMedHE",
+					"id": 3346395670,
+					"id_str": "3346395670",
+					"indices": [
+						100,
+						109
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7465,
+			"friends_count": 1849,
+			"listed_count": 582,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 3663,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26377,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 19 09:35:02 +0000 2017",
+			"id": 943052043702370300,
+			"id_str": "943052043702370304",
+			"text": "#altc members interested in social media in education might want to follow #SocMedHE17 / @SocMedHE today",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "altc",
+						"indices": [
+							0,
+							5
+						]
+					},
+					{
+						"text": "SocMedHE17",
+						"indices": [
+							75,
+							86
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SocMedHE",
+						"name": "@SocMedHE",
+						"id": 3346395670,
+						"id_str": "3346395670",
+						"indices": [
+							89,
+							98
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41210876,
+				"id_str": "41210876",
+				"name": "ALT - alt.ac.uk",
+				"screen_name": "A_L_T",
+				"location": "UK",
+				"description": "The Association for Learning Technology (ALT): Improving practice – Promoting research – Influencing policy. Connecting learning technologists.",
+				"url": "http://t.co/d7hBNekdUq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/d7hBNekdUq",
+								"expanded_url": "http://www.alt.ac.uk/",
+								"display_url": "alt.ac.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10116,
+				"friends_count": 3355,
+				"listed_count": 573,
+				"created_at": "Tue May 19 21:06:36 +0000 2009",
+				"favourites_count": 2987,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 12831,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1489658713",
+				"profile_link_color": "079948",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 19 09:28:34 +0000 2017",
+		"id": 943050413963661300,
+		"id_str": "943050413963661312",
+		"text": "RT @_youhadonejob1: Rare photo of a shark stepping on a Lego. https://t.co/8iQCZWKFVi",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_youhadonejob1",
+					"name": "You Had One Job",
+					"id": 3898598357,
+					"id_str": "3898598357",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 941997999248609300,
+					"id_str": "941997999248609280",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/DRKmMHxXkAA1g30.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DRKmMHxXkAA1g30.jpg",
+					"url": "https://t.co/8iQCZWKFVi",
+					"display_url": "pic.twitter.com/8iQCZWKFVi",
+					"expanded_url": "https://twitter.com/_youhadonejob1/status/941998001790373888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 365,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 365,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 365,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 941998001790373900,
+					"source_status_id_str": "941998001790373888",
+					"source_user_id": 3898598357,
+					"source_user_id_str": "3898598357"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 941997999248609300,
+					"id_str": "941997999248609280",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/DRKmMHxXkAA1g30.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DRKmMHxXkAA1g30.jpg",
+					"url": "https://t.co/8iQCZWKFVi",
+					"display_url": "pic.twitter.com/8iQCZWKFVi",
+					"expanded_url": "https://twitter.com/_youhadonejob1/status/941998001790373888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 365,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 365,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 365,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 941998001790373900,
+					"source_status_id_str": "941998001790373888",
+					"source_user_id": 3898598357,
+					"source_user_id_str": "3898598357"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7465,
+			"friends_count": 1849,
+			"listed_count": 582,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 3663,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26377,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Dec 16 11:46:39 +0000 2017",
+			"id": 941998001790373900,
+			"id_str": "941998001790373888",
+			"text": "Rare photo of a shark stepping on a Lego. https://t.co/8iQCZWKFVi",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 941997999248609300,
+						"id_str": "941997999248609280",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/DRKmMHxXkAA1g30.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DRKmMHxXkAA1g30.jpg",
+						"url": "https://t.co/8iQCZWKFVi",
+						"display_url": "pic.twitter.com/8iQCZWKFVi",
+						"expanded_url": "https://twitter.com/_youhadonejob1/status/941998001790373888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 365,
+								"h": 360,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 365,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 365,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 941997999248609300,
+						"id_str": "941997999248609280",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/DRKmMHxXkAA1g30.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DRKmMHxXkAA1g30.jpg",
+						"url": "https://t.co/8iQCZWKFVi",
+						"display_url": "pic.twitter.com/8iQCZWKFVi",
+						"expanded_url": "https://twitter.com/_youhadonejob1/status/941998001790373888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 365,
+								"h": 360,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 365,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 365,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3898598357,
+				"id_str": "3898598357",
+				"name": "You Had One Job",
+				"screen_name": "_youhadonejob1",
+				"location": "yhojob1gmail.com",
+				"description": "You had one job and messed up plus more fun pics and vids.I do not own any content just a fan/parody*and will remove content @ copyright holders request,email",
+				"url": "https://t.co/jRKY0FMPFF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jRKY0FMPFF",
+								"expanded_url": "https://m.facebook.com/Funny-pics-377802085710502/",
+								"display_url": "m.facebook.com/Funny-pics-377…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 366336,
+				"friends_count": 255,
+				"listed_count": 2473,
+				"created_at": "Thu Oct 08 10:23:15 +0000 2015",
+				"favourites_count": 243,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4193,
+				"lang": "en-GB",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/703223013551022080/u6mVd-Tk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/703223013551022080/u6mVd-Tk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3898598357/1444300597",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 62181,
+			"favorite_count": 169198,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 62181,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Dec 18 10:05:20 +0000 2017",
 		"id": 942697280565628900,
 		"id_str": "942697280565628929",
