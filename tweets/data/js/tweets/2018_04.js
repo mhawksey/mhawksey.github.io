@@ -1,6 +1,419 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Wed Apr 11 14:29:54 +0000 2018",
+		"id": 984076076002562000,
+		"id_str": "984076076002562048",
+		"text": "RT @laurapasquini: Not at #OER18? Ways to participate remotely https://t.co/gBXnpTd1w2 by @mhawksey via @OERConf #opened #open #LTEC6040",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OER18",
+					"indices": [
+						26,
+						32
+					]
+				},
+				{
+					"text": "opened",
+					"indices": [
+						113,
+						120
+					]
+				},
+				{
+					"text": "open",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "LTEC6040",
+					"indices": [
+						127,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "laurapasquini",
+					"name": "Laura Pasquini",
+					"id": 16708242,
+					"id_str": "16708242",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						90,
+						99
+					]
+				},
+				{
+					"screen_name": "OERConf",
+					"name": "#OER18",
+					"id": 2695133612,
+					"id_str": "2695133612",
+					"indices": [
+						104,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gBXnpTd1w2",
+					"expanded_url": "https://oer18.oerconf.org/news/not-at-oer18-ways-to-participate-remotely/",
+					"display_url": "oer18.oerconf.org/news/not-at-oe…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7578,
+			"friends_count": 1892,
+			"listed_count": 586,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 3966,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26751,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 11 14:10:02 +0000 2018",
+			"id": 984071074731225100,
+			"id_str": "984071074731225088",
+			"text": "Not at #OER18? Ways to participate remotely https://t.co/gBXnpTd1w2 by @mhawksey via @OERConf #opened #open #LTEC6040",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OER18",
+						"indices": [
+							7,
+							13
+						]
+					},
+					{
+						"text": "opened",
+						"indices": [
+							94,
+							101
+						]
+					},
+					{
+						"text": "open",
+						"indices": [
+							102,
+							107
+						]
+					},
+					{
+						"text": "LTEC6040",
+						"indices": [
+							108,
+							117
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mhawksey",
+						"name": "Martin Hawksey",
+						"id": 13046992,
+						"id_str": "13046992",
+						"indices": [
+							71,
+							80
+						]
+					},
+					{
+						"screen_name": "OERConf",
+						"name": "#OER18",
+						"id": 2695133612,
+						"id_str": "2695133612",
+						"indices": [
+							85,
+							93
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/gBXnpTd1w2",
+						"expanded_url": "https://oer18.oerconf.org/news/not-at-oer18-ways-to-participate-remotely/",
+						"display_url": "oer18.oerconf.org/news/not-at-oe…",
+						"indices": [
+							44,
+							67
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16708242,
+				"id_str": "16708242",
+				"name": "Laura Pasquini",
+				"screen_name": "laurapasquini",
+				"location": "CAN~IRL~USA",
+				"description": "L&D, PhD.@UNTCOI & @RoyalRoads. digital life & PLN, #HEdigID, library, #acadv, mentoring, #socialmedia, @Networked_CoP+ Podcaster @BreakDrink & @3Wedu",
+				"url": "https://t.co/9j3oWC56W0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9j3oWC56W0",
+								"expanded_url": "https://techknowtools.com/",
+								"display_url": "techknowtools.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9776,
+				"friends_count": 5363,
+				"listed_count": 1067,
+				"created_at": "Sun Oct 12 14:51:58 +0000 2008",
+				"favourites_count": 12688,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 66573,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "A7D8F2",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/725160306775756800/0S-qyJE0.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/725160306775756800/0S-qyJE0.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/901124854325272577/rr0custo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/901124854325272577/rr0custo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16708242/1500255144",
+				"profile_link_color": "94D497",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "1BB884",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Apr 11 08:25:27 +0000 2018",
+		"id": 983984358125121500,
+		"id_str": "983984358125121537",
+		"text": "I'd love to be able to link Google Slide layouts between presentations similar to linked slides.  Posted a feat. re… https://t.co/Is3qtCQUtE",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Is3qtCQUtE",
+					"expanded_url": "https://twitter.com/i/web/status/983984358125121537",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7578,
+			"friends_count": 1892,
+			"listed_count": 586,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 3966,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26751,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Apr 10 02:20:19 +0000 2018",
 		"id": 983530084400328700,
 		"id_str": "983530084400328704",
