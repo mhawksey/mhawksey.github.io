@@ -1,6 +1,425 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sat Apr 28 19:50:47 +0000 2018",
+		"id": 990317422245765100,
+		"id_str": "990317422245765120",
+		"text": "RT @brlamb: As usual, Tannis brings a smart and unique perspective, reflecting on a provocative #oer18 conference. https://t.co/gMcOLyZywY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "oer18",
+					"indices": [
+						96,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brlamb",
+					"name": "Brian Lamb",
+					"id": 745903,
+					"id_str": "745903",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gMcOLyZywY",
+					"expanded_url": "https://twitter.com/tanbob/status/989968054846189568",
+					"display_url": "twitter.com/tanbob/status/…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7621,
+			"friends_count": 1910,
+			"listed_count": 584,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4066,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26815,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 27 21:19:39 +0000 2018",
+			"id": 989977397746286600,
+			"id_str": "989977397746286593",
+			"text": "As usual, Tannis brings a smart and unique perspective, reflecting on a provocative #oer18 conference. https://t.co/gMcOLyZywY",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "oer18",
+						"indices": [
+							84,
+							90
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gMcOLyZywY",
+						"expanded_url": "https://twitter.com/tanbob/status/989968054846189568",
+						"display_url": "twitter.com/tanbob/status/…",
+						"indices": [
+							103,
+							126
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 745903,
+				"id_str": "745903",
+				"name": "Brian Lamb",
+				"screen_name": "brlamb",
+				"location": "Kamloops, Canada",
+				"description": "Blind rage tempered by gentle incoherence. I'm a Re-Director of Innovation at Thompson Rivers University. Bombastic drummer. Displaced noise farmer.",
+				"url": "https://t.co/rljBnT2Sgb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rljBnT2Sgb",
+								"expanded_url": "http://abject.ca",
+								"display_url": "abject.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4939,
+				"friends_count": 2930,
+				"listed_count": 323,
+				"created_at": "Fri Feb 02 02:43:12 +0000 2007",
+				"favourites_count": 10017,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16099,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "539BB4",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/45772/HandOfDoom.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/45772/HandOfDoom.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/963979340542197760/-5Dh3ULA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/963979340542197760/-5Dh3ULA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/745903/1354167636",
+				"profile_link_color": "539BB4",
+				"profile_sidebar_border_color": "080D01",
+				"profile_sidebar_fill_color": "E6EBDB",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 989968054846189600,
+			"quoted_status_id_str": "989968054846189568",
+			"quoted_status": {
+				"created_at": "Fri Apr 27 20:42:31 +0000 2018",
+				"id": 989968054846189600,
+				"id_str": "989968054846189568",
+				"text": "#OER18 https://t.co/CRkR9A1xJ7 https://t.co/sQaO679IFU",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "OER18",
+							"indices": [
+								0,
+								6
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/CRkR9A1xJ7",
+							"expanded_url": "https://homonym.ca/uncategorized/oer18/",
+							"display_url": "homonym.ca/uncategorized/…",
+							"indices": [
+								7,
+								30
+							]
+						}
+					],
+					"media": [
+						{
+							"id": 989968052799225900,
+							"id_str": "989968052799225856",
+							"indices": [
+								31,
+								54
+							],
+							"media_url": "http://pbs.twimg.com/media/Db0Ssu4VQAAewgR.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/Db0Ssu4VQAAewgR.jpg",
+							"url": "https://t.co/sQaO679IFU",
+							"display_url": "pic.twitter.com/sQaO679IFU",
+							"expanded_url": "https://twitter.com/tanbob/status/989968054846189568/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 354,
+									"h": 227,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 354,
+									"h": 227,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 354,
+									"h": 227,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 989968052799225900,
+							"id_str": "989968052799225856",
+							"indices": [
+								31,
+								54
+							],
+							"media_url": "http://pbs.twimg.com/media/Db0Ssu4VQAAewgR.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/Db0Ssu4VQAAewgR.jpg",
+							"url": "https://t.co/sQaO679IFU",
+							"display_url": "pic.twitter.com/sQaO679IFU",
+							"expanded_url": "https://twitter.com/tanbob/status/989968054846189568/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 354,
+									"h": 227,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 354,
+									"h": 227,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 354,
+									"h": 227,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 10817782,
+					"id_str": "10817782",
+					"name": "Tannis Morgan",
+					"screen_name": "tanbob",
+					"location": "Vancouver, Canada",
+					"description": "Justice Institute-Centre for Teaching, Learning, & Innovation. Open Ed +OER, Ed Tech, Language + Literacy,#muralUdG, OER in other languages #olOER",
+					"url": "https://t.co/sTlP9hj8pH",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/sTlP9hj8pH",
+									"expanded_url": "http://homonym.ca",
+									"display_url": "homonym.ca",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1415,
+					"friends_count": 1152,
+					"listed_count": 112,
+					"created_at": "Mon Dec 03 18:43:21 +0000 2007",
+					"favourites_count": 2790,
+					"utc_offset": -28800,
+					"time_zone": "Alaska",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 6665,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C6E2EE",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/46160330/cat_race_and_princess.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/46160330/cat_race_and_princess.jpg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/530559772/twitterProfilePhoto_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/530559772/twitterProfilePhoto_normal.jpg",
+					"profile_link_color": "1F98C7",
+					"profile_sidebar_border_color": "C6E2EE",
+					"profile_sidebar_fill_color": "DAECF4",
+					"profile_text_color": "663B12",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3,
+				"favorite_count": 10,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "und"
+			},
+			"retweet_count": 2,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 989968054846189600,
+		"quoted_status_id_str": "989968054846189568",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Apr 27 19:32:15 +0000 2018",
 		"id": 989950372516114400,
 		"id_str": "989950372516114432",
