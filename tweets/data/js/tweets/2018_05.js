@@ -1,6 +1,321 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Thu May 17 08:06:32 +0000 2018",
+		"id": 997025561896681500,
+		"id_str": "997025561896681472",
+		"text": "RT @glynnmark: All these competency frameworks are free for you to import into your moodle instance , if you have created frameworks please…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "glynnmark",
+					"name": "Mark Glynn",
+					"id": 80048517,
+					"id_str": "80048517",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7645,
+			"friends_count": 1918,
+			"listed_count": 583,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4099,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26872,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68812920/Untitled-1.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 17 07:58:52 +0000 2018",
+			"id": 997023634043691000,
+			"id_str": "997023634043691008",
+			"text": "All these competency frameworks are free for you to import into your moodle instance , if you have created framewor… https://t.co/yQryyFlh3y",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/yQryyFlh3y",
+						"expanded_url": "https://twitter.com/i/web/status/997023634043691008",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 80048517,
+				"id_str": "80048517",
+				"name": "Mark Glynn",
+				"screen_name": "glynnmark",
+				"location": "Dublin, Ireland",
+				"description": "Head of Teaching Enhancement Unit in Dublin City University. I manage both organisational and pedagogical projects to improve the learner experience.",
+				"url": "http://t.co/UbK3OkFPfx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/UbK3OkFPfx",
+								"expanded_url": "http://enhancingteaching.com/",
+								"display_url": "enhancingteaching.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2761,
+				"friends_count": 1592,
+				"listed_count": 161,
+				"created_at": "Mon Oct 05 15:18:27 +0000 2009",
+				"favourites_count": 2448,
+				"utc_offset": 3600,
+				"time_zone": "Dublin",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9660,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/529948451207802882/Pe5Sr-mQ.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/529948451207802882/Pe5Sr-mQ.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/566153622505803776/l6v-tm3m_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/566153622505803776/l6v-tm3m_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/80048517/1443197488",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 997022887155466200,
+			"quoted_status_id_str": "997022887155466240",
+			"quoted_status": {
+				"created_at": "Thu May 17 07:55:54 +0000 2018",
+				"id": 997022887155466200,
+				"id_str": "997022887155466240",
+				"text": "#Moodle includes support for many features designed to support Competency Based Education. Competency frameworks ar… https://t.co/NrPTFLd97a",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "Moodle",
+							"indices": [
+								0,
+								7
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/NrPTFLd97a",
+							"expanded_url": "https://twitter.com/i/web/status/997022887155466240",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 80048517,
+					"id_str": "80048517",
+					"name": "Mark Glynn",
+					"screen_name": "glynnmark",
+					"location": "Dublin, Ireland",
+					"description": "Head of Teaching Enhancement Unit in Dublin City University. I manage both organisational and pedagogical projects to improve the learner experience.",
+					"url": "http://t.co/UbK3OkFPfx",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/UbK3OkFPfx",
+									"expanded_url": "http://enhancingteaching.com/",
+									"display_url": "enhancingteaching.com",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 2761,
+					"friends_count": 1592,
+					"listed_count": 161,
+					"created_at": "Mon Oct 05 15:18:27 +0000 2009",
+					"favourites_count": 2448,
+					"utc_offset": 3600,
+					"time_zone": "Dublin",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 9660,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/529948451207802882/Pe5Sr-mQ.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/529948451207802882/Pe5Sr-mQ.jpeg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/566153622505803776/l6v-tm3m_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/566153622505803776/l6v-tm3m_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/80048517/1443197488",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 7,
+				"favorite_count": 9,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 5,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 997022887155466200,
+		"quoted_status_id_str": "997022887155466240",
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed May 16 15:59:18 +0000 2018",
 		"id": 996782149998129200,
 		"id_str": "996782149998129152",
