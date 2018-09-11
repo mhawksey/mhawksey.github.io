@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Mon Sep 10 09:57:07 +0000 2018",
+		"id": 1039090382716510200,
+		"id_str": "1039090382716510208",
+		"text": "RT @catherinecronin: Are you interested in participating in #OER19 in #Galway next April? Call for Proposals will be out soon, but you can…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OER19",
+					"indices": [
+						60,
+						66
+					]
+				},
+				{
+					"text": "Galway",
+					"indices": [
+						70,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "catherinecronin",
+					"name": "Dr. Catherine Cronin",
+					"id": 59833587,
+					"id_str": "59833587",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7739,
+			"friends_count": 2001,
+			"listed_count": 589,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4436,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27234,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Sep 10 07:16:49 +0000 2018",
+			"id": 1039050041221165000,
+			"id_str": "1039050041221165056",
+			"text": "Are you interested in participating in #OER19 in #Galway next April? Call for Proposals will be out soon, but you c… https://t.co/hvEFHUTDgP",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OER19",
+						"indices": [
+							39,
+							45
+						]
+					},
+					{
+						"text": "Galway",
+						"indices": [
+							49,
+							56
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/hvEFHUTDgP",
+						"expanded_url": "https://twitter.com/i/web/status/1039050041221165056",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 59833587,
+				"id_str": "59833587",
+				"name": "Dr. Catherine Cronin",
+				"screen_name": "catherinecronin",
+				"location": "Galway, Ireland",
+				"description": "open educator/researcher, PhD. thinking about open educational practices #oep, digital identity, equality, social justice. @CELTnuigalway #GO_GN #UnboundEq",
+				"url": "https://t.co/3UQJVy9yLt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3UQJVy9yLt",
+								"expanded_url": "http://catherinecronin.net/",
+								"display_url": "catherinecronin.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8634,
+				"friends_count": 3590,
+				"listed_count": 551,
+				"created_at": "Fri Jul 24 17:08:17 +0000 2009",
+				"favourites_count": 45034,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 33099,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "594F4F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/834092252490145797/OQLf_CqL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/834092252490145797/OQLf_CqL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/59833587/1531151665",
+				"profile_link_color": "2F72C4",
+				"profile_sidebar_border_color": "E5FCC2",
+				"profile_sidebar_fill_color": "9DE0AD",
+				"profile_text_color": "547980",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 29,
+			"favorite_count": 37,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Sep 09 11:49:33 +0000 2018",
 		"id": 1038756291840286700,
 		"id_str": "1038756291840286722",
