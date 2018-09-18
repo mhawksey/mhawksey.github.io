@@ -1,6 +1,386 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Mon Sep 17 15:15:59 +0000 2018",
+		"id": 1041707343791235100,
+		"id_str": "1041707343791235072",
+		"text": "RT @DustinHosseini: #highered #lthechat https://t.co/UODwsXFvNe",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "highered",
+					"indices": [
+						20,
+						29
+					]
+				},
+				{
+					"text": "lthechat",
+					"indices": [
+						30,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DustinHosseini",
+					"name": "Dustin Hosseini",
+					"id": 1066619394,
+					"id_str": "1066619394",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UODwsXFvNe",
+					"expanded_url": "https://twitter.com/SHEDScotland/status/1041679583643357184",
+					"display_url": "twitter.com/SHEDScotland/s…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | Google Expert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "http://t.co/l60kPN56DA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l60kPN56DA",
+							"expanded_url": "http://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7765,
+			"friends_count": 2013,
+			"listed_count": 589,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4565,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27290,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Sep 17 15:02:13 +0000 2018",
+			"id": 1041703881711996900,
+			"id_str": "1041703881711996928",
+			"text": "#highered #lthechat https://t.co/UODwsXFvNe",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "highered",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"text": "lthechat",
+						"indices": [
+							10,
+							19
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/UODwsXFvNe",
+						"expanded_url": "https://twitter.com/SHEDScotland/status/1041679583643357184",
+						"display_url": "twitter.com/SHEDScotland/s…",
+						"indices": [
+							20,
+							43
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1066619394,
+				"id_str": "1066619394",
+				"name": "Dustin Hosseini",
+				"screen_name": "DustinHosseini",
+				"location": "",
+				"description": "Digital education, learning & teaching and academic literacies. Coffee. Photography. FHEA. Tweets mine. Instagram: DustinOfGlasgow",
+				"url": "https://t.co/GALooWWGks",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GALooWWGks",
+								"expanded_url": "https://lancaster.academia.edu/DustinHosseini",
+								"display_url": "lancaster.academia.edu/DustinHosseini",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 677,
+				"friends_count": 865,
+				"listed_count": 50,
+				"created_at": "Sun Jan 06 20:28:17 +0000 2013",
+				"favourites_count": 974,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6400,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/702582280326397955/qAjVJ91C_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/702582280326397955/qAjVJ91C_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1066619394/1524080809",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "37aa02b9b040fa60",
+				"url": "https://api.twitter.com/1.1/geo/id/37aa02b9b040fa60.json",
+				"place_type": "city",
+				"name": "Lancaster",
+				"full_name": "Lancaster, England",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-2.829936,
+								54.020096
+							],
+							[
+								-2.775624,
+								54.020096
+							],
+							[
+								-2.775624,
+								54.0681
+							],
+							[
+								-2.829936,
+								54.0681
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1041679583643357200,
+			"quoted_status_id_str": "1041679583643357184",
+			"quoted_status": {
+				"created_at": "Mon Sep 17 13:25:40 +0000 2018",
+				"id": 1041679583643357200,
+				"id_str": "1041679583643357184",
+				"text": "SHED 27th September 2018 University Of The West Of Scotland Paisley Campus – A Sense Of Belonging – What Does It Me… https://t.co/UwnEbfh3Vc",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/UwnEbfh3Vc",
+							"expanded_url": "https://twitter.com/i/web/status/1041679583643357184",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 68657662,
+					"id_str": "68657662",
+					"name": "ScottishHEdevelopers",
+					"screen_name": "SHEDScotland",
+					"location": "Scotland",
+					"description": "We are the Scottish Higher Educational Developers",
+					"url": "http://t.co/aaUUtvZiri",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/aaUUtvZiri",
+									"expanded_url": "http://www.scottishhedevelopers.wordpress.com",
+									"display_url": "scottishhedevelopers.wordpress.com",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 207,
+					"friends_count": 180,
+					"listed_count": 5,
+					"created_at": "Tue Aug 25 10:07:56 +0000 2009",
+					"favourites_count": 56,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 134,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/491586602573910016/vFR7i0IA_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/491586602573910016/vFR7i0IA_normal.png",
+					"profile_link_color": "005EB8",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "FFF7CC",
+					"profile_text_color": "0C3E53",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 1,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1041679583643357200,
+		"quoted_status_id_str": "1041679583643357184",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sun Sep 16 19:26:34 +0000 2018",
 		"id": 1041408016107675600,
 		"id_str": "1041408016107675648",
