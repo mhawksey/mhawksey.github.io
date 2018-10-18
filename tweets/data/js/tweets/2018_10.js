@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Wed Oct 17 06:14:33 +0000 2018",
+		"id": 1052442722034995200,
+		"id_str": "1052442722034995200",
+		"full_text": "@CosmoCat @psychemedia ... less impressive when you know it's just text to speech of a Wikipedia entry ... I mostly wrote https://t.co/29Gmvp1oSH ;)",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CosmoCat",
+					"name": "Chahira Nouira",
+					"id": 20323362,
+					"id_str": "20323362",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "psychemedia",
+					"name": "Tony Hirst",
+					"id": 7129072,
+					"id_str": "7129072",
+					"indices": [
+						10,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/29Gmvp1oSH",
+					"expanded_url": "https://en.wikipedia.org/wiki/Twitter_subtitling",
+					"display_url": "en.wikipedia.org/wiki/Twitter_s…",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1052285929879162900,
+		"in_reply_to_status_id_str": "1052285929879162881",
+		"in_reply_to_user_id": 20323362,
+		"in_reply_to_user_id_str": "20323362",
+		"in_reply_to_screen_name": "CosmoCat",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7817,
+			"friends_count": 2033,
+			"listed_count": 590,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27398,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@CosmoCat @psychemedia ... less impressive when you know it's just text to speech of a Wikipedia entry ... I mostly wrote https://t.co/29Gmvp1oSH ;)"
+	},
+	{
 		"created_at": "Tue Oct 16 19:51:30 +0000 2018",
 		"id": 1052285928985808900,
 		"id_str": "1052285928985808896",
