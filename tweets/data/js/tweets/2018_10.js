@@ -1,6 +1,766 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Tue Oct 23 14:06:05 +0000 2018",
+		"id": 1054735716679323600,
+		"id_str": "1054735716679323650",
+		"full_text": "Do come along! #altc #research #CCpedagogy https://t.co/07l0PToLXc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						15,
+						20
+					]
+				},
+				{
+					"text": "research",
+					"indices": [
+						21,
+						30
+					]
+				},
+				{
+					"text": "CCpedagogy",
+					"indices": [
+						31,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/07l0PToLXc",
+					"expanded_url": "https://twitter.com/A_L_T/status/1054730471677018112",
+					"display_url": "twitter.com/A_L_T/status/1…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19557144,
+			"id_str": "19557144",
+			"name": "✿Caroline Kuhn H✿",
+			"screen_name": "carolak",
+			"location": "Bath, United Kingdom",
+			"description": "Educator |#ITwomen | #GO_GN |#m25ltg| OpenEd | PhD researcher looking @ agency in Open Learning Spaces| students' perspective| Ed (∞.∞) |https://t.co/RvhH07XrIa",
+			"url": "https://t.co/fdRhGcybVq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fdRhGcybVq",
+							"expanded_url": "https://about.me/carolinekuhn",
+							"display_url": "about.me/carolinekuhn",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RvhH07XrIa",
+							"expanded_url": "http://orcid.org/0000-0003-0393-6093",
+							"display_url": "orcid.org/0000-0003-0393…",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 805,
+			"friends_count": 1150,
+			"listed_count": 80,
+			"created_at": "Mon Jan 26 20:57:04 +0000 2009",
+			"favourites_count": 4056,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5195,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0D888C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875128702190985216/WnDMyfED_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875128702190985216/WnDMyfED_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19557144/1398620546",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1054730471677018100,
+		"quoted_status_id_str": "1054730471677018112",
+		"quoted_status_permalink": {
+			"url": "https://t.co/07l0PToLXc",
+			"expanded": "https://twitter.com/A_L_T/status/1054730471677018112",
+			"display": "twitter.com/A_L_T/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 23 13:45:15 +0000 2018",
+			"id": 1054730471677018100,
+			"id_str": "1054730471677018112",
+			"full_text": "Read a special feature on this week's @A_L_T webinar 'Reaching Out to Rural Africa', free to attend on Wednesday, 24 October #altc #research https://t.co/SYgeqm7PFU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				164
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "altc",
+						"indices": [
+							125,
+							130
+						]
+					},
+					{
+						"text": "research",
+						"indices": [
+							131,
+							140
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "A_L_T",
+						"name": "ALT - alt.ac.uk",
+						"id": 41210876,
+						"id_str": "41210876",
+						"indices": [
+							38,
+							44
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/SYgeqm7PFU",
+						"expanded_url": "https://www.alt.ac.uk/news/all_news/special-feature-weeks-webinar-reaching-out-rural-africa",
+						"display_url": "alt.ac.uk/news/all_news/…",
+						"indices": [
+							141,
+							164
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41210876,
+				"id_str": "41210876",
+				"name": "ALT - alt.ac.uk",
+				"screen_name": "A_L_T",
+				"location": "UK",
+				"description": "The Association for Learning Technology (ALT): Improving practice – Promoting research – Influencing policy. Connecting learning technologists.",
+				"url": "http://t.co/d7hBNekdUq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/d7hBNekdUq",
+								"expanded_url": "http://www.alt.ac.uk/",
+								"display_url": "alt.ac.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11088,
+				"friends_count": 3418,
+				"listed_count": 584,
+				"created_at": "Tue May 19 21:06:36 +0000 2009",
+				"favourites_count": 4541,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 15906,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1489658713",
+				"profile_link_color": "079948",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Do come along! #altc #research #CCpedagogy https://t.co/07l0PToLXc"
+	},
+	{
+		"created_at": "Tue Oct 23 10:22:40 +0000 2018",
+		"id": 1054679493263220700,
+		"id_str": "1054679493263220736",
+		"full_text": "Hallo! Has anyone out there anything useful they can share? Anyone using / offering JetPack within an institutional WordPress setup? @pressedconf @openetc @A_L_T https://t.co/cm6XeIHLIJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pressedconf",
+					"name": "PressED Conf - A tweeting WordPress conference",
+					"id": 950354717212897300,
+					"id_str": "950354717212897280",
+					"indices": [
+						133,
+						145
+					]
+				},
+				{
+					"screen_name": "openetc",
+					"name": "openetc",
+					"id": 979007479043579900,
+					"id_str": "979007479043579904",
+					"indices": [
+						146,
+						154
+					]
+				},
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						155,
+						161
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cm6XeIHLIJ",
+					"expanded_url": "https://twitter.com/karenhowie2008/status/1054672367316807680",
+					"display_url": "twitter.com/karenhowie2008…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22673907,
+			"id_str": "22673907",
+			"name": "Anne-Marie Scott",
+			"screen_name": "ammienoot",
+			"location": "Edinburgh",
+			"description": "Edtech lady leader @EdinburghUni | @Apereo Board | Mansfield Traquair Trust | @girlgeekscotland. Art, books, rural living, piffle & nonsense. Views mine.",
+			"url": "https://t.co/QNuHpiA76g",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QNuHpiA76g",
+							"expanded_url": "http://ammienoot.com",
+							"display_url": "ammienoot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1602,
+			"friends_count": 2592,
+			"listed_count": 116,
+			"created_at": "Tue Mar 03 20:30:51 +0000 2009",
+			"favourites_count": 12926,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1010827648728215552/IMrHrfAA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1010827648728215552/IMrHrfAA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22673907/1493487259",
+			"profile_link_color": "8F9E70",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1054672367316807700,
+		"quoted_status_id_str": "1054672367316807680",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cm6XeIHLIJ",
+			"expanded": "https://twitter.com/karenhowie2008/status/1054672367316807680",
+			"display": "twitter.com/karenhowie2008…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 23 09:54:21 +0000 2018",
+			"id": 1054672367316807700,
+			"id_str": "1054672367316807680",
+			"full_text": "Involved in our fab new WordPress platform roll out. Considering JetPack, has lots of cool features but less convinced about the copy of the sites it keeps on the cloud and the difficulty managing the plugin. Do you use it? If not, what’s the alternative? @ammienoot @baldcyclist",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ammienoot",
+						"name": "Anne-Marie Scott",
+						"id": 22673907,
+						"id_str": "22673907",
+						"indices": [
+							256,
+							266
+						]
+					},
+					{
+						"screen_name": "baldcyclist",
+						"name": "Baldcyclist",
+						"id": 66652156,
+						"id_str": "66652156",
+						"indices": [
+							267,
+							279
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15313036,
+				"id_str": "15313036",
+				"name": "Karen Howie",
+				"screen_name": "karenhowie2008",
+				"location": "Edinburgh",
+				"description": "Tech. Enhanced Learning, Information Services, University of Edinburgh| https://t.co/YYVkpDewR5",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/YYVkpDewR5",
+								"expanded_url": "https://www.flickr.com/photos/karenhowie/",
+								"display_url": "flickr.com/photos/karenho…",
+								"indices": [
+									72,
+									95
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 225,
+				"friends_count": 266,
+				"listed_count": 3,
+				"created_at": "Thu Jul 03 22:02:39 +0000 2008",
+				"favourites_count": 1299,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 353,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1002315421960359938/qfuLRsCB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1002315421960359938/qfuLRsCB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15313036/1527805596",
+				"profile_link_color": "745191",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hallo! Has anyone out there anything useful they can share? Anyone using / offering JetPack within an institutional WordPress setup? @pressedconf @openetc @A_L_T https://t.co/cm6XeIHLIJ"
+	},
+	{
+		"created_at": "Sat Oct 20 03:09:57 +0000 2018",
+		"id": 1053483429424095200,
+		"id_str": "1053483429424095232",
+		"full_text": "観た！良かった！（小並感）\n動画の前半6:00~、本国のCloudNEXTにて発表されたというGASのECMAScript 2017対応に関して初耳だったのでソースを検索\nhttps://t.co/KurGnybKRj\nGASでasync/await使えるとかかなり胸熱\n影響範囲の大きな変更だし１年は待たされる事になるだろうが超期待 https://t.co/9Pj16nzGEM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KurGnybKRj",
+					"expanded_url": "https://mashe.hawksey.info/2018/07/notes-on-the-future-of-google-apps-script-from-google-cloud-next-18-googlenext18/",
+					"display_url": "mashe.hawksey.info/2018/07/notes-…",
+					"indices": [
+						86,
+						109
+					]
+				},
+				{
+					"url": "https://t.co/9Pj16nzGEM",
+					"expanded_url": "https://twitter.com/_tanabee/status/1050623190605524993",
+					"display_url": "twitter.com/_tanabee/statu…",
+					"indices": [
+						168,
+						191
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2854036890,
+			"id_str": "2854036890",
+			"name": "Tryforth",
+			"screen_name": "tryforth",
+			"location": "",
+			"description": "一期一会で良いんじゃない？",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21,
+			"friends_count": 47,
+			"listed_count": 2,
+			"created_at": "Mon Oct 13 07:50:08 +0000 2014",
+			"favourites_count": 178,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 800,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1002559495040425984/dC4ZuSqP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1002559495040425984/dC4ZuSqP_normal.jpg",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1050623190605525000,
+		"quoted_status_id_str": "1050623190605524993",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9Pj16nzGEM",
+			"expanded": "https://twitter.com/_tanabee/status/1050623190605524993",
+			"display": "twitter.com/_tanabee/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 12 05:44:22 +0000 2018",
+			"id": 1050623190605525000,
+			"id_str": "1050623190605524993",
+			"full_text": "Google Cloud Next '18 in Tokyo のセッション動画（Google Apps Script で始める RPA）が公開されました！ #GoogleNext18 #GoogleAppsScript\nhttps://t.co/6nojU2C66j",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				133
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GoogleNext18",
+						"indices": [
+							78,
+							91
+						]
+					},
+					{
+						"text": "GoogleAppsScript",
+						"indices": [
+							92,
+							109
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6nojU2C66j",
+						"expanded_url": "https://www.youtube.com/watch?v=_8s-ZaS0LLg",
+						"display_url": "youtube.com/watch?v=_8s-Za…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2583239262,
+				"id_str": "2583239262",
+				"name": "tanabee",
+				"screen_name": "_tanabee",
+				"location": "",
+				"description": "グロービスでリードエンジニアをやってます。\nJavaScript (特に GAS) / Swift / Python あたりが得意。",
+				"url": "https://t.co/0MyG6RGL2j",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0MyG6RGL2j",
+								"expanded_url": "https://qiita.com/tanabee",
+								"display_url": "qiita.com/tanabee",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 225,
+				"friends_count": 44,
+				"listed_count": 2,
+				"created_at": "Mon Jun 23 03:29:16 +0000 2014",
+				"favourites_count": 555,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 245,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/583178906456301568/Z5y6A7WZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/583178906456301568/Z5y6A7WZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2583239262/1471275097",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "観た！良かった！（小並感）\n動画の前半6:00~、本国のCloudNEXTにて発表されたというGASのECMAScript 2017対応に関して初耳だったのでソースを検索\nhttps://t.co/KurGnybKRj\nGASでasync/await使えるとかかなり胸熱\n影響範囲の大きな変更だし１年は待たされる事になるだろうが超期待 https://t.co/9Pj16nzGEM"
+	},
+	{
 		"created_at": "Sat Oct 20 05:37:37 +0000 2018",
 		"id": 1053520593876930600,
 		"id_str": "1053520593876930561",
