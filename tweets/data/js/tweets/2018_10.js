@@ -553,6 +553,282 @@ Grailbird.data.tweets_2018_10 =
 		"text": "Do come along! #altc #research #CCpedagogy https://t.co/07l0PToLXc"
 	},
 	{
+		"created_at": "Tue Oct 23 14:06:05 +0000 2018",
+		"id": 1054735716679323600,
+		"id_str": "1054735716679323650",
+		"full_text": "Do come along! #altc #research #CCpedagogy https://t.co/07l0PToLXc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						15,
+						20
+					]
+				},
+				{
+					"text": "research",
+					"indices": [
+						21,
+						30
+					]
+				},
+				{
+					"text": "CCpedagogy",
+					"indices": [
+						31,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/07l0PToLXc",
+					"expanded_url": "https://twitter.com/A_L_T/status/1054730471677018112",
+					"display_url": "twitter.com/A_L_T/status/1…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19557144,
+			"id_str": "19557144",
+			"name": "✿Caroline Kuhn H✿",
+			"screen_name": "carolak",
+			"location": "Bath, United Kingdom",
+			"description": "Educator |#ITwomen | #GO_GN |#m25ltg| OpenEd | PhD researcher looking @ agency in Open Learning Spaces| students' perspective| Ed (∞.∞) |https://t.co/RvhH07XrIa",
+			"url": "https://t.co/fdRhGcybVq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fdRhGcybVq",
+							"expanded_url": "https://about.me/carolinekuhn",
+							"display_url": "about.me/carolinekuhn",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RvhH07XrIa",
+							"expanded_url": "http://orcid.org/0000-0003-0393-6093",
+							"display_url": "orcid.org/0000-0003-0393…",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 805,
+			"friends_count": 1150,
+			"listed_count": 80,
+			"created_at": "Mon Jan 26 20:57:04 +0000 2009",
+			"favourites_count": 4056,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5195,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0D888C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875128702190985216/WnDMyfED_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875128702190985216/WnDMyfED_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19557144/1398620546",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1054730471677018100,
+		"quoted_status_id_str": "1054730471677018112",
+		"quoted_status_permalink": {
+			"url": "https://t.co/07l0PToLXc",
+			"expanded": "https://twitter.com/A_L_T/status/1054730471677018112",
+			"display": "twitter.com/A_L_T/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 23 13:45:15 +0000 2018",
+			"id": 1054730471677018100,
+			"id_str": "1054730471677018112",
+			"full_text": "Read a special feature on this week's @A_L_T webinar 'Reaching Out to Rural Africa', free to attend on Wednesday, 24 October #altc #research https://t.co/SYgeqm7PFU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				164
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "altc",
+						"indices": [
+							125,
+							130
+						]
+					},
+					{
+						"text": "research",
+						"indices": [
+							131,
+							140
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "A_L_T",
+						"name": "ALT - alt.ac.uk",
+						"id": 41210876,
+						"id_str": "41210876",
+						"indices": [
+							38,
+							44
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/SYgeqm7PFU",
+						"expanded_url": "https://www.alt.ac.uk/news/all_news/special-feature-weeks-webinar-reaching-out-rural-africa",
+						"display_url": "alt.ac.uk/news/all_news/…",
+						"indices": [
+							141,
+							164
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41210876,
+				"id_str": "41210876",
+				"name": "ALT - alt.ac.uk",
+				"screen_name": "A_L_T",
+				"location": "UK",
+				"description": "The Association for Learning Technology (ALT): Improving practice – Promoting research – Influencing policy. Connecting learning technologists.",
+				"url": "http://t.co/d7hBNekdUq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/d7hBNekdUq",
+								"expanded_url": "http://www.alt.ac.uk/",
+								"display_url": "alt.ac.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11088,
+				"friends_count": 3418,
+				"listed_count": 584,
+				"created_at": "Tue May 19 21:06:36 +0000 2009",
+				"favourites_count": 4541,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 15906,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1489658713",
+				"profile_link_color": "079948",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Do come along! #altc #research #CCpedagogy https://t.co/07l0PToLXc"
+	},
+	{
 		"created_at": "Tue Oct 23 10:22:40 +0000 2018",
 		"id": 1054679493263220700,
 		"id_str": "1054679493263220736",
