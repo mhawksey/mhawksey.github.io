@@ -262,6 +262,267 @@ Grailbird.data.tweets_2018_10 =
 		"text": "PressEd Folks check out @wpcampusorg https://t.co/3GoPTB0BYj"
 	},
 	{
+		"created_at": "Tue Oct 23 22:31:33 +0000 2018",
+		"id": 1054862923120762900,
+		"id_str": "1054862923120762880",
+		"full_text": "PressEd Folks check out @wpcampusorg https://t.co/3GoPTB0BYj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wpcampusorg",
+					"name": "WPCampus",
+					"id": 3693311536,
+					"id_str": "3693311536",
+					"indices": [
+						24,
+						36
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3GoPTB0BYj",
+					"expanded_url": "https://twitter.com/wpcampusorg/status/1054851220592971776?s=19",
+					"display_url": "twitter.com/wpcampusorg/st…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 950354717212897300,
+			"id_str": "950354717212897280",
+			"name": "PressED Conf - A tweeting WordPress conference",
+			"screen_name": "pressedconf",
+			"location": "",
+			"description": "A WordPress Twitter Conference on all things education, pedagogy and research - first ran March 2018. Organisers @nlafferty and @pgogy",
+			"url": "https://t.co/sMvg2ghvf9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sMvg2ghvf9",
+							"expanded_url": "http://pressedconf.org",
+							"display_url": "pressedconf.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 547,
+			"friends_count": 929,
+			"listed_count": 4,
+			"created_at": "Mon Jan 08 13:13:16 +0000 2018",
+			"favourites_count": 535,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1089,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/950872787018756096/unqqOc3z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/950872787018756096/unqqOc3z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/950354717212897280/1515540525",
+			"profile_link_color": "00FFFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1054851220592971800,
+		"quoted_status_id_str": "1054851220592971776",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3GoPTB0BYj",
+			"expanded": "https://twitter.com/wpcampusorg/status/1054851220592971776?s=19",
+			"display": "twitter.com/wpcampusorg/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 23 21:45:03 +0000 2018",
+			"id": 1054851220592971800,
+			"id_str": "1054851220592971776",
+			"full_text": "The date for #WPCampus Online 2019 has been set for Thursday, January 31, 2019. Stay tuned to the website, social media, and mailing list for more information. Call for speakers will open soon. #heweb #HigherEd https://t.co/hTvX8qnrh9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				234
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WPCampus",
+						"indices": [
+							13,
+							22
+						]
+					},
+					{
+						"text": "heweb",
+						"indices": [
+							194,
+							200
+						]
+					},
+					{
+						"text": "HigherEd",
+						"indices": [
+							201,
+							210
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/hTvX8qnrh9",
+						"expanded_url": "https://online.wpcampus.org/",
+						"display_url": "online.wpcampus.org",
+						"indices": [
+							211,
+							234
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://socialwebsuite.com\" rel=\"nofollow\">Social Web Suite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3693311536,
+				"id_str": "3693311536",
+				"name": "WPCampus",
+				"screen_name": "wpcampusorg",
+				"location": "The Internet",
+				"description": "A community and conferences for #WordPress in #highered. Join us in St. Louis July 12-14 for our annual #WPCampus conference! https://t.co/ME3Yu3hyLO",
+				"url": "https://t.co/9bjvOB1via",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9bjvOB1via",
+								"expanded_url": "https://wpcampus.org/",
+								"display_url": "wpcampus.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ME3Yu3hyLO",
+								"expanded_url": "https://2018.wpcampus.org",
+								"display_url": "2018.wpcampus.org",
+								"indices": [
+									126,
+									149
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1648,
+				"friends_count": 428,
+				"listed_count": 191,
+				"created_at": "Fri Sep 18 05:20:14 +0000 2015",
+				"favourites_count": 1954,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3487,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/646541604229148674/lkxlqkVS_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/646541604229148674/lkxlqkVS_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3693311536/1442982325",
+				"profile_link_color": "1159BD",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "PressEd Folks check out @wpcampusorg https://t.co/3GoPTB0BYj"
+	},
+	{
 		"created_at": "Tue Oct 23 14:06:05 +0000 2018",
 		"id": 1054735716679323600,
 		"id_str": "1054735716679323650",
