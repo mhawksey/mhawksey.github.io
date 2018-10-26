@@ -260,6 +260,584 @@ Grailbird.data.tweets_2018_10 =
 					}
 				},
 				"protected": false,
+				"followers_count": 90883,
+				"friends_count": 157,
+				"listed_count": 1345,
+				"created_at": "Fri Feb 10 18:36:44 +0000 2012",
+				"favourites_count": 2705,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6260,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/940690364410748929/erFsVrcc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/940690364410748929/erFsVrcc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/488683847/1462378899",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 377,
+			"favorite_count": 615,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Start a new Doc, Spreadsheet, Slideshow, Site, or Form in just a few seconds. This is awesome!\n#GoogleEDU #edtech https://t.co/F1GZRJ54CC"
+	},
+	{
+		"created_at": "Thu Oct 25 21:10:13 +0000 2018",
+		"id": 1055567229490741200,
+		"id_str": "1055567229490741248",
+		"full_text": "Introduction to building conversational interfaces with Dialogflow in Google Apps Script powered Google Hangouts Chat bots https://t.co/KtgNb43MKe #GSuiteDev #GoogleAppsScript @Dialogflow",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSuiteDev",
+					"indices": [
+						147,
+						157
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						158,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dialogflow",
+					"name": "Dialogflow",
+					"id": 2774598458,
+					"id_str": "2774598458",
+					"indices": [
+						176,
+						187
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KtgNb43MKe",
+					"expanded_url": "https://mashe.hawksey.info/2018/10/introduction-to-building-conversational-interfaces-with-dialogflow-in-google-apps-script-powered-google-hangouts-chat-bots/",
+					"display_url": "mashe.hawksey.info/2018/10/introd…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7826,
+			"friends_count": 2035,
+			"listed_count": 590,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4673,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27413,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Introduction to building conversational interfaces with Dialogflow in Google Apps Script powered Google Hangouts Chat bots https://t.co/KtgNb43MKe #GSuiteDev #GoogleAppsScript @Dialogflow"
+	},
+	{
+		"created_at": "Thu Oct 25 21:10:13 +0000 2018",
+		"id": 1055567229490741200,
+		"id_str": "1055567229490741248",
+		"full_text": "Introduction to building conversational interfaces with Dialogflow in Google Apps Script powered Google Hangouts Chat bots https://t.co/KtgNb43MKe #GSuiteDev #GoogleAppsScript @Dialogflow",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSuiteDev",
+					"indices": [
+						147,
+						157
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						158,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dialogflow",
+					"name": "Dialogflow",
+					"id": 2774598458,
+					"id_str": "2774598458",
+					"indices": [
+						176,
+						187
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KtgNb43MKe",
+					"expanded_url": "https://mashe.hawksey.info/2018/10/introduction-to-building-conversational-interfaces-with-dialogflow-in-google-apps-script-powered-google-hangouts-chat-bots/",
+					"display_url": "mashe.hawksey.info/2018/10/introd…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7826,
+			"friends_count": 2035,
+			"listed_count": 590,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4673,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27413,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Introduction to building conversational interfaces with Dialogflow in Google Apps Script powered Google Hangouts Chat bots https://t.co/KtgNb43MKe #GSuiteDev #GoogleAppsScript @Dialogflow"
+	},
+	{
+		"created_at": "Thu Oct 25 16:16:14 +0000 2018",
+		"id": 1055493245428490200,
+		"id_str": "1055493245428490242",
+		"full_text": "Start a new Doc, Spreadsheet, Slideshow, Site, or Form in just a few seconds. This is awesome!\n#GoogleEDU #edtech https://t.co/F1GZRJ54CC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleEDU",
+					"indices": [
+						95,
+						105
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						106,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F1GZRJ54CC",
+					"expanded_url": "https://twitter.com/googledocs/status/1055490445088903168",
+					"display_url": "twitter.com/googledocs/sta…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2494320229,
+			"id_str": "2494320229",
+			"name": "Matt Knoll",
+			"screen_name": "knollmatt",
+			"location": "Crystal Lake, IL",
+			"description": "A passionate technologist who seeks to help others achieve their dreams. #D155Inspire #GoogleEDU #GoogleET",
+			"url": "https://t.co/MfZDd2WTES",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MfZDd2WTES",
+							"expanded_url": "http://knoll.tech",
+							"display_url": "knoll.tech",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 181,
+			"friends_count": 226,
+			"listed_count": 9,
+			"created_at": "Wed May 14 15:55:06 +0000 2014",
+			"favourites_count": 252,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 287,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/632272928365780993/Edkwk8fB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/632272928365780993/Edkwk8fB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2494320229/1400083038",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1055490445088903200,
+		"quoted_status_id_str": "1055490445088903168",
+		"quoted_status_permalink": {
+			"url": "https://t.co/F1GZRJ54CC",
+			"expanded": "https://twitter.com/googledocs/status/1055490445088903168",
+			"display": "twitter.com/googledocs/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 25 16:05:06 +0000 2018",
+			"id": 1055490445088903200,
+			"id_str": "1055490445088903168",
+			"full_text": "Introducing a ✨ .new ✨ time-saving trick for users. Type any of these .new domains to instantly create Docs, Sheets, Slides, Sites or Forms ↓ https://t.co/erMTHOsdyH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				141
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1055490419272925200,
+						"id_str": "1055490419272925184",
+						"indices": [
+							142,
+							165
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DqXa8bCXQAA3wDX.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DqXa8bCXQAA3wDX.jpg",
+						"url": "https://t.co/erMTHOsdyH",
+						"display_url": "pic.twitter.com/erMTHOsdyH",
+						"expanded_url": "https://twitter.com/googledocs/status/1055490445088903168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1055490419272925200,
+						"id_str": "1055490419272925184",
+						"indices": [
+							142,
+							165
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DqXa8bCXQAA3wDX.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DqXa8bCXQAA3wDX.jpg",
+						"url": "https://t.co/erMTHOsdyH",
+						"display_url": "pic.twitter.com/erMTHOsdyH",
+						"expanded_url": "https://twitter.com/googledocs/status/1055490445088903168/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DqXa8bCXQAA3wDX.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 488683847,
+				"id_str": "488683847",
+				"name": "Google Docs",
+				"screen_name": "googledocs",
+				"location": "",
+				"description": "News and updates about Docs, Sheets, Slides, Forms, Keep, and more.",
+				"url": "http://t.co/yrGm0vE5y6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/yrGm0vE5y6",
+								"expanded_url": "http://google.com/docs/about",
+								"display_url": "google.com/docs/about",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
 				"followers_count": 90881,
 				"friends_count": 157,
 				"listed_count": 1345,
