@@ -1,6 +1,1520 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Thu Oct 25 16:16:14 +0000 2018",
+		"id": 1055493245428490200,
+		"id_str": "1055493245428490242",
+		"full_text": "Start a new Doc, Spreadsheet, Slideshow, Site, or Form in just a few seconds. This is awesome!\n#GoogleEDU #edtech https://t.co/F1GZRJ54CC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleEDU",
+					"indices": [
+						95,
+						105
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						106,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F1GZRJ54CC",
+					"expanded_url": "https://twitter.com/googledocs/status/1055490445088903168",
+					"display_url": "twitter.com/googledocs/sta…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2494320229,
+			"id_str": "2494320229",
+			"name": "Matt Knoll",
+			"screen_name": "knollmatt",
+			"location": "Crystal Lake, IL",
+			"description": "A passionate technologist who seeks to help others achieve their dreams. #D155Inspire #GoogleEDU #GoogleET",
+			"url": "https://t.co/MfZDd2WTES",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MfZDd2WTES",
+							"expanded_url": "http://knoll.tech",
+							"display_url": "knoll.tech",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 181,
+			"friends_count": 226,
+			"listed_count": 9,
+			"created_at": "Wed May 14 15:55:06 +0000 2014",
+			"favourites_count": 252,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 287,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/632272928365780993/Edkwk8fB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/632272928365780993/Edkwk8fB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2494320229/1400083038",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1055490445088903200,
+		"quoted_status_id_str": "1055490445088903168",
+		"quoted_status_permalink": {
+			"url": "https://t.co/F1GZRJ54CC",
+			"expanded": "https://twitter.com/googledocs/status/1055490445088903168",
+			"display": "twitter.com/googledocs/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 25 16:05:06 +0000 2018",
+			"id": 1055490445088903200,
+			"id_str": "1055490445088903168",
+			"full_text": "Introducing a ✨ .new ✨ time-saving trick for users. Type any of these .new domains to instantly create Docs, Sheets, Slides, Sites or Forms ↓ https://t.co/erMTHOsdyH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				141
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1055490419272925200,
+						"id_str": "1055490419272925184",
+						"indices": [
+							142,
+							165
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DqXa8bCXQAA3wDX.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DqXa8bCXQAA3wDX.jpg",
+						"url": "https://t.co/erMTHOsdyH",
+						"display_url": "pic.twitter.com/erMTHOsdyH",
+						"expanded_url": "https://twitter.com/googledocs/status/1055490445088903168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1055490419272925200,
+						"id_str": "1055490419272925184",
+						"indices": [
+							142,
+							165
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DqXa8bCXQAA3wDX.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DqXa8bCXQAA3wDX.jpg",
+						"url": "https://t.co/erMTHOsdyH",
+						"display_url": "pic.twitter.com/erMTHOsdyH",
+						"expanded_url": "https://twitter.com/googledocs/status/1055490445088903168/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DqXa8bCXQAA3wDX.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 488683847,
+				"id_str": "488683847",
+				"name": "Google Docs",
+				"screen_name": "googledocs",
+				"location": "",
+				"description": "News and updates about Docs, Sheets, Slides, Forms, Keep, and more.",
+				"url": "http://t.co/yrGm0vE5y6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/yrGm0vE5y6",
+								"expanded_url": "http://google.com/docs/about",
+								"display_url": "google.com/docs/about",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 90881,
+				"friends_count": 157,
+				"listed_count": 1345,
+				"created_at": "Fri Feb 10 18:36:44 +0000 2012",
+				"favourites_count": 2705,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6260,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/940690364410748929/erFsVrcc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/940690364410748929/erFsVrcc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/488683847/1462378899",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 375,
+			"favorite_count": 609,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Start a new Doc, Spreadsheet, Slideshow, Site, or Form in just a few seconds. This is awesome!\n#GoogleEDU #edtech https://t.co/F1GZRJ54CC"
+	},
+	{
+		"created_at": "Thu Oct 25 21:10:13 +0000 2018",
+		"id": 1055567229490741200,
+		"id_str": "1055567229490741248",
+		"full_text": "Introduction to building conversational interfaces with Dialogflow in Google Apps Script powered Google Hangouts Chat bots https://t.co/KtgNb43MKe #GSuiteDev #GoogleAppsScript @Dialogflow",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSuiteDev",
+					"indices": [
+						147,
+						157
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						158,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dialogflow",
+					"name": "Dialogflow",
+					"id": 2774598458,
+					"id_str": "2774598458",
+					"indices": [
+						176,
+						187
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KtgNb43MKe",
+					"expanded_url": "https://mashe.hawksey.info/2018/10/introduction-to-building-conversational-interfaces-with-dialogflow-in-google-apps-script-powered-google-hangouts-chat-bots/",
+					"display_url": "mashe.hawksey.info/2018/10/introd…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7826,
+			"friends_count": 2035,
+			"listed_count": 590,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4673,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27413,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Introduction to building conversational interfaces with Dialogflow in Google Apps Script powered Google Hangouts Chat bots https://t.co/KtgNb43MKe #GSuiteDev #GoogleAppsScript @Dialogflow"
+	},
+	{
+		"created_at": "Thu Oct 25 21:10:13 +0000 2018",
+		"id": 1055567229490741200,
+		"id_str": "1055567229490741248",
+		"full_text": "Introduction to building conversational interfaces with Dialogflow in Google Apps Script powered Google Hangouts Chat bots https://t.co/KtgNb43MKe #GSuiteDev #GoogleAppsScript @Dialogflow",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSuiteDev",
+					"indices": [
+						147,
+						157
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						158,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dialogflow",
+					"name": "Dialogflow",
+					"id": 2774598458,
+					"id_str": "2774598458",
+					"indices": [
+						176,
+						187
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KtgNb43MKe",
+					"expanded_url": "https://mashe.hawksey.info/2018/10/introduction-to-building-conversational-interfaces-with-dialogflow-in-google-apps-script-powered-google-hangouts-chat-bots/",
+					"display_url": "mashe.hawksey.info/2018/10/introd…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7826,
+			"friends_count": 2035,
+			"listed_count": 590,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4673,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27413,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Introduction to building conversational interfaces with Dialogflow in Google Apps Script powered Google Hangouts Chat bots https://t.co/KtgNb43MKe #GSuiteDev #GoogleAppsScript @Dialogflow"
+	},
+	{
+		"created_at": "Thu Oct 25 05:13:29 +0000 2018",
+		"id": 1055326457524904000,
+		"id_str": "1055326457524903936",
+		"full_text": "For all you #altc'ers out there wanting to up your gif game... via @LornaMCampbell https://t.co/HR82EMVRsK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						12,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LornaMCampbell",
+					"name": "Lorna M. Campbell",
+					"id": 4016151,
+					"id_str": "4016151",
+					"indices": [
+						67,
+						82
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HR82EMVRsK",
+					"expanded_url": "https://twitter.com/OpenEdEdinburgh/status/1055079449866178560",
+					"display_url": "twitter.com/OpenEdEdinburg…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7826,
+			"friends_count": 2035,
+			"listed_count": 590,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4673,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27413,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1055079449866178600,
+		"quoted_status_id_str": "1055079449866178560",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HR82EMVRsK",
+			"expanded": "https://twitter.com/OpenEdEdinburgh/status/1055079449866178560",
+			"display": "twitter.com/OpenEdEdinburg…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 24 12:51:57 +0000 2018",
+			"id": 1055079449866178600,
+			"id_str": "1055079449866178560",
+			"full_text": "Can't make it to our #GifItUp workshops this October? No fuss! Learn how to make gifs in your own time with our #OER CC BY licensed Gif Guides! \nhttps://t.co/jZ1Z09geo4 https://t.co/60AqKPJuxn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				168
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GifItUp",
+						"indices": [
+							21,
+							29
+						]
+					},
+					{
+						"text": "OER",
+						"indices": [
+							112,
+							116
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jZ1Z09geo4",
+						"expanded_url": "http://open.ed.ac.uk/gif-it-up-create-your-own-gifs/",
+						"display_url": "open.ed.ac.uk/gif-it-up-crea…",
+						"indices": [
+							145,
+							168
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1055079279900483600,
+						"id_str": "1055079279900483585",
+						"indices": [
+							169,
+							192
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DqRlA9hX4AEkBXf.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DqRlA9hX4AEkBXf.jpg",
+						"url": "https://t.co/60AqKPJuxn",
+						"display_url": "pic.twitter.com/60AqKPJuxn",
+						"expanded_url": "https://twitter.com/OpenEdEdinburgh/status/1055079449866178560/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 324,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 324,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 324,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1055079279900483600,
+						"id_str": "1055079279900483585",
+						"indices": [
+							169,
+							192
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DqRlA9hX4AEkBXf.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DqRlA9hX4AEkBXf.jpg",
+						"url": "https://t.co/60AqKPJuxn",
+						"display_url": "pic.twitter.com/60AqKPJuxn",
+						"expanded_url": "https://twitter.com/OpenEdEdinburgh/status/1055079449866178560/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 324,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 324,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 324,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								40,
+								27
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DqRlA9hX4AEkBXf.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2837920041,
+				"id_str": "2837920041",
+				"name": "Edinburgh Univ OERs",
+				"screen_name": "OpenEdEdinburgh",
+				"location": "Edinburgh, Scotland",
+				"description": "The Open Educational Resources service at @EdinburghUni. Tweeting #OER and Open Education activities & initiatives.\nAccount managed by @SFarley_Charlie.",
+				"url": "https://t.co/GJXznQIrmL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GJXznQIrmL",
+								"expanded_url": "http://open.ed.ac.uk/",
+								"display_url": "open.ed.ac.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 621,
+				"friends_count": 149,
+				"listed_count": 37,
+				"created_at": "Mon Oct 20 08:32:35 +0000 2014",
+				"favourites_count": 1134,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1272,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/744826227714826240/n_jDvXP4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/744826227714826240/n_jDvXP4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2837920041/1465217950",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For all you #altc'ers out there wanting to up your gif game... via @LornaMCampbell https://t.co/HR82EMVRsK"
+	},
+	{
+		"created_at": "Wed Oct 24 13:10:07 +0000 2018",
+		"id": 1055084019090686000,
+		"id_str": "1055084019090685952",
+		"full_text": "How cool is this?!  :)  #OER https://t.co/bFOLATL7fb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OER",
+					"indices": [
+						24,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bFOLATL7fb",
+					"expanded_url": "https://twitter.com/OpenEdEdinburgh/status/1055079449866178560",
+					"display_url": "twitter.com/OpenEdEdinburg…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4016151,
+			"id_str": "4016151",
+			"name": "Lorna M. Campbell",
+			"screen_name": "LornaMCampbell",
+			"location": "Glasgow / University of Edinburgh / Isle of Lewis",
+			"description": "Open education technology, policy & practice @EdinburghUni. @A_L_T, @WikimediaUK & @NauticalHistory Trustee. #oer #openscot #femedtech #cmalt",
+			"url": "https://t.co/9HmEQnxTzb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9HmEQnxTzb",
+							"expanded_url": "http://lornamcampbell.org",
+							"display_url": "lornamcampbell.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3566,
+			"friends_count": 2487,
+			"listed_count": 203,
+			"created_at": "Tue Apr 10 11:25:09 +0000 2007",
+			"favourites_count": 24141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32141,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "AFD3F2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/768472775090638851/1bgBAlp7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/768472775090638851/1bgBAlp7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4016151/1445333850",
+			"profile_link_color": "1F59AB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1055079449866178600,
+		"quoted_status_id_str": "1055079449866178560",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bFOLATL7fb",
+			"expanded": "https://twitter.com/OpenEdEdinburgh/status/1055079449866178560",
+			"display": "twitter.com/OpenEdEdinburg…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 24 12:51:57 +0000 2018",
+			"id": 1055079449866178600,
+			"id_str": "1055079449866178560",
+			"full_text": "Can't make it to our #GifItUp workshops this October? No fuss! Learn how to make gifs in your own time with our #OER CC BY licensed Gif Guides! \nhttps://t.co/jZ1Z09geo4 https://t.co/60AqKPJuxn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				168
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GifItUp",
+						"indices": [
+							21,
+							29
+						]
+					},
+					{
+						"text": "OER",
+						"indices": [
+							112,
+							116
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jZ1Z09geo4",
+						"expanded_url": "http://open.ed.ac.uk/gif-it-up-create-your-own-gifs/",
+						"display_url": "open.ed.ac.uk/gif-it-up-crea…",
+						"indices": [
+							145,
+							168
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1055079279900483600,
+						"id_str": "1055079279900483585",
+						"indices": [
+							169,
+							192
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DqRlA9hX4AEkBXf.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DqRlA9hX4AEkBXf.jpg",
+						"url": "https://t.co/60AqKPJuxn",
+						"display_url": "pic.twitter.com/60AqKPJuxn",
+						"expanded_url": "https://twitter.com/OpenEdEdinburgh/status/1055079449866178560/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 324,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 324,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 324,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1055079279900483600,
+						"id_str": "1055079279900483585",
+						"indices": [
+							169,
+							192
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DqRlA9hX4AEkBXf.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DqRlA9hX4AEkBXf.jpg",
+						"url": "https://t.co/60AqKPJuxn",
+						"display_url": "pic.twitter.com/60AqKPJuxn",
+						"expanded_url": "https://twitter.com/OpenEdEdinburgh/status/1055079449866178560/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 324,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 324,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 324,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								40,
+								27
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DqRlA9hX4AEkBXf.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2837920041,
+				"id_str": "2837920041",
+				"name": "Edinburgh Univ OERs",
+				"screen_name": "OpenEdEdinburgh",
+				"location": "Edinburgh, Scotland",
+				"description": "The Open Educational Resources service at @EdinburghUni. Tweeting #OER and Open Education activities & initiatives.\nAccount managed by @SFarley_Charlie.",
+				"url": "https://t.co/GJXznQIrmL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GJXznQIrmL",
+								"expanded_url": "http://open.ed.ac.uk/",
+								"display_url": "open.ed.ac.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 621,
+				"friends_count": 149,
+				"listed_count": 37,
+				"created_at": "Mon Oct 20 08:32:35 +0000 2014",
+				"favourites_count": 1134,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1272,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/744826227714826240/n_jDvXP4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/744826227714826240/n_jDvXP4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2837920041/1465217950",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 8,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How cool is this?!  :)  #OER https://t.co/bFOLATL7fb"
+	},
+	{
+		"created_at": "Tue Oct 23 22:31:33 +0000 2018",
+		"id": 1054862923120762900,
+		"id_str": "1054862923120762880",
+		"full_text": "PressEd Folks check out @wpcampusorg https://t.co/3GoPTB0BYj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wpcampusorg",
+					"name": "WPCampus",
+					"id": 3693311536,
+					"id_str": "3693311536",
+					"indices": [
+						24,
+						36
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3GoPTB0BYj",
+					"expanded_url": "https://twitter.com/wpcampusorg/status/1054851220592971776?s=19",
+					"display_url": "twitter.com/wpcampusorg/st…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 950354717212897300,
+			"id_str": "950354717212897280",
+			"name": "PressED Conf - A tweeting WordPress conference",
+			"screen_name": "pressedconf",
+			"location": "",
+			"description": "A WordPress Twitter Conference on all things education, pedagogy and research - first ran March 2018. Organisers @nlafferty and @pgogy",
+			"url": "https://t.co/sMvg2ghvf9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sMvg2ghvf9",
+							"expanded_url": "http://pressedconf.org",
+							"display_url": "pressedconf.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 548,
+			"friends_count": 929,
+			"listed_count": 4,
+			"created_at": "Mon Jan 08 13:13:16 +0000 2018",
+			"favourites_count": 535,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1089,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/950872787018756096/unqqOc3z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/950872787018756096/unqqOc3z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/950354717212897280/1515540525",
+			"profile_link_color": "00FFFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1054851220592971800,
+		"quoted_status_id_str": "1054851220592971776",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3GoPTB0BYj",
+			"expanded": "https://twitter.com/wpcampusorg/status/1054851220592971776?s=19",
+			"display": "twitter.com/wpcampusorg/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 23 21:45:03 +0000 2018",
+			"id": 1054851220592971800,
+			"id_str": "1054851220592971776",
+			"full_text": "The date for #WPCampus Online 2019 has been set for Thursday, January 31, 2019. Stay tuned to the website, social media, and mailing list for more information. Call for speakers will open soon. #heweb #HigherEd https://t.co/hTvX8qnrh9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				234
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WPCampus",
+						"indices": [
+							13,
+							22
+						]
+					},
+					{
+						"text": "heweb",
+						"indices": [
+							194,
+							200
+						]
+					},
+					{
+						"text": "HigherEd",
+						"indices": [
+							201,
+							210
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/hTvX8qnrh9",
+						"expanded_url": "https://online.wpcampus.org/",
+						"display_url": "online.wpcampus.org",
+						"indices": [
+							211,
+							234
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://socialwebsuite.com\" rel=\"nofollow\">Social Web Suite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3693311536,
+				"id_str": "3693311536",
+				"name": "WPCampus",
+				"screen_name": "wpcampusorg",
+				"location": "The Internet",
+				"description": "A community and conferences for #WordPress in #highered. Join us January 31, 2019 for our annual virtual conference! https://t.co/RcCYHrAnqe",
+				"url": "https://t.co/9bjvOB1via",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9bjvOB1via",
+								"expanded_url": "https://wpcampus.org/",
+								"display_url": "wpcampus.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/RcCYHrAnqe",
+								"expanded_url": "https://online.wpcampus.org",
+								"display_url": "online.wpcampus.org",
+								"indices": [
+									117,
+									140
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1660,
+				"friends_count": 428,
+				"listed_count": 192,
+				"created_at": "Fri Sep 18 05:20:14 +0000 2015",
+				"favourites_count": 1978,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3499,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/646541604229148674/lkxlqkVS_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/646541604229148674/lkxlqkVS_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3693311536/1442982325",
+				"profile_link_color": "1159BD",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "PressEd Folks check out @wpcampusorg https://t.co/3GoPTB0BYj"
+	},
+	{
 		"created_at": "Tue Oct 23 22:31:33 +0000 2018",
 		"id": 1054862923120762900,
 		"id_str": "1054862923120762880",
