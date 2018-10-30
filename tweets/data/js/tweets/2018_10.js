@@ -489,6 +489,250 @@ Grailbird.data.tweets_2018_10 =
 		"text": "If you are interested in #SNA and want to find out more about #NodeXL @marc_smith has an EU focused tour coming up in Nov. https://t.co/Tiynz1SCKy #altc"
 	},
 	{
+		"created_at": "Mon Oct 29 12:30:16 +0000 2018",
+		"id": 1056885932178186200,
+		"id_str": "1056885932178186240",
+		"full_text": "If you're into using notebooks in education, have you signed up to my first newsletter yet? (and maybe fancy tipping me off to edu Jupyter news items?) Tracking Jupyter https://t.co/RbAJqKcObK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RbAJqKcObK",
+					"expanded_url": "https://blog.ouseful.info/2018/10/28/tracking-jupyter-newsletter/",
+					"display_url": "blog.ouseful.info/2018/10/28/tra…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7129072,
+			"id_str": "7129072",
+			"name": "Tony Hirst",
+			"screen_name": "psychemedia",
+			"location": "UK",
+			"description": "Open public data  / data journalism tinkerer, Isle of WIght resident #f1datajunkie #rallydatajunkie Looking to be useful and make a difference...",
+			"url": "http://t.co/Wf2lbdihKQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Wf2lbdihKQ",
+							"expanded_url": "http://blog.ouseful.info",
+							"display_url": "blog.ouseful.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5609,
+			"friends_count": 1603,
+			"listed_count": 735,
+			"created_at": "Thu Jun 28 11:37:39 +0000 2007",
+			"favourites_count": 2265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64865,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1195013164/Picture_23_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1195013164/Picture_23_normal.png",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you're into using notebooks in education, have you signed up to my first newsletter yet? (and maybe fancy tipping me off to edu Jupyter news items?) Tracking Jupyter https://t.co/RbAJqKcObK"
+	},
+	{
+		"created_at": "Mon Oct 29 13:51:34 +0000 2018",
+		"id": 1056906390894198800,
+		"id_str": "1056906390894198784",
+		"full_text": "If you are interested in #SNA and want to find out more about #NodeXL @marc_smith has an EU focused tour coming up in Nov. https://t.co/Tiynz1SCKy #altc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SNA",
+					"indices": [
+						25,
+						29
+					]
+				},
+				{
+					"text": "NodeXL",
+					"indices": [
+						62,
+						69
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						147,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marc_smith",
+					"name": "Marc Smith",
+					"id": 12160482,
+					"id_str": "12160482",
+					"indices": [
+						70,
+						81
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Tiynz1SCKy",
+					"expanded_url": "https://www.smrfoundation.org/2018/10/28/upcoming-nodexl-events-q4-2018/",
+					"display_url": "smrfoundation.org/2018/10/28/upc…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7843,
+			"friends_count": 2040,
+			"listed_count": 590,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4686,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27424,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you are interested in #SNA and want to find out more about #NodeXL @marc_smith has an EU focused tour coming up in Nov. https://t.co/Tiynz1SCKy #altc"
+	},
+	{
 		"created_at": "Mon Oct 29 10:00:47 +0000 2018",
 		"id": 1056848311947313200,
 		"id_str": "1056848311947313152",
