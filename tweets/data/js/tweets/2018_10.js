@@ -1,6 +1,1039 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Tue Oct 30 20:34:41 +0000 2018",
+		"id": 1057370227263070200,
+		"id_str": "1057370227263070208",
+		"full_text": "Getting my run card sorted for 2019:\n\n10 March - Inverness Half\n28 April - Great Stirling Run (Half)\n26 May - Edinburgh Marathon\n29 Sept - Great Scottish Run (Half)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7845,
+			"friends_count": 2041,
+			"listed_count": 590,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4688,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27430,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Getting my run card sorted for 2019:\n\n10 March - Inverness Half\n28 April - Great Stirling Run (Half)\n26 May - Edinburgh Marathon\n29 Sept - Great Scottish Run (Half)"
+	},
+	{
+		"created_at": "Tue Oct 30 18:39:23 +0000 2018",
+		"id": 1057341210493440000,
+		"id_str": "1057341210493440006",
+		"full_text": "NEW post on how to manage crisis as a virtual team, in which @mhawksey &amp; I talk about Picard Management Tips, Trello and teamwork #altc #remoteworking #openleadership #openpractice https://t.co/HaA709UsrH https://t.co/0AdGBdFfjG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "remoteworking",
+					"indices": [
+						140,
+						154
+					]
+				},
+				{
+					"text": "openleadership",
+					"indices": [
+						155,
+						170
+					]
+				},
+				{
+					"text": "openpractice",
+					"indices": [
+						171,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						61,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HaA709UsrH",
+					"expanded_url": "http://marendeepwell.com/?p=1811",
+					"display_url": "marendeepwell.com/?p=1811",
+					"indices": [
+						185,
+						208
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1057341202817675300,
+					"id_str": "1057341202817675264",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/DqxuONBU8AAFhOz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqxuONBU8AAFhOz.jpg",
+					"url": "https://t.co/0AdGBdFfjG",
+					"display_url": "pic.twitter.com/0AdGBdFfjG",
+					"expanded_url": "https://twitter.com/MarenDeepwell/status/1057341210493440006/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 290,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 257,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 290,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1057341202817675300,
+					"id_str": "1057341202817675264",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/DqxuONBU8AAFhOz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqxuONBU8AAFhOz.jpg",
+					"url": "https://t.co/0AdGBdFfjG",
+					"display_url": "pic.twitter.com/0AdGBdFfjG",
+					"expanded_url": "https://twitter.com/MarenDeepwell/status/1057341210493440006/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 290,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 257,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 290,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 323173367,
+			"id_str": "323173367",
+			"name": "Dr Maren Deepwell",
+			"screen_name": "MarenDeepwell",
+			"location": "United Kingdom",
+			"description": "CEO @A_L_T #altc Senior #CMALT | Anthropologist | Open Practitioner | leadership, policy & Learning Technology CPD | open governance & equality #femedtech",
+			"url": "https://t.co/kMXdMTr9bt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kMXdMTr9bt",
+							"expanded_url": "http://marendeepwell.com",
+							"display_url": "marendeepwell.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2949,
+			"friends_count": 1387,
+			"listed_count": 190,
+			"created_at": "Fri Jun 24 11:30:35 +0000 2011",
+			"favourites_count": 11526,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7601,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027623094398185475/m1dr0ykJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027623094398185475/m1dr0ykJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/323173367/1540924881",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW post on how to manage crisis as a virtual team, in which @mhawksey &amp; I talk about Picard Management Tips, Trello and teamwork #altc #remoteworking #openleadership #openpractice https://t.co/HaA709UsrH https://t.co/0AdGBdFfjG"
+	},
+	{
+		"created_at": "Tue Oct 30 11:58:12 +0000 2018",
+		"id": 1057240248596488200,
+		"id_str": "1057240248596488192",
+		"full_text": "@weblearning yeah not possible to use any search operators or multiple labels ... which is frustrating given it's a Google product",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "weblearning",
+					"name": "Derek Moore",
+					"id": 5097211,
+					"id_str": "5097211",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1057234161038229500,
+		"in_reply_to_status_id_str": "1057234161038229504",
+		"in_reply_to_user_id": 5097211,
+		"in_reply_to_user_id_str": "5097211",
+		"in_reply_to_screen_name": "weblearning",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7845,
+			"friends_count": 2041,
+			"listed_count": 590,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4688,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27430,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@weblearning yeah not possible to use any search operators or multiple labels ... which is frustrating given it's a Google product"
+	},
+	{
+		"created_at": "Tue Oct 30 10:09:02 +0000 2018",
+		"id": 1057212776026914800,
+		"id_str": "1057212776026914816",
+		"full_text": "EDEN webinar, Open Education: What Now? 5 Nov 11.00 CET. With guests @mweller and @catherinecronin Register via https://t.co/XR9CdWyQA4 @EDEN25_Official #edlw2018 #onl181",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edlw2018",
+					"indices": [
+						153,
+						162
+					]
+				},
+				{
+					"text": "onl181",
+					"indices": [
+						163,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mweller",
+					"name": "Martin Weller",
+					"id": 7127162,
+					"id_str": "7127162",
+					"indices": [
+						69,
+						77
+					]
+				},
+				{
+					"screen_name": "catherinecronin",
+					"name": "Dr. Catherine Cronin",
+					"id": 59833587,
+					"id_str": "59833587",
+					"indices": [
+						82,
+						98
+					]
+				},
+				{
+					"screen_name": "EDEN25_Official",
+					"name": "EDEN Secretariat",
+					"id": 246785103,
+					"id_str": "246785103",
+					"indices": [
+						136,
+						152
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XR9CdWyQA4",
+					"expanded_url": "http://www.eden-online.org/eden_conference/open-education-what-now/",
+					"display_url": "eden-online.org/eden_conferenc…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17087119,
+			"id_str": "17087119",
+			"name": "Alastair Creelman",
+			"screen_name": "alacre",
+			"location": "Kalmar, Sweden",
+			"description": "E-learning specialist at Linnaeus University in Kalmar/Växjö, Sweden. I post news & comments on technology in education in English, Swedish & Norwegian.",
+			"url": "http://t.co/UdKGwAB19q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/UdKGwAB19q",
+							"expanded_url": "http://about.me/acreelman",
+							"display_url": "about.me/acreelman",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3113,
+			"friends_count": 876,
+			"listed_count": 224,
+			"created_at": "Fri Oct 31 16:02:57 +0000 2008",
+			"favourites_count": 377,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17389,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B88700",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/710047117524336640/osAi719z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/710047117524336640/osAi719z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17087119/1402948694",
+			"profile_link_color": "B80040",
+			"profile_sidebar_border_color": "5EDBD9",
+			"profile_sidebar_fill_color": "96EB9A",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "EDEN webinar, Open Education: What Now? 5 Nov 11.00 CET. With guests @mweller and @catherinecronin Register via https://t.co/XR9CdWyQA4 @EDEN25_Official #edlw2018 #onl181"
+	},
+	{
+		"created_at": "Tue Oct 30 10:44:06 +0000 2018",
+		"id": 1057221599605256200,
+		"id_str": "1057221599605256193",
+		"full_text": "@weblearning you can use labels in Keep. There is no hierarchy you can use with labels but you can use multiple labels so can work like tags",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "weblearning",
+					"name": "Derek Moore",
+					"id": 5097211,
+					"id_str": "5097211",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1057215364449349600,
+		"in_reply_to_status_id_str": "1057215364449349632",
+		"in_reply_to_user_id": 5097211,
+		"in_reply_to_user_id_str": "5097211",
+		"in_reply_to_screen_name": "weblearning",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7845,
+			"friends_count": 2041,
+			"listed_count": 590,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4688,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27430,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@weblearning you can use labels in Keep. There is no hierarchy you can use with labels but you can use multiple labels so can work like tags"
+	},
+	{
+		"created_at": "Tue Oct 30 09:30:41 +0000 2018",
+		"id": 1057203124904038400,
+		"id_str": "1057203124904038400",
+		"full_text": "@weblearning Twitter bookmarks are a nice idea but appear to only be implemented on their mobile apps which makes it pointless for me to use ... now I find using Google Keep best for my bookmarking",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "weblearning",
+					"name": "Derek Moore",
+					"id": 5097211,
+					"id_str": "5097211",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1057193572758442000,
+		"in_reply_to_status_id_str": "1057193572758441984",
+		"in_reply_to_user_id": 5097211,
+		"in_reply_to_user_id_str": "5097211",
+		"in_reply_to_screen_name": "weblearning",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7845,
+			"friends_count": 2041,
+			"listed_count": 590,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4688,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27430,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@weblearning Twitter bookmarks are a nice idea but appear to only be implemented on their mobile apps which makes it pointless for me to use ... now I find using Google Keep best for my bookmarking"
+	},
+	{
+		"created_at": "Mon Oct 29 12:30:16 +0000 2018",
+		"id": 1056885932178186200,
+		"id_str": "1056885932178186240",
+		"full_text": "If you're into using notebooks in education, have you signed up to my first newsletter yet? (and maybe fancy tipping me off to edu Jupyter news items?) Tracking Jupyter https://t.co/RbAJqKcObK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RbAJqKcObK",
+					"expanded_url": "https://blog.ouseful.info/2018/10/28/tracking-jupyter-newsletter/",
+					"display_url": "blog.ouseful.info/2018/10/28/tra…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7129072,
+			"id_str": "7129072",
+			"name": "Tony Hirst",
+			"screen_name": "psychemedia",
+			"location": "UK",
+			"description": "Open public data  / data journalism tinkerer, Isle of WIght resident #f1datajunkie #rallydatajunkie Looking to be useful and make a difference...",
+			"url": "http://t.co/Wf2lbdihKQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Wf2lbdihKQ",
+							"expanded_url": "http://blog.ouseful.info",
+							"display_url": "blog.ouseful.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5615,
+			"friends_count": 1604,
+			"listed_count": 735,
+			"created_at": "Thu Jun 28 11:37:39 +0000 2007",
+			"favourites_count": 2266,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64874,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1195013164/Picture_23_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1195013164/Picture_23_normal.png",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you're into using notebooks in education, have you signed up to my first newsletter yet? (and maybe fancy tipping me off to edu Jupyter news items?) Tracking Jupyter https://t.co/RbAJqKcObK"
+	},
+	{
+		"created_at": "Mon Oct 29 13:51:34 +0000 2018",
+		"id": 1056906390894198800,
+		"id_str": "1056906390894198784",
+		"full_text": "If you are interested in #SNA and want to find out more about #NodeXL @marc_smith has an EU focused tour coming up in Nov. https://t.co/Tiynz1SCKy #altc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SNA",
+					"indices": [
+						25,
+						29
+					]
+				},
+				{
+					"text": "NodeXL",
+					"indices": [
+						62,
+						69
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						147,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marc_smith",
+					"name": "Marc Smith",
+					"id": 12160482,
+					"id_str": "12160482",
+					"indices": [
+						70,
+						81
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Tiynz1SCKy",
+					"expanded_url": "https://www.smrfoundation.org/2018/10/28/upcoming-nodexl-events-q4-2018/",
+					"display_url": "smrfoundation.org/2018/10/28/upc…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7845,
+			"friends_count": 2041,
+			"listed_count": 590,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4688,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27430,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you are interested in #SNA and want to find out more about #NodeXL @marc_smith has an EU focused tour coming up in Nov. https://t.co/Tiynz1SCKy #altc"
+	},
+	{
 		"created_at": "Mon Oct 29 12:30:16 +0000 2018",
 		"id": 1056885932178186200,
 		"id_str": "1056885932178186240",
