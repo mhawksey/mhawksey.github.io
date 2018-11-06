@@ -1,6 +1,711 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Mon Nov 05 18:46:50 +0000 2018",
+		"id": 1059517410775130100,
+		"id_str": "1059517410775130112",
+		"full_text": "Might interest #altc'ers... Monday 19th Nov. 11am https://t.co/SVqdc5PHS9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						15,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SVqdc5PHS9",
+					"expanded_url": "https://twitter.com/tribalgroup/status/1057696402015432709",
+					"display_url": "twitter.com/tribalgroup/st…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7851,
+			"friends_count": 2047,
+			"listed_count": 588,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4701,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27453,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1057696402015432700,
+		"quoted_status_id_str": "1057696402015432709",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SVqdc5PHS9",
+			"expanded": "https://twitter.com/tribalgroup/status/1057696402015432709",
+			"display": "twitter.com/tribalgroup/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 31 18:10:47 +0000 2018",
+			"id": 1057696402015432700,
+			"id_str": "1057696402015432709",
+			"full_text": "Webinar: Improving efficiencies and student outcomes in Scottish colleges. Join @ColDevNet’s @jim_metcalfe and @Glasgow_Clyde’s Principal Jon Vincent @jonvincent11 discussing how Scottish colleges might tackle these 2 key issues. https://t.co/PY8E0zmCNT https://t.co/vUEE36CaiN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				253
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ColDevNet",
+						"name": "College Development Network",
+						"id": 817251872,
+						"id_str": "817251872",
+						"indices": [
+							80,
+							90
+						]
+					},
+					{
+						"screen_name": "jim_metcalfe",
+						"name": "Jim Metcalfe",
+						"id": 364520290,
+						"id_str": "364520290",
+						"indices": [
+							93,
+							106
+						]
+					},
+					{
+						"screen_name": "Glasgow_Clyde",
+						"name": "GlasgowClyde College",
+						"id": 1127873492,
+						"id_str": "1127873492",
+						"indices": [
+							111,
+							125
+						]
+					},
+					{
+						"screen_name": "jonvincent11",
+						"name": "Jon Vincent",
+						"id": 2865388463,
+						"id_str": "2865388463",
+						"indices": [
+							150,
+							163
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/PY8E0zmCNT",
+						"expanded_url": "http://bit.ly/2qhbouW",
+						"display_url": "bit.ly/2qhbouW",
+						"indices": [
+							230,
+							253
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1057696399859609600,
+						"id_str": "1057696399859609600",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/media/Dq2xRZHXcAAJME7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dq2xRZHXcAAJME7.jpg",
+						"url": "https://t.co/vUEE36CaiN",
+						"display_url": "pic.twitter.com/vUEE36CaiN",
+						"expanded_url": "https://twitter.com/tribalgroup/status/1057696402015432709/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 810,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 459,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1208,
+								"h": 815,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1057696399859609600,
+						"id_str": "1057696399859609600",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/media/Dq2xRZHXcAAJME7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dq2xRZHXcAAJME7.jpg",
+						"url": "https://t.co/vUEE36CaiN",
+						"display_url": "pic.twitter.com/vUEE36CaiN",
+						"expanded_url": "https://twitter.com/tribalgroup/status/1057696402015432709/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 810,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 459,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1208,
+								"h": 815,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 386457027,
+				"id_str": "386457027",
+				"name": "Tribal Group",
+				"screen_name": "tribalgroup",
+				"location": "Worldwide",
+				"description": "Tribal is a global provider of products and services to the international education, training and learning markets http://t.co/HoRhskwQ42",
+				"url": "http://t.co/gGmKK3V0MZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/gGmKK3V0MZ",
+								"expanded_url": "http://www.tribalgroup.com",
+								"display_url": "tribalgroup.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/HoRhskwQ42",
+								"expanded_url": "http://linkedin.com/company/tribal",
+								"display_url": "linkedin.com/company/tribal",
+								"indices": [
+									115,
+									137
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2985,
+				"friends_count": 763,
+				"listed_count": 130,
+				"created_at": "Fri Oct 07 09:54:13 +0000 2011",
+				"favourites_count": 1891,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10579,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "00539F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/912268129568481280/XDhhxU2I_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/912268129568481280/XDhhxU2I_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/386457027/1489511583",
+				"profile_link_color": "59C3E8",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Might interest #altc'ers... Monday 19th Nov. 11am https://t.co/SVqdc5PHS9"
+	},
+	{
+		"created_at": "Mon Nov 05 18:41:08 +0000 2018",
+		"id": 1059515976750981100,
+		"id_str": "1059515976750981120",
+		"full_text": "@robhogg68 @LinkedIn ... LinkedIn failing back into bad ways https://t.co/KFsXLTpXZ3",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "robhogg68",
+					"name": "Rob",
+					"id": 137111255,
+					"id_str": "137111255",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "LinkedIn",
+					"name": "LinkedIn",
+					"id": 13058772,
+					"id_str": "13058772",
+					"indices": [
+						11,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KFsXLTpXZ3",
+					"expanded_url": "https://www.thedrum.com/news/2015/10/07/linkedin-fined-13m-class-action-lawsuit-spamming",
+					"display_url": "thedrum.com/news/2015/10/0…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1059481072042414100,
+		"in_reply_to_status_id_str": "1059481072042414083",
+		"in_reply_to_user_id": 137111255,
+		"in_reply_to_user_id_str": "137111255",
+		"in_reply_to_screen_name": "robhogg68",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7851,
+			"friends_count": 2047,
+			"listed_count": 588,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4701,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27453,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@robhogg68 @LinkedIn ... LinkedIn failing back into bad ways https://t.co/KFsXLTpXZ3"
+	},
+	{
+		"created_at": "Mon Nov 05 18:32:00 +0000 2018",
+		"id": 1059513680876978200,
+		"id_str": "1059513680876978177",
+		"full_text": "@MarenDeepwell Very useful - thanks :)",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1059477402353569800,
+		"in_reply_to_status_id_str": "1059477402353569792",
+		"in_reply_to_user_id": 323173367,
+		"in_reply_to_user_id_str": "323173367",
+		"in_reply_to_screen_name": "MarenDeepwell",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7851,
+			"friends_count": 2047,
+			"listed_count": 588,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4701,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27453,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MarenDeepwell Very useful - thanks :)"
+	},
+	{
+		"created_at": "Mon Nov 05 16:06:03 +0000 2018",
+		"id": 1059476947548422100,
+		"id_str": "1059476947548422149",
+		"full_text": "Ever used a pre-mortem to avoid classroom failures? @ProfKime explains how it's done https://t.co/kExrqTnM4s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ProfKime",
+					"name": "Stuart Kime",
+					"id": 2190268944,
+					"id_str": "2190268944",
+					"indices": [
+						52,
+						61
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kExrqTnM4s",
+					"expanded_url": "https://schoolsweek.co.uk/how-to-avoid-project-failures-in-the-classroom/",
+					"display_url": "schoolsweek.co.uk/how-to-avoid-p…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2491487924,
+			"id_str": "2491487924",
+			"name": "Schools Week",
+			"screen_name": "SchoolsWeek",
+			"location": "Greenwich, London",
+			"description": "Latest news on primary and secondary schools and education policy in England. Exclusive interviews, news and experts - for readers who like to be in the know.",
+			"url": "https://t.co/hwNUMxmlen",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hwNUMxmlen",
+							"expanded_url": "http://schoolsweek.co.uk",
+							"display_url": "schoolsweek.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52727,
+			"friends_count": 3041,
+			"listed_count": 0,
+			"created_at": "Mon May 12 13:56:48 +0000 2014",
+			"favourites_count": 1014,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52340,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1001480017132621824/wyUiXldi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001480017132621824/wyUiXldi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2491487924/1527695935",
+			"profile_link_color": "F2620F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ever used a pre-mortem to avoid classroom failures? @ProfKime explains how it's done https://t.co/kExrqTnM4s"
+	},
+	{
 		"created_at": "Sat Nov 03 22:49:12 +0000 2018",
 		"id": 1058853630319706100,
 		"id_str": "1058853630319706112",
