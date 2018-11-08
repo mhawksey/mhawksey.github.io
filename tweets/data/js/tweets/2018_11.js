@@ -1,6 +1,1531 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Wed Nov 07 19:07:35 +0000 2018",
+		"id": 1060247408825774100,
+		"id_str": "1060247408825774080",
+		"full_text": "@MarenDeepwell ... but where does one put all your monitors ;)",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1060237070457860100,
+		"in_reply_to_status_id_str": "1060237070457860096",
+		"in_reply_to_user_id": 323173367,
+		"in_reply_to_user_id_str": "323173367",
+		"in_reply_to_screen_name": "MarenDeepwell",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7854,
+			"friends_count": 2049,
+			"listed_count": 588,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4707,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27464,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MarenDeepwell ... but where does one put all your monitors ;)"
+	},
+	{
+		"created_at": "Wed Nov 07 19:01:09 +0000 2018",
+		"id": 1060245791162462200,
+		"id_str": "1060245791162462208",
+		"full_text": "@nogribin @marc_smith He does know a thing or two about this space ;)",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nogribin",
+					"name": "🇮🇪 Niall",
+					"id": 96915475,
+					"id_str": "96915475",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "marc_smith",
+					"name": "Marc Smith",
+					"id": 12160482,
+					"id_str": "12160482",
+					"indices": [
+						10,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1060222450150109200,
+		"in_reply_to_status_id_str": "1060222450150109184",
+		"in_reply_to_user_id": 96915475,
+		"in_reply_to_user_id_str": "96915475",
+		"in_reply_to_screen_name": "nogribin",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7854,
+			"friends_count": 2049,
+			"listed_count": 588,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4707,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27464,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@nogribin @marc_smith He does know a thing or two about this space ;)"
+	},
+	{
+		"created_at": "Wed Nov 07 18:39:24 +0000 2018",
+		"id": 1060240318908563500,
+		"id_str": "1060240318908563456",
+		"full_text": "Flickr promises it won’t delete Creative Commons photos when it limits free storage (also starting a nonprofit programme) #altc  https://t.co/dMGl0vel89 via @Verge",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						122,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "verge",
+					"name": "The Verge",
+					"id": 275686563,
+					"id_str": "275686563",
+					"indices": [
+						157,
+						163
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dMGl0vel89",
+					"expanded_url": "https://www.theverge.com/2018/11/7/18071532/flickr-creative-commons-licensed-photos-limiting-free-storage-2019?utm_campaign=theverge&utm_content=entry&utm_medium=social&utm_source=twitter",
+					"display_url": "theverge.com/2018/11/7/1807…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7854,
+			"friends_count": 2049,
+			"listed_count": 588,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4707,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27464,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Flickr promises it won’t delete Creative Commons photos when it limits free storage (also starting a nonprofit programme) #altc  https://t.co/dMGl0vel89 via @Verge"
+	},
+	{
+		"created_at": "Wed Nov 07 17:25:36 +0000 2018",
+		"id": 1060221746043912200,
+		"id_str": "1060221746043912192",
+		"full_text": "@nogribin don't think I've come across before. I was recently looking for a new graphing library and did the usual tour around https://t.co/6Thl7QuHFV  https://t.co/coWcTsMurG https://t.co/xbk9sEg6ob The timebar feature in keylines looks really appealing to me https://t.co/IR8kMZHckf",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			284
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nogribin",
+					"name": "🇮🇪 Niall",
+					"id": 96915475,
+					"id_str": "96915475",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6Thl7QuHFV",
+					"expanded_url": "http://js.cytoscape.org/",
+					"display_url": "js.cytoscape.org",
+					"indices": [
+						127,
+						150
+					]
+				},
+				{
+					"url": "https://t.co/coWcTsMurG",
+					"expanded_url": "http://visjs.org/",
+					"display_url": "visjs.org",
+					"indices": [
+						152,
+						175
+					]
+				},
+				{
+					"url": "https://t.co/xbk9sEg6ob",
+					"expanded_url": "http://sigmajs.org/",
+					"display_url": "sigmajs.org",
+					"indices": [
+						176,
+						199
+					]
+				},
+				{
+					"url": "https://t.co/IR8kMZHckf",
+					"expanded_url": "https://cambridge-intelligence.com/keylines/timebar/",
+					"display_url": "cambridge-intelligence.com/keylines/timeb…",
+					"indices": [
+						261,
+						284
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1060212336777150500,
+		"in_reply_to_status_id_str": "1060212336777150464",
+		"in_reply_to_user_id": 96915475,
+		"in_reply_to_user_id_str": "96915475",
+		"in_reply_to_screen_name": "nogribin",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7854,
+			"friends_count": 2049,
+			"listed_count": 588,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4707,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27464,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@nogribin don't think I've come across before. I was recently looking for a new graphing library and did the usual tour around https://t.co/6Thl7QuHFV  https://t.co/coWcTsMurG https://t.co/xbk9sEg6ob The timebar feature in keylines looks really appealing to me https://t.co/IR8kMZHckf"
+	},
+	{
+		"created_at": "Tue Nov 06 20:46:48 +0000 2018",
+		"id": 1059909992084582400,
+		"id_str": "1059909992084582400",
+		"full_text": "#OER19 please share this thread with your networks - many thanks! \n#openeducation #oep #oer #openped #openedIE #openedsig #oepsig #mozfest #owlteh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OER19",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "openeducation",
+					"indices": [
+						67,
+						81
+					]
+				},
+				{
+					"text": "oep",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "oer",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "openped",
+					"indices": [
+						92,
+						100
+					]
+				},
+				{
+					"text": "openedIE",
+					"indices": [
+						101,
+						110
+					]
+				},
+				{
+					"text": "openedsig",
+					"indices": [
+						111,
+						121
+					]
+				},
+				{
+					"text": "oepsig",
+					"indices": [
+						122,
+						129
+					]
+				},
+				{
+					"text": "mozfest",
+					"indices": [
+						130,
+						138
+					]
+				},
+				{
+					"text": "owlteh",
+					"indices": [
+						139,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1059907966659371000,
+		"in_reply_to_status_id_str": "1059907966659371011",
+		"in_reply_to_user_id": 59833587,
+		"in_reply_to_user_id_str": "59833587",
+		"in_reply_to_screen_name": "catherinecronin",
+		"user": {
+			"id": 59833587,
+			"id_str": "59833587",
+			"name": "Dr. Catherine Cronin",
+			"screen_name": "catherinecronin",
+			"location": "Galway & Dublin",
+			"description": "open educator/researcher, strategic education developer @ForumTL. thinking about open education, digital identity, equality, social justice. #UnboundEq #GO_GN",
+			"url": "https://t.co/3UQJVy9yLt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3UQJVy9yLt",
+							"expanded_url": "http://catherinecronin.net/",
+							"display_url": "catherinecronin.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8829,
+			"friends_count": 3741,
+			"listed_count": 564,
+			"created_at": "Fri Jul 24 17:08:17 +0000 2009",
+			"favourites_count": 47530,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33833,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "594F4F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834092252490145797/OQLf_CqL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834092252490145797/OQLf_CqL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/59833587/1531151665",
+			"profile_link_color": "2F72C4",
+			"profile_sidebar_border_color": "E5FCC2",
+			"profile_sidebar_fill_color": "9DE0AD",
+			"profile_text_color": "547980",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "#OER19 please share this thread with your networks - many thanks! \n#openeducation #oep #oer #openped #openedIE #openedsig #oepsig #mozfest #owlteh"
+	},
+	{
+		"created_at": "Wed Nov 07 10:13:16 +0000 2018",
+		"id": 1060112945789714400,
+		"id_str": "1060112945789714433",
+		"full_text": "Love this #oer19 small add ... it should be a thing for this year ... 'OER looking for good home, 1 previous owner' ... ;) https://t.co/mVXxwiC49X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "oer19",
+					"indices": [
+						10,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mVXxwiC49X",
+					"expanded_url": "https://twitter.com/VivienRolfe/status/1059909889173176322",
+					"display_url": "twitter.com/VivienRolfe/st…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7854,
+			"friends_count": 2049,
+			"listed_count": 588,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4707,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27464,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1059909889173176300,
+		"quoted_status_id_str": "1059909889173176322",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mVXxwiC49X",
+			"expanded": "https://twitter.com/VivienRolfe/status/1059909889173176322",
+			"display": "twitter.com/VivienRolfe/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 06 20:46:24 +0000 2018",
+			"id": 1059909889173176300,
+			"id_str": "1059909889173176322",
+			"full_text": "#OER19. #OpenEdSig...RT https://t.co/8uzcK6FuV6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				23
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OER19",
+						"indices": [
+							0,
+							6
+						]
+					},
+					{
+						"text": "OpenEdSig",
+						"indices": [
+							8,
+							18
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1059909807275237400,
+						"id_str": "1059909807275237376",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/DrWOWqSX4AAFKe-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DrWOWqSX4AAFKe-.jpg",
+						"url": "https://t.co/8uzcK6FuV6",
+						"display_url": "pic.twitter.com/8uzcK6FuV6",
+						"expanded_url": "https://twitter.com/VivienRolfe/status/1059909889173176322/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1059909807275237400,
+						"id_str": "1059909807275237376",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/DrWOWqSX4AAFKe-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DrWOWqSX4AAFKe-.jpg",
+						"url": "https://t.co/8uzcK6FuV6",
+						"display_url": "pic.twitter.com/8uzcK6FuV6",
+						"expanded_url": "https://twitter.com/VivienRolfe/status/1059909889173176322/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 214901910,
+				"id_str": "214901910",
+				"name": "Viv Rolfe 🍵🌿💚",
+				"screen_name": "VivienRolfe",
+				"location": "",
+				"description": "Woman (back) in #STEM. Herbal researcher. Co-chair for #OER18. @UKOpenTextbooks #OpenEdSig #FemEdTech #PukkaResearch",
+				"url": "https://t.co/4xB3kgCCgs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4xB3kgCCgs",
+								"expanded_url": "http://www.vivrolfe.com",
+								"display_url": "vivrolfe.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2242,
+				"friends_count": 2387,
+				"listed_count": 111,
+				"created_at": "Fri Nov 12 14:22:54 +0000 2010",
+				"favourites_count": 10795,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4994,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "050505",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/751158600010174464/XqYg6I4q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/751158600010174464/XqYg6I4q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/214901910/1532547730",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Love this #oer19 small add ... it should be a thing for this year ... 'OER looking for good home, 1 previous owner' ... ;) https://t.co/mVXxwiC49X"
+	},
+	{
+		"created_at": "Tue Nov 06 22:19:51 +0000 2018",
+		"id": 1059933408359604200,
+		"id_str": "1059933408359604224",
+		"full_text": "Get involved #livunisocial #altc #edtech #MELSIG #ALTNWESIG https://t.co/6naEqnSMYX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "livunisocial",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						27,
+						32
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						33,
+						40
+					]
+				},
+				{
+					"text": "MELSIG",
+					"indices": [
+						41,
+						48
+					]
+				},
+				{
+					"text": "ALTNWESIG",
+					"indices": [
+						49,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6naEqnSMYX",
+					"expanded_url": "https://twitter.com/SocMedHE/status/1059912997357924352",
+					"display_url": "twitter.com/SocMedHE/statu…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1056578767,
+			"id_str": "1056578767",
+			"name": "Alex Spiers",
+			"screen_name": "alexgspiers",
+			"location": "Liverpool",
+			"description": "TEL Project Manager @LIPAliverpool Co-ordinate #ALTNWESIG & #BYOD4L & member of #MELSIG Interested in mobile tech, social media & music",
+			"url": "https://t.co/j1i0uaCCEX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j1i0uaCCEX",
+							"expanded_url": "http://about.me/alex.spiers",
+							"display_url": "about.me/alex.spiers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2348,
+			"friends_count": 1688,
+			"listed_count": 125,
+			"created_at": "Thu Jan 03 01:28:33 +0000 2013",
+			"favourites_count": 6893,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12257,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/586457577992491011/rz6qrjfU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/586457577992491011/rz6qrjfU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1056578767/1436441450",
+			"profile_link_color": "0C4A07",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1059912997357924400,
+		"quoted_status_id_str": "1059912997357924352",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6naEqnSMYX",
+			"expanded": "https://twitter.com/SocMedHE/status/1059912997357924352",
+			"display": "twitter.com/SocMedHE/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 06 20:58:45 +0000 2018",
+			"id": 1059912997357924400,
+			"id_str": "1059912997357924352",
+			"full_text": "Psst... The call for contributions for #SocMedHE18 will be out soon!\nSocial Media for Learning in HE - 9th January at @TrentUni \nStart persuing on the themes: #creativity #openness #digitalidentitiy https://t.co/g4M6nuogWH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				198
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SocMedHE18",
+						"indices": [
+							39,
+							50
+						]
+					},
+					{
+						"text": "creativity",
+						"indices": [
+							159,
+							170
+						]
+					},
+					{
+						"text": "openness",
+						"indices": [
+							171,
+							180
+						]
+					},
+					{
+						"text": "digitalidentitiy",
+						"indices": [
+							181,
+							198
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TrentUni",
+						"name": "Nottingham Trent Uni",
+						"id": 29196791,
+						"id_str": "29196791",
+						"indices": [
+							118,
+							127
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1059911783769665500,
+						"id_str": "1059911783769665538",
+						"indices": [
+							199,
+							222
+						],
+						"media_url": "http://pbs.twimg.com/media/DrWQJtTXcAISoyf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DrWQJtTXcAISoyf.jpg",
+						"url": "https://t.co/g4M6nuogWH",
+						"display_url": "pic.twitter.com/g4M6nuogWH",
+						"expanded_url": "https://twitter.com/SocMedHE/status/1059912997357924352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1059911783769665500,
+						"id_str": "1059911783769665538",
+						"indices": [
+							199,
+							222
+						],
+						"media_url": "http://pbs.twimg.com/media/DrWQJtTXcAISoyf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DrWQJtTXcAISoyf.jpg",
+						"url": "https://t.co/g4M6nuogWH",
+						"display_url": "pic.twitter.com/g4M6nuogWH",
+						"expanded_url": "https://twitter.com/SocMedHE/status/1059912997357924352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3346395670,
+				"id_str": "3346395670",
+				"name": "@SocMedHE",
+				"screen_name": "SocMedHE",
+				"location": "Nottingham, England",
+				"description": "The Social Media for Learning in Higher Ed Event. Join us 9th January 2019 at @TrentUni #SocMedHE18",
+				"url": "https://t.co/jwYPKkAERp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jwYPKkAERp",
+								"expanded_url": "https://socmedhe18.wordpress.com/",
+								"display_url": "socmedhe18.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1128,
+				"friends_count": 1305,
+				"listed_count": 56,
+				"created_at": "Fri Jun 26 08:20:41 +0000 2015",
+				"favourites_count": 1779,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1568,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1059925392130236422/d3FujkpR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1059925392130236422/d3FujkpR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3346395670/1541575058",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Get involved #livunisocial #altc #edtech #MELSIG #ALTNWESIG https://t.co/6naEqnSMYX"
+	},
+	{
+		"created_at": "Fri Nov 02 21:00:35 +0000 2018",
+		"id": 1058463908653080600,
+		"id_str": "1058463908653080576",
+		"full_text": "Devs: We're bringing new functionality (and a new name) to the Apps Script dashboard.\n\nIntroducing the G Suite Developer Hub → https://t.co/SEhNvKDUXv https://t.co/wKkzX5HwKq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SEhNvKDUXv",
+					"expanded_url": "https://goo.gl/umvK8Q",
+					"display_url": "goo.gl/umvK8Q",
+					"indices": [
+						127,
+						150
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1058463764142608400,
+					"id_str": "1058463764142608384",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DrBrL31X0AAtw2Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DrBrL31X0AAtw2Q.jpg",
+					"url": "https://t.co/wKkzX5HwKq",
+					"display_url": "pic.twitter.com/wKkzX5HwKq",
+					"expanded_url": "https://twitter.com/gsuite/status/1058463908653080576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1058463764142608400,
+					"id_str": "1058463764142608384",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DrBrL31X0AAtw2Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DrBrL31X0AAtw2Q.jpg",
+					"url": "https://t.co/wKkzX5HwKq",
+					"display_url": "pic.twitter.com/wKkzX5HwKq",
+					"expanded_url": "https://twitter.com/gsuite/status/1058463908653080576/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DrBrL31X0AAtw2Q.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17003765,
+			"id_str": "17003765",
+			"name": "G Suite",
+			"screen_name": "gsuite",
+			"location": "Mountain View, CA",
+			"description": "Intelligent apps for business.",
+			"url": "https://t.co/w9DdEr5j0t",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w9DdEr5j0t",
+							"expanded_url": "http://gsuite.google.com",
+							"display_url": "gsuite.google.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 825369,
+			"friends_count": 6100,
+			"listed_count": 9170,
+			"created_at": "Mon Oct 27 18:29:35 +0000 2008",
+			"favourites_count": 2642,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16623,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798286339351289856/oYkAxyQM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798286339351289856/oYkAxyQM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17003765/1532986745",
+			"profile_link_color": "4285F4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Devs: We're bringing new functionality (and a new name) to the Apps Script dashboard.\n\nIntroducing the G Suite Developer Hub → https://t.co/SEhNvKDUXv https://t.co/wKkzX5HwKq"
+	},
+	{
 		"created_at": "Tue Nov 06 17:19:27 +0000 2018",
 		"id": 1059857808710160400,
 		"id_str": "1059857808710160387",
