@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Thu Nov 08 14:36:27 +0000 2018",
+		"id": 1060541563577737200,
+		"id_str": "1060541563577737216",
+		"full_text": "It can be a little daunting to navigate all the developer capabilities available for G Suite. A good place to start is our product offerings page:\n\nhttps://t.co/JSMaYAq712\n\nI've just updated it with the latest information, including our new APIS and extensions for Cloud Search.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JSMaYAq712",
+					"expanded_url": "https://developers.google.com/gsuite/products",
+					"display_url": "developers.google.com/gsuite/products",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 191872042,
+			"id_str": "191872042",
+			"name": "Eric Koleda",
+			"screen_name": "erickoleda",
+			"location": "New York, NY",
+			"description": "A Developer Programs Engineer at Google working on G Suite APIs and developer products.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 581,
+			"friends_count": 131,
+			"listed_count": 22,
+			"created_at": "Fri Sep 17 15:41:20 +0000 2010",
+			"favourites_count": 356,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 622,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963234010251038721/vQpeZv_j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963234010251038721/vQpeZv_j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/191872042/1478717083",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It can be a little daunting to navigate all the developer capabilities available for G Suite. A good place to start is our product offerings page:\n\nhttps://t.co/JSMaYAq712\n\nI've just updated it with the latest information, including our new APIS and extensions for Cloud Search."
+	},
+	{
+		"created_at": "Sat Nov 10 07:56:16 +0000 2018",
+		"id": 1061165631964307500,
+		"id_str": "1061165631964307456",
+		"full_text": "@MarenDeepwell haven't read the full report but this looks interesting ... How to use G Suite to improve team performance via intermittent interaction https://t.co/BuKqhTiWpD via @techrepublic",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "TechRepublic",
+					"name": "TechRepublic",
+					"id": 6486602,
+					"id_str": "6486602",
+					"indices": [
+						179,
+						192
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BuKqhTiWpD",
+					"expanded_url": "https://tek.io/2PhA2dO",
+					"display_url": "tek.io/2PhA2dO",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 323173367,
+		"in_reply_to_user_id_str": "323173367",
+		"in_reply_to_screen_name": "MarenDeepwell",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7845,
+			"friends_count": 2049,
+			"listed_count": 588,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4717,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27475,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@MarenDeepwell haven't read the full report but this looks interesting ... How to use G Suite to improve team performance via intermittent interaction https://t.co/BuKqhTiWpD via @techrepublic"
+	},
+	{
 		"created_at": "Fri Nov 09 10:52:21 +0000 2018",
 		"id": 1060847554550812700,
 		"id_str": "1060847554550812677",
