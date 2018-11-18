@@ -1,6 +1,1309 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sat Nov 17 10:35:03 +0000 2018",
+		"id": 1063742306342367200,
+		"id_str": "1063742306342367232",
+		"full_text": "Interesting reading for anyone using Office365 —&gt; Microsoft menaced with GDPR mega-fines in Europe for 'large scale and covert' gathering of people's info via Office • The Register https://t.co/TropSn36tX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TropSn36tX",
+					"expanded_url": "https://www.theregister.co.uk/2018/11/16/microsoft_gdpr/",
+					"display_url": "theregister.co.uk/2018/11/16/mic…",
+					"indices": [
+						184,
+						207
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22673907,
+			"id_str": "22673907",
+			"name": "Anne-Marie Scott",
+			"screen_name": "ammienoot",
+			"location": "Edinburgh",
+			"description": "Edtech lady leader @EdinburghUni | @Apereo Board | Mansfield Traquair Trust | @girlgeekscotland. Art, books, rural living, piffle & nonsense. Views mine.",
+			"url": "https://t.co/QNuHpiA76g",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QNuHpiA76g",
+							"expanded_url": "http://ammienoot.com",
+							"display_url": "ammienoot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1677,
+			"friends_count": 2647,
+			"listed_count": 120,
+			"created_at": "Tue Mar 03 20:30:51 +0000 2009",
+			"favourites_count": 13300,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13269,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1010827648728215552/IMrHrfAA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1010827648728215552/IMrHrfAA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22673907/1493487259",
+			"profile_link_color": "8F9E70",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Interesting reading for anyone using Office365 —&gt; Microsoft menaced with GDPR mega-fines in Europe for 'large scale and covert' gathering of people's info via Office • The Register https://t.co/TropSn36tX"
+	},
+	{
+		"created_at": "Sat Nov 17 16:10:13 +0000 2018",
+		"id": 1063826651149148200,
+		"id_str": "1063826651149148160",
+		"full_text": "I warned @GDGglasgow #devfest18 that I start seeing all problems solvable with Google Apps Script, case in point great post on 'Building a Deep Neural Net In Google Sheets' https://t.co/gFUFkXxoQh #devfest",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "devfest18",
+					"indices": [
+						21,
+						31
+					]
+				},
+				{
+					"text": "devfest",
+					"indices": [
+						197,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GDGglasgow",
+					"name": "GDG Glasgow",
+					"id": 1047034492748214300,
+					"id_str": "1047034492748214272",
+					"indices": [
+						9,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gFUFkXxoQh",
+					"expanded_url": "https://towardsdatascience.com/building-a-deep-neural-net-in-google-sheets-49cdaf466da0",
+					"display_url": "towardsdatascience.com/building-a-dee…",
+					"indices": [
+						173,
+						196
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7855,
+			"friends_count": 2061,
+			"listed_count": 587,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4737,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27495,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I warned @GDGglasgow #devfest18 that I start seeing all problems solvable with Google Apps Script, case in point great post on 'Building a Deep Neural Net In Google Sheets' https://t.co/gFUFkXxoQh #devfest"
+	},
+	{
+		"created_at": "Sat Nov 17 15:33:35 +0000 2018",
+		"id": 1063817434405191700,
+		"id_str": "1063817434405191680",
+		"full_text": "Great talk by @chibichibibr on @ActionsOnGoogle and @Dialogflow at @GDGglasgow #devfest18 ... lots of interest after her talk with people wanting to find out more",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "devfest18",
+					"indices": [
+						79,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chibichibibr",
+					"name": "Amanda Cavallaro",
+					"id": 170796110,
+					"id_str": "170796110",
+					"indices": [
+						14,
+						27
+					]
+				},
+				{
+					"screen_name": "ActionsOnGoogle",
+					"name": "Actions on Google",
+					"id": 857372550241726500,
+					"id_str": "857372550241726464",
+					"indices": [
+						31,
+						47
+					]
+				},
+				{
+					"screen_name": "Dialogflow",
+					"name": "Dialogflow",
+					"id": 2774598458,
+					"id_str": "2774598458",
+					"indices": [
+						52,
+						63
+					]
+				},
+				{
+					"screen_name": "GDGglasgow",
+					"name": "GDG Glasgow",
+					"id": 1047034492748214300,
+					"id_str": "1047034492748214272",
+					"indices": [
+						67,
+						78
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7855,
+			"friends_count": 2061,
+			"listed_count": 587,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4737,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27495,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Great talk by @chibichibibr on @ActionsOnGoogle and @Dialogflow at @GDGglasgow #devfest18 ... lots of interest after her talk with people wanting to find out more"
+	},
+	{
+		"created_at": "Sat Nov 17 13:36:11 +0000 2018",
+		"id": 1063787890214350800,
+		"id_str": "1063787890214350851",
+		"full_text": "@ProductForge Identity crisis: Using the YouTube Data API with Google Apps Script and Scheduling Live Broadcasts from Google Sheets https://t.co/emWelKfXWZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ProductForge",
+					"name": "Product Forge",
+					"id": 361611206,
+					"id_str": "361611206",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/emWelKfXWZ",
+					"expanded_url": "https://mashe.hawksey.info/2017/09/identity-crisis-using-the-youtube-api-with-google-apps-script-and-scheduling-live-broadcasts-from-google-sheets/",
+					"display_url": "mashe.hawksey.info/2017/09/identi…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 361611206,
+		"in_reply_to_user_id_str": "361611206",
+		"in_reply_to_screen_name": "ProductForge",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7855,
+			"friends_count": 2061,
+			"listed_count": 587,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4737,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27495,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ProductForge Identity crisis: Using the YouTube Data API with Google Apps Script and Scheduling Live Broadcasts from Google Sheets https://t.co/emWelKfXWZ"
+	},
+	{
+		"created_at": "Sat Nov 17 10:26:58 +0000 2018",
+		"id": 1063740268967616500,
+		"id_str": "1063740268967616512",
+		"full_text": "Well they've got a great venue for @GDGglasgow #devfest / #devfest18. A nice mixture of industrial and gothic https://t.co/7uuZ6voNp2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "devfest",
+					"indices": [
+						47,
+						55
+					]
+				},
+				{
+					"text": "devfest18",
+					"indices": [
+						58,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GDGglasgow",
+					"name": "GDG Glasgow",
+					"id": 1047034492748214300,
+					"id_str": "1047034492748214272",
+					"indices": [
+						35,
+						46
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1063740240903487500,
+					"id_str": "1063740240903487490",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/DsMqHPhXQAIWQCS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsMqHPhXQAIWQCS.jpg",
+					"url": "https://t.co/7uuZ6voNp2",
+					"display_url": "pic.twitter.com/7uuZ6voNp2",
+					"expanded_url": "https://twitter.com/mhawksey/status/1063740268967616512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1063740240903487500,
+					"id_str": "1063740240903487490",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/DsMqHPhXQAIWQCS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsMqHPhXQAIWQCS.jpg",
+					"url": "https://t.co/7uuZ6voNp2",
+					"display_url": "pic.twitter.com/7uuZ6voNp2",
+					"expanded_url": "https://twitter.com/mhawksey/status/1063740268967616512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1063740258058149900,
+					"id_str": "1063740258058149889",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/DsMqIPbWoAEIhFA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsMqIPbWoAEIhFA.jpg",
+					"url": "https://t.co/7uuZ6voNp2",
+					"display_url": "pic.twitter.com/7uuZ6voNp2",
+					"expanded_url": "https://twitter.com/mhawksey/status/1063740268967616512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7855,
+			"friends_count": 2061,
+			"listed_count": 587,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4737,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27495,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well they've got a great venue for @GDGglasgow #devfest / #devfest18. A nice mixture of industrial and gothic https://t.co/7uuZ6voNp2"
+	},
+	{
+		"created_at": "Sat Nov 17 09:39:19 +0000 2018",
+		"id": 1063728280539463700,
+		"id_str": "1063728280539463681",
+		"full_text": "@Opeyemiolami Is the YouTube library installed/enabled?",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Opeyemiolami",
+					"name": "Olayinka",
+					"id": 347342392,
+					"id_str": "347342392",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1063586573810323500,
+		"in_reply_to_status_id_str": "1063586573810323457",
+		"in_reply_to_user_id": 347342392,
+		"in_reply_to_user_id_str": "347342392",
+		"in_reply_to_screen_name": "Opeyemiolami",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7855,
+			"friends_count": 2061,
+			"listed_count": 587,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4737,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27495,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Opeyemiolami Is the YouTube library installed/enabled?"
+	},
+	{
+		"created_at": "Sat Nov 17 09:00:17 +0000 2018",
+		"id": 1063718455214596100,
+		"id_str": "1063718455214596096",
+		"full_text": "We will be livestreaming at the developer conference hosted by @GDGglasgow, there will be talks about Google apps scripts by @mhawksey, other talks about flutter, google assistant and video delivery optimization.💻 #DevFest18 Watch it here at 9am 👉https://t.co/BJLJPnpXtz https://t.co/MQpyBYyC9R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DevFest18",
+					"indices": [
+						214,
+						224
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GDGglasgow",
+					"name": "GDG Glasgow",
+					"id": 1047034492748214300,
+					"id_str": "1047034492748214272",
+					"indices": [
+						63,
+						74
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						125,
+						134
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BJLJPnpXtz",
+					"expanded_url": "https://buff.ly/2qGRz0t",
+					"display_url": "buff.ly/2qGRz0t",
+					"indices": [
+						247,
+						270
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1063718453478154200,
+					"id_str": "1063718453478154240",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/DsMWTDCX4AAAFv_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsMWTDCX4AAAFv_.jpg",
+					"url": "https://t.co/MQpyBYyC9R",
+					"display_url": "pic.twitter.com/MQpyBYyC9R",
+					"expanded_url": "https://twitter.com/ProductForge/status/1063718455214596096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1063718453478154200,
+					"id_str": "1063718453478154240",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/DsMWTDCX4AAAFv_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsMWTDCX4AAAFv_.jpg",
+					"url": "https://t.co/MQpyBYyC9R",
+					"display_url": "pic.twitter.com/MQpyBYyC9R",
+					"expanded_url": "https://twitter.com/ProductForge/status/1063718455214596096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 361611206,
+			"id_str": "361611206",
+			"name": "Product Forge",
+			"screen_name": "ProductForge",
+			"location": "Edinburgh",
+			"description": "The competitive multidisciplinary hackathon with a product focus. We nurture talent in the creative and digital technologies sector.",
+			"url": "https://t.co/ffVU9E9Ivx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ffVU9E9Ivx",
+							"expanded_url": "http://productforge.io",
+							"display_url": "productforge.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2292,
+			"friends_count": 3036,
+			"listed_count": 65,
+			"created_at": "Thu Aug 25 01:52:48 +0000 2011",
+			"favourites_count": 1952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2664,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/717306100312383488/f38LU5Cu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/717306100312383488/f38LU5Cu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/361611206/1520846247",
+			"profile_link_color": "9D1016",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F4E588",
+			"profile_text_color": "F3B855",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We will be livestreaming at the developer conference hosted by @GDGglasgow, there will be talks about Google apps scripts by @mhawksey, other talks about flutter, google assistant and video delivery optimization.💻 #DevFest18 Watch it here at 9am 👉https://t.co/BJLJPnpXtz https://t.co/MQpyBYyC9R"
+	},
+	{
+		"created_at": "Sat Nov 17 07:56:22 +0000 2018",
+		"id": 1063702372004827100,
+		"id_str": "1063702372004827136",
+		"full_text": "Perhaps @biswajeet_137 or @GoogleDevsIN can help... https://t.co/dT0XlUP23q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "biswajeet_137",
+					"name": "Biswajeet Mallik",
+					"id": 1013730691970814000,
+					"id_str": "1013730691970813953",
+					"indices": [
+						8,
+						22
+					]
+				},
+				{
+					"screen_name": "GoogleDevsIN",
+					"name": "Google Devs India",
+					"id": 4490396355,
+					"id_str": "4490396355",
+					"indices": [
+						26,
+						39
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dT0XlUP23q",
+					"expanded_url": "https://twitter.com/srbodkhe/status/1063629093432946691",
+					"display_url": "twitter.com/srbodkhe/statu…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7855,
+			"friends_count": 2061,
+			"listed_count": 587,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4737,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27495,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1063629093432946700,
+		"quoted_status_id_str": "1063629093432946691",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dT0XlUP23q",
+			"expanded": "https://twitter.com/srbodkhe/status/1063629093432946691",
+			"display": "twitter.com/srbodkhe/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 17 03:05:11 +0000 2018",
+			"id": 1063629093432946700,
+			"id_str": "1063629093432946691",
+			"full_text": "@mhawksey @GDGglasgow When we expect Apps Script Events In India?",
+			"truncated": false,
+			"display_text_range": [
+				22,
+				65
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mhawksey",
+						"name": "Martin Hawksey",
+						"id": 13046992,
+						"id_str": "13046992",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "GDGglasgow",
+						"name": "GDG Glasgow",
+						"id": 1047034492748214300,
+						"id_str": "1047034492748214272",
+						"indices": [
+							10,
+							21
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1063339459054321700,
+			"in_reply_to_status_id_str": "1063339459054321664",
+			"in_reply_to_user_id": 13046992,
+			"in_reply_to_user_id_str": "13046992",
+			"in_reply_to_screen_name": "mhawksey",
+			"user": {
+				"id": 765953424127057900,
+				"id_str": "765953424127057921",
+				"name": "Shivaji R",
+				"screen_name": "srbodkhe",
+				"location": "India",
+				"description": "",
+				"url": "https://t.co/WQ91KHHdSQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WQ91KHHdSQ",
+								"expanded_url": "https://scriptingwithshiva.blogspot.in/",
+								"display_url": "scriptingwithshiva.blogspot.in",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 57,
+				"friends_count": 37,
+				"listed_count": 1,
+				"created_at": "Wed Aug 17 16:48:21 +0000 2016",
+				"favourites_count": 439,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 301,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1045203248305516546/ZPwGew55_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045203248305516546/ZPwGew55_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/765953424127057921/1521377804",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Perhaps @biswajeet_137 or @GoogleDevsIN can help... https://t.co/dT0XlUP23q"
+	},
+	{
 		"created_at": "Fri Nov 16 09:08:29 +0000 2018",
 		"id": 1063358133073035300,
 		"id_str": "1063358133073035264",
