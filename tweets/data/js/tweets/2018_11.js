@@ -1,6 +1,356 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Tue Nov 20 09:53:46 +0000 2018",
+		"id": 1064819080228732900,
+		"id_str": "1064819080228732929",
+		"full_text": "@Iamsidmish as in the payload - I've not done any work with MWS so afraid I can't help there. Suggest you try posting to SO or https://t.co/93fBNey16n",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Iamsidmish",
+					"name": "SIDMISH",
+					"id": 2991388266,
+					"id_str": "2991388266",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/93fBNey16n",
+					"expanded_url": "https://plus.google.com/communities/102471985047225101769",
+					"display_url": "plus.google.com/communities/10…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1064816222519345200,
+		"in_reply_to_status_id_str": "1064816222519345154",
+		"in_reply_to_user_id": 2991388266,
+		"in_reply_to_user_id_str": "2991388266",
+		"in_reply_to_screen_name": "Iamsidmish",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7863,
+			"friends_count": 2065,
+			"listed_count": 587,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4745,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27505,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Iamsidmish as in the payload - I've not done any work with MWS so afraid I can't help there. Suggest you try posting to SO or https://t.co/93fBNey16n"
+	},
+	{
+		"created_at": "Tue Nov 20 09:32:53 +0000 2018",
+		"id": 1064813823104831500,
+		"id_str": "1064813823104831489",
+		"full_text": "@Iamsidmish have you tried this ... https://t.co/4zaB5vvd7U",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Iamsidmish",
+					"name": "SIDMISH",
+					"id": 2991388266,
+					"id_str": "2991388266",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4zaB5vvd7U",
+					"expanded_url": "https://stackoverflow.com/questions/37191021/querying-amazon-mws-from-google-apps-script",
+					"display_url": "stackoverflow.com/questions/3719…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1064800087841357800,
+		"in_reply_to_status_id_str": "1064800087841357825",
+		"in_reply_to_user_id": 2991388266,
+		"in_reply_to_user_id_str": "2991388266",
+		"in_reply_to_screen_name": "Iamsidmish",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7863,
+			"friends_count": 2065,
+			"listed_count": 587,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4745,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27505,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Iamsidmish have you tried this ... https://t.co/4zaB5vvd7U"
+	},
+	{
+		"created_at": "Tue Nov 20 08:12:53 +0000 2018",
+		"id": 1064793689317408800,
+		"id_str": "1064793689317408768",
+		"full_text": "@scottturneruon So following @suebecks suggestion we could do it in 3 parts: I walk people through the setup; then you could talk about real world applications; and close on a discussion about this area?",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "scottturneruon",
+					"name": "Dr Scott Turner",
+					"id": 56366858,
+					"id_str": "56366858",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						29,
+						38
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1064571931519868900,
+		"in_reply_to_status_id_str": "1064571931519868928",
+		"in_reply_to_user_id": 56366858,
+		"in_reply_to_user_id_str": "56366858",
+		"in_reply_to_screen_name": "scottturneruon",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7863,
+			"friends_count": 2065,
+			"listed_count": 587,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4745,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27505,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@scottturneruon So following @suebecks suggestion we could do it in 3 parts: I walk people through the setup; then you could talk about real world applications; and close on a discussion about this area?"
+	},
+	{
 		"created_at": "Mon Nov 19 19:46:38 +0000 2018",
 		"id": 1064605890026905600,
 		"id_str": "1064605890026905600",
