@@ -1,6 +1,261 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Tue Nov 27 12:47:02 +0000 2018",
+		"id": 1067399398445985800,
+		"id_str": "1067399398445985792",
+		"full_text": "@JohnnyBoyBriggs really enjoyed your session yesterday ... been a while since I've looked at Storyline so a refresh was welcomed",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JohnnyBoyBriggs",
+					"name": "Johnny Briggs",
+					"id": 846690397954936800,
+					"id_str": "846690397954936832",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 846690397954936800,
+		"in_reply_to_user_id_str": "846690397954936832",
+		"in_reply_to_screen_name": "JohnnyBoyBriggs",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7878,
+			"friends_count": 2067,
+			"listed_count": 587,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4765,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27521,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JohnnyBoyBriggs really enjoyed your session yesterday ... been a while since I've looked at Storyline so a refresh was welcomed"
+	},
+	{
+		"created_at": "Mon Nov 26 10:23:19 +0000 2018",
+		"id": 1067000841566134300,
+		"id_str": "1067000841566134272",
+		"full_text": ".@mhawksey referring to @A_L_T webinar on #GDPR and #Moodle: https://t.co/0zJk4hb4wJ #Elesig",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GDPR",
+					"indices": [
+						42,
+						47
+					]
+				},
+				{
+					"text": "Moodle",
+					"indices": [
+						52,
+						59
+					]
+				},
+				{
+					"text": "Elesig",
+					"indices": [
+						85,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						24,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0zJk4hb4wJ",
+					"expanded_url": "https://www.alt.ac.uk/civicrm/event/info%3Fid%3D347%26amp%3Breset%3D1",
+					"display_url": "alt.ac.uk/civicrm/event/…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 119032889,
+			"id_str": "119032889",
+			"name": "Dr Vicki Dale",
+			"screen_name": "vhmdale",
+			"location": "Glasgow",
+			"description": "Sr Academic & Digital Development Adviser, Uni of Glasgow (my own views); academic development, blended/online curriculum design & evaluation; higher education",
+			"url": "https://t.co/Kqv8kASMk6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Kqv8kASMk6",
+							"expanded_url": "http://www.linkedin.com/in/vhmdale",
+							"display_url": "linkedin.com/in/vhmdale",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1614,
+			"friends_count": 1692,
+			"listed_count": 116,
+			"created_at": "Tue Mar 02 13:22:54 +0000 2010",
+			"favourites_count": 15807,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10288,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BB3337",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/973472603531874304/skA_ql2M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/973472603531874304/skA_ql2M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/119032889/1461407102",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "6A3F5B",
+			"profile_text_color": "9A4C62",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@mhawksey referring to @A_L_T webinar on #GDPR and #Moodle: https://t.co/0zJk4hb4wJ #Elesig"
+	},
+	{
 		"created_at": "Mon Nov 26 16:53:57 +0000 2018",
 		"id": 1067099147994611700,
 		"id_str": "1067099147994611713",
