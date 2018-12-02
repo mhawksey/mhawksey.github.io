@@ -197,6 +197,250 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
+			"followers_count": 1864,
+			"friends_count": 655,
+			"listed_count": 101,
+			"created_at": "Fri Jul 03 17:20:27 +0000 2009",
+			"favourites_count": 475,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 793,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/516300114260799488/LbaI6u9A_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/516300114260799488/LbaI6u9A_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/53442117/1411930569",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🤖💬 Google Assistant Track: Speaker announcement! 🙌\n✅ @hitherejoe — Dialogflow, Actions SDK\n✅ @mhawksey — Dialogflow, G Suite\n✅ @roseanna_g — Actions on Google\nJoin us on Dec 1 🗓️👉 https://t.co/IrrqGBmK3G #DevFest18 #GDGLondon #GoogleAssistant #AoGDevs https://t.co/yYf1MmzmDj"
+	},
+	{
+		"created_at": "Fri Nov 30 16:33:03 +0000 2018",
+		"id": 1068543442626723800,
+		"id_str": "1068543442626723841",
+		"full_text": "🤖💬 Google Assistant Track: Speaker announcement! 🙌\n✅ @hitherejoe — Dialogflow, Actions SDK\n✅ @mhawksey — Dialogflow, G Suite\n✅ @roseanna_g — Actions on Google\nJoin us on Dec 1 🗓️👉 https://t.co/IrrqGBmK3G #DevFest18 #GDGLondon #GoogleAssistant #AoGDevs https://t.co/yYf1MmzmDj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DevFest18",
+					"indices": [
+						204,
+						214
+					]
+				},
+				{
+					"text": "GDGLondon",
+					"indices": [
+						215,
+						225
+					]
+				},
+				{
+					"text": "GoogleAssistant",
+					"indices": [
+						226,
+						242
+					]
+				},
+				{
+					"text": "AoGDevs",
+					"indices": [
+						243,
+						251
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hitherejoe",
+					"name": "Joe Birch",
+					"id": 70479532,
+					"id_str": "70479532",
+					"indices": [
+						53,
+						64
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						93,
+						102
+					]
+				},
+				{
+					"screen_name": "roseanna_g",
+					"name": "rose",
+					"id": 14917351,
+					"id_str": "14917351",
+					"indices": [
+						127,
+						138
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IrrqGBmK3G",
+					"expanded_url": "https://devfest.gdg.london/",
+					"display_url": "devfest.gdg.london",
+					"indices": [
+						180,
+						203
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1068543440957386800,
+					"id_str": "1068543440957386752",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/DtQ6mSFWsAAPIDK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtQ6mSFWsAAPIDK.jpg",
+					"url": "https://t.co/yYf1MmzmDj",
+					"display_url": "pic.twitter.com/yYf1MmzmDj",
+					"expanded_url": "https://twitter.com/gdglondon/status/1068543442626723841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1025,
+							"h": 513,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1025,
+							"h": 513,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1068543440957386800,
+					"id_str": "1068543440957386752",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/DtQ6mSFWsAAPIDK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtQ6mSFWsAAPIDK.jpg",
+					"url": "https://t.co/yYf1MmzmDj",
+					"display_url": "pic.twitter.com/yYf1MmzmDj",
+					"expanded_url": "https://twitter.com/gdglondon/status/1068543442626723841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1025,
+							"h": 513,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1025,
+							"h": 513,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 53442117,
+			"id_str": "53442117",
+			"name": "GDG London",
+			"screen_name": "gdglondon",
+			"location": "London, UK",
+			"description": "GDG (Google Developer Group) in London. Follow us to find out about London meetups for all things @Google! Join us for GDG DevFest London on Dec 1st.",
+			"url": "https://t.co/8OZPWnVdo8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8OZPWnVdo8",
+							"expanded_url": "https://www.meetup.com/gdglondon",
+							"display_url": "meetup.com/gdglondon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 1827,
 			"friends_count": 655,
 			"listed_count": 101,
