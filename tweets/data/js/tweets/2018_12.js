@@ -1,6 +1,562 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sun Dec 02 19:06:08 +0000 2018",
+		"id": 1069306742922780700,
+		"id_str": "1069306742922780672",
+		"full_text": "@cogdog @scottturneruon @NomadWarMachine Hooking in to the node highlight from the graph is also new ... I think it's so long since I've used TAGSExplorer as a learner I forgot what can be useful",
+		"truncated": false,
+		"display_text_range": [
+			41,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cogdog",
+					"name": "Alan Levine",
+					"id": 740343,
+					"id_str": "740343",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "scottturneruon",
+					"name": "Dr Scott Turner",
+					"id": 56366858,
+					"id_str": "56366858",
+					"indices": [
+						8,
+						23
+					]
+				},
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						24,
+						40
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1069282420841680900,
+		"in_reply_to_status_id_str": "1069282420841680898",
+		"in_reply_to_user_id": 740343,
+		"in_reply_to_user_id_str": "740343",
+		"in_reply_to_screen_name": "cogdog",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7891,
+			"friends_count": 2080,
+			"listed_count": 591,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4789,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27547,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@cogdog @scottturneruon @NomadWarMachine Hooking in to the node highlight from the graph is also new ... I think it's so long since I've used TAGSExplorer as a learner I forgot what can be useful"
+	},
+	{
+		"created_at": "Sun Dec 02 16:13:29 +0000 2018",
+		"id": 1069263291044847600,
+		"id_str": "1069263291044847618",
+		"full_text": "If you were at or interested in who was tweeting at #gdglondon #devfest18 you can interactively explore the conversation here ... https://t.co/kzcQx744dn @gdglondon https://t.co/pAdK3o2Ylt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "gdglondon",
+					"indices": [
+						52,
+						62
+					]
+				},
+				{
+					"text": "devfest18",
+					"indices": [
+						63,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gdglondon",
+					"name": "GDG London",
+					"id": 53442117,
+					"id_str": "53442117",
+					"indices": [
+						154,
+						164
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kzcQx744dn",
+					"expanded_url": "https://hawksey.info/tagsexplorer/?key=1lJ8yCmWXlFo8yBJGB_tY2GP2KDaAEhT9gkwUp9nK2xY&gid=400689247&mentions=true",
+					"display_url": "hawksey.info/tagsexplorer/?…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1069263223193518100,
+					"id_str": "1069263223193518080",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/DtbJPH3WwAAFLw3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtbJPH3WwAAFLw3.jpg",
+					"url": "https://t.co/pAdK3o2Ylt",
+					"display_url": "pic.twitter.com/pAdK3o2Ylt",
+					"expanded_url": "https://twitter.com/mhawksey/status/1069263291044847618/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1914,
+							"h": 940,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 589,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 334,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1069263223193518100,
+					"id_str": "1069263223193518080",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/DtbJPH3WwAAFLw3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtbJPH3WwAAFLw3.jpg",
+					"url": "https://t.co/pAdK3o2Ylt",
+					"display_url": "pic.twitter.com/pAdK3o2Ylt",
+					"expanded_url": "https://twitter.com/mhawksey/status/1069263291044847618/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1914,
+							"h": 940,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 589,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 334,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7891,
+			"friends_count": 2080,
+			"listed_count": 591,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4789,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27547,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you were at or interested in who was tweeting at #gdglondon #devfest18 you can interactively explore the conversation here ... https://t.co/kzcQx744dn @gdglondon https://t.co/pAdK3o2Ylt"
+	},
+	{
+		"created_at": "Sun Dec 02 16:09:52 +0000 2018",
+		"id": 1069262380939522000,
+		"id_str": "1069262380939522049",
+		"full_text": "Little #TAGSExplorer upgrade - clicking the bar for a name highlights the data in the cloud \n\n#TAGSArchive cc @cogdog @scottturneruon @NomadWarMachine https://t.co/qURKjDjEQO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAGSExplorer",
+					"indices": [
+						7,
+						20
+					]
+				},
+				{
+					"text": "TAGSArchive",
+					"indices": [
+						94,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cogdog",
+					"name": "Alan Levine",
+					"id": 740343,
+					"id_str": "740343",
+					"indices": [
+						110,
+						117
+					]
+				},
+				{
+					"screen_name": "scottturneruon",
+					"name": "Dr Scott Turner",
+					"id": 56366858,
+					"id_str": "56366858",
+					"indices": [
+						118,
+						133
+					]
+				},
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						134,
+						150
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1069262075883601900,
+					"id_str": "1069262075883601921",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/DtbIMVzWwAE2pHq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtbIMVzWwAE2pHq.jpg",
+					"url": "https://t.co/qURKjDjEQO",
+					"display_url": "pic.twitter.com/qURKjDjEQO",
+					"expanded_url": "https://twitter.com/mhawksey/status/1069262380939522049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 740,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 496,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1069262075883601900,
+					"id_str": "1069262075883601921",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/DtbIMVzWwAE2pHq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtbIMVzWwAE2pHq.jpg",
+					"url": "https://t.co/qURKjDjEQO",
+					"display_url": "pic.twitter.com/qURKjDjEQO",
+					"expanded_url": "https://twitter.com/mhawksey/status/1069262380939522049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 740,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 496,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7891,
+			"friends_count": 2080,
+			"listed_count": 591,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4789,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27547,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Little #TAGSExplorer upgrade - clicking the bar for a name highlights the data in the cloud \n\n#TAGSArchive cc @cogdog @scottturneruon @NomadWarMachine https://t.co/qURKjDjEQO"
+	},
+	{
 		"created_at": "Sat Dec 01 22:30:39 +0000 2018",
 		"id": 1068995820819755000,
 		"id_str": "1068995820819755009",
