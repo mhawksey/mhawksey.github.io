@@ -1,6 +1,546 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Fri Dec 07 10:26:07 +0000 2018",
+		"id": 1070987812042887200,
+		"id_str": "1070987812042887168",
+		"full_text": "Leading a #virtualteam has its ups and downs.. @mhawksey &amp; I share our experiences openly in this new post on #leadership, #kindness and why even distributed teams need a Secret Santa https://t.co/y8e6cibEj0 https://t.co/XISrXazcC2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "virtualteam",
+					"indices": [
+						10,
+						22
+					]
+				},
+				{
+					"text": "leadership",
+					"indices": [
+						114,
+						125
+					]
+				},
+				{
+					"text": "kindness",
+					"indices": [
+						127,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						47,
+						56
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/y8e6cibEj0",
+					"expanded_url": "http://marendeepwell.com/?p=1850",
+					"display_url": "marendeepwell.com/?p=1850",
+					"indices": [
+						188,
+						211
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1070987806317658100,
+					"id_str": "1070987806317658113",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/DtzpvEpWwAEkj3Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtzpvEpWwAEkj3Z.jpg",
+					"url": "https://t.co/XISrXazcC2",
+					"display_url": "pic.twitter.com/XISrXazcC2",
+					"expanded_url": "https://twitter.com/MarenDeepwell/status/1070987812042887168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 432,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 432,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1070987806317658100,
+					"id_str": "1070987806317658113",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/DtzpvEpWwAEkj3Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtzpvEpWwAEkj3Z.jpg",
+					"url": "https://t.co/XISrXazcC2",
+					"display_url": "pic.twitter.com/XISrXazcC2",
+					"expanded_url": "https://twitter.com/MarenDeepwell/status/1070987812042887168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 432,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 432,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 323173367,
+			"id_str": "323173367",
+			"name": "Dr Maren Deepwell",
+			"screen_name": "MarenDeepwell",
+			"location": "United Kingdom",
+			"description": "CEO @A_L_T #altc Senior #CMALT | Anthropologist | Open Practitioner | leadership, policy & Learning Technology CPD | open governance & equality #femedtech",
+			"url": "https://t.co/kMXdMTr9bt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kMXdMTr9bt",
+							"expanded_url": "http://marendeepwell.com",
+							"display_url": "marendeepwell.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3032,
+			"friends_count": 1445,
+			"listed_count": 191,
+			"created_at": "Fri Jun 24 11:30:35 +0000 2011",
+			"favourites_count": 12112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7872,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027623094398185475/m1dr0ykJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027623094398185475/m1dr0ykJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/323173367/1543996225",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Leading a #virtualteam has its ups and downs.. @mhawksey &amp; I share our experiences openly in this new post on #leadership, #kindness and why even distributed teams need a Secret Santa https://t.co/y8e6cibEj0 https://t.co/XISrXazcC2"
+	},
+	{
+		"created_at": "Fri Dec 07 06:59:10 +0000 2018",
+		"id": 1070935733572157400,
+		"id_str": "1070935733572157440",
+		"full_text": "@MarenDeepwell time to get your googly eyes out again... ;) https://t.co/FUnT6enRVv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FUnT6enRVv",
+					"expanded_url": "https://twitter.com/BoringEnormous/status/1070411841447317504",
+					"display_url": "twitter.com/BoringEnormous…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 323173367,
+		"in_reply_to_user_id_str": "323173367",
+		"in_reply_to_screen_name": "MarenDeepwell",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7901,
+			"friends_count": 2085,
+			"listed_count": 591,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4822,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27572,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1070411841447317500,
+		"quoted_status_id_str": "1070411841447317504",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FUnT6enRVv",
+			"expanded": "https://twitter.com/BoringEnormous/status/1070411841447317504",
+			"display": "twitter.com/BoringEnormous…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 05 20:17:24 +0000 2018",
+			"id": 1070411841447317500,
+			"id_str": "1070411841447317504",
+			"full_text": "It's not Christmas until you dress your Venus flytrap as Santa. https://t.co/snFXuRH36w",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				63
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1070411812443775000,
+						"id_str": "1070411812443774977",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1070411812443774977/pu/img/Xc08xtEMAIJz24pn.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1070411812443774977/pu/img/Xc08xtEMAIJz24pn.jpg",
+						"url": "https://t.co/snFXuRH36w",
+						"display_url": "pic.twitter.com/snFXuRH36w",
+						"expanded_url": "https://twitter.com/BoringEnormous/status/1070411841447317504/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1070411812443775000,
+						"id_str": "1070411812443774977",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1070411812443774977/pu/img/Xc08xtEMAIJz24pn.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1070411812443774977/pu/img/Xc08xtEMAIJz24pn.jpg",
+						"url": "https://t.co/snFXuRH36w",
+						"display_url": "pic.twitter.com/snFXuRH36w",
+						"expanded_url": "https://twitter.com/BoringEnormous/status/1070411841447317504/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 6000,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1070411812443774977/pu/pl/O98UpmVpdyjxlWeC.m3u8?tag=6"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1070411812443774977/pu/vid/480x480/o9Tnh4aC8PGPhkGU.mp4?tag=6"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1070411812443774977/pu/vid/320x320/HmRWXkwKTap0VyYR.mp4?tag=6"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20538843,
+				"id_str": "20538843",
+				"name": "Paul Bronks",
+				"screen_name": "BoringEnormous",
+				"location": "Sheffield, England",
+				"description": "Jew-ish. Credit will always be given if known or if made known via DM. Complaints to @meeshyville. I dare you. Fuck-free versions at @SGinormous.",
+				"url": "https://t.co/wt1kNQqdMS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wt1kNQqdMS",
+								"expanded_url": "https://www.facebook.com/pbronks",
+								"display_url": "facebook.com/pbronks",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 144288,
+				"friends_count": 3310,
+				"listed_count": 1346,
+				"created_at": "Tue Feb 10 19:45:06 +0000 2009",
+				"favourites_count": 22464,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21526,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "11AA11",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1034829193215963136/Kl8SepGk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034829193215963136/Kl8SepGk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20538843/1543949856",
+				"profile_link_color": "111111",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 85011,
+			"favorite_count": 284549,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@MarenDeepwell time to get your googly eyes out again... ;) https://t.co/FUnT6enRVv"
+	},
+	{
 		"created_at": "Thu Dec 06 20:05:05 +0000 2018",
 		"id": 1070771129877479400,
 		"id_str": "1070771129877479430",
@@ -86,7 +626,7 @@ Grailbird.data.tweets_2018_12 =
 				},
 				{
 					"screen_name": "kerry_truman",
-					"name": "🇳​🇹​🇺​🇲​🇦​🇰​🇪​🇷​🇨​🇱​🇺​🇧",
+					"name": "🇳🇹🇺🇲🇦🇰🇪🇷🇨🇱🇺🇧",
 					"id": 53028461,
 					"id_str": "53028461",
 					"indices": [
