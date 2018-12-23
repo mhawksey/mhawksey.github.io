@@ -1,6 +1,384 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sat Dec 22 15:14:32 +0000 2018",
+		"id": 1076496212449259500,
+		"id_str": "1076496212449259522",
+		"full_text": "@shareski @cogdog You can look back through your GitHub commits and if you spot one with a lot of tweets added I guess this is where something went wrong. You can either rollback to that commit (I think only possible from the git command line) or download the zip archive and use to replace current",
+		"truncated": false,
+		"display_text_range": [
+			18,
+			298
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shareski",
+					"name": "Dean Shareski",
+					"id": 739743,
+					"id_str": "739743",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "cogdog",
+					"name": "Alan Levine",
+					"id": 740343,
+					"id_str": "740343",
+					"indices": [
+						10,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1076173383472214000,
+		"in_reply_to_status_id_str": "1076173383472214016",
+		"in_reply_to_user_id": 739743,
+		"in_reply_to_user_id_str": "739743",
+		"in_reply_to_screen_name": "shareski",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7911,
+			"friends_count": 2089,
+			"listed_count": 594,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4866,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27616,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@shareski @cogdog You can look back through your GitHub commits and if you spot one with a lot of tweets added I guess this is where something went wrong. You can either rollback to that commit (I think only possible from the git command line) or download the zip archive and use to replace current"
+	},
+	{
+		"created_at": "Fri Dec 21 19:58:12 +0000 2018",
+		"id": 1076205213957189600,
+		"id_str": "1076205213957189633",
+		"full_text": "Learning Apps Script is the best gift of all 🎁 https://t.co/cKcJhdVk5F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cKcJhdVk5F",
+					"expanded_url": "https://twitter.com/theevilhead/status/1074926566302310400",
+					"display_url": "twitter.com/theevilhead/st…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 191872042,
+			"id_str": "191872042",
+			"name": "Eric Koleda",
+			"screen_name": "erickoleda",
+			"location": "New York, NY",
+			"description": "A Developer Programs Engineer at Google working on G Suite APIs and developer products.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 591,
+			"friends_count": 129,
+			"listed_count": 23,
+			"created_at": "Fri Sep 17 15:41:20 +0000 2010",
+			"favourites_count": 378,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 628,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963234010251038721/vQpeZv_j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963234010251038721/vQpeZv_j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/191872042/1478717083",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1074926566302310400,
+		"quoted_status_id_str": "1074926566302310400",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cKcJhdVk5F",
+			"expanded": "https://twitter.com/theevilhead/status/1074926566302310400",
+			"display": "twitter.com/theevilhead/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 18 07:17:19 +0000 2018",
+			"id": 1074926566302310400,
+			"id_str": "1074926566302310400",
+			"full_text": "A secret santa mix-match generator using #google #appsscripts . https://t.co/syMDONlSu8 …\nGenerate mix match for everyone randomly and email their respective secret santa details all from google sheets.\n\n#Christmas #secretsanta #appsscript #javascript #automation #developer",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "google",
+						"indices": [
+							41,
+							48
+						]
+					},
+					{
+						"text": "appsscripts",
+						"indices": [
+							49,
+							61
+						]
+					},
+					{
+						"text": "Christmas",
+						"indices": [
+							204,
+							214
+						]
+					},
+					{
+						"text": "secretsanta",
+						"indices": [
+							215,
+							227
+						]
+					},
+					{
+						"text": "appsscript",
+						"indices": [
+							228,
+							239
+						]
+					},
+					{
+						"text": "javascript",
+						"indices": [
+							240,
+							251
+						]
+					},
+					{
+						"text": "automation",
+						"indices": [
+							252,
+							263
+						]
+					},
+					{
+						"text": "developer",
+						"indices": [
+							264,
+							274
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/syMDONlSu8",
+						"expanded_url": "https://hashnode.com/post/secret-santa-mix-match-with-google-sheets-and-apps-script-cjptefe1d00rikas2z9joelqa",
+						"display_url": "hashnode.com/post/secret-sa…",
+						"indices": [
+							64,
+							87
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3287816030,
+				"id_str": "3287816030",
+				"name": "Girish Patil 🇮🇳",
+				"screen_name": "theevilhead",
+				"location": "India",
+				"description": "Software engineer @hashnode | Computer enthusiast and a maker",
+				"url": "https://t.co/Qfz6h9TYxx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Qfz6h9TYxx",
+								"expanded_url": "http://evilhead.me",
+								"display_url": "evilhead.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 121,
+				"friends_count": 372,
+				"listed_count": 6,
+				"created_at": "Wed Jul 22 18:05:17 +0000 2015",
+				"favourites_count": 234,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 348,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/940088500308787201/LlRDFJvC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/940088500308787201/LlRDFJvC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3287816030/1512969613",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Learning Apps Script is the best gift of all 🎁 https://t.co/cKcJhdVk5F"
+	},
+	{
 		"created_at": "Fri Dec 21 17:01:06 +0000 2018",
 		"id": 1076160646218166300,
 		"id_str": "1076160646218166272",
