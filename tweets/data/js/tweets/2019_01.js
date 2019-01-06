@@ -221,6 +221,226 @@ Grailbird.data.tweets_2019_01 =
 		"text": "Weekend reading: catch up on how ALT adopted virtual operations and became a distributed organisation in monthly posts shared by our senior staff team @mhawksey &amp; @MarenDeepwell #altc #virtualteam https://t.co/tOI8suqPyM https://t.co/ShxTZksDDZ"
 	},
 	{
+		"created_at": "Sat Jan 05 08:05:08 +0000 2019",
+		"id": 1081461583409307600,
+		"id_str": "1081461583409307649",
+		"full_text": "Weekend reading: catch up on how ALT adopted virtual operations and became a distributed organisation in monthly posts shared by our senior staff team @mhawksey &amp; @MarenDeepwell #altc #virtualteam https://t.co/tOI8suqPyM https://t.co/ShxTZksDDZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						182,
+						187
+					]
+				},
+				{
+					"text": "virtualteam",
+					"indices": [
+						188,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						151,
+						160
+					]
+				},
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						167,
+						181
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tOI8suqPyM",
+					"expanded_url": "https://mashe.hawksey.info/category/thinkingallowed/",
+					"display_url": "mashe.hawksey.info/category/think…",
+					"indices": [
+						201,
+						224
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1081461581391761400,
+					"id_str": "1081461581391761409",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/DwIflBUWkAEqwxn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwIflBUWkAEqwxn.jpg",
+					"url": "https://t.co/ShxTZksDDZ",
+					"display_url": "pic.twitter.com/ShxTZksDDZ",
+					"expanded_url": "https://twitter.com/A_L_T/status/1081461583409307649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 356,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 356,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 236,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1081461581391761400,
+					"id_str": "1081461581391761409",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/DwIflBUWkAEqwxn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwIflBUWkAEqwxn.jpg",
+					"url": "https://t.co/ShxTZksDDZ",
+					"display_url": "pic.twitter.com/ShxTZksDDZ",
+					"expanded_url": "https://twitter.com/A_L_T/status/1081461583409307649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 356,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 356,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 236,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "The Association for Learning Technology (ALT): Improving practice – Promoting research – Influencing policy. Connecting learning technologists.",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11265,
+			"friends_count": 3450,
+			"listed_count": 577,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 4967,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16532,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1489658713",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Weekend reading: catch up on how ALT adopted virtual operations and became a distributed organisation in monthly posts shared by our senior staff team @mhawksey &amp; @MarenDeepwell #altc #virtualteam https://t.co/tOI8suqPyM https://t.co/ShxTZksDDZ"
+	},
+	{
 		"created_at": "Fri Jan 04 14:40:12 +0000 2019",
 		"id": 1081198615861882900,
 		"id_str": "1081198615861882880",
