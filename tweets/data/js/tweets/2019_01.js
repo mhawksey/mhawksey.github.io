@@ -59,6 +59,1449 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
+			"followers_count": 40569,
+			"friends_count": 2291,
+			"listed_count": 830,
+			"created_at": "Fri Feb 08 05:20:41 +0000 2008",
+			"favourites_count": 17044,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13283,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1677873294/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1677873294/image_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13235832/1438132115",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4831,
+		"favorite_count": 10156,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today(!) we’re thrilled to announce unlimited free private repos for all GitHub users, and a new simplified Enterprise offering: https://t.co/dFgK6KC0Wc"
+	},
+	{
+		"created_at": "Tue Jan 08 13:33:55 +0000 2019",
+		"id": 1082631489139953700,
+		"id_str": "1082631489139953666",
+		"full_text": "Your chance to have your say - the ALT Annual Survey 2018 is open for responses. An opportunity to share your insights in how Learning Technology is used across sectors and help identify emerging trends in current a future practice https://t.co/M8IZ6VFShJ #altc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						256,
+						261
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M8IZ6VFShJ",
+					"expanded_url": "https://go.alt.ac.uk/ALTSurvey2018",
+					"display_url": "go.alt.ac.uk/ALTSurvey2018",
+					"indices": [
+						232,
+						255
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 81817497,
+			"id_str": "81817497",
+			"name": "Teresa MacKinnon",
+			"screen_name": "WarwickLanguage",
+			"location": "Coventry, UK",
+			"description": "Principal Teaching Fellow at University of Warwick, Senior Fellow HEA, CMALT Learning Technologist.",
+			"url": "https://t.co/sDZp6LOabl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sDZp6LOabl",
+							"expanded_url": "https://about.me/teresamackinnon",
+							"display_url": "about.me/teresamackinnon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5694,
+			"friends_count": 6188,
+			"listed_count": 487,
+			"created_at": "Mon Oct 12 11:11:38 +0000 2009",
+			"favourites_count": 31571,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54597,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/754956635450200064/iN-luRsi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/754956635450200064/iN-luRsi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/81817497/1354468137",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Your chance to have your say - the ALT Annual Survey 2018 is open for responses. An opportunity to share your insights in how Learning Technology is used across sectors and help identify emerging trends in current a future practice https://t.co/M8IZ6VFShJ #altc"
+	},
+	{
+		"created_at": "Tue Jan 08 10:54:36 +0000 2019",
+		"id": 1082591392298340400,
+		"id_str": "1082591392298340352",
+		"full_text": "@psychemedia @briankelly @brlamb @grantpotter @jimgroom I like the idea of talking when you don't know what your next slide is. I think @brlamb and @grantpotter did a DJ pres where Grant mixed in suitable music .. perhaps on surveillance/google analytics",
+		"truncated": false,
+		"display_text_range": [
+			56,
+			254
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "psychemedia",
+					"name": "Tony Hirst",
+					"id": 7129072,
+					"id_str": "7129072",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "briankelly",
+					"name": "Brian Kelly",
+					"id": 1147031,
+					"id_str": "1147031",
+					"indices": [
+						13,
+						24
+					]
+				},
+				{
+					"screen_name": "brlamb",
+					"name": "Brian Lamb",
+					"id": 745903,
+					"id_str": "745903",
+					"indices": [
+						25,
+						32
+					]
+				},
+				{
+					"screen_name": "grantpotter",
+					"name": "Grant Potter",
+					"id": 6271482,
+					"id_str": "6271482",
+					"indices": [
+						33,
+						45
+					]
+				},
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						46,
+						55
+					]
+				},
+				{
+					"screen_name": "brlamb",
+					"name": "Brian Lamb",
+					"id": 745903,
+					"id_str": "745903",
+					"indices": [
+						136,
+						143
+					]
+				},
+				{
+					"screen_name": "grantpotter",
+					"name": "Grant Potter",
+					"id": 6271482,
+					"id_str": "6271482",
+					"indices": [
+						148,
+						160
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1082587812573179900,
+		"in_reply_to_status_id_str": "1082587812573179905",
+		"in_reply_to_user_id": 7129072,
+		"in_reply_to_user_id_str": "7129072",
+		"in_reply_to_screen_name": "psychemedia",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7908,
+			"friends_count": 2090,
+			"listed_count": 589,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27642,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@psychemedia @briankelly @brlamb @grantpotter @jimgroom I like the idea of talking when you don't know what your next slide is. I think @brlamb and @grantpotter did a DJ pres where Grant mixed in suitable music .. perhaps on surveillance/google analytics"
+	},
+	{
+		"created_at": "Tue Jan 08 10:42:11 +0000 2019",
+		"id": 1082588270717009900,
+		"id_str": "1082588270717009922",
+		"full_text": "@brisvegas1 @psychemedia @aarontay Is there a particular aspect of BI that better suits this or is it a case that the investment in setting these types of interfaces up is more likely to be returned in a BI context?",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brisvegas1",
+					"name": "Mark Fallu",
+					"id": 16464539,
+					"id_str": "16464539",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "psychemedia",
+					"name": "Tony Hirst",
+					"id": 7129072,
+					"id_str": "7129072",
+					"indices": [
+						12,
+						24
+					]
+				},
+				{
+					"screen_name": "aarontay",
+					"name": "Aaron Tay",
+					"id": 15196090,
+					"id_str": "15196090",
+					"indices": [
+						25,
+						34
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1082581792870195200,
+		"in_reply_to_status_id_str": "1082581792870195200",
+		"in_reply_to_user_id": 16464539,
+		"in_reply_to_user_id_str": "16464539",
+		"in_reply_to_screen_name": "brisvegas1",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7908,
+			"friends_count": 2090,
+			"listed_count": 589,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27642,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@brisvegas1 @psychemedia @aarontay Is there a particular aspect of BI that better suits this or is it a case that the investment in setting these types of interfaces up is more likely to be returned in a BI context?"
+	},
+	{
+		"created_at": "Tue Jan 08 10:25:06 +0000 2019",
+		"id": 1082583970687209500,
+		"id_str": "1082583970687209473",
+		"full_text": "Complete ALT's Annual Survey and help us chart trends in Learning Technology and set priorities for the year ahead #altc  https://t.co/3z8JXurHla https://t.co/kxrCl0z6lc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						115,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3z8JXurHla",
+					"expanded_url": "https://go.alt.ac.uk/ALTSurvey2018",
+					"display_url": "go.alt.ac.uk/ALTSurvey2018",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1082583969026195500,
+					"id_str": "1082583969026195456",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/DwYcYlFWwAA58Hg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwYcYlFWwAA58Hg.jpg",
+					"url": "https://t.co/kxrCl0z6lc",
+					"display_url": "pic.twitter.com/kxrCl0z6lc",
+					"expanded_url": "https://twitter.com/A_L_T/status/1082583970687209473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 619,
+							"h": 329,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 619,
+							"h": 329,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 619,
+							"h": 329,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1082583969026195500,
+					"id_str": "1082583969026195456",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/DwYcYlFWwAA58Hg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwYcYlFWwAA58Hg.jpg",
+					"url": "https://t.co/kxrCl0z6lc",
+					"display_url": "pic.twitter.com/kxrCl0z6lc",
+					"expanded_url": "https://twitter.com/A_L_T/status/1082583970687209473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 619,
+							"h": 329,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 619,
+							"h": 329,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 619,
+							"h": 329,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "The Association for Learning Technology (ALT): Improving practice – Promoting research – Influencing policy. Connecting learning technologists.",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11271,
+			"friends_count": 3450,
+			"listed_count": 577,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 4981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16546,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1489658713",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Complete ALT's Annual Survey and help us chart trends in Learning Technology and set priorities for the year ahead #altc  https://t.co/3z8JXurHla https://t.co/kxrCl0z6lc"
+	},
+	{
+		"created_at": "Tue Jan 08 10:02:31 +0000 2019",
+		"id": 1082578285605863400,
+		"id_str": "1082578285605863424",
+		"full_text": "@psychemedia trying to speak to it like they were a non-english speaker seemed to work ;) Nice thing about Dialogflow is it's easy to indicate required parameters and it will let you continue the conversation. If you'd like to try https://t.co/O6DsiEY8pK",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			254
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "psychemedia",
+					"name": "Tony Hirst",
+					"id": 7129072,
+					"id_str": "7129072",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/O6DsiEY8pK",
+					"expanded_url": "https://chrome.google.com/webstore/detail/data-highlighter/bjpbofkgkgkgclgajnegcfmmdggjdknj?utm_source=permalink",
+					"display_url": "chrome.google.com/webstore/detai…",
+					"indices": [
+						231,
+						254
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1082576625458466800,
+		"in_reply_to_status_id_str": "1082576625458466817",
+		"in_reply_to_user_id": 7129072,
+		"in_reply_to_user_id_str": "7129072",
+		"in_reply_to_screen_name": "psychemedia",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7908,
+			"friends_count": 2090,
+			"listed_count": 589,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27642,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@psychemedia trying to speak to it like they were a non-english speaker seemed to work ;) Nice thing about Dialogflow is it's easy to indicate required parameters and it will let you continue the conversation. If you'd like to try https://t.co/O6DsiEY8pK"
+	},
+	{
+		"created_at": "Tue Jan 08 09:44:12 +0000 2019",
+		"id": 1082573677500215300,
+		"id_str": "1082573677500215296",
+		"full_text": "@psychemedia It was interesting when testing this that it really highlighted the bias in Google's Cloud Speech API ... it really struggled with voice commands like 'column B' ... when typed Dialogflow had no issues (perhaps it was my accent)",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "psychemedia",
+					"name": "Tony Hirst",
+					"id": 7129072,
+					"id_str": "7129072",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1082567643821936600,
+		"in_reply_to_status_id_str": "1082567643821936645",
+		"in_reply_to_user_id": 7129072,
+		"in_reply_to_user_id_str": "7129072",
+		"in_reply_to_screen_name": "psychemedia",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7908,
+			"friends_count": 2090,
+			"listed_count": 589,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27642,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@psychemedia It was interesting when testing this that it really highlighted the bias in Google's Cloud Speech API ... it really struggled with voice commands like 'column B' ... when typed Dialogflow had no issues (perhaps it was my accent)"
+	},
+	{
+		"created_at": "Mon Jan 07 22:27:47 +0000 2019",
+		"id": 1082403449130623000,
+		"id_str": "1082403449130622976",
+		"full_text": "In my latest post I've published a framework which hopefully makes it easier to include Dialogflow powered conversational interfaces in your G Suite Add-ons #googleappsscript https://t.co/fq3Grn7kSk https://t.co/B1ye6mhWMb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "googleappsscript",
+					"indices": [
+						157,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fq3Grn7kSk",
+					"expanded_url": "https://mashe.hawksey.info/2019/01/google-apps-script-patterns-creating-conversational-interfaces-with-dialogflow/",
+					"display_url": "mashe.hawksey.info/2019/01/google…",
+					"indices": [
+						175,
+						198
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1082403240799596500,
+					"id_str": "1082403240799596545",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DwV4Az-XcAEbn9Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DwV4Az-XcAEbn9Q.jpg",
+					"url": "https://t.co/B1ye6mhWMb",
+					"display_url": "pic.twitter.com/B1ye6mhWMb",
+					"expanded_url": "https://twitter.com/mhawksey/status/1082403449130622976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 276,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 276,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 276,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1082403240799596500,
+					"id_str": "1082403240799596545",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DwV4Az-XcAEbn9Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DwV4Az-XcAEbn9Q.jpg",
+					"url": "https://t.co/B1ye6mhWMb",
+					"display_url": "pic.twitter.com/B1ye6mhWMb",
+					"expanded_url": "https://twitter.com/mhawksey/status/1082403449130622976/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 276,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 276,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 276,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							50,
+							23
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DwV4Az-XcAEbn9Q.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7908,
+			"friends_count": 2090,
+			"listed_count": 589,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27642,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In my latest post I've published a framework which hopefully makes it easier to include Dialogflow powered conversational interfaces in your G Suite Add-ons #googleappsscript https://t.co/fq3Grn7kSk https://t.co/B1ye6mhWMb"
+	},
+	{
+		"created_at": "Tue Jan 08 08:15:23 +0000 2019",
+		"id": 1082551326205190100,
+		"id_str": "1082551326205190145",
+		"full_text": "@nogribin Cheers! It was a fun project ..  time to move onto the next thing ;)",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nogribin",
+					"name": "🇮🇪 Niall Ó Gribín",
+					"id": 96915475,
+					"id_str": "96915475",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1082437995523911700,
+		"in_reply_to_status_id_str": "1082437995523911686",
+		"in_reply_to_user_id": 96915475,
+		"in_reply_to_user_id_str": "96915475",
+		"in_reply_to_screen_name": "nogribin",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7908,
+			"friends_count": 2090,
+			"listed_count": 589,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27642,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@nogribin Cheers! It was a fun project ..  time to move onto the next thing ;)"
+	},
+	{
+		"created_at": "Mon Jan 07 22:27:47 +0000 2019",
+		"id": 1082403449130623000,
+		"id_str": "1082403449130622976",
+		"full_text": "In my latest post I've published a framework which hopefully makes it easier to include Dialogflow powered conversational interfaces in your G Suite Add-ons #googleappsscript https://t.co/fq3Grn7kSk https://t.co/B1ye6mhWMb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "googleappsscript",
+					"indices": [
+						157,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fq3Grn7kSk",
+					"expanded_url": "https://mashe.hawksey.info/2019/01/google-apps-script-patterns-creating-conversational-interfaces-with-dialogflow/",
+					"display_url": "mashe.hawksey.info/2019/01/google…",
+					"indices": [
+						175,
+						198
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1082403240799596500,
+					"id_str": "1082403240799596545",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DwV4Az-XcAEbn9Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DwV4Az-XcAEbn9Q.jpg",
+					"url": "https://t.co/B1ye6mhWMb",
+					"display_url": "pic.twitter.com/B1ye6mhWMb",
+					"expanded_url": "https://twitter.com/mhawksey/status/1082403449130622976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 276,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 276,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 276,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1082403240799596500,
+					"id_str": "1082403240799596545",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DwV4Az-XcAEbn9Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DwV4Az-XcAEbn9Q.jpg",
+					"url": "https://t.co/B1ye6mhWMb",
+					"display_url": "pic.twitter.com/B1ye6mhWMb",
+					"expanded_url": "https://twitter.com/mhawksey/status/1082403449130622976/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 276,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 276,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 276,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							50,
+							23
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DwV4Az-XcAEbn9Q.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7908,
+			"friends_count": 2090,
+			"listed_count": 589,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27642,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In my latest post I've published a framework which hopefully makes it easier to include Dialogflow powered conversational interfaces in your G Suite Add-ons #googleappsscript https://t.co/fq3Grn7kSk https://t.co/B1ye6mhWMb"
+	},
+	{
+		"created_at": "Mon Jan 07 18:35:58 +0000 2019",
+		"id": 1082345111566970900,
+		"id_str": "1082345111566970880",
+		"full_text": "Today(!) we’re thrilled to announce unlimited free private repos for all GitHub users, and a new simplified Enterprise offering: https://t.co/dFgK6KC0Wc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dFgK6KC0Wc",
+					"expanded_url": "https://blog.github.com/2019-01-07-new-year-new-github/",
+					"display_url": "blog.github.com/2019-01-07-new…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13235832,
+			"id_str": "13235832",
+			"name": "Nat Friedman",
+			"screen_name": "natfriedman",
+			"location": "San Francisco",
+			"description": "CEO of GitHub. Married to @she_travels.",
+			"url": "https://t.co/d10brIeI1h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d10brIeI1h",
+							"expanded_url": "http://nat.org",
+							"display_url": "nat.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 40553,
 			"friends_count": 2291,
 			"listed_count": 829,
