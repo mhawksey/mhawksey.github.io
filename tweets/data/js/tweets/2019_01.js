@@ -837,6 +837,424 @@ Grailbird.data.tweets_2019_01 =
 		"text": "With over 1 billion Google Assistant devices in the wild it's perhaps time for @GSuiteDevs to consider how you can tap in to this space with conversational interfaces. Here's how you can get started with Google Apps Script https://t.co/fq3Grn7kSk https://t.co/pO8RPHzwgy"
 	},
 	{
+		"created_at": "Thu Jan 10 18:58:35 +0000 2019",
+		"id": 1083437968768016400,
+		"id_str": "1083437968768016384",
+		"full_text": "So proud to be celebrating a year of leading a virtual team with @mhawksey, a year of blogging about it in the #open, and a podcast with plenty of laughter #altc - read, listen and enjoy https://t.co/4H1slZhn8J https://t.co/fYs6NnqH26",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "open",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						156,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						65,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4H1slZhn8J",
+					"expanded_url": "http://marendeepwell.com/?p=1925",
+					"display_url": "marendeepwell.com/?p=1925",
+					"indices": [
+						187,
+						210
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1083437963315478500,
+					"id_str": "1083437963315478529",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/DwklFluXgAEDST-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwklFluXgAEDST-.jpg",
+					"url": "https://t.co/fYs6NnqH26",
+					"display_url": "pic.twitter.com/fYs6NnqH26",
+					"expanded_url": "https://twitter.com/MarenDeepwell/status/1083437968768016384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 256,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 319,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 848,
+							"h": 319,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083437963315478500,
+					"id_str": "1083437963315478529",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/DwklFluXgAEDST-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwklFluXgAEDST-.jpg",
+					"url": "https://t.co/fYs6NnqH26",
+					"display_url": "pic.twitter.com/fYs6NnqH26",
+					"expanded_url": "https://twitter.com/MarenDeepwell/status/1083437968768016384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 256,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 319,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 848,
+							"h": 319,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 323173367,
+			"id_str": "323173367",
+			"name": "Dr Maren Deepwell",
+			"screen_name": "MarenDeepwell",
+			"location": "United Kingdom",
+			"description": "CEO @A_L_T #altc Senior #CMALT, Anthropologist, Open Practitioner, leadership, policy & Learning Technology CPD, open governance & equality #femedtech",
+			"url": "https://t.co/kMXdMTr9bt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kMXdMTr9bt",
+							"expanded_url": "http://marendeepwell.com",
+							"display_url": "marendeepwell.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3106,
+			"friends_count": 1455,
+			"listed_count": 186,
+			"created_at": "Fri Jun 24 11:30:35 +0000 2011",
+			"favourites_count": 12958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8130,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027623094398185475/m1dr0ykJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027623094398185475/m1dr0ykJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/323173367/1543996225",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So proud to be celebrating a year of leading a virtual team with @mhawksey, a year of blogging about it in the #open, and a podcast with plenty of laughter #altc - read, listen and enjoy https://t.co/4H1slZhn8J https://t.co/fYs6NnqH26"
+	},
+	{
+		"created_at": "Fri Jan 11 07:00:35 +0000 2019",
+		"id": 1083619664511541200,
+		"id_str": "1083619664511541248",
+		"full_text": "With over 1 billion Google Assistant devices in the wild it's perhaps time for @GSuiteDevs to consider how you can tap in to this space with conversational interfaces. Here's how you can get started with Google Apps Script https://t.co/fq3Grn7kSk https://t.co/pO8RPHzwgy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GSuiteDevs",
+					"name": "G Suite Developers",
+					"id": 111197966,
+					"id_str": "111197966",
+					"indices": [
+						79,
+						90
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fq3Grn7kSk",
+					"expanded_url": "https://mashe.hawksey.info/2019/01/google-apps-script-patterns-creating-conversational-interfaces-with-dialogflow/",
+					"display_url": "mashe.hawksey.info/2019/01/google…",
+					"indices": [
+						223,
+						246
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1083619653132390400,
+					"id_str": "1083619653132390400",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DwnKVVCWkAAhEer.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DwnKVVCWkAAhEer.jpg",
+					"url": "https://t.co/pO8RPHzwgy",
+					"display_url": "pic.twitter.com/pO8RPHzwgy",
+					"expanded_url": "https://twitter.com/mhawksey/status/1083619664511541248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 276,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 276,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 276,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083619653132390400,
+					"id_str": "1083619653132390400",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DwnKVVCWkAAhEer.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DwnKVVCWkAAhEer.jpg",
+					"url": "https://t.co/pO8RPHzwgy",
+					"display_url": "pic.twitter.com/pO8RPHzwgy",
+					"expanded_url": "https://twitter.com/mhawksey/status/1083619664511541248/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 276,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 276,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 276,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							50,
+							23
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DwnKVVCWkAAhEer.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7929,
+			"friends_count": 2116,
+			"listed_count": 588,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4923,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27671,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "With over 1 billion Google Assistant devices in the wild it's perhaps time for @GSuiteDevs to consider how you can tap in to this space with conversational interfaces. Here's how you can get started with Google Apps Script https://t.co/fq3Grn7kSk https://t.co/pO8RPHzwgy"
+	},
+	{
 		"created_at": "Thu Jan 10 19:11:44 +0000 2019",
 		"id": 1083441277922955300,
 		"id_str": "1083441277922955264",
