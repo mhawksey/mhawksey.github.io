@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 12 14:03:34 +0000 2019",
+		"id": 1084088500218220500,
+		"id_str": "1084088500218220544",
+		"full_text": "@Pgogy @LornaMCampbell @ammienoot 7 years of 'happy birthday' tweets indexed and geolocated ... muahaha https://t.co/FX9qiwIALB",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Pgogy",
+					"name": "Pgogy WebStuff",
+					"id": 291323178,
+					"id_str": "291323178",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "LornaMCampbell",
+					"name": "Lorna M. Campbell",
+					"id": 4016151,
+					"id_str": "4016151",
+					"indices": [
+						7,
+						22
+					]
+				},
+				{
+					"screen_name": "ammienoot",
+					"name": "Anne-Marie Scott",
+					"id": 22673907,
+					"id_str": "22673907",
+					"indices": [
+						23,
+						33
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1084088491741466600,
+					"id_str": "1084088491741466624",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dwt0vU9W0AAodhv.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dwt0vU9W0AAodhv.jpg",
+					"url": "https://t.co/FX9qiwIALB",
+					"display_url": "pic.twitter.com/FX9qiwIALB",
+					"expanded_url": "https://twitter.com/mhawksey/status/1084088500218220544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 274,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 274,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 274,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084088491741466600,
+					"id_str": "1084088491741466624",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dwt0vU9W0AAodhv.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dwt0vU9W0AAodhv.jpg",
+					"url": "https://t.co/FX9qiwIALB",
+					"display_url": "pic.twitter.com/FX9qiwIALB",
+					"expanded_url": "https://twitter.com/mhawksey/status/1084088500218220544/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 274,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 274,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 274,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							137
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Dwt0vU9W0AAodhv.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1084079346669834200,
+		"in_reply_to_status_id_str": "1084079346669834241",
+		"in_reply_to_user_id": 291323178,
+		"in_reply_to_user_id_str": "291323178",
+		"in_reply_to_screen_name": "Pgogy",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7929,
+			"friends_count": 2116,
+			"listed_count": 588,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4924,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27674,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Pgogy @LornaMCampbell @ammienoot 7 years of 'happy birthday' tweets indexed and geolocated ... muahaha https://t.co/FX9qiwIALB"
+	},
+	{
 		"created_at": "Fri Jan 11 22:55:09 +0000 2019",
 		"id": 1083859891104682000,
 		"id_str": "1083859891104681984",
