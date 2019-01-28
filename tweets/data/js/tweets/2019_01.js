@@ -1,6 +1,161 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sun Jan 27 13:26:33 +0000 2019",
+		"id": 1089515002887848000,
+		"id_str": "1089540923409788928",
+		"full_text": "@francesbell @madelinep @WarwickLanguage @mhawksey You can also explore the interactive version of the #femedtech community conversation at https://t.co/K0y4d9TCBL",
+		"truncated": false,
+		"display_text_range": [
+			51,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "femedtech",
+					"indices": [
+						103,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "francesbell",
+					"name": "Frances Bell",
+					"id": 12438922,
+					"id_str": "12438922",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "madelinep",
+					"name": "Madeline Paterson FRSA",
+					"id": 15167138,
+					"id_str": "15167138",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "WarwickLanguage",
+					"name": "Teresa MacKinnon",
+					"id": 81817497,
+					"id_str": "81817497",
+					"indices": [
+						24,
+						40
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						41,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/K0y4d9TCBL",
+					"expanded_url": "https://hawksey.info/tagsexplorer/?key=151PBJ4LDA-uWGiQqsU0NtawDBmyhwDLJqHDmVKrDvc4&gid=400689247&mentions=true",
+					"display_url": "hawksey.info/tagsexplorer/?…",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1089456986985582600,
+		"in_reply_to_status_id_str": "1089456986985582592",
+		"in_reply_to_user_id": 12438922,
+		"in_reply_to_user_id_str": "12438922",
+		"in_reply_to_screen_name": "francesbell",
+		"user": {
+			"id": 807239380138160100,
+			"id_str": "807239380138160128",
+			"name": "femedtech",
+			"screen_name": "femedtech",
+			"location": "everywhere",
+			"description": "#femedtech Feminist in edtech? let's grow FemEdTech network - hosted collaboratively by volunteers. DM to be involved. Curator is currently @mhawksey",
+			"url": "https://t.co/mTL2O6sf59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mTL2O6sf59",
+							"expanded_url": "https://goo.gl/qwPV8Z",
+							"display_url": "goo.gl/qwPV8Z",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 930,
+			"friends_count": 1281,
+			"listed_count": 10,
+			"created_at": "Fri Dec 09 15:04:00 +0000 2016",
+			"favourites_count": 1357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1579,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/829101527210024960/1hYtYEe2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/829101527210024960/1hYtYEe2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/807239380138160128/1525778668",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@francesbell @madelinep @WarwickLanguage @mhawksey You can also explore the interactive version of the #femedtech community conversation at https://t.co/K0y4d9TCBL"
+	},
+	{
 		"created_at": "Sat Jan 26 16:34:42 +0000 2019",
 		"id": 1089199965384122400,
 		"id_str": "1089199965384122368",
