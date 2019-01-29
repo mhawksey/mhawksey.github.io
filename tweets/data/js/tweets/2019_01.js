@@ -1,6 +1,915 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 28 15:24:32 +0000 2019",
+		"id": 1089907080365047800,
+		"id_str": "1089917676074516486",
+		"full_text": "Excited to say @mhawksey &amp; I have submitted a proposal to @pressedconf conference - now it's time to keep fingers crossed. Have you submitted yours?! Deadline is 8 March https://t.co/YFmdJkiNpU https://t.co/wPW5U2gLR3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"screen_name": "pressedconf",
+					"name": "PressED Conf - A tweeting WordPress conference",
+					"id": 950354717212897300,
+					"id_str": "950354717212897280",
+					"indices": [
+						62,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YFmdJkiNpU",
+					"expanded_url": "https://2019.pressedconf.org/",
+					"display_url": "2019.pressedconf.org",
+					"indices": [
+						174,
+						197
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1089906987880587300,
+					"id_str": "1089906987880587264",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/DyAgoYLWoAAslvo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyAgoYLWoAAslvo.jpg",
+					"url": "https://t.co/wPW5U2gLR3",
+					"display_url": "pic.twitter.com/wPW5U2gLR3",
+					"expanded_url": "https://twitter.com/MarenDeepwell/status/1089907080365047809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 434,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 246,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 694,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1089906987880587300,
+					"id_str": "1089906987880587264",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/DyAgoYLWoAAslvo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyAgoYLWoAAslvo.jpg",
+					"url": "https://t.co/wPW5U2gLR3",
+					"display_url": "pic.twitter.com/wPW5U2gLR3",
+					"expanded_url": "https://twitter.com/MarenDeepwell/status/1089907080365047809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 434,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 246,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 694,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 323173367,
+			"id_str": "323173367",
+			"name": "Dr Maren Deepwell",
+			"screen_name": "MarenDeepwell",
+			"location": "United Kingdom",
+			"description": "CEO @A_L_T #altc Senior #CMALT, Anthropologist, Open Practitioner, leadership, policy & Learning Technology CPD, open governance & equality #femedtech",
+			"url": "https://t.co/kMXdMTr9bt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kMXdMTr9bt",
+							"expanded_url": "http://marendeepwell.com",
+							"display_url": "marendeepwell.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3132,
+			"friends_count": 1468,
+			"listed_count": 189,
+			"created_at": "Fri Jun 24 11:30:35 +0000 2011",
+			"favourites_count": 13370,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8278,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027623094398185475/m1dr0ykJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027623094398185475/m1dr0ykJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/323173367/1548441990",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Excited to say @mhawksey &amp; I have submitted a proposal to @pressedconf conference - now it's time to keep fingers crossed. Have you submitted yours?! Deadline is 8 March https://t.co/YFmdJkiNpU https://t.co/wPW5U2gLR3"
+	},
+	{
+		"created_at": "Mon Jan 28 14:41:57 +0000 2019",
+		"id": 1089896367202467800,
+		"id_str": "1089899577002655744",
+		"full_text": "If you are in Edinburgh this Friday. More event details https://t.co/7HHd63Equq #femedtech #altc https://t.co/WodJnkqnfl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "femedtech",
+					"indices": [
+						80,
+						90
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						91,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7HHd63Equq",
+					"expanded_url": "https://www.eventbrite.co.uk/e/women-in-red-a-project-to-add-biographies-of-women-to-wikipedia-tickets-54864339717",
+					"display_url": "eventbrite.co.uk/e/women-in-red…",
+					"indices": [
+						56,
+						79
+					]
+				},
+				{
+					"url": "https://t.co/WodJnkqnfl",
+					"expanded_url": "https://twitter.com/emcandre/status/1089893584122404866",
+					"display_url": "twitter.com/emcandre/statu…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 807239380138160100,
+			"id_str": "807239380138160128",
+			"name": "femedtech",
+			"screen_name": "femedtech",
+			"location": "everywhere",
+			"description": "#femedtech Feminist in edtech? let's grow FemEdTech network - hosted collaboratively by volunteers. DM to be involved. Curator is currently @mhawksey",
+			"url": "https://t.co/mTL2O6sf59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mTL2O6sf59",
+							"expanded_url": "https://goo.gl/qwPV8Z",
+							"display_url": "goo.gl/qwPV8Z",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 942,
+			"friends_count": 1354,
+			"listed_count": 10,
+			"created_at": "Fri Dec 09 15:04:00 +0000 2016",
+			"favourites_count": 1365,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1599,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/829101527210024960/1hYtYEe2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/829101527210024960/1hYtYEe2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/807239380138160128/1525778668",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1089893584122404900,
+		"quoted_status_id_str": "1089893584122404866",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WodJnkqnfl",
+			"expanded": "https://twitter.com/emcandre/status/1089893584122404866",
+			"display": "twitter.com/emcandre/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 28 14:30:54 +0000 2019",
+			"id": 1089893584122404900,
+			"id_str": "1089893584122404866",
+			"full_text": "Come meet Charlotte, Scotland's newest Wikimedian in Residence at the Society of Antiquaries of Scotland (@socantscot), the founder of @WikiWomenInRed and Adam Cuerden our Featured Pictures on @WikiCommons expert this Friday @EdUniMainLib.\n#WeCanEdit #ScotWiki #OpenKnowledgeFTW https://t.co/GL7OgA7VMz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WeCanEdit",
+						"indices": [
+							240,
+							250
+						]
+					},
+					{
+						"text": "ScotWiki",
+						"indices": [
+							251,
+							260
+						]
+					},
+					{
+						"text": "OpenKnowledgeFTW",
+						"indices": [
+							261,
+							278
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "socantscot",
+						"name": "Society of Antiquaries of Scotland",
+						"id": 69539873,
+						"id_str": "69539873",
+						"indices": [
+							106,
+							117
+						]
+					},
+					{
+						"screen_name": "WikiWomenInRed",
+						"name": "Women in Red",
+						"id": 3283774369,
+						"id_str": "3283774369",
+						"indices": [
+							135,
+							150
+						]
+					},
+					{
+						"screen_name": "WikiCommons",
+						"name": "Wikimedia Commons",
+						"id": 285907780,
+						"id_str": "285907780",
+						"indices": [
+							193,
+							205
+						]
+					},
+					{
+						"screen_name": "EdUniMainLib",
+						"name": "University of Edinburgh Main Library",
+						"id": 218439793,
+						"id_str": "218439793",
+						"indices": [
+							225,
+							238
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/GL7OgA7VMz",
+						"expanded_url": "https://twitter.com/HoneybHighton/status/1089816862089723904",
+						"display_url": "twitter.com/HoneybHighton/…",
+						"indices": [
+							279,
+							302
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4797803236,
+				"id_str": "4797803236",
+				"name": "Ewan McAndrew",
+				"screen_name": "emcandre",
+				"location": "Edinburgh, Scotland",
+				"description": "Wikimedian in Residence @ University of Edinburgh. English & Media Teaching; Software Development; Libraries; Archives; Film, Travel & Open Knowledge enthusiast",
+				"url": "https://t.co/6QseSQwd7q",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6QseSQwd7q",
+								"expanded_url": "https://en.wikipedia.org/wiki/Wikipedia:University_of_Edinburgh",
+								"display_url": "en.wikipedia.org/wiki/Wikipedia…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1406,
+				"friends_count": 969,
+				"listed_count": 65,
+				"created_at": "Wed Jan 13 21:14:14 +0000 2016",
+				"favourites_count": 4390,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12002,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/952843594028797952/FJGYQ6e5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/952843594028797952/FJGYQ6e5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4797803236/1548153657",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1089816862089723900,
+			"quoted_status_id_str": "1089816862089723904",
+			"quoted_status_permalink": {
+				"url": "https://t.co/GL7OgA7VMz",
+				"expanded": "https://twitter.com/HoneybHighton/status/1089816862089723904",
+				"display": "twitter.com/HoneybHighton/…"
+			},
+			"retweet_count": 8,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you are in Edinburgh this Friday. More event details https://t.co/7HHd63Equq #femedtech #altc https://t.co/WodJnkqnfl"
+	},
+	{
+		"created_at": "Mon Jan 28 14:50:14 +0000 2019",
+		"id": 1089898448499982300,
+		"id_str": "1089899546975633408",
+		"full_text": "Tweet your Learning Technology news, events, research, jobs... and tag #altc to share them with @A_L_T Members https://t.co/MGSRTVMHd3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						71,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						96,
+						102
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1089898446654443500,
+					"id_str": "1089898446654443520",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/DyAY3NoWkAAI4-O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyAY3NoWkAAI4-O.jpg",
+					"url": "https://t.co/MGSRTVMHd3",
+					"display_url": "pic.twitter.com/MGSRTVMHd3",
+					"expanded_url": "https://twitter.com/A_L_T/status/1089898448499982336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1089898446654443500,
+					"id_str": "1089898446654443520",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/DyAY3NoWkAAI4-O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyAY3NoWkAAI4-O.jpg",
+					"url": "https://t.co/MGSRTVMHd3",
+					"display_url": "pic.twitter.com/MGSRTVMHd3",
+					"expanded_url": "https://twitter.com/A_L_T/status/1089898448499982336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "The Association for Learning Technology (ALT): Improving practice – Promoting research – Influencing policy. Connecting learning technologists.",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11347,
+			"friends_count": 3467,
+			"listed_count": 578,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 5132,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16736,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1489658713",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tweet your Learning Technology news, events, research, jobs... and tag #altc to share them with @A_L_T Members https://t.co/MGSRTVMHd3"
+	},
+	{
+		"created_at": "Mon Jan 28 09:30:24 +0000 2019",
+		"id": 1089817959776829400,
+		"id_str": "1089818331027304448",
+		"full_text": "Announcing the launch of Associate &amp; Senior #CMALT\nJoin the launch webinars on 28 Feb 19. #ALTC \nhttps://t.co/Q919fer1wG https://t.co/l0TfJ3hgyw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CMALT",
+					"indices": [
+						48,
+						54
+					]
+				},
+				{
+					"text": "ALTC",
+					"indices": [
+						94,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q919fer1wG",
+					"expanded_url": "https://go.alt.ac.uk/2Dz5L2M",
+					"display_url": "go.alt.ac.uk/2Dz5L2M",
+					"indices": [
+						101,
+						124
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1089817958149435400,
+					"id_str": "1089817958149435395",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx_PqKlWsAM1Dpo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx_PqKlWsAM1Dpo.jpg",
+					"url": "https://t.co/l0TfJ3hgyw",
+					"display_url": "pic.twitter.com/l0TfJ3hgyw",
+					"expanded_url": "https://twitter.com/A_L_T/status/1089817959776829440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1089817958149435400,
+					"id_str": "1089817958149435395",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx_PqKlWsAM1Dpo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx_PqKlWsAM1Dpo.jpg",
+					"url": "https://t.co/l0TfJ3hgyw",
+					"display_url": "pic.twitter.com/l0TfJ3hgyw",
+					"expanded_url": "https://twitter.com/A_L_T/status/1089817959776829440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "The Association for Learning Technology (ALT): Improving practice – Promoting research – Influencing policy. Connecting learning technologists.",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11347,
+			"friends_count": 3467,
+			"listed_count": 578,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 5132,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16736,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1489658713",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Announcing the launch of Associate &amp; Senior #CMALT\nJoin the launch webinars on 28 Feb 19. #ALTC \nhttps://t.co/Q919fer1wG https://t.co/l0TfJ3hgyw"
+	},
+	{
 		"created_at": "Sun Jan 27 13:26:33 +0000 2019",
 		"id": 1089515002887848000,
 		"id_str": "1089540923409788928",
