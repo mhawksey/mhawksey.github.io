@@ -1,6 +1,645 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 30 00:30:11 +0000 2019",
+		"id": 1090406788036325400,
+		"id_str": "1090728501995585537",
+		"full_text": "#GoogleDataStudio https://t.co/S1UtLgdNaf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleDataStudio",
+					"indices": [
+						0,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/S1UtLgdNaf",
+					"expanded_url": "https://twitter.com/googleanalytics/status/1090337284933734400",
+					"display_url": "twitter.com/googleanalytic…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 916047595377537000,
+			"id_str": "916047595377537024",
+			"name": "Minhaz Kazi",
+			"screen_name": "_mkazi_",
+			"location": "Mountain View, CA",
+			"description": "Developer Advocate for Google Data Studio",
+			"url": "https://t.co/Vych1FN7Iw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vych1FN7Iw",
+							"expanded_url": "https://developers.google.com/datastudio",
+							"display_url": "developers.google.com/datastudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 414,
+			"friends_count": 144,
+			"listed_count": 20,
+			"created_at": "Thu Oct 05 21:09:00 +0000 2017",
+			"favourites_count": 521,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 375,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/974572689619697664/EgV1zevC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/974572689619697664/EgV1zevC_normal.jpg",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1090337284933734400,
+		"quoted_status_id_str": "1090337284933734400",
+		"quoted_status_permalink": {
+			"url": "https://t.co/S1UtLgdNaf",
+			"expanded": "https://twitter.com/googleanalytics/status/1090337284933734400",
+			"display": "twitter.com/googleanalytic…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 29 19:54:00 +0000 2019",
+			"id": 1090337284933734400,
+			"id_str": "1090337284933734400",
+			"full_text": "If you build community connectors or community visualizations for Data Studio, check out our new Developers Forum, where you can ask questions, show off your work, and help others in the community. Join the conversation at https://t.co/JOAUYdCAiZ https://t.co/1RWqIcBeqR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				246
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JOAUYdCAiZ",
+						"expanded_url": "http://bit.ly/2G3WuRW",
+						"display_url": "bit.ly/2G3WuRW",
+						"indices": [
+							223,
+							246
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1090337283306414100,
+						"id_str": "1090337283306414080",
+						"indices": [
+							247,
+							270
+						],
+						"media_url": "http://pbs.twimg.com/media/DyGn-3jX4AAcSsM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DyGn-3jX4AAcSsM.jpg",
+						"url": "https://t.co/1RWqIcBeqR",
+						"display_url": "pic.twitter.com/1RWqIcBeqR",
+						"expanded_url": "https://twitter.com/googleanalytics/status/1090337284933734400/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 328,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 494,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 494,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1090337283306414100,
+						"id_str": "1090337283306414080",
+						"indices": [
+							247,
+							270
+						],
+						"media_url": "http://pbs.twimg.com/media/DyGn-3jX4AAcSsM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DyGn-3jX4AAcSsM.jpg",
+						"url": "https://t.co/1RWqIcBeqR",
+						"display_url": "pic.twitter.com/1RWqIcBeqR",
+						"expanded_url": "https://twitter.com/googleanalytics/status/1090337284933734400/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 328,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 494,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 494,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 51263711,
+				"id_str": "51263711",
+				"name": "Google Analytics",
+				"screen_name": "googleanalytics",
+				"location": "Most places",
+				"description": "Get the latest news and product updates on Google Analytics, Data Studio, Optimize, Surveys, and Tag Manager. Learn more at https://t.co/d577dT0OeA",
+				"url": "https://t.co/d577dT0OeA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/d577dT0OeA",
+								"expanded_url": "http://g.co/marketingplatform",
+								"display_url": "g.co/marketingplatf…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/d577dT0OeA",
+								"expanded_url": "http://g.co/marketingplatform",
+								"display_url": "g.co/marketingplatf…",
+								"indices": [
+									124,
+									147
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1065212,
+				"friends_count": 404,
+				"listed_count": 18854,
+				"created_at": "Fri Jun 26 22:55:52 +0000 2009",
+				"favourites_count": 3917,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 8750,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DEDEDE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1021848775885651968/cU74ahCn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1021848775885651968/cU74ahCn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/51263711/1532462694",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#GoogleDataStudio https://t.co/S1UtLgdNaf"
+	},
+	{
+		"created_at": "Wed Jan 30 20:46:56 +0000 2019",
+		"id": 1090712993556545500,
+		"id_str": "1090712993556545544",
+		"full_text": "@francesbell @femedtech ... drafting a post on my curation stint that touches on this",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "francesbell",
+					"name": "Frances Bell",
+					"id": 12438922,
+					"id_str": "12438922",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "femedtech",
+					"name": "femedtech",
+					"id": 807239380138160100,
+					"id_str": "807239380138160128",
+					"indices": [
+						13,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1090695606165794800,
+		"in_reply_to_status_id_str": "1090695606165794816",
+		"in_reply_to_user_id": 12438922,
+		"in_reply_to_user_id_str": "12438922",
+		"in_reply_to_screen_name": "francesbell",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7944,
+			"friends_count": 2136,
+			"listed_count": 589,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27735,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@francesbell @femedtech ... drafting a post on my curation stint that touches on this"
+	},
+	{
+		"created_at": "Wed Jan 30 16:00:01 +0000 2019",
+		"id": 1090640787820478500,
+		"id_str": "1090640787820478466",
+		"full_text": "Given the news that #GSuite users will be moving from classic Hangouts to Hangouts Chat later in the year you might want to join me and @CinFourThirds to learn how to create Hangouts Chat bots in #GoogleAppsScript - this Fri at 4pm GMT https://t.co/bnUCT9fxkw https://t.co/QcsEa5ZSTo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSuite",
+					"indices": [
+						20,
+						27
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						196,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CinFourThirds",
+					"name": "Cleo",
+					"id": 1868737826,
+					"id_str": "1868737826",
+					"indices": [
+						136,
+						150
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bnUCT9fxkw",
+					"expanded_url": "https://tu.appsscript.info/",
+					"display_url": "tu.appsscript.info",
+					"indices": [
+						236,
+						259
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1090620858316607500,
+					"id_str": "1090620858316607494",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/DyKp5GyX0AYB9fG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyKp5GyX0AYB9fG.jpg",
+					"url": "https://t.co/QcsEa5ZSTo",
+					"display_url": "pic.twitter.com/QcsEa5ZSTo",
+					"expanded_url": "https://twitter.com/mhawksey/status/1090640787820478466/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1090620858316607500,
+					"id_str": "1090620858316607494",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/DyKp5GyX0AYB9fG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyKp5GyX0AYB9fG.jpg",
+					"url": "https://t.co/QcsEa5ZSTo",
+					"display_url": "pic.twitter.com/QcsEa5ZSTo",
+					"expanded_url": "https://twitter.com/mhawksey/status/1090640787820478466/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7944,
+			"friends_count": 2136,
+			"listed_count": 589,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 4964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27735,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Given the news that #GSuite users will be moving from classic Hangouts to Hangouts Chat later in the year you might want to join me and @CinFourThirds to learn how to create Hangouts Chat bots in #GoogleAppsScript - this Fri at 4pm GMT https://t.co/bnUCT9fxkw https://t.co/QcsEa5ZSTo"
+	},
+	{
 		"created_at": "Tue Jan 29 16:12:04 +0000 2019",
 		"id": 1090281432994512900,
 		"id_str": "1090281629438955521",
@@ -1861,7 +2500,7 @@ Grailbird.data.tweets_2019_01 =
 					},
 					{
 						"screen_name": "fxfegha",
-						"name": "alex. 👨🏿‍💻👨🏿‍🏫🎅🏿👑💯🤖",
+						"name": "alex. 👨🏿💻👨🏿🏫🎅🏿👑💯🤖",
 						"id": 927677988,
 						"id_str": "927677988",
 						"indices": [
