@@ -1,6 +1,3609 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 06 21:27:40 +0000 2019",
+		"id": 1093259956621594600,
+		"id_str": "1093259956621594625",
+		"full_text": "@ElenaSanchezUX @AdiMazorKario The summit talk really stuck with me. Something else I came across you might be interested in is the output from the 'Designing a Feminist Alexa' project https://t.co/OXEUWA5J2I",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			208
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ElenaSanchezUX",
+					"name": "Elena Sanchez",
+					"id": 384234576,
+					"id_str": "384234576",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "AdiMazorKario",
+					"name": "AdiMazorKario",
+					"id": 14574548,
+					"id_str": "14574548",
+					"indices": [
+						16,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OXEUWA5J2I",
+					"expanded_url": "https://twitter.com/otheragent/status/1089895196215656448",
+					"display_url": "twitter.com/otheragent/sta…",
+					"indices": [
+						185,
+						208
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1069560809171218400,
+		"in_reply_to_status_id_str": "1069560809171218434",
+		"in_reply_to_user_id": 384234576,
+		"in_reply_to_user_id_str": "384234576",
+		"in_reply_to_screen_name": "ElenaSanchezUX",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7944,
+			"friends_count": 2143,
+			"listed_count": 591,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5000,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27780,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1089895196215656400,
+		"quoted_status_id_str": "1089895196215656448",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OXEUWA5J2I",
+			"expanded": "https://twitter.com/otheragent/status/1089895196215656448",
+			"display": "twitter.com/otheragent/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 28 14:37:18 +0000 2019",
+			"id": 1089895196215656400,
+			"id_str": "1089895196215656448",
+			"full_text": "Suuuuuuper proud abt @feministintrnet's new publication ‘Designing a Feminist Alexa’ - the outcome of our fellowship at @ual_cci w @fxfegha⚡️Check it out if ur interested in designing #feminist #tech &amp; the futures of conversation design https://t.co/AHN2C9V0hP @doteveryoneuk https://t.co/fwf79QbHq1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "feminist",
+						"indices": [
+							184,
+							193
+						]
+					},
+					{
+						"text": "tech",
+						"indices": [
+							194,
+							199
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "feministintrnet",
+						"name": "Feminist Internet",
+						"id": 927559519433101300,
+						"id_str": "927559519433101312",
+						"indices": [
+							21,
+							37
+						]
+					},
+					{
+						"screen_name": "UAL_CCi",
+						"name": "UAL Creative Computing",
+						"id": 986550048233345000,
+						"id_str": "986550048233345024",
+						"indices": [
+							120,
+							128
+						]
+					},
+					{
+						"screen_name": "fxfegha",
+						"name": "alex. 👨🏿‍💻👨🏿‍🏫🎅🏿👑💯🤖",
+						"id": 927677988,
+						"id_str": "927677988",
+						"indices": [
+							131,
+							139
+						]
+					},
+					{
+						"screen_name": "doteveryoneuk",
+						"name": "Doteveryone",
+						"id": 3241740251,
+						"id_str": "3241740251",
+						"indices": [
+							265,
+							279
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/AHN2C9V0hP",
+						"expanded_url": "http://bit.ly/feministalexareport",
+						"display_url": "bit.ly/feministalexar…",
+						"indices": [
+							241,
+							264
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1089895167648301000,
+						"id_str": "1089895167648301056",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/DyAV4WYXgAABXle.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DyAV4WYXgAABXle.jpg",
+						"url": "https://t.co/fwf79QbHq1",
+						"display_url": "pic.twitter.com/fwf79QbHq1",
+						"expanded_url": "https://twitter.com/otheragent/status/1089895196215656448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2000,
+								"h": 2000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1089895167648301000,
+						"id_str": "1089895167648301056",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/DyAV4WYXgAABXle.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DyAV4WYXgAABXle.jpg",
+						"url": "https://t.co/fwf79QbHq1",
+						"display_url": "pic.twitter.com/fwf79QbHq1",
+						"expanded_url": "https://twitter.com/otheragent/status/1089895196215656448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2000,
+								"h": 2000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 345883923,
+				"id_str": "345883923",
+				"name": "Dr Charlotte Webb",
+				"screen_name": "otheragent",
+				"location": "London",
+				"description": "Chief Leopard, Feminist Internet https://t.co/d8ToIDrU3p #feministinternet",
+				"url": "https://t.co/thKzwbDtdG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/thKzwbDtdG",
+								"expanded_url": "http://www.otheragents.net",
+								"display_url": "otheragents.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/d8ToIDrU3p",
+								"expanded_url": "http://www.feministinternet.com",
+								"display_url": "feministinternet.com",
+								"indices": [
+									33,
+									56
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2148,
+				"friends_count": 1783,
+				"listed_count": 129,
+				"created_at": "Sun Jul 31 10:08:14 +0000 2011",
+				"favourites_count": 4487,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6018,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/903534262477049857/1ebsLhUn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/903534262477049857/1ebsLhUn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/345883923/1530093036",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25,
+			"favorite_count": 77,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ElenaSanchezUX @AdiMazorKario The summit talk really stuck with me. Something else I came across you might be interested in is the output from the 'Designing a Feminist Alexa' project https://t.co/OXEUWA5J2I"
+	},
+	{
+		"created_at": "Wed Feb 06 12:08:19 +0000 2019",
+		"id": 1093119192553963500,
+		"id_str": "1093239004080848899",
+		"full_text": "Starting out in #AR/#VR and looking to make connections ... here's a list created by @JoannaPopper you can follow #femedtech https://t.co/NBauRo917q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AR",
+					"indices": [
+						16,
+						19
+					]
+				},
+				{
+					"text": "VR",
+					"indices": [
+						20,
+						23
+					]
+				},
+				{
+					"text": "femedtech",
+					"indices": [
+						114,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JoannaPopper",
+					"name": "Joanna Popper",
+					"id": 22813469,
+					"id_str": "22813469",
+					"indices": [
+						85,
+						98
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NBauRo917q",
+					"expanded_url": "https://twitter.com/JoannaPopper/status/1084602893913575424",
+					"display_url": "twitter.com/JoannaPopper/s…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 807239380138160100,
+			"id_str": "807239380138160128",
+			"name": "femedtech",
+			"screen_name": "femedtech",
+			"location": "everywhere",
+			"description": "#femedtech Feminist in edtech? let's grow FemEdTech network - hosted collaboratively by volunteers. DM to be involved. Curator is currently @mhawksey",
+			"url": "https://t.co/mTL2O6sf59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mTL2O6sf59",
+							"expanded_url": "https://goo.gl/qwPV8Z",
+							"display_url": "goo.gl/qwPV8Z",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1024,
+			"friends_count": 1427,
+			"listed_count": 10,
+			"created_at": "Fri Dec 09 15:04:00 +0000 2016",
+			"favourites_count": 1449,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1712,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/829101527210024960/1hYtYEe2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/829101527210024960/1hYtYEe2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/807239380138160128/1525778668",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1084602893913575400,
+		"quoted_status_id_str": "1084602893913575424",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NBauRo917q",
+			"expanded": "https://twitter.com/JoannaPopper/status/1084602893913575424",
+			"display": "twitter.com/JoannaPopper/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 14 00:07:35 +0000 2019",
+			"id": 1084602893913575400,
+			"id_str": "1084602893913575424",
+			"full_text": "I made a Twitter list of Women in VR AR Immersive Computing to make us easy to follow. 100+ and growing Subscribe https://t.co/88Y5vWD1Zy #womenintech #womeninVR #womeninAR #WomenInSTEM #womeninleadership #techwomen #virtualreality #XR #VR #AugmentedReality #AR #smartglasses https://t.co/4La1mpIJaG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "womenintech",
+						"indices": [
+							138,
+							150
+						]
+					},
+					{
+						"text": "womeninVR",
+						"indices": [
+							151,
+							161
+						]
+					},
+					{
+						"text": "womeninAR",
+						"indices": [
+							162,
+							172
+						]
+					},
+					{
+						"text": "WomenInSTEM",
+						"indices": [
+							173,
+							185
+						]
+					},
+					{
+						"text": "womeninleadership",
+						"indices": [
+							186,
+							204
+						]
+					},
+					{
+						"text": "techwomen",
+						"indices": [
+							205,
+							215
+						]
+					},
+					{
+						"text": "virtualreality",
+						"indices": [
+							216,
+							231
+						]
+					},
+					{
+						"text": "XR",
+						"indices": [
+							232,
+							235
+						]
+					},
+					{
+						"text": "VR",
+						"indices": [
+							236,
+							239
+						]
+					},
+					{
+						"text": "AugmentedReality",
+						"indices": [
+							240,
+							257
+						]
+					},
+					{
+						"text": "AR",
+						"indices": [
+							258,
+							261
+						]
+					},
+					{
+						"text": "smartglasses",
+						"indices": [
+							262,
+							275
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/88Y5vWD1Zy",
+						"expanded_url": "https://mobile.twitter.com/JoannaPopper/lists/WomenInVRARImmersive/members",
+						"display_url": "mobile.twitter.com/JoannaPopper/l…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1084602860027863000,
+						"id_str": "1084602860027863040",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/media/Dw1IjgJVYAAJTPb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dw1IjgJVYAAJTPb.jpg",
+						"url": "https://t.co/4La1mpIJaG",
+						"display_url": "pic.twitter.com/4La1mpIJaG",
+						"expanded_url": "https://twitter.com/JoannaPopper/status/1084602893913575424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1084602860027863000,
+						"id_str": "1084602860027863040",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/media/Dw1IjgJVYAAJTPb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dw1IjgJVYAAJTPb.jpg",
+						"url": "https://t.co/4La1mpIJaG",
+						"display_url": "pic.twitter.com/4La1mpIJaG",
+						"expanded_url": "https://twitter.com/JoannaPopper/status/1084602893913575424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22813469,
+				"id_str": "22813469",
+				"name": "Joanna Popper",
+				"screen_name": "JoannaPopper",
+				"location": "Los Angeles, CA",
+				"description": "VR/AR, Media & Tech Hollywood & Silicon Valley Exec. @HP Global Head of VR for Location Based Entertainment. Ex @nbcuniversal @telemundo @singularityu @mckinsey",
+				"url": "https://t.co/s1T67OhOe6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/s1T67OhOe6",
+								"expanded_url": "http://hp.com",
+								"display_url": "hp.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4246,
+				"friends_count": 1502,
+				"listed_count": 320,
+				"created_at": "Wed Mar 04 18:41:27 +0000 2009",
+				"favourites_count": 75095,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16325,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1084168214785929216/Xb4XjcrO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084168214785929216/Xb4XjcrO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22813469/1547320185",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 217,
+			"favorite_count": 593,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Starting out in #AR/#VR and looking to make connections ... here's a list created by @JoannaPopper you can follow #femedtech https://t.co/NBauRo917q"
+	},
+	{
+		"created_at": "Wed Feb 06 19:59:33 +0000 2019",
+		"id": 1093237782565273600,
+		"id_str": "1093238940855947264",
+		"full_text": "#femedtech https://t.co/KNHUgJvVHX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "femedtech",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KNHUgJvVHX",
+					"expanded_url": "https://twitter.com/arasbozkurt/status/1088543173746532352",
+					"display_url": "twitter.com/arasbozkurt/st…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 807239380138160100,
+			"id_str": "807239380138160128",
+			"name": "femedtech",
+			"screen_name": "femedtech",
+			"location": "everywhere",
+			"description": "#femedtech Feminist in edtech? let's grow FemEdTech network - hosted collaboratively by volunteers. DM to be involved. Curator is currently @mhawksey",
+			"url": "https://t.co/mTL2O6sf59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mTL2O6sf59",
+							"expanded_url": "https://goo.gl/qwPV8Z",
+							"display_url": "goo.gl/qwPV8Z",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1024,
+			"friends_count": 1427,
+			"listed_count": 10,
+			"created_at": "Fri Dec 09 15:04:00 +0000 2016",
+			"favourites_count": 1449,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1712,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/829101527210024960/1hYtYEe2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/829101527210024960/1hYtYEe2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/807239380138160128/1525778668",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1088543173746532400,
+		"quoted_status_id_str": "1088543173746532352",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KNHUgJvVHX",
+			"expanded": "https://twitter.com/arasbozkurt/status/1088543173746532352",
+			"display": "twitter.com/arasbozkurt/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 24 21:04:51 +0000 2019",
+			"id": 1088543173746532400,
+			"id_str": "1088543173746532352",
+			"full_text": "You should read this, think and then rethink... How Little People Can Be Invisible in the Open #cccert by @Bali_Maha https://t.co/kUpiHRWQJv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				140
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "cccert",
+						"indices": [
+							95,
+							102
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Bali_Maha",
+						"name": "ℳąhą Bąℓi, PhD مها بالي 🌷",
+						"id": 1535273520,
+						"id_str": "1535273520",
+						"indices": [
+							106,
+							116
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/kUpiHRWQJv",
+						"expanded_url": "https://blog.mahabali.me/whyopen/how-little-people-can-be-invisible-in-the-open-cccert/",
+						"display_url": "blog.mahabali.me/whyopen/how-li…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 83447547,
+				"id_str": "83447547",
+				"name": "Aras BOZKURT",
+				"screen_name": "arasbozkurt",
+				"location": "Neverland",
+				"description": "Netizen, freelance scholar ;) leisure learner, connectivist, hard-core gamer, clubber and ex green beret at NATO KFOR KIKPC. MA & PhD at Distance Education",
+				"url": "https://t.co/4xIpSAehw4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4xIpSAehw4",
+								"expanded_url": "http://www.arasbozkurt.com.tr",
+								"display_url": "arasbozkurt.com.tr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1080,
+				"friends_count": 920,
+				"listed_count": 96,
+				"created_at": "Sun Oct 18 21:11:32 +0000 2009",
+				"favourites_count": 5172,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4443,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/604900359958622208/ZFwuCGMt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/604900359958622208/ZFwuCGMt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/83447547/1399733407",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#femedtech https://t.co/KNHUgJvVHX"
+	},
+	{
+		"created_at": "Wed Feb 06 19:57:18 +0000 2019",
+		"id": 1093237217995251700,
+		"id_str": "1093238919393697793",
+		"full_text": "\"The act of blogging has been a critical part of my own agency and sense of continuously developing, reflecting and understanding of my own praxis.\" #femedtech https://t.co/Dps38Cnf0s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "femedtech",
+					"indices": [
+						149,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Dps38Cnf0s",
+					"expanded_url": "https://twitter.com/sheilmcn/status/1093078011916808192",
+					"display_url": "twitter.com/sheilmcn/statu…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 807239380138160100,
+			"id_str": "807239380138160128",
+			"name": "femedtech",
+			"screen_name": "femedtech",
+			"location": "everywhere",
+			"description": "#femedtech Feminist in edtech? let's grow FemEdTech network - hosted collaboratively by volunteers. DM to be involved. Curator is currently @mhawksey",
+			"url": "https://t.co/mTL2O6sf59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mTL2O6sf59",
+							"expanded_url": "https://goo.gl/qwPV8Z",
+							"display_url": "goo.gl/qwPV8Z",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1024,
+			"friends_count": 1427,
+			"listed_count": 10,
+			"created_at": "Fri Dec 09 15:04:00 +0000 2016",
+			"favourites_count": 1449,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1712,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/829101527210024960/1hYtYEe2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/829101527210024960/1hYtYEe2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/807239380138160128/1525778668",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1093078011916808200,
+		"quoted_status_id_str": "1093078011916808192",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Dps38Cnf0s",
+			"expanded": "https://twitter.com/sheilmcn/status/1093078011916808192",
+			"display": "twitter.com/sheilmcn/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 06 09:24:41 +0000 2019",
+			"id": 1093078011916808200,
+			"id_str": "1093078011916808192",
+			"full_text": "The kindness of blogging https://t.co/oLekVuobW5 https://t.co/rwb0GsaHdy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				48
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/oLekVuobW5",
+						"expanded_url": "https://howsheilaseesit.net/digitalcapability/the-kindness-of-blogging/",
+						"display_url": "howsheilaseesit.net/digitalcapabil…",
+						"indices": [
+							25,
+							48
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1093078010264055800,
+						"id_str": "1093078010264055809",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/DytkqLGUcAEKeBx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DytkqLGUcAEKeBx.jpg",
+						"url": "https://t.co/rwb0GsaHdy",
+						"display_url": "pic.twitter.com/rwb0GsaHdy",
+						"expanded_url": "https://twitter.com/sheilmcn/status/1093078011916808192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 682,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 682,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1093078010264055800,
+						"id_str": "1093078010264055809",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/DytkqLGUcAEKeBx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DytkqLGUcAEKeBx.jpg",
+						"url": "https://t.co/rwb0GsaHdy",
+						"display_url": "pic.twitter.com/rwb0GsaHdy",
+						"expanded_url": "https://twitter.com/sheilmcn/status/1093078011916808192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 682,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 682,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4013641,
+				"id_str": "4013641",
+				"name": "Sheila MacNeill",
+				"screen_name": "sheilmcn",
+				"location": "",
+				"description": "Open practitioner interested in all things to do with learning & digital stuff. Chair of Association of Learning Technology  More at: https://t.co/6DGfwFlA7G,",
+				"url": "https://t.co/6DGfwFlA7G",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6DGfwFlA7G",
+								"expanded_url": "http://about.me/sheilmcn",
+								"display_url": "about.me/sheilmcn",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/6DGfwFlA7G",
+								"expanded_url": "http://about.me/sheilmcn",
+								"display_url": "about.me/sheilmcn",
+								"indices": [
+									134,
+									157
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4303,
+				"friends_count": 2588,
+				"listed_count": 376,
+				"created_at": "Tue Apr 10 10:55:00 +0000 2007",
+				"favourites_count": 4769,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 44779,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/515415746755575808/fbCFyMN0_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/515415746755575808/fbCFyMN0_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4013641/1503423765",
+				"profile_link_color": "7DB300",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"The act of blogging has been a critical part of my own agency and sense of continuously developing, reflecting and understanding of my own praxis.\" #femedtech https://t.co/Dps38Cnf0s"
+	},
+	{
+		"created_at": "Wed Feb 06 12:02:37 +0000 2019",
+		"id": 1093117758022266900,
+		"id_str": "1093238877572214784",
+		"full_text": "A different view of the #femedtech community ... this is what the conversation looks like when you graph all the tweets and retweets from @femedtech. You can explore interactive version (note: needs a powerful device)    https://t.co/OHel7YsKN3 https://t.co/sJMyYMe1co",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "femedtech",
+					"indices": [
+						24,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "femedtech",
+					"name": "femedtech",
+					"id": 807239380138160100,
+					"id_str": "807239380138160128",
+					"indices": [
+						138,
+						148
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OHel7YsKN3",
+					"expanded_url": "https://hawksey.info/tagsexplorer/?key=1Lo3HnFQN2pbUKUVcBYZcIEpps9JaAiRvjChL1fWudqg&gid=400689247&mentions=true&retweets=true",
+					"display_url": "hawksey.info/tagsexplorer/?…",
+					"indices": [
+						221,
+						244
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1093116802513670100,
+					"id_str": "1093116802513670144",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/DyuH8LfWkAANVnd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyuH8LfWkAANVnd.jpg",
+					"url": "https://t.co/sJMyYMe1co",
+					"display_url": "pic.twitter.com/sJMyYMe1co",
+					"expanded_url": "https://twitter.com/femedtech/status/1093117758022266880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 558,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 634,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 316,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093116802513670100,
+					"id_str": "1093116802513670144",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/DyuH8LfWkAANVnd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyuH8LfWkAANVnd.jpg",
+					"url": "https://t.co/sJMyYMe1co",
+					"display_url": "pic.twitter.com/sJMyYMe1co",
+					"expanded_url": "https://twitter.com/femedtech/status/1093117758022266880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 558,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 634,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 316,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 807239380138160100,
+			"id_str": "807239380138160128",
+			"name": "femedtech",
+			"screen_name": "femedtech",
+			"location": "everywhere",
+			"description": "#femedtech Feminist in edtech? let's grow FemEdTech network - hosted collaboratively by volunteers. DM to be involved. Curator is currently @mhawksey",
+			"url": "https://t.co/mTL2O6sf59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mTL2O6sf59",
+							"expanded_url": "https://goo.gl/qwPV8Z",
+							"display_url": "goo.gl/qwPV8Z",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1024,
+			"friends_count": 1427,
+			"listed_count": 10,
+			"created_at": "Fri Dec 09 15:04:00 +0000 2016",
+			"favourites_count": 1449,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1712,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/829101527210024960/1hYtYEe2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/829101527210024960/1hYtYEe2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/807239380138160128/1525778668",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A different view of the #femedtech community ... this is what the conversation looks like when you graph all the tweets and retweets from @femedtech. You can explore interactive version (note: needs a powerful device)    https://t.co/OHel7YsKN3 https://t.co/sJMyYMe1co"
+	},
+	{
+		"created_at": "Wed Feb 06 16:46:24 +0000 2019",
+		"id": 1093189174298140700,
+		"id_str": "1093189174298140672",
+		"full_text": "@DonnaLanclos @vibram one does not approve?",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DonnaLanclos",
+					"name": "Dr. Donna Lanclos",
+					"id": 436886909,
+					"id_str": "436886909",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "vibram",
+					"name": "Vibram®",
+					"id": 1555963784,
+					"id_str": "1555963784",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1093188913584369700,
+		"in_reply_to_status_id_str": "1093188913584369665",
+		"in_reply_to_user_id": 436886909,
+		"in_reply_to_user_id_str": "436886909",
+		"in_reply_to_screen_name": "DonnaLanclos",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7944,
+			"friends_count": 2143,
+			"listed_count": 591,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5000,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27780,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DonnaLanclos @vibram one does not approve?"
+	},
+	{
+		"created_at": "Wed Feb 06 16:42:38 +0000 2019",
+		"id": 1093188227245195300,
+		"id_str": "1093188227245195264",
+		"full_text": "Shoe bants in the ALT chat channel ... I'm highlighting the benefits of @vibram furoshiki shoes for the #remoteworker/traveler https://t.co/o6fqYfqw3y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "remoteworker",
+					"indices": [
+						104,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vibram",
+					"name": "Vibram®",
+					"id": 1555963784,
+					"id_str": "1555963784",
+					"indices": [
+						72,
+						79
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1093187451185709000,
+					"id_str": "1093187451185709060",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/DyvIMeTWwAQlbCq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyvIMeTWwAQlbCq.jpg",
+					"url": "https://t.co/o6fqYfqw3y",
+					"display_url": "pic.twitter.com/o6fqYfqw3y",
+					"expanded_url": "https://twitter.com/mhawksey/status/1093188227245195264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093187451185709000,
+					"id_str": "1093187451185709060",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/DyvIMeTWwAQlbCq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyvIMeTWwAQlbCq.jpg",
+					"url": "https://t.co/o6fqYfqw3y",
+					"display_url": "pic.twitter.com/o6fqYfqw3y",
+					"expanded_url": "https://twitter.com/mhawksey/status/1093188227245195264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7944,
+			"friends_count": 2143,
+			"listed_count": 591,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5000,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27780,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Shoe bants in the ALT chat channel ... I'm highlighting the benefits of @vibram furoshiki shoes for the #remoteworker/traveler https://t.co/o6fqYfqw3y"
+	},
+	{
+		"created_at": "Wed Feb 06 15:59:06 +0000 2019",
+		"id": 1093177273673568300,
+		"id_str": "1093177273673568263",
+		"full_text": "Currently my top post 'Google Apps Script Patterns: Writing rows of data to Google Sheets' https://t.co/BmLdiqteZh [overtaken 'Google Sheets as a Database – INSERT with Apps Script using POST/GET methods (with ajax example)']",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BmLdiqteZh",
+					"expanded_url": "https://mashe.hawksey.info/2018/02/google-apps-script-patterns-writing-rows-of-data-to-google-sheets/",
+					"display_url": "mashe.hawksey.info/2018/02/google…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7944,
+			"friends_count": 2143,
+			"listed_count": 591,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5000,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27780,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Currently my top post 'Google Apps Script Patterns: Writing rows of data to Google Sheets' https://t.co/BmLdiqteZh [overtaken 'Google Sheets as a Database – INSERT with Apps Script using POST/GET methods (with ajax example)']"
+	},
+	{
+		"created_at": "Wed Feb 06 15:54:39 +0000 2019",
+		"id": 1093176153387552800,
+		"id_str": "1093176153387552769",
+		"full_text": "@sensor63 @WarwickLanguage @makle1 Thanks Simon :)",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sensor63",
+					"name": "Simon Ensor",
+					"id": 84562932,
+					"id_str": "84562932",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "WarwickLanguage",
+					"name": "Teresa MacKinnon",
+					"id": 81817497,
+					"id_str": "81817497",
+					"indices": [
+						10,
+						26
+					]
+				},
+				{
+					"screen_name": "makle1",
+					"name": "Marcin Kleban",
+					"id": 90346874,
+					"id_str": "90346874",
+					"indices": [
+						27,
+						34
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1093136441218158600,
+		"in_reply_to_status_id_str": "1093136441218158592",
+		"in_reply_to_user_id": 84562932,
+		"in_reply_to_user_id_str": "84562932",
+		"in_reply_to_screen_name": "sensor63",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7944,
+			"friends_count": 2143,
+			"listed_count": 591,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5000,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27780,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@sensor63 @WarwickLanguage @makle1 Thanks Simon :)"
+	},
+	{
+		"created_at": "Wed Feb 06 15:46:04 +0000 2019",
+		"id": 1093173992385667100,
+		"id_str": "1093173992385667072",
+		"full_text": "@dompates @santanuvasant @dresdeb exactly! :)",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dompates",
+					"name": "Dom Pates",
+					"id": 17968281,
+					"id_str": "17968281",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "santanuvasant",
+					"name": "Santanu Vasant",
+					"id": 23588538,
+					"id_str": "23588538",
+					"indices": [
+						10,
+						24
+					]
+				},
+				{
+					"screen_name": "dresdeb",
+					"name": "Beccy Dresden",
+					"id": 25527231,
+					"id_str": "25527231",
+					"indices": [
+						25,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1093173439475650600,
+		"in_reply_to_status_id_str": "1093173439475650560",
+		"in_reply_to_user_id": 17968281,
+		"in_reply_to_user_id_str": "17968281",
+		"in_reply_to_screen_name": "dompates",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7944,
+			"friends_count": 2143,
+			"listed_count": 591,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5000,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27780,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@dompates @santanuvasant @dresdeb exactly! :)"
+	},
+	{
+		"created_at": "Wed Feb 06 13:18:27 +0000 2019",
+		"id": 1093136844382965800,
+		"id_str": "1093140079059582976",
+		"full_text": "Thank you for this one #Altc https://t.co/kIOSwIGAVr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Altc",
+					"indices": [
+						23,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kIOSwIGAVr",
+					"expanded_url": "https://twitter.com/jisc/status/1093039413322543104",
+					"display_url": "twitter.com/jisc/status/10…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 39770645,
+			"id_str": "39770645",
+			"name": "Fiery Red",
+			"screen_name": "FieryRed1",
+			"location": "Virtual",
+			"description": "",
+			"url": "https://t.co/R9rh0cOxkK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/R9rh0cOxkK",
+							"expanded_url": "https://fieryred.co.uk",
+							"display_url": "fieryred.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271,
+			"friends_count": 770,
+			"listed_count": 13,
+			"created_at": "Wed May 13 15:21:23 +0000 2009",
+			"favourites_count": 1462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2686,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/876690878961782784/58gaTFbI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/876690878961782784/58gaTFbI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/39770645/1533577167",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1093039413322543100,
+		"quoted_status_id_str": "1093039413322543104",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kIOSwIGAVr",
+			"expanded": "https://twitter.com/jisc/status/1093039413322543104",
+			"display": "twitter.com/jisc/status/10…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 06 06:51:18 +0000 2019",
+			"id": 1093039413322543100,
+			"id_str": "1093039413322543104",
+			"full_text": "Learners need excellent digital skills to match their future employers’ requirements https://t.co/pABOYVzuf8 https://t.co/S0kogscodL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				108
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/pABOYVzuf8",
+						"expanded_url": "https://ji.sc/2F7cGC3",
+						"display_url": "ji.sc/2F7cGC3",
+						"indices": [
+							85,
+							108
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1093039341524451300,
+						"id_str": "1093039341524451328",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1093039341524451328/pu/img/-LTlzrb8LCR9Lkeh.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1093039341524451328/pu/img/-LTlzrb8LCR9Lkeh.jpg",
+						"url": "https://t.co/S0kogscodL",
+						"display_url": "pic.twitter.com/S0kogscodL",
+						"expanded_url": "https://twitter.com/Jisc/status/1093039413322543104/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1093039341524451300,
+						"id_str": "1093039341524451328",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1093039341524451328/pu/img/-LTlzrb8LCR9Lkeh.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1093039341524451328/pu/img/-LTlzrb8LCR9Lkeh.jpg",
+						"url": "https://t.co/S0kogscodL",
+						"display_url": "pic.twitter.com/S0kogscodL",
+						"expanded_url": "https://twitter.com/Jisc/status/1093039413322543104/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 64000,
+							"variants": [
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1093039341524451328/pu/vid/320x320/EP4NninEyeIPj-4i.mp4?tag=6"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1093039341524451328/pu/vid/400x400/nZrA0Ped3GMoTJad.mp4?tag=6"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1093039341524451328/pu/pl/HesQSY8Ep6G1Ftrr.m3u8?tag=6"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18829580,
+				"id_str": "18829580",
+				"name": "Jisc",
+				"screen_name": "Jisc",
+				"location": "UK",
+				"description": "We provide digital solutions for UK education and research. Follow for the latest on our work and #edtech news from around the world.",
+				"url": "http://t.co/kUcntNMBlK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/kUcntNMBlK",
+								"expanded_url": "http://www.jisc.ac.uk",
+								"display_url": "jisc.ac.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 61536,
+				"friends_count": 1282,
+				"listed_count": 2049,
+				"created_at": "Sat Jan 10 07:32:44 +0000 2009",
+				"favourites_count": 6683,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 28573,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E3E9EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1026813249273114624/ygdcdpoJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1026813249273114624/ygdcdpoJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18829580/1522764600",
+				"profile_link_color": "00557F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "CCCCCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 43,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you for this one #Altc https://t.co/kIOSwIGAVr"
+	},
+	{
+		"created_at": "Wed Feb 06 11:32:06 +0000 2019",
+		"id": 1093110079103082500,
+		"id_str": "1093110079103082503",
+		"full_text": "Latest 'Virtual Teams' post with @MarenDeepwell this month on 'when things get personal' https://t.co/ZNYuxQiMmA #remotework #virtualteams https://t.co/SyF6Whvb2A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "remotework",
+					"indices": [
+						113,
+						124
+					]
+				},
+				{
+					"text": "virtualteams",
+					"indices": [
+						125,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						33,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZNYuxQiMmA",
+					"expanded_url": "https://mashe.hawksey.info/2019/02/virtual-teams-when-things-get-personal/",
+					"display_url": "mashe.hawksey.info/2019/02/virtua…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1093109703356440600,
+					"id_str": "1093109703356440581",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/DyuBe9EX4AUpkrl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyuBe9EX4AUpkrl.jpg",
+					"url": "https://t.co/SyF6Whvb2A",
+					"display_url": "pic.twitter.com/SyF6Whvb2A",
+					"expanded_url": "https://twitter.com/mhawksey/status/1093110079103082503/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093109703356440600,
+					"id_str": "1093109703356440581",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/DyuBe9EX4AUpkrl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyuBe9EX4AUpkrl.jpg",
+					"url": "https://t.co/SyF6Whvb2A",
+					"display_url": "pic.twitter.com/SyF6Whvb2A",
+					"expanded_url": "https://twitter.com/mhawksey/status/1093110079103082503/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7944,
+			"friends_count": 2143,
+			"listed_count": 591,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5000,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27780,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Latest 'Virtual Teams' post with @MarenDeepwell this month on 'when things get personal' https://t.co/ZNYuxQiMmA #remotework #virtualteams https://t.co/SyF6Whvb2A"
+	},
+	{
+		"created_at": "Wed Feb 06 09:48:10 +0000 2019",
+		"id": 1093083925382160400,
+		"id_str": "1093084005661061121",
+		"full_text": "Interesting fellowship opportunity. Deadline 16 Feb - fellowship runs from 1 Oct - 31 Dec 2019  #altc #plsig #femedtech https://t.co/5Pdd2otdWr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "plsig",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "femedtech",
+					"indices": [
+						109,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5Pdd2otdWr",
+					"expanded_url": "https://twitter.com/IBE_UNESCO/status/1093076174476111873",
+					"display_url": "twitter.com/IBE_UNESCO/sta…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 807239380138160100,
+			"id_str": "807239380138160128",
+			"name": "femedtech",
+			"screen_name": "femedtech",
+			"location": "everywhere",
+			"description": "#femedtech Feminist in edtech? let's grow FemEdTech network - hosted collaboratively by volunteers. DM to be involved. Curator is currently @mhawksey",
+			"url": "https://t.co/mTL2O6sf59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mTL2O6sf59",
+							"expanded_url": "https://goo.gl/qwPV8Z",
+							"display_url": "goo.gl/qwPV8Z",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1024,
+			"friends_count": 1427,
+			"listed_count": 10,
+			"created_at": "Fri Dec 09 15:04:00 +0000 2016",
+			"favourites_count": 1449,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1712,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/829101527210024960/1hYtYEe2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/829101527210024960/1hYtYEe2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/807239380138160128/1525778668",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1093076174476111900,
+		"quoted_status_id_str": "1093076174476111873",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5Pdd2otdWr",
+			"expanded": "https://twitter.com/IBE_UNESCO/status/1093076174476111873",
+			"display": "twitter.com/IBE_UNESCO/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 06 09:17:23 +0000 2019",
+			"id": 1093076174476111900,
+			"id_str": "1093076174476111873",
+			"full_text": "\"Being a #ScienceOfLearning Fellow is a unique opportunity to immerse in the IBE's projects and bridge the gap between #Neuroscience and #Education.\" - @MariaCa611113. Apply for the 2019 @ibroSecretariat @IBE_UNESCO Science of Learning Fellowships here: https://t.co/usOQeb6YIX https://t.co/N89vxBqLHT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ScienceOfLearning",
+						"indices": [
+							9,
+							27
+						]
+					},
+					{
+						"text": "Neuroscience",
+						"indices": [
+							119,
+							132
+						]
+					},
+					{
+						"text": "Education",
+						"indices": [
+							137,
+							147
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MariaCa611113",
+						"name": "Maria Castello",
+						"id": 821740272694546400,
+						"id_str": "821740272694546438",
+						"indices": [
+							152,
+							166
+						]
+					},
+					{
+						"screen_name": "ibroSecretariat",
+						"name": "IBRO",
+						"id": 123596005,
+						"id_str": "123596005",
+						"indices": [
+							187,
+							203
+						]
+					},
+					{
+						"screen_name": "IBE_UNESCO",
+						"name": "IBE-UNESCO",
+						"id": 3190562235,
+						"id_str": "3190562235",
+						"indices": [
+							204,
+							215
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/usOQeb6YIX",
+						"expanded_url": "https://tinyurl.com/yamgrdtc",
+						"display_url": "tinyurl.com/yamgrdtc",
+						"indices": [
+							254,
+							277
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1093076140879740900,
+						"id_str": "1093076140879740928",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/Dyti9XGXgAA2W3Z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dyti9XGXgAA2W3Z.jpg",
+						"url": "https://t.co/N89vxBqLHT",
+						"display_url": "pic.twitter.com/N89vxBqLHT",
+						"expanded_url": "https://twitter.com/IBE_UNESCO/status/1093076174476111873/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1200,
+								"h": 464,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 263,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 464,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1093076140879740900,
+						"id_str": "1093076140879740928",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/Dyti9XGXgAA2W3Z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dyti9XGXgAA2W3Z.jpg",
+						"url": "https://t.co/N89vxBqLHT",
+						"display_url": "pic.twitter.com/N89vxBqLHT",
+						"expanded_url": "https://twitter.com/IBE_UNESCO/status/1093076174476111873/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1200,
+								"h": 464,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 263,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 464,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3190562235,
+				"id_str": "3190562235",
+				"name": "IBE-UNESCO",
+				"screen_name": "IBE_UNESCO",
+				"location": "Geneva, Switzerland",
+				"description": "The @UNESCO's International Bureau of Education works towards a world where each & everyone is assured quality #education & #learning. Our Director @m_marope",
+				"url": "https://t.co/0g0C9Z17rN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0g0C9Z17rN",
+								"expanded_url": "http://www.ibe.unesco.org",
+								"display_url": "ibe.unesco.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5206,
+				"friends_count": 990,
+				"listed_count": 122,
+				"created_at": "Tue Apr 21 12:21:10 +0000 2015",
+				"favourites_count": 3040,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4068,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/984336322469998592/IPqnym1I_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/984336322469998592/IPqnym1I_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3190562235/1499760507",
+				"profile_link_color": "007EC6",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Interesting fellowship opportunity. Deadline 16 Feb - fellowship runs from 1 Oct - 31 Dec 2019  #altc #plsig #femedtech https://t.co/5Pdd2otdWr"
+	},
+	{
+		"created_at": "Wed Feb 06 09:30:50 +0000 2019",
+		"id": 1093079562974576600,
+		"id_str": "1093079562974576640",
+		"full_text": "@benlcollins ...everything is automated ;)",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "benlcollins",
+					"name": "Ben Collins",
+					"id": 19338407,
+					"id_str": "19338407",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1092958163492458500,
+		"in_reply_to_status_id_str": "1092958163492458496",
+		"in_reply_to_user_id": 19338407,
+		"in_reply_to_user_id_str": "19338407",
+		"in_reply_to_screen_name": "benlcollins",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7944,
+			"friends_count": 2143,
+			"listed_count": 591,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5000,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27780,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@benlcollins ...everything is automated ;)"
+	},
+	{
+		"created_at": "Wed Feb 06 09:30:22 +0000 2019",
+		"id": 1093079441901867000,
+		"id_str": "1093079441901867008",
+		"full_text": "@hopkinsdavid I'm just glad it didn't happen when I was going up our stairs ... not sure tea and cream carpets mix ;s",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hopkinsdavid",
+					"name": "David Hopkins",
+					"id": 19582633,
+					"id_str": "19582633",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1092860762543018000,
+		"in_reply_to_status_id_str": "1092860762543017984",
+		"in_reply_to_user_id": 19582633,
+		"in_reply_to_user_id_str": "19582633",
+		"in_reply_to_screen_name": "hopkinsdavid",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7944,
+			"friends_count": 2143,
+			"listed_count": 591,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5000,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27780,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@hopkinsdavid I'm just glad it didn't happen when I was going up our stairs ... not sure tea and cream carpets mix ;s"
+	},
+	{
+		"created_at": "Wed Feb 06 09:29:37 +0000 2019",
+		"id": 1093079253413969900,
+		"id_str": "1093079253413969921",
+		"full_text": "@helenbeetham @francesbell it's a little old now but interesting to see greater awareness in younger people regarding online privacy (in this case post Snowden) ... not looked to see if survey was repeated more recently https://t.co/80yumTFt68",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			243
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "helenbeetham",
+					"name": "Helen Beetham",
+					"id": 19829554,
+					"id_str": "19829554",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "francesbell",
+					"name": "Frances Bell",
+					"id": 12438922,
+					"id_str": "12438922",
+					"indices": [
+						14,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/80yumTFt68",
+					"expanded_url": "https://twitter.com/mhawksey/status/779234071817912320",
+					"display_url": "twitter.com/mhawksey/statu…",
+					"indices": [
+						220,
+						243
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1093075747453861900,
+		"in_reply_to_status_id_str": "1093075747453861888",
+		"in_reply_to_user_id": 19829554,
+		"in_reply_to_user_id_str": "19829554",
+		"in_reply_to_screen_name": "helenbeetham",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7944,
+			"friends_count": 2143,
+			"listed_count": 591,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5000,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27780,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 779234071817912300,
+		"quoted_status_id_str": "779234071817912320",
+		"quoted_status_permalink": {
+			"url": "https://t.co/80yumTFt68",
+			"expanded": "https://twitter.com/mhawksey/status/779234071817912320",
+			"display": "twitter.com/mhawksey/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 23 08:20:54 +0000 2016",
+			"id": 779234071817912300,
+			"id_str": "779234071817912320",
+			"full_text": "Interesting research indicating young people do care about online privacy #altc https://t.co/bySjjmJLlc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				79
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "altc",
+						"indices": [
+							74,
+							79
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bySjjmJLlc",
+						"expanded_url": "https://twitter.com/trevortimm/status/779117943699288064",
+						"display_url": "twitter.com/trevortimm/sta…",
+						"indices": [
+							80,
+							103
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13046992,
+				"id_str": "13046992",
+				"name": "Martin Hawksey",
+				"screen_name": "mhawksey",
+				"location": "Edinburgh, Scotland",
+				"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+				"url": "https://t.co/OwPc0EbVqg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OwPc0EbVqg",
+								"expanded_url": "https://mashe.hawksey.info",
+								"display_url": "mashe.hawksey.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7944,
+				"friends_count": 2143,
+				"listed_count": 591,
+				"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+				"favourites_count": 5000,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 27780,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F5F5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+				"profile_link_color": "4099FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D4D4D4",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 779117943699288000,
+			"quoted_status_id_str": "779117943699288064",
+			"quoted_status_permalink": {
+				"url": "https://t.co/bySjjmJLlc",
+				"expanded": "https://twitter.com/trevortimm/status/779117943699288064",
+				"display": "twitter.com/trevortimm/sta…"
+			},
+			"retweet_count": 12,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@helenbeetham @francesbell it's a little old now but interesting to see greater awareness in younger people regarding online privacy (in this case post Snowden) ... not looked to see if survey was repeated more recently https://t.co/80yumTFt68"
+	},
+	{
 		"created_at": "Tue Feb 05 16:56:52 +0000 2019",
 		"id": 1092829421566939100,
 		"id_str": "1092829421566939143",
