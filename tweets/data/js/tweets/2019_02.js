@@ -1,6 +1,590 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 14 21:59:09 +0000 2019",
+		"id": 1096166983740067800,
+		"id_str": "1096166983740067840",
+		"full_text": "@ken_bauer unfortunately Twitter changed the format of their archives - did you have an earlier version of this setup?",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ken_bauer",
+					"name": "Ken Bauer Favel",
+					"id": 16033586,
+					"id_str": "16033586",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1096166063002275800,
+		"in_reply_to_status_id_str": "1096166063002275844",
+		"in_reply_to_user_id": 16033586,
+		"in_reply_to_user_id_str": "16033586",
+		"in_reply_to_screen_name": "ken_bauer",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7958,
+			"friends_count": 2157,
+			"listed_count": 592,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5057,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27831,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ken_bauer unfortunately Twitter changed the format of their archives - did you have an earlier version of this setup?"
+	},
+	{
+		"created_at": "Thu Feb 14 17:15:52 +0000 2019",
+		"id": 1096095693176037400,
+		"id_str": "1096156144064696321",
+		"full_text": "Don’t miss out on the exciting @DomainsConf this year with a super line of of #Domains19 featured artists already confirmed and the deadline to contribute your proposal coming up 15 Feb - I have been doodling for inspiration #femedtech #edtech :) https://t.co/0Z7QRMpmHR https://t.co/h2PX9hVBWc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Domains19",
+					"indices": [
+						78,
+						88
+					]
+				},
+				{
+					"text": "femedtech",
+					"indices": [
+						225,
+						235
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						236,
+						243
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DomainsConf",
+					"name": "DOMAINS 19",
+					"id": 808349016157257700,
+					"id_str": "808349016157257728",
+					"indices": [
+						31,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0Z7QRMpmHR",
+					"expanded_url": "https://domains.reclaimhosting.com/#cfp",
+					"display_url": "domains.reclaimhosting.com/#cfp",
+					"indices": [
+						247,
+						270
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1096095637555347500,
+					"id_str": "1096095637555347456",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/DzYdLMxXgAA46Js.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzYdLMxXgAA46Js.jpg",
+					"url": "https://t.co/h2PX9hVBWc",
+					"display_url": "pic.twitter.com/h2PX9hVBWc",
+					"expanded_url": "https://twitter.com/MarenDeepwell/status/1096095693176037376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096095637555347500,
+					"id_str": "1096095637555347456",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/DzYdLMxXgAA46Js.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzYdLMxXgAA46Js.jpg",
+					"url": "https://t.co/h2PX9hVBWc",
+					"display_url": "pic.twitter.com/h2PX9hVBWc",
+					"expanded_url": "https://twitter.com/MarenDeepwell/status/1096095693176037376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 323173367,
+			"id_str": "323173367",
+			"name": "Dr Maren Deepwell",
+			"screen_name": "MarenDeepwell",
+			"location": "United Kingdom",
+			"description": "CEO @A_L_T #altc Senior #CMALT, Anthropologist, Open Practitioner, leadership, policy & Learning Technology CPD, open governance & equality #femedtech",
+			"url": "https://t.co/kMXdMTr9bt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kMXdMTr9bt",
+							"expanded_url": "http://marendeepwell.com",
+							"display_url": "marendeepwell.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3168,
+			"friends_count": 1480,
+			"listed_count": 188,
+			"created_at": "Fri Jun 24 11:30:35 +0000 2011",
+			"favourites_count": 13673,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8408,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027623094398185475/m1dr0ykJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027623094398185475/m1dr0ykJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/323173367/1548441990",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Don’t miss out on the exciting @DomainsConf this year with a super line of of #Domains19 featured artists already confirmed and the deadline to contribute your proposal coming up 15 Feb - I have been doodling for inspiration #femedtech #edtech :) https://t.co/0Z7QRMpmHR https://t.co/h2PX9hVBWc"
+	},
+	{
+		"created_at": "Thu Feb 14 15:15:09 +0000 2019",
+		"id": 1096065315262341100,
+		"id_str": "1096065411844579328",
+		"full_text": "The deadline for submitting your work for @DomainsConf is tomorrow! https://t.co/TjQ9P9SrMh  #DOMAINS19 Will we see you there? https://t.co/qPOSYztArz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DOMAINS19",
+					"indices": [
+						93,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DomainsConf",
+					"name": "DOMAINS 19",
+					"id": 808349016157257700,
+					"id_str": "808349016157257728",
+					"indices": [
+						42,
+						54
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TjQ9P9SrMh",
+					"expanded_url": "https://domains.reclaimhosting.com/#cfp",
+					"display_url": "domains.reclaimhosting.com/#cfp",
+					"indices": [
+						68,
+						91
+					]
+				},
+				{
+					"url": "https://t.co/qPOSYztArz",
+					"expanded_url": "https://twitter.com/DomainsConf/status/1096064403269668864",
+					"display_url": "twitter.com/DomainsConf/st…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1602053274,
+			"id_str": "1602053274",
+			"name": "Reclaim Hosting",
+			"screen_name": "ReclaimHosting",
+			"location": "",
+			"description": "Reclaim Hosting provides educators and institutions with an easy way to offer their students domains and web hosting that they own and control.\n@DomainsConf",
+			"url": "https://t.co/7YLSpKrSJW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7YLSpKrSJW",
+							"expanded_url": "https://reclaimhosting.com",
+							"display_url": "reclaimhosting.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1450,
+			"friends_count": 271,
+			"listed_count": 52,
+			"created_at": "Wed Jul 17 23:35:51 +0000 2013",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2320,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986364029651357696/VvHYmotd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986364029651357696/VvHYmotd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1602053274/1524002583",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1096064403269668900,
+		"quoted_status_id_str": "1096064403269668864",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qPOSYztArz",
+			"expanded": "https://twitter.com/DomainsConf/status/1096064403269668864",
+			"display": "twitter.com/DomainsConf/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 14 15:11:32 +0000 2019",
+			"id": 1096064403269668900,
+			"id_str": "1096064403269668864",
+			"full_text": "Your time is running out to submit a proposal for #DOMAINS19! Even if your ideas aren't fully fleshed out, we'd love to see what you got. We're accepting submissions for Art Installations, 15 min presentations (with 5min Q&amp;A), and 45 min presentations/panels (with 15min Q&amp;A) https://t.co/mfEUKiOfsw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				283
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DOMAINS19",
+						"indices": [
+							50,
+							60
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mfEUKiOfsw",
+						"expanded_url": "https://twitter.com/brumface/status/1096063465242984451",
+						"display_url": "twitter.com/brumface/statu…",
+						"indices": [
+							284,
+							307
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 808349016157257700,
+				"id_str": "808349016157257728",
+				"name": "DOMAINS 19",
+				"screen_name": "DomainsConf",
+				"location": "Durham, NC",
+				"description": "Domains19 • BACK TO THE FUTURE\nJune 10-11, 2019 #Domains19",
+				"url": "https://t.co/TMqRnqo2Ki",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TMqRnqo2Ki",
+								"expanded_url": "http://domains.reclaimhosting.com",
+								"display_url": "domains.reclaimhosting.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 110,
+				"friends_count": 35,
+				"listed_count": 9,
+				"created_at": "Mon Dec 12 16:33:18 +0000 2016",
+				"favourites_count": 88,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 136,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1063179821457408000/iy9aZYV5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063179821457408000/iy9aZYV5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/808349016157257728/1542316749",
+				"profile_link_color": "0020B2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1096063465242984400,
+			"quoted_status_id_str": "1096063465242984451",
+			"quoted_status_permalink": {
+				"url": "https://t.co/mfEUKiOfsw",
+				"expanded": "https://twitter.com/brumface/status/1096063465242984451",
+				"display": "twitter.com/brumface/statu…"
+			},
+			"retweet_count": 7,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The deadline for submitting your work for @DomainsConf is tomorrow! https://t.co/TjQ9P9SrMh  #DOMAINS19 Will we see you there? https://t.co/qPOSYztArz"
+	},
+	{
 		"created_at": "Wed Feb 13 18:21:29 +0000 2019",
 		"id": 1095749819262529500,
 		"id_str": "1095749819262529538",
