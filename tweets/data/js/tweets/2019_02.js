@@ -1,6 +1,375 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 15 15:39:47 +0000 2019",
+		"id": 1096433902783287300,
+		"id_str": "1096433902783287296",
+		"full_text": "Via @scotlandlouise #altc https://t.co/Nz36uPRtg1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						20,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "scotlandlouise",
+					"name": "Louise Jones",
+					"id": 11687372,
+					"id_str": "11687372",
+					"indices": [
+						4,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Nz36uPRtg1",
+					"expanded_url": "https://twitter.com/olliebray/status/1086524087772553216",
+					"display_url": "twitter.com/olliebray/stat…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7961,
+			"friends_count": 2157,
+			"listed_count": 592,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5059,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27834,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1086524087772553200,
+		"quoted_status_id_str": "1086524087772553216",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Nz36uPRtg1",
+			"expanded": "https://twitter.com/olliebray/status/1086524087772553216",
+			"display": "twitter.com/olliebray/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 19 07:21:43 +0000 2019",
+			"id": 1086524087772553200,
+			"id_str": "1086524087772553216",
+			"full_text": "Last week @dhariwalshruti from the @scratch team got me thinking about this... check out her excellent work on Scratch Memories here: https://t.co/XCyOAmrfMr https://t.co/NLykruYlVx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				157
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dhariwalshruti",
+						"name": "Shruti Dhariwal",
+						"id": 948957349250850800,
+						"id_str": "948957349250850817",
+						"indices": [
+							10,
+							25
+						]
+					},
+					{
+						"screen_name": "scratch",
+						"name": "Scratch Team",
+						"id": 15538226,
+						"id_str": "15538226",
+						"indices": [
+							35,
+							43
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/XCyOAmrfMr",
+						"expanded_url": "https://www.media.mit.edu/projects/scratch-memories/people/",
+						"display_url": "media.mit.edu/projects/scrat…",
+						"indices": [
+							134,
+							157
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1086524080004714500,
+						"id_str": "1086524080004714497",
+						"indices": [
+							158,
+							181
+						],
+						"media_url": "http://pbs.twimg.com/media/DxQb5OSW0AEt9TU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxQb5OSW0AEt9TU.jpg",
+						"url": "https://t.co/NLykruYlVx",
+						"display_url": "pic.twitter.com/NLykruYlVx",
+						"expanded_url": "https://twitter.com/olliebray/status/1086524087772553216/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 269,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 475,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2047,
+								"h": 811,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1086524080004714500,
+						"id_str": "1086524080004714497",
+						"indices": [
+							158,
+							181
+						],
+						"media_url": "http://pbs.twimg.com/media/DxQb5OSW0AEt9TU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxQb5OSW0AEt9TU.jpg",
+						"url": "https://t.co/NLykruYlVx",
+						"display_url": "pic.twitter.com/NLykruYlVx",
+						"expanded_url": "https://twitter.com/olliebray/status/1086524087772553216/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 269,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 475,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2047,
+								"h": 811,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6896272,
+				"id_str": "6896272",
+				"name": "Ollie Bray",
+				"screen_name": "olliebray",
+				"location": "Scotland / Denmark / Worldwide",
+				"description": "Using playful approaches & digital technology to improve the lives of children & young people in classrooms, schools & education systems. @legofoundation",
+				"url": "https://t.co/k1HOe9wKUx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/k1HOe9wKUx",
+								"expanded_url": "http://www.olliebray.com",
+								"display_url": "olliebray.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8738,
+				"friends_count": 1019,
+				"listed_count": 497,
+				"created_at": "Mon Jun 18 17:37:43 +0000 2007",
+				"favourites_count": 9216,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19670,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/895732936003264516/I-4SZRAV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/895732936003264516/I-4SZRAV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6896272/1541262119",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "c589d9d6ed38927c",
+				"url": "https://api.twitter.com/1.1/geo/id/c589d9d6ed38927c.json",
+				"place_type": "city",
+				"name": "Frankfurt on the Main",
+				"full_name": "Frankfurt on the Main, Germany",
+				"country_code": "DE",
+				"country": "Germany",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								8.472715,
+								50.01552
+							],
+							[
+								8.800496,
+								50.01552
+							],
+							[
+								8.800496,
+								50.2269512
+							],
+							[
+								8.472715,
+								50.2269512
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Via @scotlandlouise #altc https://t.co/Nz36uPRtg1"
+	},
+	{
 		"created_at": "Fri Feb 15 14:37:25 +0000 2019",
 		"id": 1096418205394980900,
 		"id_str": "1096418205394980864",
