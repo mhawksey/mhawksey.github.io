@@ -1,6 +1,812 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 19 22:00:28 +0000 2019",
+		"id": 1097979253969301500,
+		"id_str": "1097979253969301506",
+		"full_text": "New AI fake text generator may be too dangerous to release, say creators https://t.co/X6ezbCuLiU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X6ezbCuLiU",
+					"expanded_url": "https://www.theguardian.com/technology/2019/feb/14/elon-musk-backed-ai-writes-convincing-news-fiction?CMP=share_btn_tw",
+					"display_url": "theguardian.com/technology/201…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7966,
+			"friends_count": 2160,
+			"listed_count": 592,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27843,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New AI fake text generator may be too dangerous to release, say creators https://t.co/X6ezbCuLiU"
+	},
+	{
+		"created_at": "Tue Feb 19 20:52:49 +0000 2019",
+		"id": 1097962232032436200,
+		"id_str": "1097962232032436229",
+		"full_text": "Early start tomorrow (4.20am eek) for #altc Assembly followed by @A_L_T Trustees meeting but no early bed as looking forward to watching The Great British #SewingBee",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						38,
+						43
+					]
+				},
+				{
+					"text": "SewingBee",
+					"indices": [
+						155,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						65,
+						71
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7966,
+			"friends_count": 2160,
+			"listed_count": 592,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27843,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Early start tomorrow (4.20am eek) for #altc Assembly followed by @A_L_T Trustees meeting but no early bed as looking forward to watching The Great British #SewingBee"
+	},
+	{
+		"created_at": "Tue Feb 19 16:49:24 +0000 2019",
+		"id": 1097900971672379400,
+		"id_str": "1097900971672379394",
+		"full_text": "@mweller all the best for your talk - just remember lots of slides with cats on and you won't go far wrong :)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mweller",
+					"name": "Martin Weller",
+					"id": 7127162,
+					"id_str": "7127162",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 7127162,
+		"in_reply_to_user_id_str": "7127162",
+		"in_reply_to_screen_name": "mweller",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7966,
+			"friends_count": 2160,
+			"listed_count": 592,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27843,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mweller all the best for your talk - just remember lots of slides with cats on and you won't go far wrong :)"
+	},
+	{
+		"created_at": "Tue Feb 19 12:08:27 +0000 2019",
+		"id": 1097830267119644700,
+		"id_str": "1097830312372027392",
+		"full_text": "A chance to see @A_L_T's President @mweller help the OU celebrate its 50th anniversary and its mission of openness live streaming a 6pm today https://t.co/X6jqAMNZhH #altc #openedsig #oer19 #ukoer https://t.co/7vuC8lfpVw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						166,
+						171
+					]
+				},
+				{
+					"text": "openedsig",
+					"indices": [
+						172,
+						182
+					]
+				},
+				{
+					"text": "oer19",
+					"indices": [
+						183,
+						189
+					]
+				},
+				{
+					"text": "ukoer",
+					"indices": [
+						190,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						16,
+						22
+					]
+				},
+				{
+					"screen_name": "mweller",
+					"name": "Martin Weller",
+					"id": 7127162,
+					"id_str": "7127162",
+					"indices": [
+						35,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/X6jqAMNZhH",
+					"expanded_url": "http://www.open.ac.uk/research/events/aspects-open-evolution-meaning-open-education",
+					"display_url": "open.ac.uk/research/event…",
+					"indices": [
+						142,
+						165
+					]
+				},
+				{
+					"url": "https://t.co/7vuC8lfpVw",
+					"expanded_url": "https://twitter.com/OUCymru/status/1097522870404689920",
+					"display_url": "twitter.com/OUCymru/status…",
+					"indices": [
+						197,
+						220
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11409,
+			"friends_count": 3482,
+			"listed_count": 576,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 5322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17004,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1548859650",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1097522870404689900,
+		"quoted_status_id_str": "1097522870404689920",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7vuC8lfpVw",
+			"expanded": "https://twitter.com/OUCymru/status/1097522870404689920",
+			"display": "twitter.com/OUCymru/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 18 15:46:57 +0000 2019",
+			"id": 1097522870404689900,
+			"id_str": "1097522870404689920",
+			"full_text": "Our mission of openness has been at the heart of what we do for the last 50 years. \n\nJoin us on Facebook live tomorrow from 6pm as @mweller explores what an ‘Open University’ would look like if we were to invent it now: \n\nhttps://t.co/IEE9Tijzk8\n\n#OU50 https://t.co/k2qNyebUjK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				252
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OU50",
+						"indices": [
+							247,
+							252
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mweller",
+						"name": "Martin Weller",
+						"id": 7127162,
+						"id_str": "7127162",
+						"indices": [
+							131,
+							139
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/IEE9Tijzk8",
+						"expanded_url": "http://bit.ly/2EfgQqb",
+						"display_url": "bit.ly/2EfgQqb",
+						"indices": [
+							222,
+							245
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1095261296541552600,
+						"id_str": "1095261296541552640",
+						"indices": [
+							253,
+							276
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1095261296541552640/pu/img/lm6ohmJ7afYY2u28.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1095261296541552640/pu/img/lm6ohmJ7afYY2u28.jpg",
+						"url": "https://t.co/k2qNyebUjK",
+						"display_url": "pic.twitter.com/k2qNyebUjK",
+						"expanded_url": "https://twitter.com/OUCymru/status/1097522870404689920/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_user_id": 14049061,
+						"source_user_id_str": "14049061"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1095261296541552600,
+						"id_str": "1095261296541552640",
+						"indices": [
+							253,
+							276
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1095261296541552640/pu/img/lm6ohmJ7afYY2u28.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1095261296541552640/pu/img/lm6ohmJ7afYY2u28.jpg",
+						"url": "https://t.co/k2qNyebUjK",
+						"display_url": "pic.twitter.com/k2qNyebUjK",
+						"expanded_url": "https://twitter.com/OUCymru/status/1097522870404689920/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_user_id": 14049061,
+						"source_user_id_str": "14049061",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 46160,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1095261296541552640/pu/vid/640x360/1qVsFchaF8cBgDgj.mp4?tag=6"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1095261296541552640/pu/vid/320x180/8xltlnaxzNSIOxpe.mp4?tag=6"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1095261296541552640/pu/vid/1280x720/jCRhQckCIGx7ZWJF.mp4?tag=6"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1095261296541552640/pu/pl/W8L6sQVZVAYyOYH7.m3u8?tag=6"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false,
+							"source_user": {
+								"id": 14049061,
+								"id_str": "14049061",
+								"name": "The Open University",
+								"screen_name": "OpenUniversity",
+								"location": "UK",
+								"description": "Open to people, places, methods and ideas. The Open University provides high-quality university education to all.",
+								"url": "https://t.co/qGXHfIJnZY",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/qGXHfIJnZY",
+												"expanded_url": "http://www.open.ac.uk",
+												"display_url": "open.ac.uk",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 149155,
+								"friends_count": 341,
+								"listed_count": 2612,
+								"created_at": "Wed Feb 27 14:23:05 +0000 2008",
+								"favourites_count": 18545,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 26737,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": true,
+								"profile_background_color": "FFFFFF",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/936187817276919808/Kvvo65fR_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/936187817276919808/Kvvo65fR_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/14049061/1546521869",
+								"profile_link_color": "425466",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "D4D4D4",
+								"profile_text_color": "425466",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 262205568,
+				"id_str": "262205568",
+				"name": "The OU in Wales",
+				"screen_name": "OUCymru",
+				"location": "Caerdydd Cymru - Cardiff Wales",
+				"description": "Official Twitter account of The Open University in Wales | Cyfrif Trydar Swyddogol Y Brifysgol Agored yng Nghymru",
+				"url": "https://t.co/bScAkWODOq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bScAkWODOq",
+								"expanded_url": "http://www.open.ac.uk/wales",
+								"display_url": "open.ac.uk/wales",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2443,
+				"friends_count": 485,
+				"listed_count": 66,
+				"created_at": "Mon Mar 07 15:49:50 +0000 2011",
+				"favourites_count": 1588,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5383,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/994568800744984576/cRBmm0nf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/994568800744984576/cRBmm0nf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/262205568/1547053495",
+				"profile_link_color": "ED2891",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 11,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A chance to see @A_L_T's President @mweller help the OU celebrate its 50th anniversary and its mission of openness live streaming a 6pm today https://t.co/X6jqAMNZhH #altc #openedsig #oer19 #ukoer https://t.co/7vuC8lfpVw"
+	},
+	{
 		"created_at": "Sun Feb 17 05:10:02 +0000 2019",
 		"id": 1097000197043904500,
 		"id_str": "1097460533333241857",
