@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 22 10:17:27 +0000 2019",
+		"id": 1098889499592015900,
+		"id_str": "1100004030623989762",
+		"full_text": "Calling all Stirling @GoogleForEdu enthusiasts! We are hosting TWO Google Bootcamps this spring for Stirling Council educators. Sign up: https://t.co/88guHl7BQn #DigiLearnScot #DigiLearnStirling #Stirlingloveslearning https://t.co/KhXwsS9FPB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DigiLearnScot",
+					"indices": [
+						161,
+						175
+					]
+				},
+				{
+					"text": "DigiLearnStirling",
+					"indices": [
+						176,
+						194
+					]
+				},
+				{
+					"text": "Stirlingloveslearning",
+					"indices": [
+						195,
+						217
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GoogleForEdu",
+					"name": "Google For Education",
+					"id": 254218142,
+					"id_str": "254218142",
+					"indices": [
+						21,
+						34
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/88guHl7BQn",
+					"expanded_url": "http://bit.ly/stirlingbootcamp2019",
+					"display_url": "bit.ly/stirlingbootca…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1098889495200579600,
+					"id_str": "1098889495200579584",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/D0AKLHjWwAABkvH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0AKLHjWwAABkvH.jpg",
+					"url": "https://t.co/KhXwsS9FPB",
+					"display_url": "pic.twitter.com/KhXwsS9FPB",
+					"expanded_url": "https://twitter.com/stirdigilearn/status/1098889499592015872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 443,
+							"h": 362,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 443,
+							"h": 362,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 443,
+							"h": 362,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098889495200579600,
+					"id_str": "1098889495200579584",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/D0AKLHjWwAABkvH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0AKLHjWwAABkvH.jpg",
+					"url": "https://t.co/KhXwsS9FPB",
+					"display_url": "pic.twitter.com/KhXwsS9FPB",
+					"expanded_url": "https://twitter.com/stirdigilearn/status/1098889499592015872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 443,
+							"h": 362,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 443,
+							"h": 362,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 443,
+							"h": 362,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2589485136,
+			"id_str": "2589485136",
+			"name": "Stirling Digital",
+			"screen_name": "stirdigilearn",
+			"location": "Stirling ",
+			"description": "Information and updates about digital learning in Stirling schools and nurseries",
+			"url": "https://t.co/8KFhntlIcm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8KFhntlIcm",
+							"expanded_url": "https://blogs.glowscotland.org.uk/st/stirlingdigitallearning/",
+							"display_url": "blogs.glowscotland.org.uk/st/stirlingdig…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 805,
+			"friends_count": 266,
+			"listed_count": 23,
+			"created_at": "Thu Jun 26 12:27:57 +0000 2014",
+			"favourites_count": 548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1006,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826460880783208451/xSK9Loli_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826460880783208451/xSK9Loli_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2589485136/1485878592",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Calling all Stirling @GoogleForEdu enthusiasts! We are hosting TWO Google Bootcamps this spring for Stirling Council educators. Sign up: https://t.co/88guHl7BQn #DigiLearnScot #DigiLearnStirling #Stirlingloveslearning https://t.co/KhXwsS9FPB"
+	},
+	{
 		"created_at": "Fri Feb 22 19:43:48 +0000 2019",
 		"id": 1099032026185896000,
 		"id_str": "1099032026185895939",
