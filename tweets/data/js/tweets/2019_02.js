@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 28 19:57:26 +0000 2019",
+		"id": 1101209782420230100,
+		"id_str": "1101209782420230150",
+		"full_text": "Steam-powered spacecraft could jump-start asteroid exploration - via @techreview https://t.co/wISPEtNpdA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "techreview",
+					"name": "MIT Technology Review",
+					"id": 15808647,
+					"id_str": "15808647",
+					"indices": [
+						69,
+						80
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wISPEtNpdA",
+					"expanded_url": "https://www.technologyreview.com/s/612999/steam-powered-spacecraft-could-jump-start-asteroid-exploration/?utm_campaign=site_visitor.unpaid.engagement&utm_source=twitter&utm_medium=add_this&utm_content=2019-02-28",
+					"display_url": "technologyreview.com/s/612999/steam…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7975,
+			"friends_count": 2161,
+			"listed_count": 592,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27874,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Steam-powered spacecraft could jump-start asteroid exploration - via @techreview https://t.co/wISPEtNpdA"
+	},
+	{
+		"created_at": "Thu Feb 28 18:58:11 +0000 2019",
+		"id": 1101194872307007500,
+		"id_str": "1101208313855963141",
+		"full_text": "Learn all day and night with CC's Open Education Platform, participating in #OEweek with a 24 web-a-thon! \nJoin speakers from all over the world from March 5-6 #OEWebathon2019  \nSchedule and instructions to join are in this post from @cgreen  👇\nhttps://t.co/FSesJd02e0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OEweek",
+					"indices": [
+						76,
+						83
+					]
+				},
+				{
+					"text": "OEWebathon2019",
+					"indices": [
+						160,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cgreen",
+					"name": "Cable Green",
+					"id": 821877,
+					"id_str": "821877",
+					"indices": [
+						234,
+						241
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FSesJd02e0",
+					"expanded_url": "http://ow.ly/Glc730nShwP",
+					"display_url": "ow.ly/Glc730nShwP",
+					"indices": [
+						245,
+						268
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17462723,
+			"id_str": "17462723",
+			"name": "Creative Commons",
+			"screen_name": "creativecommons",
+			"location": "Everywhere",
+			"description": "Empowering the world to share through 6 simple licenses + a global community of advocates for open. Join us today.",
+			"url": "https://t.co/AqqagUyLew",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AqqagUyLew",
+							"expanded_url": "https://creativecommons.org",
+							"display_url": "creativecommons.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 561634,
+			"friends_count": 1862,
+			"listed_count": 10010,
+			"created_at": "Tue Nov 18 11:54:02 +0000 2008",
+			"favourites_count": 4239,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12787,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "21547B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/525970164341153792/vbReKnbf_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/525970164341153792/vbReKnbf_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17462723/1544128295",
+			"profile_link_color": "5783A5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F0F0F0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Learn all day and night with CC's Open Education Platform, participating in #OEweek with a 24 web-a-thon! \nJoin speakers from all over the world from March 5-6 #OEWebathon2019  \nSchedule and instructions to join are in this post from @cgreen  👇\nhttps://t.co/FSesJd02e0"
+	},
+	{
+		"created_at": "Thu Feb 28 08:55:31 +0000 2019",
+		"id": 1101043204915454000,
+		"id_str": "1101043204915453954",
+		"full_text": "Feels like the weather has remembered it's still winter today...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7975,
+			"friends_count": 2161,
+			"listed_count": 592,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27874,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Feels like the weather has remembered it's still winter today..."
+	},
+	{
 		"created_at": "Wed Feb 27 11:48:35 +0000 2019",
 		"id": 1100724373533663200,
 		"id_str": "1100788328104935424",
