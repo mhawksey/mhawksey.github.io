@@ -1,6 +1,1759 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 08 21:03:18 +0000 2019",
+		"id": 1104125463763537900,
+		"id_str": "1104125463763537921",
+		"full_text": "@LornaMCampbell Not sure about that but great for the @LTA_UHI team to have all their hard work with the #BalanceforBetter #ThinkUHI event recognised :)",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BalanceforBetter",
+					"indices": [
+						105,
+						122
+					]
+				},
+				{
+					"text": "ThinkUHI",
+					"indices": [
+						123,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LornaMCampbell",
+					"name": "Lorna M. Campbell",
+					"id": 4016151,
+					"id_str": "4016151",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "LTA_UHI",
+					"name": "LTA at UHI",
+					"id": 733357106489897000,
+					"id_str": "733357106489896960",
+					"indices": [
+						54,
+						62
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1104122143527366700,
+		"in_reply_to_status_id_str": "1104122143527366656",
+		"in_reply_to_user_id": 4016151,
+		"in_reply_to_user_id_str": "4016151",
+		"in_reply_to_screen_name": "LornaMCampbell",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7976,
+			"friends_count": 2161,
+			"listed_count": 591,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27903,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LornaMCampbell Not sure about that but great for the @LTA_UHI team to have all their hard work with the #BalanceforBetter #ThinkUHI event recognised :)"
+	},
+	{
+		"created_at": "Fri Mar 08 19:19:35 +0000 2019",
+		"id": 1104099360000888800,
+		"id_str": "1104099360000888832",
+		"full_text": "... #altc on the BBC https://t.co/0vkdKwMOQ3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						4,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1104099348084936700,
+					"id_str": "1104099348084936705",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/D1KMgd9X0AEi0Hq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1KMgd9X0AEi0Hq.jpg",
+					"url": "https://t.co/0vkdKwMOQ3",
+					"display_url": "pic.twitter.com/0vkdKwMOQ3",
+					"expanded_url": "https://twitter.com/mhawksey/status/1104099360000888832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1104099348084936700,
+					"id_str": "1104099348084936705",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/D1KMgd9X0AEi0Hq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1KMgd9X0AEi0Hq.jpg",
+					"url": "https://t.co/0vkdKwMOQ3",
+					"display_url": "pic.twitter.com/0vkdKwMOQ3",
+					"expanded_url": "https://twitter.com/mhawksey/status/1104099360000888832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7976,
+			"friends_count": 2161,
+			"listed_count": 591,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27903,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "... #altc on the BBC https://t.co/0vkdKwMOQ3"
+	},
+	{
+		"created_at": "Fri Mar 08 14:48:22 +0000 2019",
+		"id": 1104031105886445600,
+		"id_str": "1104031105886445569",
+		"full_text": "#BalanceforBetter look at enablers/drivers for the use of Learning Technology (#femedtech) #altc https://t.co/asPCePJglL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BalanceforBetter",
+					"indices": [
+						0,
+						17
+					]
+				},
+				{
+					"text": "femedtech",
+					"indices": [
+						79,
+						89
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						91,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/asPCePJglL",
+					"expanded_url": "https://mashe.hawksey.info/2019/03/balanceforbetter-look-at-enablers-drivers-for-the-use-of-learning-technology-femedtech/",
+					"display_url": "mashe.hawksey.info/2019/03/balanc…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7976,
+			"friends_count": 2161,
+			"listed_count": 591,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27903,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BalanceforBetter look at enablers/drivers for the use of Learning Technology (#femedtech) #altc https://t.co/asPCePJglL"
+	},
+	{
+		"created_at": "Fri Mar 08 14:41:30 +0000 2019",
+		"id": 1104018575810007000,
+		"id_str": "1104029379636744192",
+		"full_text": "“Gender equality needs both genders....one of the things that we need to help men do is realise how their behaviour is affecting others” @mhawksey at @ThinkUHI #InternationalWomensDay2019 https://t.co/AwlVKFmIUn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InternationalWomensDay2019",
+					"indices": [
+						160,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						137,
+						146
+					]
+				},
+				{
+					"screen_name": "ThinkUHI",
+					"name": "University of the Highlands and Islands",
+					"id": 49578483,
+					"id_str": "49578483",
+					"indices": [
+						150,
+						159
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1104018570097373200,
+					"id_str": "1104018570097373185",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/D1JDCkgWsAE86Fu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1JDCkgWsAE86Fu.jpg",
+					"url": "https://t.co/AwlVKFmIUn",
+					"display_url": "pic.twitter.com/AwlVKFmIUn",
+					"expanded_url": "https://twitter.com/RaeGMiller/status/1104018575810007040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1104018570097373200,
+					"id_str": "1104018570097373185",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/D1JDCkgWsAE86Fu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1JDCkgWsAE86Fu.jpg",
+					"url": "https://t.co/AwlVKFmIUn",
+					"display_url": "pic.twitter.com/AwlVKFmIUn",
+					"expanded_url": "https://twitter.com/RaeGMiller/status/1104018575810007040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589822996,
+			"id_str": "589822996",
+			"name": "Raeanne Miller",
+			"screen_name": "RaeGMiller",
+			"location": "Oban, Scotland",
+			"description": "Marine ecologist researching marine renewable energy & invertebrates. Life-long learner. #Scicomm lover.\n@BrydenCentre_EU postdoc.  @HomewardBound16 participant",
+			"url": "http://t.co/SD4DB1ffqd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/SD4DB1ffqd",
+							"expanded_url": "http://www.raeannegmiller.com",
+							"display_url": "raeannegmiller.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1137,
+			"friends_count": 918,
+			"listed_count": 74,
+			"created_at": "Fri May 25 08:40:51 +0000 2012",
+			"favourites_count": 2752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4315,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1086240779121684480/P9tw2WZd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1086240779121684480/P9tw2WZd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589822996/1443088927",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Gender equality needs both genders....one of the things that we need to help men do is realise how their behaviour is affecting others” @mhawksey at @ThinkUHI #InternationalWomensDay2019 https://t.co/AwlVKFmIUn"
+	},
+	{
+		"created_at": "Fri Mar 08 13:45:31 +0000 2019",
+		"id": 1104015093208100900,
+		"id_str": "1104015288633311238",
+		"full_text": "Slides from @MarenDeepwell's and @mhawksey's presentation from #ThinkUHI's #BalanceforBetter event are available from https://t.co/1Tt6XGGrNL #altc #IWD2019 #InternationalWomensDay #altc https://t.co/p7Vsc5xolg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ThinkUHI",
+					"indices": [
+						63,
+						72
+					]
+				},
+				{
+					"text": "BalanceforBetter",
+					"indices": [
+						75,
+						92
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "IWD2019",
+					"indices": [
+						148,
+						156
+					]
+				},
+				{
+					"text": "InternationalWomensDay",
+					"indices": [
+						157,
+						180
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						181,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						12,
+						26
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						33,
+						42
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1Tt6XGGrNL",
+					"expanded_url": "https://go.alt.ac.uk/IWD19altc",
+					"display_url": "go.alt.ac.uk/IWD19altc",
+					"indices": [
+						118,
+						141
+					]
+				},
+				{
+					"url": "https://t.co/p7Vsc5xolg",
+					"expanded_url": "https://twitter.com/ThinkUHI/status/1104012384883097601",
+					"display_url": "twitter.com/ThinkUHI/statu…",
+					"indices": [
+						187,
+						210
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11475,
+			"friends_count": 3499,
+			"listed_count": 574,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 5509,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17274,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1548859650",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1104012384883097600,
+		"quoted_status_id_str": "1104012384883097601",
+		"quoted_status_permalink": {
+			"url": "https://t.co/p7Vsc5xolg",
+			"expanded": "https://twitter.com/ThinkUHI/status/1104012384883097601",
+			"display": "twitter.com/ThinkUHI/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 08 13:33:58 +0000 2019",
+			"id": 1104012384883097600,
+			"id_str": "1104012384883097601",
+			"full_text": "'Equality is for women AND men' - we like your thinking @MarenDeepwell! She's joined by her colleague @mhawksey from @A_L_T as they deliver their session on #equality during #InternationalWomensDay\n#BalanceForBetter #IWD2019 #ThinkUHI https://t.co/Or6JyI8VrY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				234
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "equality",
+						"indices": [
+							157,
+							166
+						]
+					},
+					{
+						"text": "InternationalWomensDay",
+						"indices": [
+							174,
+							197
+						]
+					},
+					{
+						"text": "BalanceForBetter",
+						"indices": [
+							198,
+							215
+						]
+					},
+					{
+						"text": "IWD2019",
+						"indices": [
+							216,
+							224
+						]
+					},
+					{
+						"text": "ThinkUHI",
+						"indices": [
+							225,
+							234
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MarenDeepwell",
+						"name": "Dr Maren Deepwell",
+						"id": 323173367,
+						"id_str": "323173367",
+						"indices": [
+							56,
+							70
+						]
+					},
+					{
+						"screen_name": "mhawksey",
+						"name": "Martin Hawksey",
+						"id": 13046992,
+						"id_str": "13046992",
+						"indices": [
+							102,
+							111
+						]
+					},
+					{
+						"screen_name": "A_L_T",
+						"name": "ALT - alt.ac.uk",
+						"id": 41210876,
+						"id_str": "41210876",
+						"indices": [
+							117,
+							123
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1104012374271512600,
+						"id_str": "1104012374271512576",
+						"indices": [
+							235,
+							258
+						],
+						"media_url": "http://pbs.twimg.com/media/D1I9Z7QW0AAx6AI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1I9Z7QW0AAx6AI.jpg",
+						"url": "https://t.co/Or6JyI8VrY",
+						"display_url": "pic.twitter.com/Or6JyI8VrY",
+						"expanded_url": "https://twitter.com/ThinkUHI/status/1104012384883097601/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1344,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 446,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 788,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1104012374271512600,
+						"id_str": "1104012374271512576",
+						"indices": [
+							235,
+							258
+						],
+						"media_url": "http://pbs.twimg.com/media/D1I9Z7QW0AAx6AI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1I9Z7QW0AAx6AI.jpg",
+						"url": "https://t.co/Or6JyI8VrY",
+						"display_url": "pic.twitter.com/Or6JyI8VrY",
+						"expanded_url": "https://twitter.com/ThinkUHI/status/1104012384883097601/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1344,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 446,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 788,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 49578483,
+				"id_str": "49578483",
+				"name": "University of the Highlands and Islands",
+				"screen_name": "ThinkUHI",
+				"location": "Scotland, United Kingdom",
+				"description": "#ThinkUHI 💜",
+				"url": "https://t.co/F8tXXiQJc2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/F8tXXiQJc2",
+								"expanded_url": "http://www.uhi.ac.uk",
+								"display_url": "uhi.ac.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12396,
+				"friends_count": 4836,
+				"listed_count": 305,
+				"created_at": "Mon Jun 22 08:57:45 +0000 2009",
+				"favourites_count": 14681,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6875,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1075336176029089794/e4a01XM2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075336176029089794/e4a01XM2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/49578483/1551087701",
+				"profile_link_color": "572163",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "0af014accd6f6e99",
+				"url": "https://api.twitter.com/1.1/geo/id/0af014accd6f6e99.json",
+				"place_type": "admin",
+				"name": "Scotland",
+				"full_name": "Scotland, United Kingdom",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-7.66085699743185,
+								54.6336309570711
+							],
+							[
+								-0.740025000483186,
+								54.6336309570711
+							],
+							[
+								-0.740025000483186,
+								60.8452769694519
+							],
+							[
+								-7.66085699743185,
+								60.8452769694519
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 9,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Slides from @MarenDeepwell's and @mhawksey's presentation from #ThinkUHI's #BalanceforBetter event are available from https://t.co/1Tt6XGGrNL #altc #IWD2019 #InternationalWomensDay #altc https://t.co/p7Vsc5xolg"
+	},
+	{
+		"created_at": "Fri Mar 08 09:17:19 +0000 2019",
+		"id": 1103931639338418200,
+		"id_str": "1103947793603932160",
+		"full_text": "Happy #IWD2019 - here’s to achieving a #BalanceForBetter. Today we’re sharing how we as senior staff @A_L_T promote equality in a distributed organisation #altc #ThinkUHI - joint keynote with @mhawksey https://t.co/TjBNBDDYu4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IWD2019",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "BalanceForBetter",
+					"indices": [
+						39,
+						56
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "ThinkUHI",
+					"indices": [
+						161,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						101,
+						107
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						192,
+						201
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1103931632132620300,
+					"id_str": "1103931632132620290",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/D1Hz-HWVAAIkBTx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1Hz-HWVAAIkBTx.jpg",
+					"url": "https://t.co/TjBNBDDYu4",
+					"display_url": "pic.twitter.com/TjBNBDDYu4",
+					"expanded_url": "https://twitter.com/MarenDeepwell/status/1103931639338418176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1103931632132620300,
+					"id_str": "1103931632132620290",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/D1Hz-HWVAAIkBTx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1Hz-HWVAAIkBTx.jpg",
+					"url": "https://t.co/TjBNBDDYu4",
+					"display_url": "pic.twitter.com/TjBNBDDYu4",
+					"expanded_url": "https://twitter.com/MarenDeepwell/status/1103931639338418176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 323173367,
+			"id_str": "323173367",
+			"name": "Dr Maren Deepwell",
+			"screen_name": "MarenDeepwell",
+			"location": "United Kingdom",
+			"description": "CEO @A_L_T #altc Senior #CMALT, Anthropologist, Open Practitioner, leadership, policy & Learning Technology CPD, open governance & equality #femedtech",
+			"url": "https://t.co/kMXdMTr9bt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kMXdMTr9bt",
+							"expanded_url": "http://marendeepwell.com",
+							"display_url": "marendeepwell.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3210,
+			"friends_count": 1493,
+			"listed_count": 188,
+			"created_at": "Fri Jun 24 11:30:35 +0000 2011",
+			"favourites_count": 14168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8639,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027623094398185475/m1dr0ykJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027623094398185475/m1dr0ykJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/323173367/1551980904",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy #IWD2019 - here’s to achieving a #BalanceForBetter. Today we’re sharing how we as senior staff @A_L_T promote equality in a distributed organisation #altc #ThinkUHI - joint keynote with @mhawksey https://t.co/TjBNBDDYu4"
+	},
+	{
+		"created_at": "Fri Mar 08 07:06:52 +0000 2019",
+		"id": 1103914967474987000,
+		"id_str": "1103914967474987014",
+		"full_text": "@DrLancaster @A_L_T I get the need for a central database but wouldn't it be better if whoever created did so in the way that protected the individual rights of the users rather than turning it into a resellable asset?",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			218
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrLancaster",
+					"name": "Thomas Lancaster",
+					"id": 58439890,
+					"id_str": "58439890",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						13,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1103769879214256100,
+		"in_reply_to_status_id_str": "1103769879214256139",
+		"in_reply_to_user_id": 58439890,
+		"in_reply_to_user_id_str": "58439890",
+		"in_reply_to_screen_name": "DrLancaster",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7976,
+			"friends_count": 2161,
+			"listed_count": 591,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27903,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DrLancaster @A_L_T I get the need for a central database but wouldn't it be better if whoever created did so in the way that protected the individual rights of the users rather than turning it into a resellable asset?"
+	},
+	{
+		"created_at": "Fri Mar 08 07:01:06 +0000 2019",
+		"id": 1068041259665772500,
+		"id_str": "1103913517625696257",
+		"full_text": "#Zeitraffer Video eines #Wolknaeul vom #WOLC18 \nSchaut euch an die Twitter Interaktion wie #Tweets #Retweets #Antworten am #WorkingOutLoud Camp #Berlin über den Lauf eines Tages an.\nam Beispiel @haraldschirmer\n\n➕ Probiert es selber\n👉 https://t.co/TQLY1XrmPr\n#WOL \n🙏 @mhawksey https://t.co/DtGU7a0B08",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Zeitraffer",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "Wolknaeul",
+					"indices": [
+						24,
+						34
+					]
+				},
+				{
+					"text": "WOLC18",
+					"indices": [
+						39,
+						46
+					]
+				},
+				{
+					"text": "Tweets",
+					"indices": [
+						91,
+						98
+					]
+				},
+				{
+					"text": "Retweets",
+					"indices": [
+						99,
+						108
+					]
+				},
+				{
+					"text": "Antworten",
+					"indices": [
+						109,
+						119
+					]
+				},
+				{
+					"text": "WorkingOutLoud",
+					"indices": [
+						123,
+						138
+					]
+				},
+				{
+					"text": "Berlin",
+					"indices": [
+						144,
+						151
+					]
+				},
+				{
+					"text": "WOL",
+					"indices": [
+						258,
+						262
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "haraldschirmer",
+					"name": "Harald Schirmer",
+					"id": 22078671,
+					"id_str": "22078671",
+					"indices": [
+						194,
+						209
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						266,
+						275
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TQLY1XrmPr",
+					"expanded_url": "https://hawksey.info/tagsexplorer/?key=1SJDIUmhTlcz8bd9AeVz8umVa8NthXHb_QMSCcrfdE5M&gid=400689247",
+					"display_url": "hawksey.info/tagsexplorer/?…",
+					"indices": [
+						234,
+						257
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1068034085593989100,
+					"id_str": "1068034085593989120",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1068034085593989120/pu/img/YG1YS52KheuOxfR4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1068034085593989120/pu/img/YG1YS52KheuOxfR4.jpg",
+					"url": "https://t.co/DtGU7a0B08",
+					"display_url": "pic.twitter.com/DtGU7a0B08",
+					"expanded_url": "https://twitter.com/ewingo13/status/1068041259665772544/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 373,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 658,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1314,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1068034085593989100,
+					"id_str": "1068034085593989120",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1068034085593989120/pu/img/YG1YS52KheuOxfR4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1068034085593989120/pu/img/YG1YS52KheuOxfR4.jpg",
+					"url": "https://t.co/DtGU7a0B08",
+					"display_url": "pic.twitter.com/DtGU7a0B08",
+					"expanded_url": "https://twitter.com/ewingo13/status/1068041259665772544/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 373,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 658,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1314,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							73,
+							40
+						],
+						"duration_millis": 77233,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1068034085593989120/pu/vid/1314x720/q8eobT9CFwrvdRyS.mp4?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1068034085593989120/pu/vid/656x360/ZSvKrkC1Yp7A-AdE.mp4?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1068034085593989120/pu/vid/328x180/ytoeFGpruEft8Ecl.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1068034085593989120/pu/pl/Cee4WZGFQF06ONCo.m3u8?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4874939135,
+			"id_str": "4874939135",
+			"name": "Oliver Ewinger",
+			"screen_name": "ewingo13",
+			"location": "Kirchheim unter Teck",
+			"description": "#DigitalTransformation #CorporateLearning #clc0711 #cl2025 #ArtificialIntelligence #AI #IoT private account  https://t.co/FZJrZAB7Xb",
+			"url": "https://t.co/nbbvirwIku",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nbbvirwIku",
+							"expanded_url": "https://www.xing.com/profile/Oliver_Ewinger?sc_o=mxb_p",
+							"display_url": "xing.com/profile/Oliver…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FZJrZAB7Xb",
+							"expanded_url": "http://www.linkedin.com/in/oliver-ewinger",
+							"display_url": "linkedin.com/in/oliver-ewin…",
+							"indices": [
+								109,
+								132
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2596,
+			"friends_count": 2145,
+			"listed_count": 82,
+			"created_at": "Wed Feb 03 21:23:29 +0000 2016",
+			"favourites_count": 17768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9477,
+			"lang": "de",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1003590642793099265/XZ5w71aV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1003590642793099265/XZ5w71aV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4874939135/1525676145",
+			"profile_link_color": "555555",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "#Zeitraffer Video eines #Wolknaeul vom #WOLC18 \nSchaut euch an die Twitter Interaktion wie #Tweets #Retweets #Antworten am #WorkingOutLoud Camp #Berlin über den Lauf eines Tages an.\nam Beispiel @haraldschirmer\n\n➕ Probiert es selber\n👉 https://t.co/TQLY1XrmPr\n#WOL \n🙏 @mhawksey https://t.co/DtGU7a0B08"
+	},
+	{
 		"created_at": "Thu Mar 07 14:33:03 +0000 2019",
 		"id": 1103664863988105200,
 		"id_str": "1103664863988105216",
