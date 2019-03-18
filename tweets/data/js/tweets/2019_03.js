@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 17 12:37:05 +0000 2019",
+		"id": 1106765302023491600,
+		"id_str": "1107259557426987009",
+		"full_text": "@rsehji @POTUS @BreitbartNews @jacindaardern @Twitter @facebook @YouTube @reddit To all our friends at #INZpirED... Thinking of you all at this difficult time!\n\n\"We should attempt to find meaning in the lives of the victims of the attack... not glorify the tactics of the gunman\"\n\nhttps://t.co/FMpTcCkVHJ\n\nCc @mrkempnz @shyj @KSThakral @jacindaardern #DigCit",
+		"truncated": false,
+		"display_text_range": [
+			81,
+			358
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "INZpirED",
+					"indices": [
+						103,
+						112
+					]
+				},
+				{
+					"text": "DigCit",
+					"indices": [
+						351,
+						358
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rsehji",
+					"name": "Ritu Sehji",
+					"id": 1965847669,
+					"id_str": "1965847669",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "POTUS",
+					"name": "President Trump",
+					"id": 822215679726100500,
+					"id_str": "822215679726100480",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"screen_name": "BreitbartNews",
+					"name": "Breitbart News",
+					"id": 457984599,
+					"id_str": "457984599",
+					"indices": [
+						15,
+						29
+					]
+				},
+				{
+					"screen_name": "jacindaardern",
+					"name": "Jacinda Ardern",
+					"id": 22959763,
+					"id_str": "22959763",
+					"indices": [
+						30,
+						44
+					]
+				},
+				{
+					"screen_name": "Twitter",
+					"name": "Twitter",
+					"id": 783214,
+					"id_str": "783214",
+					"indices": [
+						45,
+						53
+					]
+				},
+				{
+					"screen_name": "facebook",
+					"name": "Facebook",
+					"id": 2425151,
+					"id_str": "2425151",
+					"indices": [
+						54,
+						63
+					]
+				},
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						64,
+						72
+					]
+				},
+				{
+					"screen_name": "reddit",
+					"name": "Reddit",
+					"id": 811377,
+					"id_str": "811377",
+					"indices": [
+						73,
+						80
+					]
+				},
+				{
+					"screen_name": "mrkempnz",
+					"name": "Craig Kemp",
+					"id": 180130665,
+					"id_str": "180130665",
+					"indices": [
+						309,
+						318
+					]
+				},
+				{
+					"screen_name": "shyj",
+					"name": "Julie Szaj",
+					"id": 14056502,
+					"id_str": "14056502",
+					"indices": [
+						319,
+						324
+					]
+				},
+				{
+					"screen_name": "KSThakral",
+					"name": "Sunny Thakral",
+					"id": 436169764,
+					"id_str": "436169764",
+					"indices": [
+						325,
+						335
+					]
+				},
+				{
+					"screen_name": "jacindaardern",
+					"name": "Jacinda Ardern",
+					"id": 22959763,
+					"id_str": "22959763",
+					"indices": [
+						336,
+						350
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FMpTcCkVHJ",
+					"expanded_url": "https://www.nytimes.com/2019/03/15/technology/facebook-youtube-christchurch-shooting.html",
+					"display_url": "nytimes.com/2019/03/15/tec…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1106748543728054300,
+		"in_reply_to_status_id_str": "1106748543728054274",
+		"in_reply_to_user_id": 1280294108,
+		"in_reply_to_user_id_str": "1280294108",
+		"in_reply_to_screen_name": "EdTech_Stories",
+		"user": {
+			"id": 1280294108,
+			"id_str": "1280294108",
+			"name": "William Jenkins",
+			"screen_name": "EdTech_Stories",
+			"location": "Scotland - Unfortunately",
+			"description": "Community Architect interested in @Zeemaps @nodexl & visual data. Exploring Jane Jacobs ideas online & offline in Edu. @Skype & @GiveandTakeInc Givitas fan",
+			"url": "https://t.co/b4qJn1xk9K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b4qJn1xk9K",
+							"expanded_url": "https://www.zeemaps.com/map?group=2768362",
+							"display_url": "zeemaps.com/map?group=2768…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5435,
+			"friends_count": 5975,
+			"listed_count": 621,
+			"created_at": "Tue Mar 19 12:30:06 +0000 2013",
+			"favourites_count": 6411,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 47219,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/933740415861252096/qEXZnavW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/933740415861252096/qEXZnavW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1280294108/1525718378",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 36,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rsehji @POTUS @BreitbartNews @jacindaardern @Twitter @facebook @YouTube @reddit To all our friends at #INZpirED... Thinking of you all at this difficult time!\n\n\"We should attempt to find meaning in the lives of the victims of the attack... not glorify the tactics of the gunman\"\n\nhttps://t.co/FMpTcCkVHJ\n\nCc @mrkempnz @shyj @KSThakral @jacindaardern #DigCit"
+	},
+	{
 		"created_at": "Fri Mar 15 20:19:43 +0000 2019",
 		"id": 1106651208771690500,
 		"id_str": "1106651208771690496",
