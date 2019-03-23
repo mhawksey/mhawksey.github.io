@@ -1,6 +1,418 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 22 14:20:09 +0000 2019",
+		"id": 1109097437631791100,
+		"id_str": "1109097437631791104",
+		"full_text": "Hotspot around Edinburgh North and Leith to revoke Article 50 https://t.co/gy9jpOpt9q https://t.co/JgVcnE1xju",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gy9jpOpt9q",
+					"expanded_url": "https://petitionmap.unboxedconsulting.com/?petition=241584",
+					"display_url": "petitionmap.unboxedconsulting.com/?petition=2415…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1109097429968830500,
+					"id_str": "1109097429968830465",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/D2ROPH6XQAEalEH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2ROPH6XQAEalEH.jpg",
+					"url": "https://t.co/JgVcnE1xju",
+					"display_url": "pic.twitter.com/JgVcnE1xju",
+					"expanded_url": "https://twitter.com/mhawksey/status/1109097437631791104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1109097429968830500,
+					"id_str": "1109097429968830465",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/D2ROPH6XQAEalEH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2ROPH6XQAEalEH.jpg",
+					"url": "https://t.co/JgVcnE1xju",
+					"display_url": "pic.twitter.com/JgVcnE1xju",
+					"expanded_url": "https://twitter.com/mhawksey/status/1109097437631791104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8004,
+			"friends_count": 2172,
+			"listed_count": 595,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27969,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hotspot around Edinburgh North and Leith to revoke Article 50 https://t.co/gy9jpOpt9q https://t.co/JgVcnE1xju"
+	},
+	{
+		"created_at": "Fri Mar 22 12:38:03 +0000 2019",
+		"id": 1109071084102524900,
+		"id_str": "1109071742805385217",
+		"full_text": "Looking for something to do for the weekend? You can now start exploring #OER19 sessions in all their glory from https://t.co/65I1ZOvays https://t.co/ZZVN41Fdky",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OER19",
+					"indices": [
+						73,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/65I1ZOvays",
+					"expanded_url": "https://go.alt.ac.uk/2UO5oYk",
+					"display_url": "go.alt.ac.uk/2UO5oYk",
+					"indices": [
+						113,
+						136
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1109070450863362000,
+					"id_str": "1109070450863362049",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/D2Q1su6X0AEQme5.png",
+					"media_url_https": "https://pbs.twimg.com/media/D2Q1su6X0AEQme5.png",
+					"url": "https://t.co/ZZVN41Fdky",
+					"display_url": "pic.twitter.com/ZZVN41Fdky",
+					"expanded_url": "https://twitter.com/OERConf/status/1109071084102524928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 696,
+							"h": 534,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 696,
+							"h": 534,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 522,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1109070450863362000,
+					"id_str": "1109070450863362049",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/D2Q1su6X0AEQme5.png",
+					"media_url_https": "https://pbs.twimg.com/media/D2Q1su6X0AEQme5.png",
+					"url": "https://t.co/ZZVN41Fdky",
+					"display_url": "pic.twitter.com/ZZVN41Fdky",
+					"expanded_url": "https://twitter.com/OERConf/status/1109071084102524928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 696,
+							"h": 534,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 696,
+							"h": 534,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 522,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1109070837104197600,
+					"id_str": "1109070837104197633",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/D2Q2DNxXQAE1v1K.png",
+					"media_url_https": "https://pbs.twimg.com/media/D2Q2DNxXQAE1v1K.png",
+					"url": "https://t.co/ZZVN41Fdky",
+					"display_url": "pic.twitter.com/ZZVN41Fdky",
+					"expanded_url": "https://twitter.com/OERConf/status/1109071084102524928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 646,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 764,
+							"h": 726,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 764,
+							"h": 726,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2695133612,
+			"id_str": "2695133612",
+			"name": "#OER19 - oer19.oerconf.org",
+			"screen_name": "OERConf",
+			"location": "",
+			"description": "The official Twitter account for OER Conferences organised by @A_L_T",
+			"url": "https://t.co/okjSAyjzML",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/okjSAyjzML",
+							"expanded_url": "https://oer19.oerconf.org/",
+							"display_url": "oer19.oerconf.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1637,
+			"friends_count": 1056,
+			"listed_count": 73,
+			"created_at": "Thu Jul 31 08:18:01 +0000 2014",
+			"favourites_count": 1179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2235,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1048123173538025475/lRWO9hxK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048123173538025475/lRWO9hxK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2695133612/1538727123",
+			"profile_link_color": "444444",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looking for something to do for the weekend? You can now start exploring #OER19 sessions in all their glory from https://t.co/65I1ZOvays https://t.co/ZZVN41Fdky"
+	},
+	{
 		"created_at": "Thu Mar 21 17:23:52 +0000 2019",
 		"id": 1108781282530652200,
 		"id_str": "1108781282530652161",
