@@ -1,6 +1,1659 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 27 10:45:09 +0000 2019",
+		"id": 1110855267200233500,
+		"id_str": "1110855267200233473",
+		"full_text": "We have a vacancy ... https://t.co/ge5eC3VzeC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ge5eC3VzeC",
+					"expanded_url": "https://twitter.com/A_L_T/status/1110854342532313088",
+					"display_url": "twitter.com/A_L_T/status/1…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8010,
+			"friends_count": 2177,
+			"listed_count": 594,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27988,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1110854342532313100,
+		"quoted_status_id_str": "1110854342532313088",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ge5eC3VzeC",
+			"expanded": "https://twitter.com/A_L_T/status/1110854342532313088",
+			"display": "twitter.com/A_L_T/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 27 10:41:28 +0000 2019",
+			"id": 1110854342532313100,
+			"id_str": "1110854342532313088",
+			"full_text": "Come work for us! We have a vacancy for a Administration Officer £26,495 - £28,936 (0.8FTE) to join our #VirtualTeam. \n\nMore details https://t.co/YVKTUKd8la or help us share on LinkedIn via https://t.co/EsZF2y67Fp #altc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				219
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "VirtualTeam",
+						"indices": [
+							104,
+							116
+						]
+					},
+					{
+						"text": "altc",
+						"indices": [
+							214,
+							219
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YVKTUKd8la",
+						"expanded_url": "https://go.alt.ac.uk/2CI28Xw",
+						"display_url": "go.alt.ac.uk/2CI28Xw",
+						"indices": [
+							133,
+							156
+						]
+					},
+					{
+						"url": "https://t.co/EsZF2y67Fp",
+						"expanded_url": "https://go.alt.ac.uk/2CFPN5Q",
+						"display_url": "go.alt.ac.uk/2CFPN5Q",
+						"indices": [
+							190,
+							213
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41210876,
+				"id_str": "41210876",
+				"name": "ALT - alt.ac.uk",
+				"screen_name": "A_L_T",
+				"location": "UK",
+				"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+				"url": "http://t.co/d7hBNekdUq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/d7hBNekdUq",
+								"expanded_url": "http://www.alt.ac.uk/",
+								"display_url": "alt.ac.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11559,
+				"friends_count": 3507,
+				"listed_count": 572,
+				"created_at": "Tue May 19 21:06:36 +0000 2009",
+				"favourites_count": 5693,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 17464,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1552553640",
+				"profile_link_color": "079948",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We have a vacancy ... https://t.co/ge5eC3VzeC"
+	},
+	{
+		"created_at": "Wed Mar 27 09:47:00 +0000 2019",
+		"id": 1110835590948421600,
+		"id_str": "1110840636054351872",
+		"full_text": "Thanks to @cogdog and his awesome SPLOT theme you can now drag and drop media directly into https://t.co/qhprRLKMdX Why not give it a try? #femedtech https://t.co/6oty8RanQh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "femedtech",
+					"indices": [
+						139,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cogdog",
+					"name": "Alan Levine",
+					"id": 740343,
+					"id_str": "740343",
+					"indices": [
+						10,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qhprRLKMdX",
+					"expanded_url": "http://femedtech.net",
+					"display_url": "femedtech.net",
+					"indices": [
+						92,
+						115
+					]
+				},
+				{
+					"url": "https://t.co/6oty8RanQh",
+					"expanded_url": "https://twitter.com/cogdog/status/1108859712899084288",
+					"display_url": "twitter.com/cogdog/status/…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4016151,
+			"id_str": "4016151",
+			"name": "Lorna M. Campbell",
+			"screen_name": "LornaMCampbell",
+			"location": "Glasgow / University of Edinburgh / Isle of Lewis",
+			"description": "Open education technology, policy & practice @EdinburghUni. @A_L_T, @WikimediaUK & @NauticalHistory Trustee. #oer #openscot #femedtech #cmalt. She/her.",
+			"url": "https://t.co/9HmEQnxTzb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9HmEQnxTzb",
+							"expanded_url": "http://lornamcampbell.org",
+							"display_url": "lornamcampbell.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3810,
+			"friends_count": 2589,
+			"listed_count": 205,
+			"created_at": "Tue Apr 10 11:25:09 +0000 2007",
+			"favourites_count": 28584,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33659,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "AFD3F2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/768472775090638851/1bgBAlp7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/768472775090638851/1bgBAlp7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4016151/1445333850",
+			"profile_link_color": "1F59AB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1108859712899084300,
+		"quoted_status_id_str": "1108859712899084288",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6oty8RanQh",
+			"expanded": "https://twitter.com/cogdog/status/1108859712899084288",
+			"display": "twitter.com/cogdog/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 21 22:35:31 +0000 2019",
+			"id": 1108859712899084300,
+			"id_str": "1108859712899084288",
+			"full_text": "Woah, more improvements coming to all #SPLOT themes- found the magic code so that media URLs (youtube, twitter, giphy) will now autoembed in a front end form like TRU Writer. Also enabled drag and drop media upload. https://t.co/sWXJzIwfca",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				215
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SPLOT",
+						"indices": [
+							38,
+							44
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1108859593650851800,
+						"id_str": "1108859593650851840",
+						"indices": [
+							216,
+							239
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D2N17OlX0AAl-Er.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D2N17OlX0AAl-Er.jpg",
+						"url": "https://t.co/sWXJzIwfca",
+						"display_url": "pic.twitter.com/sWXJzIwfca",
+						"expanded_url": "https://twitter.com/cogdog/status/1108859712899084288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 587,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 690,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 690,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1108859593650851800,
+						"id_str": "1108859593650851840",
+						"indices": [
+							216,
+							239
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D2N17OlX0AAl-Er.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D2N17OlX0AAl-Er.jpg",
+						"url": "https://t.co/sWXJzIwfca",
+						"display_url": "pic.twitter.com/sWXJzIwfca",
+						"expanded_url": "https://twitter.com/cogdog/status/1108859712899084288/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 587,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 690,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 690,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								80,
+								69
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/D2N17OlX0AAl-Er.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 740343,
+				"id_str": "740343",
+				"name": "Alan Levine",
+				"screen_name": "cogdog",
+				"location": "Mortlach, Saskatchewan",
+				"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+				"url": "https://t.co/wAzdfm9TIB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wAzdfm9TIB",
+								"expanded_url": "http://cog.dog",
+								"display_url": "cog.dog",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ZxC70YWtmO",
+								"expanded_url": "http://cogdogblog.com",
+								"display_url": "cogdogblog.com",
+								"indices": [
+									24,
+									47
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10441,
+				"friends_count": 1470,
+				"listed_count": 788,
+				"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+				"favourites_count": 776,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 88098,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+				"profile_link_color": "9D582E",
+				"profile_sidebar_border_color": "D9B17E",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks to @cogdog and his awesome SPLOT theme you can now drag and drop media directly into https://t.co/qhprRLKMdX Why not give it a try? #femedtech https://t.co/6oty8RanQh"
+	},
+	{
+		"created_at": "Wed Mar 27 09:08:35 +0000 2019",
+		"id": 1110830902362419200,
+		"id_str": "1110830967856476160",
+		"full_text": "Thanks to our publisher @open_academia you can now see most read article this month in our #OpenAccess journal Research in Learning Technology https://t.co/W68hsApQsU #altc https://t.co/AwvSK526N8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OpenAccess",
+					"indices": [
+						91,
+						102
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						167,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "open_academia",
+					"name": "Open Academia",
+					"id": 936210950612488200,
+					"id_str": "936210950612488192",
+					"indices": [
+						24,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/W68hsApQsU",
+					"expanded_url": "https://go.alt.ac.uk/2CF2r5n",
+					"display_url": "go.alt.ac.uk/2CF2r5n",
+					"indices": [
+						143,
+						166
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1110830811538964500,
+					"id_str": "1110830811538964480",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/D2p2vNdWwAAKx6v.png",
+					"media_url_https": "https://pbs.twimg.com/media/D2p2vNdWwAAKx6v.png",
+					"url": "https://t.co/AwvSK526N8",
+					"display_url": "pic.twitter.com/AwvSK526N8",
+					"expanded_url": "https://twitter.com/A_L_T/status/1110830902362419201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 259,
+							"h": 730,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 259,
+							"h": 730,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 241,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1110830811538964500,
+					"id_str": "1110830811538964480",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/D2p2vNdWwAAKx6v.png",
+					"media_url_https": "https://pbs.twimg.com/media/D2p2vNdWwAAKx6v.png",
+					"url": "https://t.co/AwvSK526N8",
+					"display_url": "pic.twitter.com/AwvSK526N8",
+					"expanded_url": "https://twitter.com/A_L_T/status/1110830902362419201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 259,
+							"h": 730,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 259,
+							"h": 730,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 241,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11559,
+			"friends_count": 3507,
+			"listed_count": 572,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 5693,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17464,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1552553640",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks to our publisher @open_academia you can now see most read article this month in our #OpenAccess journal Research in Learning Technology https://t.co/W68hsApQsU #altc https://t.co/AwvSK526N8"
+	},
+	{
+		"created_at": "Wed Mar 27 08:25:21 +0000 2019",
+		"id": 1110816940933693400,
+		"id_str": "1110820088645603328",
+		"full_text": "So first the Government's response:  \"This Government will not revoke Article 50.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1110816546774044700,
+		"in_reply_to_status_id_str": "1110816546774044672",
+		"in_reply_to_user_id": 18059285,
+		"in_reply_to_user_id_str": "18059285",
+		"in_reply_to_screen_name": "ernestopriego",
+		"user": {
+			"id": 18059285,
+			"id_str": "18059285",
+			"name": "Ernesto Priego",
+			"screen_name": "ernestopriego",
+			"location": "Some tweets are scheduled.",
+			"description": "Editor & founder @ComicsGrid. Open Access, computing, arts, humanities, publishing, politics. Follows, RTs, ❤s ≠ endorsements. Tweets don't represent employers.",
+			"url": "https://t.co/SIhY3sIFxu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SIhY3sIFxu",
+							"expanded_url": "https://epriego.blog/",
+							"display_url": "epriego.blog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9128,
+			"friends_count": 7920,
+			"listed_count": 591,
+			"created_at": "Thu Dec 11 20:28:20 +0000 2008",
+			"favourites_count": 32958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 103701,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1056976696098934784/niV_blne_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1056976696098934784/niV_blne_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18059285/1401794347",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "So first the Government's response:  \"This Government will not revoke Article 50.\""
+	},
+	{
+		"created_at": "Wed Mar 27 08:23:04 +0000 2019",
+		"id": 1110819513849782300,
+		"id_str": "1110819513849782274",
+		"full_text": "I look at my calendar and think when am I going to get a chance to tackle my TODO list ... then I look at my colleagues calender and wonder when are they going to have time for lunch ;s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8010,
+			"friends_count": 2177,
+			"listed_count": 594,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27988,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I look at my calendar and think when am I going to get a chance to tackle my TODO list ... then I look at my colleagues calender and wonder when are they going to have time for lunch ;s"
+	},
+	{
+		"created_at": "Wed Mar 27 08:19:38 +0000 2019",
+		"id": 1110818650402013200,
+		"id_str": "1110818650402013189",
+		"full_text": "@ammienoot @LearningTechEli @karenhowie2008 Perhaps #OpenBlog19 has an idea you can write to ... or @ammienoot could challenge you ;) https://t.co/m3PpcaAg43",
+		"truncated": false,
+		"display_text_range": [
+			44,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OpenBlog19",
+					"indices": [
+						52,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ammienoot",
+					"name": "Anne-Marie Scott",
+					"id": 22673907,
+					"id_str": "22673907",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "LearningTechEli",
+					"name": "LearningTechEli",
+					"id": 1048118696156287000,
+					"id_str": "1048118696156286977",
+					"indices": [
+						11,
+						27
+					]
+				},
+				{
+					"screen_name": "karenhowie2008",
+					"name": "Karen Howie",
+					"id": 15313036,
+					"id_str": "15313036",
+					"indices": [
+						28,
+						43
+					]
+				},
+				{
+					"screen_name": "ammienoot",
+					"name": "Anne-Marie Scott",
+					"id": 22673907,
+					"id_str": "22673907",
+					"indices": [
+						100,
+						110
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/m3PpcaAg43",
+					"expanded_url": "https://www.dontwasteyourtime.co.uk/elearning/openblog19/",
+					"display_url": "dontwasteyourtime.co.uk/elearning/open…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1110815166885617700,
+		"in_reply_to_status_id_str": "1110815166885617667",
+		"in_reply_to_user_id": 22673907,
+		"in_reply_to_user_id_str": "22673907",
+		"in_reply_to_screen_name": "ammienoot",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, Networks, \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8010,
+			"friends_count": 2177,
+			"listed_count": 594,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27988,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ammienoot @LearningTechEli @karenhowie2008 Perhaps #OpenBlog19 has an idea you can write to ... or @ammienoot could challenge you ;) https://t.co/m3PpcaAg43"
+	},
+	{
+		"created_at": "Wed Mar 27 08:16:11 +0000 2019",
+		"id": 1110811052147646500,
+		"id_str": "1110817781623255040",
+		"full_text": "Furthermore: https://t.co/DGtHWQLsJq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DGtHWQLsJq",
+					"expanded_url": "https://twitter.com/mikebutcher/status/1110810805082222593?s=21",
+					"display_url": "twitter.com/mikebutcher/st…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1110809480206471200,
+		"in_reply_to_status_id_str": "1110809480206471168",
+		"in_reply_to_user_id": 13666,
+		"in_reply_to_user_id_str": "13666",
+		"in_reply_to_screen_name": "mikebutcher",
+		"user": {
+			"id": 13666,
+			"id_str": "13666",
+			"name": "Mike Butcher",
+			"screen_name": "mikebutcher",
+			"location": "London",
+			"description": "(MBE) Editor-at-large @TechCrunch + Founder: @ThePathfounder @TechForUK @Tech_Vets @Techfugees @TechHub @Coadec @TheEuropas Insta: mikebutcher",
+			"url": "https://t.co/b5zrCklgjW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b5zrCklgjW",
+							"expanded_url": "https://mbites.com/contact",
+							"display_url": "mbites.com/contact",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 141054,
+			"friends_count": 13135,
+			"listed_count": 5249,
+			"created_at": "Tue Nov 21 21:59:13 +0000 2006",
+			"favourites_count": 28080,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 74438,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/668390067094888448/w18aCM4M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/668390067094888448/w18aCM4M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13666/1546630677",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1110810805082222600,
+		"quoted_status_id_str": "1110810805082222593",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DGtHWQLsJq",
+			"expanded": "https://twitter.com/mikebutcher/status/1110810805082222593?s=21",
+			"display": "twitter.com/mikebutcher/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 27 07:48:28 +0000 2019",
+			"id": 1110810805082222600,
+			"id_str": "1110810805082222593",
+			"full_text": "The #RevokeArt50 Petition is not over! Every vote STILL COUNTS on this map of constituencies, showing how the UK has changed its mind on Brexit. Keep voting &amp; keep sharing! https://t.co/iiMSSBKvjG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				176
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "RevokeArt50",
+						"indices": [
+							4,
+							16
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1110810798488731600,
+						"id_str": "1110810798488731649",
+						"indices": [
+							177,
+							200
+						],
+						"media_url": "http://pbs.twimg.com/media/D2pkiTCWwAEmPC6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D2pkiTCWwAEmPC6.jpg",
+						"url": "https://t.co/iiMSSBKvjG",
+						"display_url": "pic.twitter.com/iiMSSBKvjG",
+						"expanded_url": "https://twitter.com/mikebutcher/status/1110810805082222593/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 391,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1178,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 690,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1110810798488731600,
+						"id_str": "1110810798488731649",
+						"indices": [
+							177,
+							200
+						],
+						"media_url": "http://pbs.twimg.com/media/D2pkiTCWwAEmPC6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D2pkiTCWwAEmPC6.jpg",
+						"url": "https://t.co/iiMSSBKvjG",
+						"display_url": "pic.twitter.com/iiMSSBKvjG",
+						"expanded_url": "https://twitter.com/mikebutcher/status/1110810805082222593/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 391,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1178,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 690,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13666,
+				"id_str": "13666",
+				"name": "Mike Butcher",
+				"screen_name": "mikebutcher",
+				"location": "London",
+				"description": "(MBE) Editor-at-large @TechCrunch + Founder: @ThePathfounder @TechForUK @Tech_Vets @Techfugees @TechHub @Coadec @TheEuropas Insta: mikebutcher",
+				"url": "https://t.co/b5zrCklgjW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/b5zrCklgjW",
+								"expanded_url": "https://mbites.com/contact",
+								"display_url": "mbites.com/contact",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 141054,
+				"friends_count": 13135,
+				"listed_count": 5249,
+				"created_at": "Tue Nov 21 21:59:13 +0000 2006",
+				"favourites_count": 28080,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 74438,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/668390067094888448/w18aCM4M_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/668390067094888448/w18aCM4M_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13666/1546630677",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 75,
+			"favorite_count": 76,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 8,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Furthermore: https://t.co/DGtHWQLsJq"
+	},
+	{
+		"created_at": "Wed Mar 27 07:05:31 +0000 2019",
+		"id": 1110598412326629400,
+		"id_str": "1110799997153566720",
+		"full_text": "Submission date for EdTech 2019 extended to April 2nd :-) https://t.co/hTVzeEF85W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hTVzeEF85W",
+					"expanded_url": "https://twitter.com/ILTAtweets/status/1108715101937434625",
+					"display_url": "twitter.com/ILTAtweets/sta…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 493103189,
+			"id_str": "493103189",
+			"name": "Gavin Clinch",
+			"screen_name": "gavinclinch",
+			"location": "Sligo, Ireland",
+			"description": "Architect/Academic/Autonomist; Builder/Blender/Bluffer; Creator/Connectivist/Collaborator. \nThe ABCs of a converging life. \n\"I have tried in my way to be free\"",
+			"url": "https://t.co/WtY39doG6B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WtY39doG6B",
+							"expanded_url": "http://about.me/gavin_clinch",
+							"display_url": "about.me/gavin_clinch",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 542,
+			"friends_count": 591,
+			"listed_count": 78,
+			"created_at": "Wed Feb 15 13:02:07 +0000 2012",
+			"favourites_count": 2617,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3546,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/735901356205182977/GYKab-Qi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/735901356205182977/GYKab-Qi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/493103189/1488896718",
+			"profile_link_color": "224466",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1108715101937434600,
+		"quoted_status_id_str": "1108715101937434625",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hTVzeEF85W",
+			"expanded": "https://twitter.com/ILTAtweets/status/1108715101937434625",
+			"display": "twitter.com/ILTAtweets/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 21 13:00:53 +0000 2019",
+			"id": 1108715101937434600,
+			"id_str": "1108715101937434625",
+			"full_text": "We are open for submissions to EdTech 2019 - submit your abstract to  https://t.co/xhVih7XkF4 … by March 27th.  We look forward to welcoming you in Dundalk this  summer!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				169
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xhVih7XkF4",
+						"expanded_url": "http://ilta.ie/project/call-for-abstracts-2019/",
+						"display_url": "ilta.ie/project/call-f…",
+						"indices": [
+							70,
+							93
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 32450692,
+				"id_str": "32450692",
+				"name": "ILTA",
+				"screen_name": "ILTAtweets",
+				"location": "Ireland",
+				"description": "Irish Learning Technology Association (ILTA)",
+				"url": "http://t.co/0aMGRKUcOb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/0aMGRKUcOb",
+								"expanded_url": "http://www.ilta.ie",
+								"display_url": "ilta.ie",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3252,
+				"friends_count": 3372,
+				"listed_count": 74,
+				"created_at": "Fri Apr 17 15:38:57 +0000 2009",
+				"favourites_count": 779,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2161,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/717280171414396928/RmuZ7Lvt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/717280171414396928/RmuZ7Lvt_normal.jpg",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "D3D2CF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 8,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Submission date for EdTech 2019 extended to April 2nd :-) https://t.co/hTVzeEF85W"
+	},
+	{
 		"created_at": "Tue Mar 26 20:54:58 +0000 2019",
 		"id": 1110646348083277800,
 		"id_str": "1110646348083277824",
