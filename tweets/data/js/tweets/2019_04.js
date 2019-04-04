@@ -1,6 +1,319 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 03 19:10:13 +0000 2019",
+		"id": 1113519089530613800,
+		"id_str": "1113519089530613760",
+		"full_text": "@vvladi @Bali_Maha @SarahLambertOz @GOGN_OER @OERConf @VConnecting The @OERConf guidance is \"Presenters/sessions with remote participation have been scheduled in rooms where webcams have been provided. It is up to the presenter and/or nominated facilitator to manage setting up remote sessions as we have limited onsite support for this\"",
+		"truncated": false,
+		"display_text_range": [
+			67,
+			337
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vvladi",
+					"name": "Dr. Viviane Vladimirschi 🇧🇷",
+					"id": 37192861,
+					"id_str": "37192861",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "Bali_Maha",
+					"name": "ℳąhą Bąℓi, PhD مها بالي 🏵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						8,
+						18
+					]
+				},
+				{
+					"screen_name": "SarahLambertOz",
+					"name": "Sarah R Lambert",
+					"id": 827373219296391200,
+					"id_str": "827373219296391168",
+					"indices": [
+						19,
+						34
+					]
+				},
+				{
+					"screen_name": "GOGN_OER",
+					"name": "GO-GN",
+					"id": 2574966348,
+					"id_str": "2574966348",
+					"indices": [
+						35,
+						44
+					]
+				},
+				{
+					"screen_name": "OERConf",
+					"name": "#OER19 - oer19.oerconf.org",
+					"id": 2695133612,
+					"id_str": "2695133612",
+					"indices": [
+						45,
+						53
+					]
+				},
+				{
+					"screen_name": "VConnecting",
+					"name": "Virtually Connecting conversation not presentation",
+					"id": 3230962884,
+					"id_str": "3230962884",
+					"indices": [
+						54,
+						66
+					]
+				},
+				{
+					"screen_name": "OERConf",
+					"name": "#OER19 - oer19.oerconf.org",
+					"id": 2695133612,
+					"id_str": "2695133612",
+					"indices": [
+						71,
+						79
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1113516711750393900,
+		"in_reply_to_status_id_str": "1113516711750393856",
+		"in_reply_to_user_id": 37192861,
+		"in_reply_to_user_id_str": "37192861",
+		"in_reply_to_screen_name": "vvladi",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, G Suite \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8021,
+			"friends_count": 2180,
+			"listed_count": 595,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28015,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@vvladi @Bali_Maha @SarahLambertOz @GOGN_OER @OERConf @VConnecting The @OERConf guidance is \"Presenters/sessions with remote participation have been scheduled in rooms where webcams have been provided. It is up to the presenter and/or nominated facilitator to manage setting up remote sessions as we have limited onsite support for this\""
+	},
+	{
+		"created_at": "Wed Apr 03 18:16:58 +0000 2019",
+		"id": 1113505687982702600,
+		"id_str": "1113505687982702598",
+		"full_text": "@vvladi @SarahLambertOz @GOGN_OER @OERConf My advice is going with something you know, or at least going with something whoever is fascinating in the room knows. If starting from scratch something like https://t.co/o7TG1C0QWS is very simply to use at least let's you share your screen",
+		"truncated": false,
+		"display_text_range": [
+			43,
+			284
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vvladi",
+					"name": "Dr. Viviane Vladimirschi 🇧🇷",
+					"id": 37192861,
+					"id_str": "37192861",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "SarahLambertOz",
+					"name": "Sarah R Lambert",
+					"id": 827373219296391200,
+					"id_str": "827373219296391168",
+					"indices": [
+						8,
+						23
+					]
+				},
+				{
+					"screen_name": "GOGN_OER",
+					"name": "GO-GN",
+					"id": 2574966348,
+					"id_str": "2574966348",
+					"indices": [
+						24,
+						33
+					]
+				},
+				{
+					"screen_name": "OERConf",
+					"name": "#OER19 - oer19.oerconf.org",
+					"id": 2695133612,
+					"id_str": "2695133612",
+					"indices": [
+						34,
+						42
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/o7TG1C0QWS",
+					"expanded_url": "http://appear.in",
+					"display_url": "appear.in",
+					"indices": [
+						202,
+						225
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1113504525388787700,
+		"in_reply_to_status_id_str": "1113504525388787713",
+		"in_reply_to_user_id": 37192861,
+		"in_reply_to_user_id_str": "37192861",
+		"in_reply_to_screen_name": "vvladi",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, G Suite \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8021,
+			"friends_count": 2180,
+			"listed_count": 595,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28015,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@vvladi @SarahLambertOz @GOGN_OER @OERConf My advice is going with something you know, or at least going with something whoever is fascinating in the room knows. If starting from scratch something like https://t.co/o7TG1C0QWS is very simply to use at least let's you share your screen"
+	},
+	{
 		"created_at": "Wed Apr 03 00:26:35 +0000 2019",
 		"id": 1113059170788360200,
 		"id_str": "1113236316421013504",
