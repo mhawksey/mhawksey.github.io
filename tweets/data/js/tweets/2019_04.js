@@ -1,6 +1,409 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 08 18:51:40 +0000 2019",
+		"id": 1115057801980600300,
+		"id_str": "1115326360103399424",
+		"full_text": "I'm going to be posting a daily #GoogleNext19 blog this week for all things related to #GoogleSheets, #GSuite, #AppsScript and #DataStudio --&gt; https://t.co/qXVYtTxU4k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleNext19",
+					"indices": [
+						32,
+						45
+					]
+				},
+				{
+					"text": "GoogleSheets",
+					"indices": [
+						87,
+						100
+					]
+				},
+				{
+					"text": "GSuite",
+					"indices": [
+						102,
+						109
+					]
+				},
+				{
+					"text": "AppsScript",
+					"indices": [
+						111,
+						122
+					]
+				},
+				{
+					"text": "DataStudio",
+					"indices": [
+						127,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qXVYtTxU4k",
+					"expanded_url": "https://www.benlcollins.com/general/google-next-19/",
+					"display_url": "benlcollins.com/general/google…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19338407,
+			"id_str": "19338407",
+			"name": "Ben Collins @ #GoogleNext19",
+			"screen_name": "benlcollins",
+			"location": "St Petersburg, FL",
+			"description": "I teach online courses. Google Developer Expert for G Suite, focussed on G Sheets/Data Studio/Apps Script.",
+			"url": "https://t.co/zOwpq8fprT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zOwpq8fprT",
+							"expanded_url": "http://www.benlcollins.com",
+							"display_url": "benlcollins.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2845,
+			"friends_count": 382,
+			"listed_count": 244,
+			"created_at": "Thu Jan 22 13:43:22 +0000 2009",
+			"favourites_count": 5803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7120,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CFCFCF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/966495721598935040/y1KUcaEN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/966495721598935040/y1KUcaEN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19338407/1415055908",
+			"profile_link_color": "619DE6",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "ECFFD6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm going to be posting a daily #GoogleNext19 blog this week for all things related to #GoogleSheets, #GSuite, #AppsScript and #DataStudio --&gt; https://t.co/qXVYtTxU4k"
+	},
+	{
+		"created_at": "Mon Apr 08 18:51:27 +0000 2019",
+		"id": 1115031064345555000,
+		"id_str": "1115326304449069056",
+		"full_text": "Back in San Francisco! I'll be speaking at Google Next to share some knowledge and success stories of App Maker! See you there! #googlenext19 #gsuite #googleappmaker #appmaker https://t.co/mpn5vA8gEp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "googlenext19",
+					"indices": [
+						128,
+						141
+					]
+				},
+				{
+					"text": "gsuite",
+					"indices": [
+						142,
+						149
+					]
+				},
+				{
+					"text": "googleappmaker",
+					"indices": [
+						150,
+						165
+					]
+				},
+				{
+					"text": "appmaker",
+					"indices": [
+						166,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mpn5vA8gEp",
+					"expanded_url": "https://cloud.withgoogle.com/next/sf/sessions?session=267663-130106",
+					"display_url": "cloud.withgoogle.com/next/sf/sessio…",
+					"indices": [
+						176,
+						199
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1868737826,
+			"id_str": "1868737826",
+			"name": "Cleo",
+			"screen_name": "CinFourThirds",
+			"location": "Edmonton, AB",
+			"description": "Google Developer Expert for G-Suite. Occasional photographer and traveler",
+			"url": "https://t.co/FxiHAL5EkA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FxiHAL5EkA",
+							"expanded_url": "http://www.cinfourthirds.com",
+							"display_url": "cinfourthirds.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46,
+			"friends_count": 44,
+			"listed_count": 4,
+			"created_at": "Sun Sep 15 18:29:38 +0000 2013",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1097728623530803201/mpXd26T-_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097728623530803201/mpXd26T-_normal.png",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Back in San Francisco! I'll be speaking at Google Next to share some knowledge and success stories of App Maker! See you there! #googlenext19 #gsuite #googleappmaker #appmaker https://t.co/mpn5vA8gEp"
+	},
+	{
+		"created_at": "Mon Apr 08 10:32:34 +0000 2019",
+		"id": 1115200756754333700,
+		"id_str": "1115200756754333701",
+		"full_text": "@psychemedia @cogdog Not surprised to see this come from Lenovo and may even be state sponsored. Some other examples of how China is going https://t.co/O0W0BJWae7",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "psychemedia",
+					"name": "Tony Hirst",
+					"id": 7129072,
+					"id_str": "7129072",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "cogdog",
+					"name": "Alan Levine",
+					"id": 740343,
+					"id_str": "740343",
+					"indices": [
+						13,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/O0W0BJWae7",
+					"expanded_url": "https://www.businessinsider.com/how-china-uses-facial-recognition-technology-surveillance-2018-2",
+					"display_url": "businessinsider.com/how-china-uses…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1115173720052641800,
+		"in_reply_to_status_id_str": "1115173720052641797",
+		"in_reply_to_user_id": 7129072,
+		"in_reply_to_user_id_str": "7129072",
+		"in_reply_to_screen_name": "psychemedia",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, G Suite \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8023,
+			"friends_count": 2182,
+			"listed_count": 594,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28026,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@psychemedia @cogdog Not surprised to see this come from Lenovo and may even be state sponsored. Some other examples of how China is going https://t.co/O0W0BJWae7"
+	},
+	{
 		"created_at": "Sun Apr 07 07:45:47 +0000 2019",
 		"id": 1114796397734322200,
 		"id_str": "1114796397734322176",
