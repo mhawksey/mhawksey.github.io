@@ -1,6 +1,487 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 12 12:19:25 +0000 2019",
+		"id": 1116677197723512800,
+		"id_str": "1116677197723512832",
+		"full_text": "@WarwickLanguage Thanks Teresa - that has made my day :) (glad @horrocks_simon didn't catch me checking email ;)",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WarwickLanguage",
+					"name": "Teresa MacKinnon",
+					"id": 81817497,
+					"id_str": "81817497",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "horrocks_simon",
+					"name": "Simon Horrocks",
+					"id": 885257749,
+					"id_str": "885257749",
+					"indices": [
+						63,
+						78
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1116375347308716000,
+		"in_reply_to_status_id_str": "1116375347308716032",
+		"in_reply_to_user_id": 81817497,
+		"in_reply_to_user_id_str": "81817497",
+		"in_reply_to_screen_name": "WarwickLanguage",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, G Suite \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8035,
+			"friends_count": 2192,
+			"listed_count": 594,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5263,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28056,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@WarwickLanguage Thanks Teresa - that has made my day :) (glad @horrocks_simon didn't catch me checking email ;)"
+	},
+	{
+		"created_at": "Fri Apr 12 11:46:35 +0000 2019",
+		"id": 1116667955834773500,
+		"id_str": "1116668936421040128",
+		"full_text": "In case you missed the new at the closing plenary at #OER19 we are delighted to announce the baton has been passed to  @villaronrubia @MiaZamoraPhD and @time_motion for #OER20 - were really looking forward to see where they take the conference next #altc https://t.co/m2ArkaLAOY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OER19",
+					"indices": [
+						53,
+						59
+					]
+				},
+				{
+					"text": "OER20",
+					"indices": [
+						169,
+						175
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						249,
+						254
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "villaronrubia",
+					"name": "Daniel Villar",
+					"id": 41424326,
+					"id_str": "41424326",
+					"indices": [
+						119,
+						133
+					]
+				},
+				{
+					"screen_name": "MiaZamoraPhD",
+					"name": "Mia Zamora",
+					"id": 579873574,
+					"id_str": "579873574",
+					"indices": [
+						134,
+						147
+					]
+				},
+				{
+					"screen_name": "time_motion",
+					"name": "Jonathan Shaw",
+					"id": 66360983,
+					"id_str": "66360983",
+					"indices": [
+						152,
+						164
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/m2ArkaLAOY",
+					"expanded_url": "https://twitter.com/disrupt_learn/status/1116375480414896129",
+					"display_url": "twitter.com/disrupt_learn/…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2695133612,
+			"id_str": "2695133612",
+			"name": "#OER19 - oer19.oerconf.org",
+			"screen_name": "OERConf",
+			"location": "",
+			"description": "The official Twitter account for OER Conferences organised by @A_L_T",
+			"url": "https://t.co/okjSAyjzML",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/okjSAyjzML",
+							"expanded_url": "https://oer19.oerconf.org/",
+							"display_url": "oer19.oerconf.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1725,
+			"friends_count": 1126,
+			"listed_count": 76,
+			"created_at": "Thu Jul 31 08:18:01 +0000 2014",
+			"favourites_count": 1293,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2720,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1048123173538025475/lRWO9hxK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048123173538025475/lRWO9hxK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2695133612/1538727123",
+			"profile_link_color": "444444",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1116375480414896100,
+		"quoted_status_id_str": "1116375480414896129",
+		"quoted_status_permalink": {
+			"url": "https://t.co/m2ArkaLAOY",
+			"expanded": "https://twitter.com/disrupt_learn/status/1116375480414896129",
+			"display": "twitter.com/disrupt_learn/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 11 16:20:30 +0000 2019",
+			"id": 1116375480414896100,
+			"id_str": "1116375480414896129",
+			"full_text": "We love @MiaZamoraPhD but don't know who the other guys are... #OER20 #OER19 https://t.co/xcWlRdphIr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				76
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OER20",
+						"indices": [
+							63,
+							69
+						]
+					},
+					{
+						"text": "OER19",
+						"indices": [
+							70,
+							76
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MiaZamoraPhD",
+						"name": "Mia Zamora",
+						"id": 579873574,
+						"id_str": "579873574",
+						"indices": [
+							8,
+							21
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1116374409164525600,
+						"id_str": "1116374409164525568",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/D34onD6WkAA4K_2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D34onD6WkAA4K_2.jpg",
+						"url": "https://t.co/xcWlRdphIr",
+						"display_url": "pic.twitter.com/xcWlRdphIr",
+						"expanded_url": "https://twitter.com/disrupt_learn/status/1116375480414896129/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 750,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 425,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1280,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1116374409164525600,
+						"id_str": "1116374409164525568",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/D34onD6WkAA4K_2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D34onD6WkAA4K_2.jpg",
+						"url": "https://t.co/xcWlRdphIr",
+						"display_url": "pic.twitter.com/xcWlRdphIr",
+						"expanded_url": "https://twitter.com/disrupt_learn/status/1116375480414896129/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 750,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 425,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1280,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2521466321,
+				"id_str": "2521466321",
+				"name": "Disruptive Media Learning Lab",
+				"screen_name": "disrupt_learn",
+				"location": "Coventry, UK",
+				"description": "The DMLL explores innovative ways of teaching and learning in Higher Education. Tweets by @laurenheywood @OllyWoodEdu and @SAndrewsMedia.",
+				"url": "https://t.co/odk9wQipf2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/odk9wQipf2",
+								"expanded_url": "http://dmll.org.uk",
+								"display_url": "dmll.org.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2009,
+				"friends_count": 914,
+				"listed_count": 123,
+				"created_at": "Thu May 01 16:21:29 +0000 2014",
+				"favourites_count": 1614,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3063,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/926469159403311105/DVjm3CwB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/926469159403311105/DVjm3CwB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2521466321/1534757899",
+				"profile_link_color": "1C9ACE",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 9,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In case you missed the new at the closing plenary at #OER19 we are delighted to announce the baton has been passed to  @villaronrubia @MiaZamoraPhD and @time_motion for #OER20 - were really looking forward to see where they take the conference next #altc https://t.co/m2ArkaLAOY"
+	},
+	{
 		"created_at": "Thu Apr 11 14:36:06 +0000 2019",
 		"id": 1116349206808158200,
 		"id_str": "1116349206808158209",
