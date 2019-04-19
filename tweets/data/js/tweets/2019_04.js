@@ -1,6 +1,5815 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 18 21:20:42 +0000 2019",
+		"id": 1118986864432697300,
+		"id_str": "1118987743034519552",
+		"full_text": "13 What happens next? We hope that members of the #femedtech network will use https://t.co/YeOXsZcbAP for other projects and activities in the future and that it will become a living resource for our growing community #pressedconf19 [CC BY SA @HistorianAlice] https://t.co/KJpLpAjGIJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "femedtech",
+					"indices": [
+						50,
+						60
+					]
+				},
+				{
+					"text": "pressedconf19",
+					"indices": [
+						218,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HistorianAlice",
+					"name": "Dr Alice White",
+					"id": 487382618,
+					"id_str": "487382618",
+					"indices": [
+						243,
+						258
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YeOXsZcbAP",
+					"expanded_url": "http://femedtech.net",
+					"display_url": "femedtech.net",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1118986763337457700,
+					"id_str": "1118986763337457665",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/D4dwiFkX4AE4TgG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4dwiFkX4AE4TgG.jpg",
+					"url": "https://t.co/KJpLpAjGIJ",
+					"display_url": "pic.twitter.com/KJpLpAjGIJ",
+					"expanded_url": "https://twitter.com/femedtech/status/1118986864432697344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 533,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 533,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118986763337457700,
+					"id_str": "1118986763337457665",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/D4dwiFkX4AE4TgG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4dwiFkX4AE4TgG.jpg",
+					"url": "https://t.co/KJpLpAjGIJ",
+					"display_url": "pic.twitter.com/KJpLpAjGIJ",
+					"expanded_url": "https://twitter.com/femedtech/status/1118986864432697344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 533,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 533,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 807239380138160100,
+			"id_str": "807239380138160128",
+			"name": "femedtech",
+			"screen_name": "femedtech",
+			"location": "everywhere",
+			"description": "#femedtech Feminist in edtech? let's grow FemEdTech network - hosted collaboratively by volunteers. DM to be involved. Curator is currently @orna_farrell",
+			"url": "https://t.co/mTL2O6sf59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mTL2O6sf59",
+							"expanded_url": "https://goo.gl/qwPV8Z",
+							"display_url": "goo.gl/qwPV8Z",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1288,
+			"friends_count": 1753,
+			"listed_count": 17,
+			"created_at": "Fri Dec 09 15:04:00 +0000 2016",
+			"favourites_count": 1841,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2166,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/829101527210024960/1hYtYEe2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/829101527210024960/1hYtYEe2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/807239380138160128/1525778668",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "13 What happens next? We hope that members of the #femedtech network will use https://t.co/YeOXsZcbAP for other projects and activities in the future and that it will become a living resource for our growing community #pressedconf19 [CC BY SA @HistorianAlice] https://t.co/KJpLpAjGIJ"
+	},
+	{
+		"created_at": "Thu Apr 18 21:19:57 +0000 2019",
+		"id": 1118986631309156400,
+		"id_str": "1118987555788283905",
+		"full_text": "Thinking that @cogdog SPLOTs tools and templates and the anonymity they enable could be really useful when engaging students in blogging who are concerned about being identified #PressEdConf19 https://t.co/V3GHrSRiz7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PressEdConf19",
+					"indices": [
+						178,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cogdog",
+					"name": "Alan Levine",
+					"id": 740343,
+					"id_str": "740343",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/V3GHrSRiz7",
+					"expanded_url": "https://twitter.com/femedtech/status/1118985522947461138",
+					"display_url": "twitter.com/femedtech/stat…",
+					"indices": [
+						193,
+						216
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14107935,
+			"id_str": "14107935",
+			"name": "Natalie Lafferty",
+			"screen_name": "nlafferty",
+			"location": "Dundee, UK",
+			"description": "Still learning ... Open education practitioner in higher & medical education. #FOAMed, co-organiser of @pressedconf, digital education, football & arts",
+			"url": "https://t.co/VBgkQovJhQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VBgkQovJhQ",
+							"expanded_url": "http://about.me/nlafferty",
+							"display_url": "about.me/nlafferty",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3958,
+			"friends_count": 2443,
+			"listed_count": 241,
+			"created_at": "Sun Mar 09 15:54:26 +0000 2008",
+			"favourites_count": 4647,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26184,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/603337796728791041/ah0duK64_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/603337796728791041/ah0duK64_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14107935/1392078385",
+			"profile_link_color": "13867D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "78CEC7",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1118985522947461100,
+		"quoted_status_id_str": "1118985522947461138",
+		"quoted_status_permalink": {
+			"url": "https://t.co/V3GHrSRiz7",
+			"expanded": "https://twitter.com/femedtech/status/1118985522947461138",
+			"display": "twitter.com/femedtech/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 18 21:11:53 +0000 2019",
+			"id": 1118985522947461100,
+			"id_str": "1118985522947461138",
+			"full_text": "7 We acknowledge that power dynamics exist in open spaces, so to ensure https://t.co/YeOXsZcbAP is equitable, accessible &amp; inclusive, we used the TRU Writer SPLOT which enables writing to be posted anonymously if users so choose https://t.co/736GBo0pAq #pressedconf19 #femedtech https://t.co/D889qBnyc8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				282
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "pressedconf19",
+						"indices": [
+							257,
+							271
+						]
+					},
+					{
+						"text": "femedtech",
+						"indices": [
+							272,
+							282
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YeOXsZcbAP",
+						"expanded_url": "http://femedtech.net",
+						"display_url": "femedtech.net",
+						"indices": [
+							72,
+							95
+						]
+					},
+					{
+						"url": "https://t.co/736GBo0pAq",
+						"expanded_url": "http://splot.ca/splots/tru-writer/",
+						"display_url": "splot.ca/splots/tru-wri…",
+						"indices": [
+							233,
+							256
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1118985399022555100,
+						"id_str": "1118985399022555138",
+						"indices": [
+							283,
+							306
+						],
+						"media_url": "http://pbs.twimg.com/media/D4dvSrGWkAI7m9F.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4dvSrGWkAI7m9F.jpg",
+						"url": "https://t.co/D889qBnyc8",
+						"display_url": "pic.twitter.com/D889qBnyc8",
+						"expanded_url": "https://twitter.com/femedtech/status/1118985522947461138/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1008,
+								"h": 210,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1008,
+								"h": 210,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 142,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1118985399022555100,
+						"id_str": "1118985399022555138",
+						"indices": [
+							283,
+							306
+						],
+						"media_url": "http://pbs.twimg.com/media/D4dvSrGWkAI7m9F.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4dvSrGWkAI7m9F.jpg",
+						"url": "https://t.co/D889qBnyc8",
+						"display_url": "pic.twitter.com/D889qBnyc8",
+						"expanded_url": "https://twitter.com/femedtech/status/1118985522947461138/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1008,
+								"h": 210,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1008,
+								"h": 210,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 142,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 807239380138160100,
+				"id_str": "807239380138160128",
+				"name": "femedtech",
+				"screen_name": "femedtech",
+				"location": "everywhere",
+				"description": "#femedtech Feminist in edtech? let's grow FemEdTech network - hosted collaboratively by volunteers. DM to be involved. Curator is currently @orna_farrell",
+				"url": "https://t.co/mTL2O6sf59",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mTL2O6sf59",
+								"expanded_url": "https://goo.gl/qwPV8Z",
+								"display_url": "goo.gl/qwPV8Z",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1288,
+				"friends_count": 1753,
+				"listed_count": 17,
+				"created_at": "Fri Dec 09 15:04:00 +0000 2016",
+				"favourites_count": 1841,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2166,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/829101527210024960/1hYtYEe2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/829101527210024960/1hYtYEe2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/807239380138160128/1525778668",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thinking that @cogdog SPLOTs tools and templates and the anonymity they enable could be really useful when engaging students in blogging who are concerned about being identified #PressEdConf19 https://t.co/V3GHrSRiz7"
+	},
+	{
+		"created_at": "Thu Apr 18 21:19:31 +0000 2019",
+		"id": 1118986430359965700,
+		"id_str": "1118987447763972096",
+		"full_text": "Coming this fall https://t.co/B7OcoHSX8G the return of our feminist pedagogy hackathon #PressEdConf19 (https://t.co/SfktxDAIPX)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PressEdConf19",
+					"indices": [
+						87,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B7OcoHSX8G",
+					"expanded_url": "http://femhack.tech/",
+					"display_url": "femhack.tech",
+					"indices": [
+						17,
+						40
+					]
+				},
+				{
+					"url": "https://t.co/SfktxDAIPX",
+					"expanded_url": "https://quickthoughts.jgregorymcverry.com/s/KU9Vg",
+					"display_url": "quickthoughts.jgregorymcverry.com/s/KU9Vg",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://quickthoughts.jgregorymcverry.com\" rel=\"nofollow\">Quick Thoughts Blog</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27620289,
+			"id_str": "27620289",
+			"name": "https://jgregorymcverry.com",
+			"screen_name": "jgmac1106",
+			"location": "East Haddam, CT",
+			"description": "Greg McVerry\nhttps://t.co/r7vfvMX8Ya",
+			"url": "https://t.co/vRfS9OdJ5h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vRfS9OdJ5h",
+							"expanded_url": "https://jgregorymcverry.com",
+							"display_url": "jgregorymcverry.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/r7vfvMX8Ya",
+							"expanded_url": "https://quickthoughts.jgregorymcverry.com",
+							"display_url": "quickthoughts.jgregorymcverry.com",
+							"indices": [
+								13,
+								36
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3833,
+			"friends_count": 3951,
+			"listed_count": 342,
+			"created_at": "Mon Mar 30 11:30:57 +0000 2009",
+			"favourites_count": 2281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 42000,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/565227710104883200/g4MDcTnx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/565227710104883200/g4MDcTnx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27620289/1419012004",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Coming this fall https://t.co/B7OcoHSX8G the return of our feminist pedagogy hackathon #PressEdConf19 (https://t.co/SfktxDAIPX)"
+	},
+	{
+		"created_at": "Thu Apr 18 20:33:23 +0000 2019",
+		"id": 1118975836709883900,
+		"id_str": "1118975836709883913",
+		"full_text": "@Pgogy great question ... I don't know the answer but will check out Matt's TED video (I'm guess they are doing at a different scale). I know @MarenDeepwell and @moodler were swapping notes on our respective approaches #PressEdConf19\n\nhttps://t.co/xsslXCSka6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PressEdConf19",
+					"indices": [
+						219,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Pgogy",
+					"name": "Pgogy WebStuff",
+					"id": 291323178,
+					"id_str": "291323178",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						142,
+						156
+					]
+				},
+				{
+					"screen_name": "moodler",
+					"name": "🎓 Martin Dougiamas",
+					"id": 16444716,
+					"id_str": "16444716",
+					"indices": [
+						161,
+						169
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xsslXCSka6",
+					"expanded_url": "https://twitter.com/Pgogy/status/1118960734594109440",
+					"display_url": "twitter.com/Pgogy/status/1…",
+					"indices": [
+						235,
+						258
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 291323178,
+		"in_reply_to_user_id_str": "291323178",
+		"in_reply_to_screen_name": "Pgogy",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, G Suite \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8056,
+			"friends_count": 2200,
+			"listed_count": 595,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28123,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1118960734594109400,
+		"quoted_status_id_str": "1118960734594109440",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xsslXCSka6",
+			"expanded": "https://twitter.com/Pgogy/status/1118960734594109440",
+			"display": "twitter.com/Pgogy/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 18 19:33:23 +0000 2019",
+			"id": 1118960734594109400,
+			"id_str": "1118960734594109440",
+			"full_text": "@A_L_T Loved this - wondering how it ties into Mullenweg's \"future of work\" #PressEdConf19",
+			"truncated": false,
+			"display_text_range": [
+				7,
+				90
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PressEdConf19",
+						"indices": [
+							76,
+							90
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "A_L_T",
+						"name": "ALT - alt.ac.uk",
+						"id": 41210876,
+						"id_str": "41210876",
+						"indices": [
+							0,
+							6
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1118861234160513000,
+			"in_reply_to_status_id_str": "1118861234160513025",
+			"in_reply_to_user_id": 41210876,
+			"in_reply_to_user_id_str": "41210876",
+			"in_reply_to_screen_name": "A_L_T",
+			"user": {
+				"id": 291323178,
+				"id_str": "291323178",
+				"name": "Pgogy WebStuff",
+				"screen_name": "Pgogy",
+				"location": "All Updates from Pgogy",
+				"description": "Pedagogic and Technological Outfitters : WordPress/Drupal/Moodle/PHP/JS : elearning, visualisations, MOOCs, DigiHums, pretty much all code. @pressedconf helper",
+				"url": "https://t.co/5nRHmbGvMh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5nRHmbGvMh",
+								"expanded_url": "http://www.pgogywebstuff.com",
+								"display_url": "pgogywebstuff.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 638,
+				"friends_count": 1173,
+				"listed_count": 42,
+				"created_at": "Sun May 01 20:18:19 +0000 2011",
+				"favourites_count": 254,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6543,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F7F9FA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1110499285018251264/APvH2Fj6_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110499285018251264/APvH2Fj6_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/291323178/1484910672",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Pgogy great question ... I don't know the answer but will check out Matt's TED video (I'm guess they are doing at a different scale). I know @MarenDeepwell and @moodler were swapping notes on our respective approaches #PressEdConf19\n\nhttps://t.co/xsslXCSka6"
+	},
+	{
+		"created_at": "Thu Apr 18 19:47:34 +0000 2019",
+		"id": 1118805198389039100,
+		"id_str": "1118964305507115012",
+		"full_text": "For anyone who has recently dipped their toe into blogging with @EdinburghUni's new https://t.co/i69dAGGN6o service, I can highly recommend following #PressEdConf19 today - a fast moving twitter conference about Wordpress, education and research.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PressEdConf19",
+					"indices": [
+						150,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EdinburghUni",
+					"name": "The University of Edinburgh",
+					"id": 23426889,
+					"id_str": "23426889",
+					"indices": [
+						64,
+						77
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/i69dAGGN6o",
+					"expanded_url": "http://blogs.ed.ac.uk",
+					"display_url": "blogs.ed.ac.uk",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4016151,
+			"id_str": "4016151",
+			"name": "Lorna M. Campbell",
+			"screen_name": "LornaMCampbell",
+			"location": "Glasgow / University of Edinburgh / Isle of Lewis",
+			"description": "Open education technology, policy & practice @EdinburghUni. @A_L_T, @WikimediaUK & @NauticalHistory Trustee. #oer #openscot #femedtech #cmalt. She/her.",
+			"url": "https://t.co/9HmEQnxTzb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9HmEQnxTzb",
+							"expanded_url": "http://lornamcampbell.org",
+							"display_url": "lornamcampbell.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3868,
+			"friends_count": 2600,
+			"listed_count": 208,
+			"created_at": "Tue Apr 10 11:25:09 +0000 2007",
+			"favourites_count": 29708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34060,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "AFD3F2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/768472775090638851/1bgBAlp7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/768472775090638851/1bgBAlp7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4016151/1445333850",
+			"profile_link_color": "1F59AB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For anyone who has recently dipped their toe into blogging with @EdinburghUni's new https://t.co/i69dAGGN6o service, I can highly recommend following #PressEdConf19 today - a fast moving twitter conference about Wordpress, education and research."
+	},
+	{
+		"created_at": "Thu Apr 18 19:47:11 +0000 2019",
+		"id": 1118825418264653800,
+		"id_str": "1118964210950705152",
+		"full_text": "@pressedconf @Chri5rowell @A_L_T 5. It really is worth visiting our tool reviews which cover apps like slack, padlet, digimap - it is a rich seam of reviews and honest evaluation from our learning technology community - we get past the shiny shiny https://t.co/HbBq1Do8YF #PressEdConf19 https://t.co/9AqtK4GWgW",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			286
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PressEdConf19",
+					"indices": [
+						272,
+						286
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pressedconf",
+					"name": "PressED Conf - A tweeting WordPress conference",
+					"id": 950354717212897300,
+					"id_str": "950354717212897280",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Chri5rowell",
+					"name": "Chris Rowell🌴",
+					"id": 182762965,
+					"id_str": "182762965",
+					"indices": [
+						13,
+						25
+					]
+				},
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						26,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HbBq1Do8YF",
+					"expanded_url": "https://altc.alt.ac.uk/blog/category/app-review/",
+					"display_url": "altc.alt.ac.uk/blog/category/…",
+					"indices": [
+						248,
+						271
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1118825240413515800,
+					"id_str": "1118825240413515777",
+					"indices": [
+						287,
+						310
+					],
+					"media_url": "http://pbs.twimg.com/media/D4bdoNyWsAEIBHG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4bdoNyWsAEIBHG.jpg",
+					"url": "https://t.co/9AqtK4GWgW",
+					"display_url": "pic.twitter.com/9AqtK4GWgW",
+					"expanded_url": "https://twitter.com/RKChallen/status/1118825418264653824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 788,
+							"h": 663,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 788,
+							"h": 663,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 572,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118825240413515800,
+					"id_str": "1118825240413515777",
+					"indices": [
+						287,
+						310
+					],
+					"media_url": "http://pbs.twimg.com/media/D4bdoNyWsAEIBHG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4bdoNyWsAEIBHG.jpg",
+					"url": "https://t.co/9AqtK4GWgW",
+					"display_url": "pic.twitter.com/9AqtK4GWgW",
+					"expanded_url": "https://twitter.com/RKChallen/status/1118825418264653824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 788,
+							"h": 663,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 788,
+							"h": 663,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 572,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1118825150802223100,
+		"in_reply_to_status_id_str": "1118825150802223104",
+		"in_reply_to_user_id": 19968678,
+		"in_reply_to_user_id_str": "19968678",
+		"in_reply_to_screen_name": "RKChallen",
+		"user": {
+			"id": 19968678,
+			"id_str": "19968678",
+			"name": "Rachel Challen PFHEA",
+			"screen_name": "RKChallen",
+			"location": "Nottingham",
+			"description": "Learning, Teaching and Staff Development Manager, School of Arts & Hums @TrentUni, PFHEA, SCMALT, #LFAuroran, Athena Swan Champ & #altc blog editor",
+			"url": "https://t.co/C9QCuClt9i",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9QCuClt9i",
+							"expanded_url": "http://www.NTUHUM-ltsu.blog",
+							"display_url": "NTUHUM-ltsu.blog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1740,
+			"friends_count": 1831,
+			"listed_count": 113,
+			"created_at": "Tue Feb 03 12:56:52 +0000 2009",
+			"favourites_count": 3571,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4855,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/832657387660009473/C5MRwE0Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/832657387660009473/C5MRwE0Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19968678/1552149875",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@pressedconf @Chri5rowell @A_L_T 5. It really is worth visiting our tool reviews which cover apps like slack, padlet, digimap - it is a rich seam of reviews and honest evaluation from our learning technology community - we get past the shiny shiny https://t.co/HbBq1Do8YF #PressEdConf19 https://t.co/9AqtK4GWgW"
+	},
+	{
+		"created_at": "Thu Apr 18 15:37:59 +0000 2019",
+		"id": 1118901495469158400,
+		"id_str": "1118901495469158400",
+		"full_text": "... home stretch - last 3 videos from #oer19 to edit and then all's left is metadata and embedding. It's been a nice reminder of so many thought provoking and inspiring sessions",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "oer19",
+					"indices": [
+						38,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, G Suite \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8056,
+			"friends_count": 2200,
+			"listed_count": 595,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28123,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "... home stretch - last 3 videos from #oer19 to edit and then all's left is metadata and embedding. It's been a nice reminder of so many thought provoking and inspiring sessions"
+	},
+	{
+		"created_at": "Thu Apr 18 15:18:22 +0000 2019",
+		"id": 1118896310889996300,
+		"id_str": "1118896561382150144",
+		"full_text": "Great first experience at @pressedconf for @mhawksey &amp; me - thank you @nlafferty &amp; @pressedconf (and @Pgogy) for all your support &amp; information :) #PressEdConf19 https://t.co/UU35kqUEvD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PressEdConf19",
+					"indices": [
+						159,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pressedconf",
+					"name": "PressED Conf - A tweeting WordPress conference",
+					"id": 950354717212897300,
+					"id_str": "950354717212897280",
+					"indices": [
+						26,
+						38
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						43,
+						52
+					]
+				},
+				{
+					"screen_name": "nlafferty",
+					"name": "Natalie Lafferty",
+					"id": 14107935,
+					"id_str": "14107935",
+					"indices": [
+						74,
+						84
+					]
+				},
+				{
+					"screen_name": "pressedconf",
+					"name": "PressED Conf - A tweeting WordPress conference",
+					"id": 950354717212897300,
+					"id_str": "950354717212897280",
+					"indices": [
+						91,
+						103
+					]
+				},
+				{
+					"screen_name": "Pgogy",
+					"name": "Pgogy WebStuff",
+					"id": 291323178,
+					"id_str": "291323178",
+					"indices": [
+						109,
+						115
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118896302371364900,
+					"id_str": "1118896302371364864",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/D4ceQkNX4AAKY_7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4ceQkNX4AAKY_7.jpg",
+					"url": "https://t.co/UU35kqUEvD",
+					"display_url": "pic.twitter.com/UU35kqUEvD",
+					"expanded_url": "https://twitter.com/MarenDeepwell/status/1118896310889996288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118896302371364900,
+					"id_str": "1118896302371364864",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/D4ceQkNX4AAKY_7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4ceQkNX4AAKY_7.jpg",
+					"url": "https://t.co/UU35kqUEvD",
+					"display_url": "pic.twitter.com/UU35kqUEvD",
+					"expanded_url": "https://twitter.com/MarenDeepwell/status/1118896310889996288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 323173367,
+			"id_str": "323173367",
+			"name": "Dr Maren Deepwell",
+			"screen_name": "MarenDeepwell",
+			"location": "United Kingdom",
+			"description": "CEO @A_L_T #altc Senior #CMALT, Anthropologist, Open Practitioner, leadership, policy & Learning Technology CPD, open governance & equality #femedtech",
+			"url": "https://t.co/kMXdMTr9bt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kMXdMTr9bt",
+							"expanded_url": "http://marendeepwell.com",
+							"display_url": "marendeepwell.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3348,
+			"friends_count": 1612,
+			"listed_count": 189,
+			"created_at": "Fri Jun 24 11:30:35 +0000 2011",
+			"favourites_count": 15347,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9059,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1106108974481489920/SNmOSvkd_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106108974481489920/SNmOSvkd_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/323173367/1552551974",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great first experience at @pressedconf for @mhawksey &amp; me - thank you @nlafferty &amp; @pressedconf (and @Pgogy) for all your support &amp; information :) #PressEdConf19 https://t.co/UU35kqUEvD"
+	},
+	{
+		"created_at": "Thu Apr 18 13:57:56 +0000 2019",
+		"id": 1118876317666168800,
+		"id_str": "1118876317666168833",
+		"full_text": "@LornaMCampbell ... I was saying to @nlafferty #PressEdConf19 :)  https://t.co/VeoVraVJFE",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PressEdConf19",
+					"indices": [
+						47,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LornaMCampbell",
+					"name": "Lorna M. Campbell",
+					"id": 4016151,
+					"id_str": "4016151",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "nlafferty",
+					"name": "Natalie Lafferty",
+					"id": 14107935,
+					"id_str": "14107935",
+					"indices": [
+						36,
+						46
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VeoVraVJFE",
+					"expanded_url": "https://twitter.com/mhawksey/status/1118864284484874240",
+					"display_url": "twitter.com/mhawksey/statu…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1118869168361812000,
+		"in_reply_to_status_id_str": "1118869168361811969",
+		"in_reply_to_user_id": 4016151,
+		"in_reply_to_user_id_str": "4016151",
+		"in_reply_to_screen_name": "LornaMCampbell",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, G Suite \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8056,
+			"friends_count": 2200,
+			"listed_count": 595,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28123,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1118864284484874200,
+		"quoted_status_id_str": "1118864284484874240",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VeoVraVJFE",
+			"expanded": "https://twitter.com/mhawksey/status/1118864284484874240",
+			"display": "twitter.com/mhawksey/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 18 13:10:07 +0000 2019",
+			"id": 1118864284484874200,
+			"id_str": "1118864284484874240",
+			"full_text": "@nlafferty @A_L_T @MarenDeepwell @PhilVincent ... it might also be another way to encourage people to start blogging? A little less lonely having a co-author to write  with #PressEdConf19",
+			"truncated": false,
+			"display_text_range": [
+				46,
+				187
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PressEdConf19",
+						"indices": [
+							173,
+							187
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nlafferty",
+						"name": "Natalie Lafferty",
+						"id": 14107935,
+						"id_str": "14107935",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"screen_name": "A_L_T",
+						"name": "ALT - alt.ac.uk",
+						"id": 41210876,
+						"id_str": "41210876",
+						"indices": [
+							11,
+							17
+						]
+					},
+					{
+						"screen_name": "MarenDeepwell",
+						"name": "Dr Maren Deepwell",
+						"id": 323173367,
+						"id_str": "323173367",
+						"indices": [
+							18,
+							32
+						]
+					},
+					{
+						"screen_name": "PhilVincent",
+						"name": "Phil Vincent",
+						"id": 201692767,
+						"id_str": "201692767",
+						"indices": [
+							33,
+							45
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 1118863378632597500,
+			"in_reply_to_status_id_str": "1118863378632597506",
+			"in_reply_to_user_id": 14107935,
+			"in_reply_to_user_id_str": "14107935",
+			"in_reply_to_screen_name": "nlafferty",
+			"user": {
+				"id": 13046992,
+				"id_str": "13046992",
+				"name": "Martin Hawksey",
+				"screen_name": "mhawksey",
+				"location": "Edinburgh, Scotland",
+				"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, G Suite \\o/",
+				"url": "https://t.co/OwPc0EbVqg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OwPc0EbVqg",
+								"expanded_url": "https://mashe.hawksey.info",
+								"display_url": "mashe.hawksey.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8056,
+				"friends_count": 2200,
+				"listed_count": 595,
+				"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+				"favourites_count": 5321,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 28123,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F5F5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+				"profile_link_color": "4099FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D4D4D4",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@LornaMCampbell ... I was saying to @nlafferty #PressEdConf19 :)  https://t.co/VeoVraVJFE"
+	},
+	{
+		"created_at": "Thu Apr 18 13:14:53 +0000 2019",
+		"id": 1118865192975306800,
+		"id_str": "1118865483955081216",
+		"full_text": "Don't worry if you've missed any presentations at today's #PressEDConf19 we're creating Twitter moments for all of them and we're embedding these into the Schedule so you can look back at them at your leisure https://t.co/JWURDYb1Ej",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PressEDConf19",
+					"indices": [
+						58,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JWURDYb1Ej",
+					"expanded_url": "https://twitter.com/LornaMCampbell/status/1118864813587861505",
+					"display_url": "twitter.com/LornaMCampbell…",
+					"indices": [
+						209,
+						232
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 950354717212897300,
+			"id_str": "950354717212897280",
+			"name": "PressED Conf - A tweeting WordPress conference",
+			"screen_name": "pressedconf",
+			"location": "on twitter",
+			"description": "A WordPress Twitter Conference on all things education, pedagogy and research. #pressEDconf19 is on April 18th. Organisers @nlafferty and @pgogy",
+			"url": "https://t.co/PEDIaTNi6H",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PEDIaTNi6H",
+							"expanded_url": "http://2019.pressedconf.org",
+							"display_url": "2019.pressedconf.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1101,
+			"friends_count": 2004,
+			"listed_count": 9,
+			"created_at": "Mon Jan 08 13:13:16 +0000 2018",
+			"favourites_count": 1212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2129,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/950872787018756096/unqqOc3z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/950872787018756096/unqqOc3z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/950354717212897280/1547021544",
+			"profile_link_color": "00FFFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1118864813587861500,
+		"quoted_status_id_str": "1118864813587861505",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JWURDYb1Ej",
+			"expanded": "https://twitter.com/LornaMCampbell/status/1118864813587861505",
+			"display": "twitter.com/LornaMCampbell…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 18 13:12:13 +0000 2019",
+			"id": 1118864813587861500,
+			"id_str": "1118864813587861505",
+			"full_text": "I missed so many great #pressedconf19 presentations from @jsecker, @UKCopyrightLit, @KTDigital, @slowtech2000, and @A_L_T while I was teaching our workshop on academic blogging.  Too much going on today!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				203
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "pressedconf19",
+						"indices": [
+							23,
+							37
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jsecker",
+						"name": "Dr Jane Secker",
+						"id": 20975165,
+						"id_str": "20975165",
+						"indices": [
+							57,
+							65
+						]
+					},
+					{
+						"screen_name": "UKCopyrightLit",
+						"name": "UK CopyrightLiteracy",
+						"id": 3865085596,
+						"id_str": "3865085596",
+						"indices": [
+							67,
+							82
+						]
+					},
+					{
+						"screen_name": "KTDigital",
+						"name": "Kate Lindsay",
+						"id": 28324170,
+						"id_str": "28324170",
+						"indices": [
+							84,
+							94
+						]
+					},
+					{
+						"screen_name": "slowtech2000",
+						"name": "Clare Thomson",
+						"id": 2162676313,
+						"id_str": "2162676313",
+						"indices": [
+							96,
+							109
+						]
+					},
+					{
+						"screen_name": "A_L_T",
+						"name": "ALT - alt.ac.uk",
+						"id": 41210876,
+						"id_str": "41210876",
+						"indices": [
+							115,
+							121
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4016151,
+				"id_str": "4016151",
+				"name": "Lorna M. Campbell",
+				"screen_name": "LornaMCampbell",
+				"location": "Glasgow / University of Edinburgh / Isle of Lewis",
+				"description": "Open education technology, policy & practice @EdinburghUni. @A_L_T, @WikimediaUK & @NauticalHistory Trustee. #oer #openscot #femedtech #cmalt. She/her.",
+				"url": "https://t.co/9HmEQnxTzb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9HmEQnxTzb",
+								"expanded_url": "http://lornamcampbell.org",
+								"display_url": "lornamcampbell.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3868,
+				"friends_count": 2600,
+				"listed_count": 208,
+				"created_at": "Tue Apr 10 11:25:09 +0000 2007",
+				"favourites_count": 29708,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 34060,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "AFD3F2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/768472775090638851/1bgBAlp7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/768472775090638851/1bgBAlp7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4016151/1445333850",
+				"profile_link_color": "1F59AB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Don't worry if you've missed any presentations at today's #PressEDConf19 we're creating Twitter moments for all of them and we're embedding these into the Schedule so you can look back at them at your leisure https://t.co/JWURDYb1Ej"
+	},
+	{
+		"created_at": "Thu Apr 18 13:10:07 +0000 2019",
+		"id": 1118864284484874200,
+		"id_str": "1118864284484874240",
+		"full_text": "@nlafferty @A_L_T @MarenDeepwell @PhilVincent ... it might also be another way to encourage people to start blogging? A little less lonely having a co-author to write  with #PressEdConf19",
+		"truncated": false,
+		"display_text_range": [
+			46,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PressEdConf19",
+					"indices": [
+						173,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nlafferty",
+					"name": "Natalie Lafferty",
+					"id": 14107935,
+					"id_str": "14107935",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						11,
+						17
+					]
+				},
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						18,
+						32
+					]
+				},
+				{
+					"screen_name": "PhilVincent",
+					"name": "Phil Vincent",
+					"id": 201692767,
+					"id_str": "201692767",
+					"indices": [
+						33,
+						45
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1118863378632597500,
+		"in_reply_to_status_id_str": "1118863378632597506",
+		"in_reply_to_user_id": 14107935,
+		"in_reply_to_user_id_str": "14107935",
+		"in_reply_to_screen_name": "nlafferty",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, G Suite \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8056,
+			"friends_count": 2200,
+			"listed_count": 595,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28123,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@nlafferty @A_L_T @MarenDeepwell @PhilVincent ... it might also be another way to encourage people to start blogging? A little less lonely having a co-author to write  with #PressEdConf19"
+	},
+	{
+		"created_at": "Thu Apr 18 13:04:48 +0000 2019",
+		"id": 1118862947282051100,
+		"id_str": "1118862947282051073",
+		"full_text": "@nlafferty @A_L_T @MarenDeepwell @PhilVincent Thanks Natalie - #PressEdConf19 was a really nice opportunity for @MarenDeepwell and myself to think about how this could work for others :)",
+		"truncated": false,
+		"display_text_range": [
+			46,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PressEdConf19",
+					"indices": [
+						63,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nlafferty",
+					"name": "Natalie Lafferty",
+					"id": 14107935,
+					"id_str": "14107935",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						11,
+						17
+					]
+				},
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						18,
+						32
+					]
+				},
+				{
+					"screen_name": "PhilVincent",
+					"name": "Phil Vincent",
+					"id": 201692767,
+					"id_str": "201692767",
+					"indices": [
+						33,
+						45
+					]
+				},
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						112,
+						126
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1118862327846199300,
+		"in_reply_to_status_id_str": "1118862327846199297",
+		"in_reply_to_user_id": 14107935,
+		"in_reply_to_user_id_str": "14107935",
+		"in_reply_to_screen_name": "nlafferty",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, G Suite \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8056,
+			"friends_count": 2200,
+			"listed_count": 595,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28123,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@nlafferty @A_L_T @MarenDeepwell @PhilVincent Thanks Natalie - #PressEdConf19 was a really nice opportunity for @MarenDeepwell and myself to think about how this could work for others :)"
+	},
+	{
+		"created_at": "Thu Apr 18 12:58:11 +0000 2019",
+		"id": 1118861234160513000,
+		"id_str": "1118861282696994817",
+		"full_text": "13/13 Curious? More questions? Looking for ideas to try yourself? Find out more in our blog post about the session at https://t.co/AF3j4j6wkx AND https://t.co/OiaIgx1ccC and thank you for joining us #VirtualTeams #PressEdConf19 https://t.co/d93UL0ioxE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VirtualTeams",
+					"indices": [
+						199,
+						212
+					]
+				},
+				{
+					"text": "PressEdConf19",
+					"indices": [
+						213,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AF3j4j6wkx",
+					"expanded_url": "https://go.alt.ac.uk/2ICGebV",
+					"display_url": "go.alt.ac.uk/2ICGebV",
+					"indices": [
+						118,
+						141
+					]
+				},
+				{
+					"url": "https://t.co/OiaIgx1ccC",
+					"expanded_url": "https://go.alt.ac.uk/2IJ1PQ5",
+					"display_url": "go.alt.ac.uk/2IJ1PQ5",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1118462555712888800,
+					"id_str": "1118462555712888834",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/D4WTxL_XoAI3EzQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4WTxL_XoAI3EzQ.jpg",
+					"url": "https://t.co/d93UL0ioxE",
+					"display_url": "pic.twitter.com/d93UL0ioxE",
+					"expanded_url": "https://twitter.com/A_L_T/status/1118861234160513025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 506,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 506,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118462555712888800,
+					"id_str": "1118462555712888834",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/D4WTxL_XoAI3EzQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4WTxL_XoAI3EzQ.jpg",
+					"url": "https://t.co/d93UL0ioxE",
+					"display_url": "pic.twitter.com/d93UL0ioxE",
+					"expanded_url": "https://twitter.com/A_L_T/status/1118861234160513025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 506,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 506,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11658,
+			"friends_count": 3521,
+			"listed_count": 571,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 5831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17659,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1552553640",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "13/13 Curious? More questions? Looking for ideas to try yourself? Find out more in our blog post about the session at https://t.co/AF3j4j6wkx AND https://t.co/OiaIgx1ccC and thank you for joining us #VirtualTeams #PressEdConf19 https://t.co/d93UL0ioxE"
+	},
+	{
+		"created_at": "Thu Apr 18 12:57:10 +0000 2019",
+		"id": 1118860982523256800,
+		"id_str": "1118861024743051264",
+		"full_text": "12/13 On a practical level @mhawksey says: “copy/pasting from a Google Doc into the WordPress editor usually works without any problems, but a Google Doc Add-on is available if you have problems https://t.co/mfjtFQsAbB” #PressEdConf19 https://t.co/ETET74lm1K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PressEdConf19",
+					"indices": [
+						220,
+						234
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						27,
+						36
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mfjtFQsAbB",
+					"expanded_url": "https://go.alt.ac.uk/2IBEorH",
+					"display_url": "go.alt.ac.uk/2IBEorH",
+					"indices": [
+						195,
+						218
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1118462276598685700,
+					"id_str": "1118462276598685697",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/D4WTg8NW4AEcIzY.png",
+					"media_url_https": "https://pbs.twimg.com/media/D4WTg8NW4AEcIzY.png",
+					"url": "https://t.co/ETET74lm1K",
+					"display_url": "pic.twitter.com/ETET74lm1K",
+					"expanded_url": "https://twitter.com/A_L_T/status/1118860982523256833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1238,
+							"h": 657,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 361,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 637,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118462276598685700,
+					"id_str": "1118462276598685697",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/D4WTg8NW4AEcIzY.png",
+					"media_url_https": "https://pbs.twimg.com/media/D4WTg8NW4AEcIzY.png",
+					"url": "https://t.co/ETET74lm1K",
+					"display_url": "pic.twitter.com/ETET74lm1K",
+					"expanded_url": "https://twitter.com/A_L_T/status/1118860982523256833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1238,
+							"h": 657,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 361,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 637,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11658,
+			"friends_count": 3521,
+			"listed_count": 571,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 5831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17659,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1552553640",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "12/13 On a practical level @mhawksey says: “copy/pasting from a Google Doc into the WordPress editor usually works without any problems, but a Google Doc Add-on is available if you have problems https://t.co/mfjtFQsAbB” #PressEdConf19 https://t.co/ETET74lm1K"
+	},
+	{
+		"created_at": "Thu Apr 18 12:56:17 +0000 2019",
+		"id": 1118860741312860200,
+		"id_str": "1118860802524614657",
+		"full_text": "11/13 @marendeepwell also highlights “respect others’ voices, listen rather than transmit and take your time to reflect whilst you work together”. #PressEdConf19 https://t.co/LCSLyKmakZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PressEdConf19",
+					"indices": [
+						147,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						6,
+						20
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118461684220350500,
+					"id_str": "1118461684220350465",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/D4WS-dbW0AEaFBM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4WS-dbW0AEaFBM.jpg",
+					"url": "https://t.co/LCSLyKmakZ",
+					"display_url": "pic.twitter.com/LCSLyKmakZ",
+					"expanded_url": "https://twitter.com/A_L_T/status/1118860741312860167/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118461684220350500,
+					"id_str": "1118461684220350465",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/D4WS-dbW0AEaFBM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4WS-dbW0AEaFBM.jpg",
+					"url": "https://t.co/LCSLyKmakZ",
+					"display_url": "pic.twitter.com/LCSLyKmakZ",
+					"expanded_url": "https://twitter.com/A_L_T/status/1118860741312860167/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11658,
+			"friends_count": 3521,
+			"listed_count": 571,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 5831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17659,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1552553640",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "11/13 @marendeepwell also highlights “respect others’ voices, listen rather than transmit and take your time to reflect whilst you work together”. #PressEdConf19 https://t.co/LCSLyKmakZ"
+	},
+	{
+		"created_at": "Thu Apr 18 12:56:10 +0000 2019",
+		"id": 1118860733146644500,
+		"id_str": "1118860775215517696",
+		"full_text": "missed a hashtag ... \n#PressEdConf19 https://t.co/GRCKIFnyRS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PressEdConf19",
+					"indices": [
+						22,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GRCKIFnyRS",
+					"expanded_url": "https://twitter.com/A_L_T/status/1118860479156375555",
+					"display_url": "twitter.com/A_L_T/status/1…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11658,
+			"friends_count": 3521,
+			"listed_count": 571,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 5831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17659,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1552553640",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1118860479156375600,
+		"quoted_status_id_str": "1118860479156375555",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GRCKIFnyRS",
+			"expanded": "https://twitter.com/A_L_T/status/1118860479156375555",
+			"display": "twitter.com/A_L_T/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 18 12:55:00 +0000 2019",
+			"id": 1118860479156375600,
+			"id_str": "1118860479156375555",
+			"full_text": "10/13 Tips: There’re lots of different ways to join a blogging conversation. You might find inspiration in this approach to academic blogging at the University of Edinburgh https://t.co/DSdlrKfPH1  or the #OpenBlog19 challenge https://t.co/KyBk4b2oUH. https://t.co/jnibnMzgp4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				251
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OpenBlog19",
+						"indices": [
+							205,
+							216
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DSdlrKfPH1",
+						"expanded_url": "https://go.alt.ac.uk/2IA1zmc",
+						"display_url": "go.alt.ac.uk/2IA1zmc",
+						"indices": [
+							173,
+							196
+						]
+					},
+					{
+						"url": "https://t.co/KyBk4b2oUH",
+						"expanded_url": "https://go.alt.ac.uk/2IA1zTe",
+						"display_url": "go.alt.ac.uk/2IA1zTe",
+						"indices": [
+							227,
+							250
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1118496741186318300,
+						"id_str": "1118496741186318341",
+						"indices": [
+							252,
+							275
+						],
+						"media_url": "http://pbs.twimg.com/media/D4Wy3CzXsAUjetR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4Wy3CzXsAUjetR.jpg",
+						"url": "https://t.co/jnibnMzgp4",
+						"display_url": "pic.twitter.com/jnibnMzgp4",
+						"expanded_url": "https://twitter.com/A_L_T/status/1118860479156375555/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1505,
+								"h": 1613,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 634,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1120,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1118496741186318300,
+						"id_str": "1118496741186318341",
+						"indices": [
+							252,
+							275
+						],
+						"media_url": "http://pbs.twimg.com/media/D4Wy3CzXsAUjetR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4Wy3CzXsAUjetR.jpg",
+						"url": "https://t.co/jnibnMzgp4",
+						"display_url": "pic.twitter.com/jnibnMzgp4",
+						"expanded_url": "https://twitter.com/A_L_T/status/1118860479156375555/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1505,
+								"h": 1613,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 634,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1120,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41210876,
+				"id_str": "41210876",
+				"name": "ALT - alt.ac.uk",
+				"screen_name": "A_L_T",
+				"location": "UK",
+				"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+				"url": "http://t.co/d7hBNekdUq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/d7hBNekdUq",
+								"expanded_url": "http://www.alt.ac.uk/",
+								"display_url": "alt.ac.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11658,
+				"friends_count": 3521,
+				"listed_count": 571,
+				"created_at": "Tue May 19 21:06:36 +0000 2009",
+				"favourites_count": 5831,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 17659,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1552553640",
+				"profile_link_color": "079948",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "missed a hashtag ... \n#PressEdConf19 https://t.co/GRCKIFnyRS"
+	},
+	{
+		"created_at": "Thu Apr 18 12:54:14 +0000 2019",
+		"id": 1118860227653324800,
+		"id_str": "1118860285228527616",
+		"full_text": "9/13 Whilst we can’t publish everything the format enables us to discuss difficult questions during the drafting stage either through Google Docs comments, via recording a podcast or when we meet F2F, strengthening our reflective professional practice #VirtualTeams #PressEdConf19 https://t.co/y5JOJ7jmMY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VirtualTeams",
+					"indices": [
+						252,
+						265
+					]
+				},
+				{
+					"text": "PressEdConf19",
+					"indices": [
+						266,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118460868235231200,
+					"id_str": "1118460868235231232",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/D4WSO9pWAAA6KYo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4WSO9pWAAA6KYo.jpg",
+					"url": "https://t.co/y5JOJ7jmMY",
+					"display_url": "pic.twitter.com/y5JOJ7jmMY",
+					"expanded_url": "https://twitter.com/A_L_T/status/1118860227653324801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 385,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 385,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 256,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118460868235231200,
+					"id_str": "1118460868235231232",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/D4WSO9pWAAA6KYo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4WSO9pWAAA6KYo.jpg",
+					"url": "https://t.co/y5JOJ7jmMY",
+					"display_url": "pic.twitter.com/y5JOJ7jmMY",
+					"expanded_url": "https://twitter.com/A_L_T/status/1118860227653324801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 385,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 385,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 256,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11658,
+			"friends_count": 3521,
+			"listed_count": 571,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 5831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17659,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1552553640",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "9/13 Whilst we can’t publish everything the format enables us to discuss difficult questions during the drafting stage either through Google Docs comments, via recording a podcast or when we meet F2F, strengthening our reflective professional practice #VirtualTeams #PressEdConf19 https://t.co/y5JOJ7jmMY"
+	},
+	{
+		"created_at": "Thu Apr 18 12:53:08 +0000 2019",
+		"id": 1118859976393613300,
+		"id_str": "1118860008769359875",
+		"full_text": "8/13 Given the nature of the #VirtualTeams posts one question we often get asked is how do you openly share sensitive issues like concerns about wellbeing, managing crisis and resolving conflict? We have a rule of not sharing personal examples without permission. #PressEdConf19 https://t.co/DiPmmAKmEG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VirtualTeams",
+					"indices": [
+						29,
+						42
+					]
+				},
+				{
+					"text": "PressEdConf19",
+					"indices": [
+						264,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118460021581451300,
+					"id_str": "1118460021581451265",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/D4WRdrnWkAEqu83.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4WRdrnWkAEqu83.jpg",
+					"url": "https://t.co/DiPmmAKmEG",
+					"display_url": "pic.twitter.com/DiPmmAKmEG",
+					"expanded_url": "https://twitter.com/A_L_T/status/1118859976393613312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 454,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 257,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 484,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118460021581451300,
+					"id_str": "1118460021581451265",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/D4WRdrnWkAEqu83.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4WRdrnWkAEqu83.jpg",
+					"url": "https://t.co/DiPmmAKmEG",
+					"display_url": "pic.twitter.com/DiPmmAKmEG",
+					"expanded_url": "https://twitter.com/A_L_T/status/1118859976393613312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 454,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 257,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 484,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11658,
+			"friends_count": 3521,
+			"listed_count": 571,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 5831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17659,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1552553640",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "8/13 Given the nature of the #VirtualTeams posts one question we often get asked is how do you openly share sensitive issues like concerns about wellbeing, managing crisis and resolving conflict? We have a rule of not sharing personal examples without permission. #PressEdConf19 https://t.co/DiPmmAKmEG"
+	},
+	{
+		"created_at": "Thu Apr 18 12:52:07 +0000 2019",
+		"id": 1118859723812380700,
+		"id_str": "1118859754464583680",
+		"full_text": "7/13 @marendeepwell says: “the conversational element is key as it helps open up new perspectives, creating many ‘light bulb’ moments when I discover something new. It enables me to stand in someone else’s shoes for a bit” #PressEdConf19 Image: CC BY-ND @BryanMMathers https://t.co/HGLlKEHSvz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PressEdConf19",
+					"indices": [
+						223,
+						237
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						5,
+						19
+					]
+				},
+				{
+					"screen_name": "BryanMMathers",
+					"name": "Bryan Mathers",
+					"id": 37933636,
+					"id_str": "37933636",
+					"indices": [
+						254,
+						268
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118459577060687900,
+					"id_str": "1118459577060687873",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/D4WRDzpWAAE4oBb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4WRDzpWAAE4oBb.jpg",
+					"url": "https://t.co/HGLlKEHSvz",
+					"display_url": "pic.twitter.com/HGLlKEHSvz",
+					"expanded_url": "https://twitter.com/A_L_T/status/1118859723812380673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118459577060687900,
+					"id_str": "1118459577060687873",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/D4WRDzpWAAE4oBb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4WRDzpWAAE4oBb.jpg",
+					"url": "https://t.co/HGLlKEHSvz",
+					"display_url": "pic.twitter.com/HGLlKEHSvz",
+					"expanded_url": "https://twitter.com/A_L_T/status/1118859723812380673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11658,
+			"friends_count": 3521,
+			"listed_count": 571,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 5831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17659,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1552553640",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "7/13 @marendeepwell says: “the conversational element is key as it helps open up new perspectives, creating many ‘light bulb’ moments when I discover something new. It enables me to stand in someone else’s shoes for a bit” #PressEdConf19 Image: CC BY-ND @BryanMMathers https://t.co/HGLlKEHSvz"
+	},
+	{
+		"created_at": "Thu Apr 18 12:51:19 +0000 2019",
+		"id": 1118859472917749800,
+		"id_str": "1118859555000262658",
+		"full_text": "6/13 @mhawksey says: “having a monthly routine really helps in making you take some time each month to reflect on recent developments and with the conversational format there is an opportunity to get feedback/input from someone else” #PressEdConf19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PressEdConf19",
+					"indices": [
+						234,
+						248
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						5,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11658,
+			"friends_count": 3521,
+			"listed_count": 571,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 5831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17659,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1552553640",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "6/13 @mhawksey says: “having a monthly routine really helps in making you take some time each month to reflect on recent developments and with the conversational format there is an opportunity to get feedback/input from someone else” #PressEdConf19"
+	},
+	{
+		"created_at": "Thu Apr 18 12:50:08 +0000 2019",
+		"id": 1118859221469212700,
+		"id_str": "1118859255946338304",
+		"full_text": "5/13 #VirtualTeams publication is usually done simultaneously, the point of publication being used as an opportunity to use a Google Hangout to coordinate the process, discuss the post content and make final edits. #PressEdConf19 https://t.co/xVdUkIJ6Vp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VirtualTeams",
+					"indices": [
+						5,
+						18
+					]
+				},
+				{
+					"text": "PressEdConf19",
+					"indices": [
+						215,
+						229
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118491380760940500,
+					"id_str": "1118491380760940546",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/D4Wt_BqXkAIhMOE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4Wt_BqXkAIhMOE.jpg",
+					"url": "https://t.co/xVdUkIJ6Vp",
+					"display_url": "pic.twitter.com/xVdUkIJ6Vp",
+					"expanded_url": "https://twitter.com/A_L_T/status/1118859221469212672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 784,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1199,
+							"h": 784,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 445,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118491380760940500,
+					"id_str": "1118491380760940546",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/D4Wt_BqXkAIhMOE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4Wt_BqXkAIhMOE.jpg",
+					"url": "https://t.co/xVdUkIJ6Vp",
+					"display_url": "pic.twitter.com/xVdUkIJ6Vp",
+					"expanded_url": "https://twitter.com/A_L_T/status/1118859221469212672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 784,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1199,
+							"h": 784,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 445,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11658,
+			"friends_count": 3521,
+			"listed_count": 571,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 5831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17659,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1552553640",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "5/13 #VirtualTeams publication is usually done simultaneously, the point of publication being used as an opportunity to use a Google Hangout to coordinate the process, discuss the post content and make final edits. #PressEdConf19 https://t.co/xVdUkIJ6Vp"
+	},
+	{
+		"created_at": "Thu Apr 18 12:49:19 +0000 2019",
+		"id": 1118858969550852100,
+		"id_str": "1118859050949795840",
+		"full_text": "4/13 #VirtualTeams posts are drafted in a Google Doc. Rather than writing in real-time posts are developed asynchronously often over a series of days which we find enables deeper reflection. #PressEdConf19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VirtualTeams",
+					"indices": [
+						5,
+						18
+					]
+				},
+				{
+					"text": "PressEdConf19",
+					"indices": [
+						191,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11658,
+			"friends_count": 3521,
+			"listed_count": 571,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 5831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17659,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1552553640",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "4/13 #VirtualTeams posts are drafted in a Google Doc. Rather than writing in real-time posts are developed asynchronously often over a series of days which we find enables deeper reflection. #PressEdConf19"
+	},
+	{
+		"created_at": "Thu Apr 18 12:48:16 +0000 2019",
+		"id": 1118858717305327600,
+		"id_str": "1118858784196239361",
+		"full_text": "3/13 #VirtualTeams posts have been published every month since March 2018 and each post is written collaboratively like a conversation (we take turns to write sections sequentially) containing thoughts/reflections by @marendeepwell and by @mhawksey. #PressEdConf19 https://t.co/rKsLlQ0a9X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VirtualTeams",
+					"indices": [
+						5,
+						18
+					]
+				},
+				{
+					"text": "PressEdConf19",
+					"indices": [
+						250,
+						264
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						217,
+						231
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						239,
+						248
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118496274683240400,
+					"id_str": "1118496274683240453",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/D4Wyb48XoAUqkKy.png",
+					"media_url_https": "https://pbs.twimg.com/media/D4Wyb48XoAUqkKy.png",
+					"url": "https://t.co/rKsLlQ0a9X",
+					"display_url": "pic.twitter.com/rKsLlQ0a9X",
+					"expanded_url": "https://twitter.com/A_L_T/status/1118858717305327616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 274,
+							"h": 678,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 274,
+							"h": 678,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 274,
+							"h": 678,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118496274683240400,
+					"id_str": "1118496274683240453",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/D4Wyb48XoAUqkKy.png",
+					"media_url_https": "https://pbs.twimg.com/media/D4Wyb48XoAUqkKy.png",
+					"url": "https://t.co/rKsLlQ0a9X",
+					"display_url": "pic.twitter.com/rKsLlQ0a9X",
+					"expanded_url": "https://twitter.com/A_L_T/status/1118858717305327616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 274,
+							"h": 678,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 274,
+							"h": 678,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 274,
+							"h": 678,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11658,
+			"friends_count": 3521,
+			"listed_count": 571,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 5831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17659,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1552553640",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "3/13 #VirtualTeams posts have been published every month since March 2018 and each post is written collaboratively like a conversation (we take turns to write sections sequentially) containing thoughts/reflections by @marendeepwell and by @mhawksey. #PressEdConf19 https://t.co/rKsLlQ0a9X"
+	},
+	{
+		"created_at": "Thu Apr 18 12:47:19 +0000 2019",
+		"id": 1118858465919811600,
+		"id_str": "1118858546597302272",
+		"full_text": "2/13 #VirtualTeams is a series of conversational blog posts between @marendeepwell and @mhawksey openly sharing @A_L_T’s journey as a fully distributed organisation (see https://t.co/PS2psWQaBt or https://t.co/24kIvXNV6l) #PressEdConf19 https://t.co/U4yX3Hwhz3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VirtualTeams",
+					"indices": [
+						5,
+						18
+					]
+				},
+				{
+					"text": "PressEdConf19",
+					"indices": [
+						222,
+						236
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						68,
+						82
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						87,
+						96
+					]
+				},
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						112,
+						118
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PS2psWQaBt",
+					"expanded_url": "https://go.alt.ac.uk/2IBPtsU",
+					"display_url": "go.alt.ac.uk/2IBPtsU",
+					"indices": [
+						170,
+						193
+					]
+				},
+				{
+					"url": "https://t.co/24kIvXNV6l",
+					"expanded_url": "https://go.alt.ac.uk/2ICaxPP",
+					"display_url": "go.alt.ac.uk/2ICaxPP",
+					"indices": [
+						197,
+						220
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1118495996789575700,
+					"id_str": "1118495996789575680",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/D4WyLttW0AAw84o.png",
+					"media_url_https": "https://pbs.twimg.com/media/D4WyLttW0AAw84o.png",
+					"url": "https://t.co/U4yX3Hwhz3",
+					"display_url": "pic.twitter.com/U4yX3Hwhz3",
+					"expanded_url": "https://twitter.com/A_L_T/status/1118858465919811585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 938,
+							"h": 634,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 460,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 938,
+							"h": 634,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118495996789575700,
+					"id_str": "1118495996789575680",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/D4WyLttW0AAw84o.png",
+					"media_url_https": "https://pbs.twimg.com/media/D4WyLttW0AAw84o.png",
+					"url": "https://t.co/U4yX3Hwhz3",
+					"display_url": "pic.twitter.com/U4yX3Hwhz3",
+					"expanded_url": "https://twitter.com/A_L_T/status/1118858465919811585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 938,
+							"h": 634,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 460,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 938,
+							"h": 634,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1118496015433306100,
+					"id_str": "1118496015433306113",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/D4WyMzKXkAEGmun.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4WyMzKXkAEGmun.jpg",
+					"url": "https://t.co/U4yX3Hwhz3",
+					"display_url": "pic.twitter.com/U4yX3Hwhz3",
+					"expanded_url": "https://twitter.com/A_L_T/status/1118858465919811585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 443,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1154,
+							"h": 751,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1154,
+							"h": 751,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11658,
+			"friends_count": 3521,
+			"listed_count": 571,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 5831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17659,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1552553640",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2/13 #VirtualTeams is a series of conversational blog posts between @marendeepwell and @mhawksey openly sharing @A_L_T’s journey as a fully distributed organisation (see https://t.co/PS2psWQaBt or https://t.co/24kIvXNV6l) #PressEdConf19 https://t.co/U4yX3Hwhz3"
+	},
+	{
+		"created_at": "Thu Apr 18 12:46:19 +0000 2019",
+		"id": 1118858215330967600,
+		"id_str": "1118858294263730177",
+		"full_text": "1/13 Hello and welcome to ‘Different voices, shared professional practice’. This session is led by @marendeepwell and @mhawksey and explores conversational open blogging practice based on our #VirtualTeams project #PressEdConf19. https://t.co/iBvCupReEA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VirtualTeams",
+					"indices": [
+						192,
+						205
+					]
+				},
+				{
+					"text": "PressEdConf19",
+					"indices": [
+						214,
+						228
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						99,
+						113
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						118,
+						127
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iBvCupReEA",
+					"expanded_url": "https://go.alt.ac.uk/2IA1mzk",
+					"display_url": "go.alt.ac.uk/2IA1mzk",
+					"indices": [
+						230,
+						253
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11658,
+			"friends_count": 3521,
+			"listed_count": 571,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 5831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17659,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1552553640",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "1/13 Hello and welcome to ‘Different voices, shared professional practice’. This session is led by @marendeepwell and @mhawksey and explores conversational open blogging practice based on our #VirtualTeams project #PressEdConf19. https://t.co/iBvCupReEA"
+	},
+	{
+		"created_at": "Thu Apr 18 12:46:14 +0000 2019",
+		"id": 1118856766408806400,
+		"id_str": "1118858272600133632",
+		"full_text": "In 5 minutes we'll be posting a series of tweets on behalf of @MarenDeepwell and @mhawksey for their #PressEdConf19 session on  \"Different voices, shared professional practice\" https://t.co/Nehb1TXz9m #altc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PressEdConf19",
+					"indices": [
+						101,
+						115
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						201,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						62,
+						76
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						81,
+						90
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Nehb1TXz9m",
+					"expanded_url": "https://2019.pressedconf.org/?easyconfpr=different-voices-shared-professional-practice",
+					"display_url": "2019.pressedconf.org/?easyconfpr=di…",
+					"indices": [
+						177,
+						200
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11658,
+			"friends_count": 3521,
+			"listed_count": 571,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 5831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17659,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1552553640",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In 5 minutes we'll be posting a series of tweets on behalf of @MarenDeepwell and @mhawksey for their #PressEdConf19 session on  \"Different voices, shared professional practice\" https://t.co/Nehb1TXz9m #altc"
+	},
+	{
+		"created_at": "Thu Apr 18 12:45:42 +0000 2019",
+		"id": 1118857962741612500,
+		"id_str": "1118858139804344321",
+		"full_text": "13:45\nMaren Deepwell and Martin Hawksey / @MarenDeepwell @mhawksey\n\nDifferent voices, shared professional practice\n\nhttps://t.co/TKirZVU68B\n\n#PressEdConf19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PressEdConf19",
+					"indices": [
+						141,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						42,
+						56
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						57,
+						66
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TKirZVU68B",
+					"expanded_url": "https://2019.pressedconf.org/?easyconfpr=different-voices-shared-professional-practice",
+					"display_url": "2019.pressedconf.org/?easyconfpr=di…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 950354717212897300,
+			"id_str": "950354717212897280",
+			"name": "PressED Conf - A tweeting WordPress conference",
+			"screen_name": "pressedconf",
+			"location": "on twitter",
+			"description": "A WordPress Twitter Conference on all things education, pedagogy and research. #pressEDconf19 is on April 18th. Organisers @nlafferty and @pgogy",
+			"url": "https://t.co/PEDIaTNi6H",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PEDIaTNi6H",
+							"expanded_url": "http://2019.pressedconf.org",
+							"display_url": "2019.pressedconf.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1101,
+			"friends_count": 2004,
+			"listed_count": 9,
+			"created_at": "Mon Jan 08 13:13:16 +0000 2018",
+			"favourites_count": 1212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2129,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/950872787018756096/unqqOc3z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/950872787018756096/unqqOc3z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/950354717212897280/1547021544",
+			"profile_link_color": "00FFFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "13:45\nMaren Deepwell and Martin Hawksey / @MarenDeepwell @mhawksey\n\nDifferent voices, shared professional practice\n\nhttps://t.co/TKirZVU68B\n\n#PressEdConf19"
+	},
+	{
+		"created_at": "Thu Apr 18 10:18:54 +0000 2019",
+		"id": 1118821040417845200,
+		"id_str": "1118821196529917952",
+		"full_text": "Brilliant tweets from @KayOddone on the benefits of academic blogging!  I'll be adding a link to Kay's presentation to the resources for our Professional Blogging workshop which I'm teaching this afternoon :)  https://t.co/WUeZjeudP2 #PressEdConf19 https://t.co/jnJw7xNgKw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PressEdConf19",
+					"indices": [
+						234,
+						248
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KayOddone",
+					"name": "Dr Kay Oddone",
+					"id": 8759292,
+					"id_str": "8759292",
+					"indices": [
+						22,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WUeZjeudP2",
+					"expanded_url": "https://thinking.is.ed.ac.uk/professional-blogging/",
+					"display_url": "thinking.is.ed.ac.uk/professional-b…",
+					"indices": [
+						210,
+						233
+					]
+				},
+				{
+					"url": "https://t.co/jnJw7xNgKw",
+					"expanded_url": "https://twitter.com/KayOddone/status/1118812750321373184",
+					"display_url": "twitter.com/KayOddone/stat…",
+					"indices": [
+						249,
+						272
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4016151,
+			"id_str": "4016151",
+			"name": "Lorna M. Campbell",
+			"screen_name": "LornaMCampbell",
+			"location": "Glasgow / University of Edinburgh / Isle of Lewis",
+			"description": "Open education technology, policy & practice @EdinburghUni. @A_L_T, @WikimediaUK & @NauticalHistory Trustee. #oer #openscot #femedtech #cmalt. She/her.",
+			"url": "https://t.co/9HmEQnxTzb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9HmEQnxTzb",
+							"expanded_url": "http://lornamcampbell.org",
+							"display_url": "lornamcampbell.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3868,
+			"friends_count": 2600,
+			"listed_count": 208,
+			"created_at": "Tue Apr 10 11:25:09 +0000 2007",
+			"favourites_count": 29708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34060,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "AFD3F2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/768472775090638851/1bgBAlp7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/768472775090638851/1bgBAlp7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4016151/1445333850",
+			"profile_link_color": "1F59AB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1118812750321373200,
+		"quoted_status_id_str": "1118812750321373184",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jnJw7xNgKw",
+			"expanded": "https://twitter.com/KayOddone/status/1118812750321373184",
+			"display": "twitter.com/KayOddone/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 18 09:45:20 +0000 2019",
+			"id": 1118812750321373200,
+			"id_str": "1118812750321373184",
+			"full_text": "1a.Blogging my #PhD using Wordpress created new learning opportunities &amp; expanded my professional digital identity. Now as a lecturer my blog includes an open learning space for other learners. I'm thrilled to share my #WordPress adventure! https://t.co/5Kw3iazZOJ  #PressEdConf19 https://t.co/n1B0xiKeZo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				284
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PhD",
+						"indices": [
+							15,
+							19
+						]
+					},
+					{
+						"text": "WordPress",
+						"indices": [
+							223,
+							233
+						]
+					},
+					{
+						"text": "PressEdConf19",
+						"indices": [
+							270,
+							284
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5Kw3iazZOJ",
+						"expanded_url": "http://www.linkinglearning.com.au",
+						"display_url": "linkinglearning.com.au",
+						"indices": [
+							245,
+							268
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1118812737876815900,
+						"id_str": "1118812737876815872",
+						"indices": [
+							285,
+							308
+						],
+						"media_url": "http://pbs.twimg.com/media/D4bSQeNUcAA951n.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4bSQeNUcAA951n.jpg",
+						"url": "https://t.co/n1B0xiKeZo",
+						"display_url": "pic.twitter.com/n1B0xiKeZo",
+						"expanded_url": "https://twitter.com/KayOddone/status/1118812750321373184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1118812737876815900,
+						"id_str": "1118812737876815872",
+						"indices": [
+							285,
+							308
+						],
+						"media_url": "http://pbs.twimg.com/media/D4bSQeNUcAA951n.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4bSQeNUcAA951n.jpg",
+						"url": "https://t.co/n1B0xiKeZo",
+						"display_url": "pic.twitter.com/n1B0xiKeZo",
+						"expanded_url": "https://twitter.com/KayOddone/status/1118812750321373184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 8759292,
+				"id_str": "8759292",
+				"name": "Dr Kay Oddone",
+				"screen_name": "KayOddone",
+				"location": "Australia",
+				"description": "Lecturer, researcher & learning addict with library & education background. Loves discovering, creating & sharing knowledge #connectedlearning #openeducator",
+				"url": "https://t.co/99Bom6Pw54",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/99Bom6Pw54",
+								"expanded_url": "http://linkinglearning.com.au",
+								"display_url": "linkinglearning.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3013,
+				"friends_count": 2730,
+				"listed_count": 253,
+				"created_at": "Sun Sep 09 05:38:56 +0000 2007",
+				"favourites_count": 2498,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14472,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2693231917/31abff6878f0ec98cb872058737a9a7f_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2693231917/31abff6878f0ec98cb872058737a9a7f_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/8759292/1399968684",
+				"profile_link_color": "6B00B2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Brilliant tweets from @KayOddone on the benefits of academic blogging!  I'll be adding a link to Kay's presentation to the resources for our Professional Blogging workshop which I'm teaching this afternoon :)  https://t.co/WUeZjeudP2 #PressEdConf19 https://t.co/jnJw7xNgKw"
+	},
+	{
+		"created_at": "Thu Apr 18 08:43:26 +0000 2019",
+		"id": 1118796349531664400,
+		"id_str": "1118797172223483904",
+		"full_text": "At 13:45 @MarenDeepwell and @mhawksey take over @A_L_T to share their approach to conversational blogging as a format for sharing practice in the #PressEdConf19 session \"Different voices, shared professional practice\" https://t.co/Nehb1TXz9m #altc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PressEdConf19",
+					"indices": [
+						146,
+						160
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						242,
+						247
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						9,
+						23
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						28,
+						37
+					]
+				},
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						48,
+						54
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Nehb1TXz9m",
+					"expanded_url": "https://2019.pressedconf.org/?easyconfpr=different-voices-shared-professional-practice",
+					"display_url": "2019.pressedconf.org/?easyconfpr=di…",
+					"indices": [
+						218,
+						241
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11658,
+			"friends_count": 3521,
+			"listed_count": 571,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 5831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17659,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1552553640",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "At 13:45 @MarenDeepwell and @mhawksey take over @A_L_T to share their approach to conversational blogging as a format for sharing practice in the #PressEdConf19 session \"Different voices, shared professional practice\" https://t.co/Nehb1TXz9m #altc"
+	},
+	{
 		"created_at": "Wed Apr 17 20:09:23 +0000 2019",
 		"id": 1118607409545502700,
 		"id_str": "1118607409545502720",
