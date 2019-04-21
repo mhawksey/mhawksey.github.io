@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 20 19:18:32 +0000 2019",
+		"id": 1119529821636374500,
+		"id_str": "1119681773162651649",
+		"full_text": "Inspired by @olivertrussell, I've been meaning to have a go at Google Apps Script for a while and listening to the @EduFuturists podcast reminded me. I found a FREE online course by @benlcollins: 25 video tutorials, it's amazing! Thanks so much, Ben! 💾👨‍💻 https://t.co/xDHestsLZ4 https://t.co/mvsl91UAvQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "olivertrussell",
+					"name": "Oli Trussell",
+					"id": 178723004,
+					"id_str": "178723004",
+					"indices": [
+						12,
+						27
+					]
+				},
+				{
+					"screen_name": "EduFuturists",
+					"name": "EduFuturists",
+					"id": 924687796232753200,
+					"id_str": "924687796232753152",
+					"indices": [
+						115,
+						128
+					]
+				},
+				{
+					"screen_name": "benlcollins",
+					"name": "Ben Collins",
+					"id": 19338407,
+					"id_str": "19338407",
+					"indices": [
+						182,
+						194
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xDHestsLZ4",
+					"expanded_url": "https://courses.benlcollins.com/p/apps-script-blastoff",
+					"display_url": "courses.benlcollins.com/p/apps-script-…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1119529814375977000,
+					"id_str": "1119529814375976961",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D4leb0VW0AEBjSy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4leb0VW0AEBjSy.jpg",
+					"url": "https://t.co/mvsl91UAvQ",
+					"display_url": "pic.twitter.com/mvsl91UAvQ",
+					"expanded_url": "https://twitter.com/Teacher_Luke_UK/status/1119529821636374528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 657,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 373,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1422,
+							"h": 779,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119529814375977000,
+					"id_str": "1119529814375976961",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D4leb0VW0AEBjSy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4leb0VW0AEBjSy.jpg",
+					"url": "https://t.co/mvsl91UAvQ",
+					"display_url": "pic.twitter.com/mvsl91UAvQ",
+					"expanded_url": "https://twitter.com/Teacher_Luke_UK/status/1119529821636374528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 657,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 373,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1422,
+							"h": 779,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1119529819618914300,
+					"id_str": "1119529819618914304",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D4lecH3XsAAKhwA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4lecH3XsAAKhwA.jpg",
+					"url": "https://t.co/mvsl91UAvQ",
+					"display_url": "pic.twitter.com/mvsl91UAvQ",
+					"expanded_url": "https://twitter.com/Teacher_Luke_UK/status/1119529821636374528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 698,
+							"h": 458,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 446,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 698,
+							"h": 458,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1048815610778533900,
+			"id_str": "1048815610778533889",
+			"name": "Luke Craig",
+			"screen_name": "Teacher_Luke_UK",
+			"location": "London, England",
+			"description": "Y4 Teacher | Year Group Leader | Head of ICT | Google Certified Trainer | M.Ed | Often tired, never bored",
+			"url": "https://t.co/zmOolh5KpO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zmOolh5KpO",
+							"expanded_url": "https://sites.google.com/britannia-village.newham.sch.uk/year-4-britannia-village-/home",
+							"display_url": "sites.google.com/britannia-vill…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 449,
+			"friends_count": 818,
+			"listed_count": 2,
+			"created_at": "Sun Oct 07 06:01:42 +0000 2018",
+			"favourites_count": 336,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 189,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1049387459035967491/Euav6EcM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049387459035967491/Euav6EcM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1048815610778533889/1538894303",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Inspired by @olivertrussell, I've been meaning to have a go at Google Apps Script for a while and listening to the @EduFuturists podcast reminded me. I found a FREE online course by @benlcollins: 25 video tutorials, it's amazing! Thanks so much, Ben! 💾👨‍💻 https://t.co/xDHestsLZ4 https://t.co/mvsl91UAvQ"
+	},
+	{
 		"created_at": "Fri Apr 19 16:51:56 +0000 2019",
 		"id": 1119282493268602900,
 		"id_str": "1119282493268602880",
