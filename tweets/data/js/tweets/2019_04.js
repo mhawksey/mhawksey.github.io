@@ -1,6 +1,1184 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 26 21:08:53 +0000 2019",
+		"id": 1121770631358492700,
+		"id_str": "1121883871472246786",
+		"full_text": "Wonderful 60 second intro to Apps Script! #AppsScript #GoogleSheets 👏 https://t.co/8p05ce9QRq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AppsScript",
+					"indices": [
+						42,
+						53
+					]
+				},
+				{
+					"text": "GoogleSheets",
+					"indices": [
+						54,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8p05ce9QRq",
+					"expanded_url": "https://twitter.com/WomenTechmakers/status/1121134330003193858",
+					"display_url": "twitter.com/WomenTechmaker…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19338407,
+			"id_str": "19338407",
+			"name": "Ben Collins",
+			"screen_name": "benlcollins",
+			"location": "St Petersburg, FL",
+			"description": "I teach online courses. Google Developer Expert for G Suite, focussed on G Sheets/Data Studio/Apps Script.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2959,
+			"friends_count": 394,
+			"listed_count": 248,
+			"created_at": "Thu Jan 22 13:43:22 +0000 2009",
+			"favourites_count": 5979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7271,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CFCFCF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/966495721598935040/y1KUcaEN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/966495721598935040/y1KUcaEN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19338407/1415055908",
+			"profile_link_color": "619DE6",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "ECFFD6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1121134330003193900,
+		"quoted_status_id_str": "1121134330003193858",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8p05ce9QRq",
+			"expanded": "https://twitter.com/WomenTechmakers/status/1121134330003193858",
+			"display": "twitter.com/WomenTechmaker…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 24 19:30:28 +0000 2019",
+			"id": 1121134330003193900,
+			"id_str": "1121134330003193858",
+			"full_text": "Do you make the same formatting changes in spreadsheets over and over?🤦🏾‍♀️Ever wish on the spreadsheet fairies to clean up your tables?💻✨\n\n⏰ In 60 Seconds, we'll show you how to use Google Apps Script to get your sheets magical in no time → https://t.co/d3RTbyaHbn https://t.co/imcwotWYcp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				265
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/d3RTbyaHbn",
+						"expanded_url": "http://bit.ly/2L1L9pz",
+						"display_url": "bit.ly/2L1L9pz",
+						"indices": [
+							242,
+							265
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1121134167297806300,
+						"id_str": "1121134167297806336",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1121134167297806336/pu/img/4MqQVcXFZn6HYXsK.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1121134167297806336/pu/img/4MqQVcXFZn6HYXsK.jpg",
+						"url": "https://t.co/imcwotWYcp",
+						"display_url": "pic.twitter.com/imcwotWYcp",
+						"expanded_url": "https://twitter.com/WomenTechmakers/status/1121134330003193858/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1121134167297806300,
+						"id_str": "1121134167297806336",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1121134167297806336/pu/img/4MqQVcXFZn6HYXsK.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1121134167297806336/pu/img/4MqQVcXFZn6HYXsK.jpg",
+						"url": "https://t.co/imcwotWYcp",
+						"display_url": "pic.twitter.com/imcwotWYcp",
+						"expanded_url": "https://twitter.com/WomenTechmakers/status/1121134330003193858/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 105522,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1121134167297806336/pu/vid/320x180/uE3CtS8i06eZ7ifB.mp4?tag=8"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1121134167297806336/pu/pl/iQix1PYFr05xJDSN.m3u8?tag=8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1121134167297806336/pu/vid/640x360/b-ZHmgtBFYIw0c4B.mp4?tag=8"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1121134167297806336/pu/vid/1280x720/xFIn7ip2p2WEteXk.mp4?tag=8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2362618909,
+				"id_str": "2362618909",
+				"name": "Women Techmakers",
+				"screen_name": "WomenTechmakers",
+				"location": "",
+				"description": "Google's global program providing visibility, community, & resources for women in technology.",
+				"url": "http://t.co/XaOHNXWSxj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/XaOHNXWSxj",
+								"expanded_url": "http://WomenTechmakers.com",
+								"display_url": "WomenTechmakers.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 106837,
+				"friends_count": 662,
+				"listed_count": 816,
+				"created_at": "Wed Feb 26 12:30:39 +0000 2014",
+				"favourites_count": 9443,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3347,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1093585928642162688/oVdX1KD-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093585928642162688/oVdX1KD-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2362618909/1525997421",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 39,
+			"favorite_count": 122,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wonderful 60 second intro to Apps Script! #AppsScript #GoogleSheets 👏 https://t.co/8p05ce9QRq"
+	},
+	{
+		"created_at": "Fri Apr 26 19:06:57 +0000 2019",
+		"id": 1119263536100724700,
+		"id_str": "1121853187365986305",
+		"full_text": "Pretty happy about the growth in the Apps Script CLI downloads per week! #clasp #appsscript #gsuitedevs https://t.co/LC0cyGXx8U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "clasp",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "appsscript",
+					"indices": [
+						80,
+						91
+					]
+				},
+				{
+					"text": "gsuitedevs",
+					"indices": [
+						92,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119263054489739300,
+					"id_str": "1119263054489739264",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/D4hr0WUUYAAeN3g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4hr0WUUYAAeN3g.jpg",
+					"url": "https://t.co/LC0cyGXx8U",
+					"display_url": "pic.twitter.com/LC0cyGXx8U",
+					"expanded_url": "https://twitter.com/granttimmerman/status/1119263536100724736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 663,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1131,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 375,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119263054489739300,
+					"id_str": "1119263054489739264",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/D4hr0WUUYAAeN3g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4hr0WUUYAAeN3g.jpg",
+					"url": "https://t.co/LC0cyGXx8U",
+					"display_url": "pic.twitter.com/LC0cyGXx8U",
+					"expanded_url": "https://twitter.com/granttimmerman/status/1119263536100724736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 663,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1131,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 375,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 184626074,
+			"id_str": "184626074",
+			"name": "Grant Timmerman🦁",
+			"screen_name": "granttimmerman",
+			"location": "San Francisco",
+			"description": "Googler working on Cloud https://t.co/J6EYkWJnId",
+			"url": "https://t.co/QI2hOVeL7V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QI2hOVeL7V",
+							"expanded_url": "http://grant.cm",
+							"display_url": "grant.cm",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/J6EYkWJnId",
+							"expanded_url": "http://github.com/grant",
+							"display_url": "github.com/grant",
+							"indices": [
+								25,
+								48
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 501,
+			"friends_count": 718,
+			"listed_count": 27,
+			"created_at": "Mon Aug 30 01:57:54 +0000 2010",
+			"favourites_count": 1656,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1033,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3434900432/97654009458b9c877fa45e4aa25f61cf_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3434900432/97654009458b9c877fa45e4aa25f61cf_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/184626074/1403410379",
+			"profile_link_color": "EBA417",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pretty happy about the growth in the Apps Script CLI downloads per week! #clasp #appsscript #gsuitedevs https://t.co/LC0cyGXx8U"
+	},
+	{
+		"created_at": "Fri Apr 26 17:55:22 +0000 2019",
+		"id": 1121835171752349700,
+		"id_str": "1121835171752349696",
+		"full_text": "@erickoleda Cool! I'll add a note in the post in case it helps others :)",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erickoleda",
+					"name": "Eric Koleda",
+					"id": 191872042,
+					"id_str": "191872042",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1121834325698334700,
+		"in_reply_to_status_id_str": "1121834325698334721",
+		"in_reply_to_user_id": 191872042,
+		"in_reply_to_user_id_str": "191872042",
+		"in_reply_to_screen_name": "erickoleda",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, G Suite \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8073,
+			"friends_count": 2218,
+			"listed_count": 595,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5373,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28176,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@erickoleda Cool! I'll add a note in the post in case it helps others :)"
+	},
+	{
+		"created_at": "Fri Apr 26 17:31:24 +0000 2019",
+		"id": 1121829142301900800,
+		"id_str": "1121829142301900800",
+		"full_text": "Amazon's system for tracking its warehouse workers can automatically fire them - via @techreview https://t.co/23rAqHUd91",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "techreview",
+					"name": "MIT Technology Review",
+					"id": 15808647,
+					"id_str": "15808647",
+					"indices": [
+						85,
+						96
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/23rAqHUd91",
+					"expanded_url": "https://www.technologyreview.com/f/613434/amazons-system-for-tracking-its-warehouse-workers-can-automatically-fire-them/?utm_campaign=site_visitor.unpaid.engagement&utm_source=twitter&utm_medium=social_share&utm_content=2019-04-26",
+					"display_url": "technologyreview.com/f/613434/amazo…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, G Suite \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8073,
+			"friends_count": 2218,
+			"listed_count": 595,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5373,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28176,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Amazon's system for tracking its warehouse workers can automatically fire them - via @techreview https://t.co/23rAqHUd91"
+	},
+	{
+		"created_at": "Fri Apr 26 14:45:05 +0000 2019",
+		"id": 1121787285979066400,
+		"id_str": "1121787285979066369",
+		"full_text": "Google Apps Script Patterns: Writing custom formulas/functions and handling single and range inputs #GoogleAppsScript #GSuiteDevs https://t.co/SFriEqKOET",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						100,
+						117
+					]
+				},
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						118,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SFriEqKOET",
+					"expanded_url": "https://mashe.hawksey.info/2019/04/google-apps-script-patterns-writing-custom-formulas-functions-and-handling-single-and-range-inputs/",
+					"display_url": "mashe.hawksey.info/2019/04/google…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, G Suite \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8073,
+			"friends_count": 2218,
+			"listed_count": 595,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5373,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28176,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Google Apps Script Patterns: Writing custom formulas/functions and handling single and range inputs #GoogleAppsScript #GSuiteDevs https://t.co/SFriEqKOET"
+	},
+	{
+		"created_at": "Fri Apr 26 12:33:45 +0000 2019",
+		"id": 1121752333057187800,
+		"id_str": "1121754235740348416",
+		"full_text": "Want to help run a great learning technology organisation? We are looking for two new elected Trustees and applicants for Vice-Chair of @A_L_T. Find out more at https://t.co/WoxwbNjaim Contact any of us if you would like to know more about being a Trustee #altc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						256,
+						261
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						136,
+						142
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WoxwbNjaim",
+					"expanded_url": "https://www.alt.ac.uk/news/all_news/2019-annual-general-meeting-and-trustee-elections",
+					"display_url": "alt.ac.uk/news/all_news/…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 69575271,
+			"id_str": "69575271",
+			"name": "Daniel Clark",
+			"screen_name": "danielclarkfca",
+			"location": "Shrewsbury, England",
+			"description": "Head of content creation @BPPGroup Prof Quals, PhD student @EdResLancaster, Trustee @A_L_T, Fellow @ICAEW, Member @LibDems. All views personal",
+			"url": "https://t.co/j4xy2qmjp4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j4xy2qmjp4",
+							"expanded_url": "http://learningshrew.wordpress.com",
+							"display_url": "learningshrew.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 1008,
+			"listed_count": 83,
+			"created_at": "Fri Aug 28 12:29:29 +0000 2009",
+			"favourites_count": 1360,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5661,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1041004972551405569/k7toffQ7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1041004972551405569/k7toffQ7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/69575271/1534778117",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Want to help run a great learning technology organisation? We are looking for two new elected Trustees and applicants for Vice-Chair of @A_L_T. Find out more at https://t.co/WoxwbNjaim Contact any of us if you would like to know more about being a Trustee #altc"
+	},
+	{
+		"created_at": "Fri Apr 26 05:59:04 +0000 2019",
+		"id": 1121654909516931100,
+		"id_str": "1121654909516931072",
+		"full_text": "Last night there was a moth and a spider in our bath ... now there is just a spider https://t.co/KwGzZfg5F6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1121654900734120000,
+					"id_str": "1121654900734119936",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/D5DrMH7VUAAx5hG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5DrMH7VUAAx5hG.jpg",
+					"url": "https://t.co/KwGzZfg5F6",
+					"display_url": "pic.twitter.com/KwGzZfg5F6",
+					"expanded_url": "https://twitter.com/mhawksey/status/1121654909516931072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1121654900734120000,
+					"id_str": "1121654900734119936",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/D5DrMH7VUAAx5hG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5DrMH7VUAAx5hG.jpg",
+					"url": "https://t.co/KwGzZfg5F6",
+					"display_url": "pic.twitter.com/KwGzZfg5F6",
+					"expanded_url": "https://twitter.com/mhawksey/status/1121654909516931072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, G Suite \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8073,
+			"friends_count": 2218,
+			"listed_count": 595,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5373,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28176,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Last night there was a moth and a spider in our bath ... now there is just a spider https://t.co/KwGzZfg5F6"
+	},
+	{
 		"created_at": "Thu Apr 25 11:15:04 +0000 2019",
 		"id": 1121372047182127100,
 		"id_str": "1121372047182127104",
