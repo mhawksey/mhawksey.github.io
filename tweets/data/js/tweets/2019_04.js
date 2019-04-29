@@ -1,6 +1,296 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 28 09:32:10 +0000 2019",
+		"id": 1122433315531886600,
+		"id_str": "1122433315531886592",
+		"full_text": "@scotlandlouise @SFaulknerPandO thanks both ... it's a good course of you like that sort of thing :)",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "scotlandlouise",
+					"name": "Louise Jones",
+					"id": 11687372,
+					"id_str": "11687372",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "SFaulknerPandO",
+					"name": "Suzanne Faulkner",
+					"id": 859771153321259000,
+					"id_str": "859771153321259009",
+					"indices": [
+						16,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1122401555699961900,
+		"in_reply_to_status_id_str": "1122401555699961856",
+		"in_reply_to_user_id": 11687372,
+		"in_reply_to_user_id_str": "11687372",
+		"in_reply_to_screen_name": "scotlandlouise",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, G Suite \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8069,
+			"friends_count": 2218,
+			"listed_count": 595,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28179,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@scotlandlouise @SFaulknerPandO thanks both ... it's a good course of you like that sort of thing :)"
+	},
+	{
+		"created_at": "Sun Apr 28 09:29:11 +0000 2019",
+		"id": 1122432563707088900,
+		"id_str": "1122432563707088896",
+		"full_text": "... and across the finish line 1hr30ish :) https://t.co/rcjuKdPLpE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1122432544023171100,
+					"id_str": "1122432544023171073",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/D5Ouc67W0AEa8bI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5Ouc67W0AEa8bI.jpg",
+					"url": "https://t.co/rcjuKdPLpE",
+					"display_url": "pic.twitter.com/rcjuKdPLpE",
+					"expanded_url": "https://twitter.com/mhawksey/status/1122432563707088896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1122432544023171100,
+					"id_str": "1122432544023171073",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/D5Ouc67W0AEa8bI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5Ouc67W0AEa8bI.jpg",
+					"url": "https://t.co/rcjuKdPLpE",
+					"display_url": "pic.twitter.com/rcjuKdPLpE",
+					"expanded_url": "https://twitter.com/mhawksey/status/1122432563707088896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1122392755030851600,
+		"in_reply_to_status_id_str": "1122392755030851585",
+		"in_reply_to_user_id": 13046992,
+		"in_reply_to_user_id_str": "13046992",
+		"in_reply_to_screen_name": "mhawksey",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, G Suite \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8069,
+			"friends_count": 2218,
+			"listed_count": 595,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28179,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "... and across the finish line 1hr30ish :) https://t.co/rcjuKdPLpE"
+	},
+	{
 		"created_at": "Fri Apr 26 21:08:53 +0000 2019",
 		"id": 1121770631358492700,
 		"id_str": "1121883871472246786",
@@ -111,7 +401,7 @@ Grailbird.data.tweets_2019_04 =
 			"created_at": "Wed Apr 24 19:30:28 +0000 2019",
 			"id": 1121134330003193900,
 			"id_str": "1121134330003193858",
-			"full_text": "Do you make the same formatting changes in spreadsheets over and over?🤦🏾‍♀️Ever wish on the spreadsheet fairies to clean up your tables?💻✨\n\n⏰ In 60 Seconds, we'll show you how to use Google Apps Script to get your sheets magical in no time → https://t.co/d3RTbyaHbn https://t.co/imcwotWYcp",
+			"full_text": "Do you make the same formatting changes in spreadsheets over and over?🤦🏾♀️Ever wish on the spreadsheet fairies to clean up your tables?💻✨\n\n⏰ In 60 Seconds, we'll show you how to use Google Apps Script to get your sheets magical in no time → https://t.co/d3RTbyaHbn https://t.co/imcwotWYcp",
 			"truncated": false,
 			"display_text_range": [
 				0,
