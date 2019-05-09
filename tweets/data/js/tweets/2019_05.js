@@ -1,6 +1,525 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 08 19:37:15 +0000 2019",
+		"id": 1125785928402972700,
+		"id_str": "1126209465789890560",
+		"full_text": "New Blog: Nice to CC you...\nI'll be at the @creativecommons summit in Lisbon this week encouraging people to remix postage stamps... \n#ccsummit #remixerMachine\nhttps://t.co/CtP27dmzjf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ccsummit",
+					"indices": [
+						134,
+						143
+					]
+				},
+				{
+					"text": "remixerMachine",
+					"indices": [
+						144,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "creativecommons",
+					"name": "Creative Commons",
+					"id": 17462723,
+					"id_str": "17462723",
+					"indices": [
+						43,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CtP27dmzjf",
+					"expanded_url": "https://visualthinkery.com/nice-to-cc-you-postage-stamp/",
+					"display_url": "visualthinkery.com/nice-to-cc-you…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37933636,
+			"id_str": "37933636",
+			"name": "Bryan Mathers",
+			"screen_name": "BryanMMathers",
+			"location": "London, Glasgow, Ireland...",
+			"description": "First I listen, then I draw my listen.\nFounder @visualthinkery. Founding member @weareopenCoop.",
+			"url": "https://t.co/7sQRZ5Eafa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7sQRZ5Eafa",
+							"expanded_url": "http://VisualThinkery.com",
+							"display_url": "VisualThinkery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3352,
+			"friends_count": 764,
+			"listed_count": 233,
+			"created_at": "Tue May 05 14:27:29 +0000 2009",
+			"favourites_count": 6229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5043,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068196939618025473/1K9_NOaF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068196939618025473/1K9_NOaF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37933636/1507734948",
+			"profile_link_color": "2F495A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New Blog: Nice to CC you...\nI'll be at the @creativecommons summit in Lisbon this week encouraging people to remix postage stamps... \n#ccsummit #remixerMachine\nhttps://t.co/CtP27dmzjf"
+	},
+	{
+		"created_at": "Wed May 08 18:39:01 +0000 2019",
+		"id": 1126193253878042600,
+		"id_str": "1126194811139252224",
+		"full_text": "Virtually Connecting at the Creative Commons Global Summit in Lisbon https://t.co/NeB769Cjig https://t.co/GTlwdyoSkR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NeB769Cjig",
+					"expanded_url": "http://virtuallyconnecting.org/blog/2019/05/08/virtually-connecting-at-the-creative-commons-global-summit-in-lisbon/",
+					"display_url": "virtuallyconnecting.org/blog/2019/05/0…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1126193252137353200,
+					"id_str": "1126193252137353218",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/D6EKy8YWwAIBIWa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6EKy8YWwAIBIWa.jpg",
+					"url": "https://t.co/GTlwdyoSkR",
+					"display_url": "pic.twitter.com/GTlwdyoSkR",
+					"expanded_url": "https://twitter.com/VConnecting/status/1126193253878042629/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126193252137353200,
+					"id_str": "1126193252137353218",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/D6EKy8YWwAIBIWa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6EKy8YWwAIBIWa.jpg",
+					"url": "https://t.co/GTlwdyoSkR",
+					"display_url": "pic.twitter.com/GTlwdyoSkR",
+					"expanded_url": "https://twitter.com/VConnecting/status/1126193253878042629/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3230962884,
+			"id_str": "3230962884",
+			"name": "Virtually Connecting conversation not presentation",
+			"screen_name": "VConnecting",
+			"location": "On the Internet - Virtually",
+			"description": "Ur seat at the global campfire. Open virtual participation in events via volunteer buddies\nCo-directors @rjhogue @bali_maha @autumm @friedelitis @hj_dewaard",
+			"url": "https://t.co/8KNfhJ5FwL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8KNfhJ5FwL",
+							"expanded_url": "http://virtuallyconnecting.org",
+							"display_url": "virtuallyconnecting.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2178,
+			"friends_count": 1599,
+			"listed_count": 99,
+			"created_at": "Sat May 30 20:17:07 +0000 2015",
+			"favourites_count": 7936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5117,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/649000734860673024/pGX0zcux_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/649000734860673024/pGX0zcux_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3230962884/1443566491",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Virtually Connecting at the Creative Commons Global Summit in Lisbon https://t.co/NeB769Cjig https://t.co/GTlwdyoSkR"
+	},
+	{
+		"created_at": "Wed May 08 16:12:43 +0000 2019",
+		"id": 1126157994687979500,
+		"id_str": "1126157994687979520",
+		"full_text": "@brumface ... you've got #domains19 mail - @MarenDeepwell has entrusted me to hand delivered a small gift for you :) https://t.co/A0yRgZxgm4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "domains19",
+					"indices": [
+						25,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brumface",
+					"name": "Lauren Brumfield",
+					"id": 60716903,
+					"id_str": "60716903",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						43,
+						57
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1126157977080221700,
+					"id_str": "1126157977080221697",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/D6DqtqjW0AEIL90.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6DqtqjW0AEIL90.jpg",
+					"url": "https://t.co/A0yRgZxgm4",
+					"display_url": "pic.twitter.com/A0yRgZxgm4",
+					"expanded_url": "https://twitter.com/mhawksey/status/1126157994687979520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126157977080221700,
+					"id_str": "1126157977080221697",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/D6DqtqjW0AEIL90.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6DqtqjW0AEIL90.jpg",
+					"url": "https://t.co/A0yRgZxgm4",
+					"display_url": "pic.twitter.com/A0yRgZxgm4",
+					"expanded_url": "https://twitter.com/mhawksey/status/1126157994687979520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 60716903,
+		"in_reply_to_user_id_str": "60716903",
+		"in_reply_to_screen_name": "brumface",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, G Suite \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8077,
+			"friends_count": 2223,
+			"listed_count": 597,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5438,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28214,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@brumface ... you've got #domains19 mail - @MarenDeepwell has entrusted me to hand delivered a small gift for you :) https://t.co/A0yRgZxgm4"
+	},
+	{
 		"created_at": "Tue May 07 18:56:18 +0000 2019",
 		"id": 1125836773710540800,
 		"id_str": "1125836773710540800",
