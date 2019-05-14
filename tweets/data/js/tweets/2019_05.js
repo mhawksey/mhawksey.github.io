@@ -1,6 +1,379 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 13 20:11:41 +0000 2019",
+		"id": 1128030073297227800,
+		"id_str": "1128030073297227776",
+		"full_text": "Got to try this out at #CCSummit and looked excellent #altc #PLSig https://t.co/x8q6o72U2s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CCSummit",
+					"indices": [
+						23,
+						32
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						54,
+						59
+					]
+				},
+				{
+					"text": "PLSig",
+					"indices": [
+						60,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x8q6o72U2s",
+					"expanded_url": "https://twitter.com/jsecker/status/1127949908336623616",
+					"display_url": "twitter.com/jsecker/status…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech Officer @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8089,
+			"friends_count": 2237,
+			"listed_count": 597,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28267,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1127949908336623600,
+		"quoted_status_id_str": "1127949908336623616",
+		"quoted_status_permalink": {
+			"url": "https://t.co/x8q6o72U2s",
+			"expanded": "https://twitter.com/jsecker/status/1127949908336623616",
+			"display": "twitter.com/jsecker/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 13 14:53:09 +0000 2019",
+			"id": 1127949908336623600,
+			"id_str": "1127949908336623616",
+			"full_text": "Launched last week at the #CCSummit, Copyright the Card Game v3.0. Read our blog post from @UKCopyrightLit https://t.co/CdTUp2w3rW where it was great to meet the international team and other card game creators https://t.co/nUJTNKwssR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				209
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CCSummit",
+						"indices": [
+							26,
+							35
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UKCopyrightLit",
+						"name": "UK CopyrightLiteracy",
+						"id": 3865085596,
+						"id_str": "3865085596",
+						"indices": [
+							91,
+							106
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/CdTUp2w3rW",
+						"expanded_url": "https://copyrightliteracy.org/2019/05/13/copyright-the-card-game-v3-0-soft-launch-at-cc-summit-2019/",
+						"display_url": "copyrightliteracy.org/2019/05/13/cop…",
+						"indices": [
+							107,
+							130
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1127949519902138400,
+						"id_str": "1127949519902138368",
+						"indices": [
+							210,
+							233
+						],
+						"media_url": "http://pbs.twimg.com/media/D6dIHLpW4AATJ-y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6dIHLpW4AATJ-y.jpg",
+						"url": "https://t.co/nUJTNKwssR",
+						"display_url": "pic.twitter.com/nUJTNKwssR",
+						"expanded_url": "https://twitter.com/jsecker/status/1127949908336623616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1127949519902138400,
+						"id_str": "1127949519902138368",
+						"indices": [
+							210,
+							233
+						],
+						"media_url": "http://pbs.twimg.com/media/D6dIHLpW4AATJ-y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6dIHLpW4AATJ-y.jpg",
+						"url": "https://t.co/nUJTNKwssR",
+						"display_url": "pic.twitter.com/nUJTNKwssR",
+						"expanded_url": "https://twitter.com/jsecker/status/1127949908336623616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1127949896034717700,
+						"id_str": "1127949896034717696",
+						"indices": [
+							210,
+							233
+						],
+						"media_url": "http://pbs.twimg.com/media/D6dIdE2WkAAFo4W.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6dIdE2WkAAFo4W.jpg",
+						"url": "https://t.co/nUJTNKwssR",
+						"display_url": "pic.twitter.com/nUJTNKwssR",
+						"expanded_url": "https://twitter.com/jsecker/status/1127949908336623616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 415,
+								"h": 513,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 415,
+								"h": 513,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 415,
+								"h": 513,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20975165,
+				"id_str": "20975165",
+				"name": "Dr Jane Secker",
+				"screen_name": "jsecker",
+				"location": "London",
+				"description": "Senior Lecturer in Educational Development. Interests include information & digital literacy, copyright education. Chair of CILIP Information Literacy Group.",
+				"url": "https://t.co/zjkM1hPT3G",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zjkM1hPT3G",
+								"expanded_url": "http://janesecker.wordpress.com/",
+								"display_url": "janesecker.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4617,
+				"friends_count": 1596,
+				"listed_count": 278,
+				"created_at": "Mon Feb 16 10:21:36 +0000 2009",
+				"favourites_count": 11248,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18155,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/908824528847036416/9RfPeAFF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/908824528847036416/9RfPeAFF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20975165/1526247070",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Got to try this out at #CCSummit and looked excellent #altc #PLSig https://t.co/x8q6o72U2s"
+	},
+	{
 		"created_at": "Sat May 11 16:37:19 +0000 2019",
 		"id": 1127251350650269700,
 		"id_str": "1127251350650269696",
