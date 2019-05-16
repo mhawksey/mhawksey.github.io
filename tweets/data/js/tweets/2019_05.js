@@ -1,6 +1,1248 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 15 14:02:40 +0000 2019",
+		"id": 1128654269345878000,
+		"id_str": "1128661979164491778",
+		"full_text": "Make it happen, people! #Domains19 https://t.co/LBZDbBR7vM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Domains19",
+					"indices": [
+						24,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LBZDbBR7vM",
+					"expanded_url": "https://twitter.com/brumface/status/1128650778145636352",
+					"display_url": "twitter.com/brumface/statu…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1602053274,
+			"id_str": "1602053274",
+			"name": "Reclaim Hosting",
+			"screen_name": "ReclaimHosting",
+			"location": "",
+			"description": "Reclaim Hosting provides educators and institutions with an easy way to offer their students domains and web hosting that they own and control.\n@DomainsConf",
+			"url": "https://t.co/7YLSpKrSJW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7YLSpKrSJW",
+							"expanded_url": "https://reclaimhosting.com",
+							"display_url": "reclaimhosting.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1515,
+			"friends_count": 269,
+			"listed_count": 52,
+			"created_at": "Wed Jul 17 23:35:51 +0000 2013",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2360,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986364029651357696/VvHYmotd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986364029651357696/VvHYmotd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1602053274/1524002583",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1128650778145636400,
+		"quoted_status_id_str": "1128650778145636352",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LBZDbBR7vM",
+			"expanded": "https://twitter.com/brumface/status/1128650778145636352",
+			"display": "twitter.com/brumface/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 15 13:18:09 +0000 2019",
+			"id": 1128650778145636400,
+			"id_str": "1128650778145636352",
+			"full_text": "Procrastinators, this one's for you: today is your *last day* to register for @DomainsConf. We still have a few seats left, so lock it in: https://t.co/SiyO5kotlQ #DOMAINS19 https://t.co/boKpCrx9Tc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				173
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DOMAINS19",
+						"indices": [
+							163,
+							173
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DomainsConf",
+						"name": "DOMAINS 19",
+						"id": 808349016157257700,
+						"id_str": "808349016157257728",
+						"indices": [
+							78,
+							90
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/SiyO5kotlQ",
+						"expanded_url": "https://domains.reclaimhosting.com/register/",
+						"display_url": "domains.reclaimhosting.com/register/",
+						"indices": [
+							139,
+							162
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1128650567864156200,
+						"id_str": "1128650567864156161",
+						"indices": [
+							174,
+							197
+						],
+						"media_url": "http://pbs.twimg.com/media/D6nFti0WAAE_2ra.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6nFti0WAAE_2ra.jpg",
+						"url": "https://t.co/boKpCrx9Tc",
+						"display_url": "pic.twitter.com/boKpCrx9Tc",
+						"expanded_url": "https://twitter.com/brumface/status/1128650778145636352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1128650567864156200,
+						"id_str": "1128650567864156161",
+						"indices": [
+							174,
+							197
+						],
+						"media_url": "http://pbs.twimg.com/media/D6nFti0WAAE_2ra.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6nFti0WAAE_2ra.jpg",
+						"url": "https://t.co/boKpCrx9Tc",
+						"display_url": "pic.twitter.com/boKpCrx9Tc",
+						"expanded_url": "https://twitter.com/brumface/status/1128650778145636352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 60716903,
+				"id_str": "60716903",
+				"name": "Lauren Brumfield",
+				"screen_name": "brumface",
+				"location": "Pensacola, FL",
+				"description": "I like to write, design, and talk about @ReclaimHosting",
+				"url": "https://t.co/H7lXS2DGUs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/H7lXS2DGUs",
+								"expanded_url": "http://labrumfield.com",
+								"display_url": "labrumfield.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 518,
+				"friends_count": 394,
+				"listed_count": 13,
+				"created_at": "Mon Jul 27 21:33:40 +0000 2009",
+				"favourites_count": 4325,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5005,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C5EBDC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/928657549787848704/zpA56LEZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/928657549787848704/zpA56LEZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/60716903/1555691420",
+				"profile_link_color": "C3B2A0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "332F2B",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Make it happen, people! #Domains19 https://t.co/LBZDbBR7vM"
+	},
+	{
+		"created_at": "Wed May 15 12:42:08 +0000 2019",
+		"id": 1128641716234408000,
+		"id_str": "1128641716234407938",
+		"full_text": "@redcrew ... we were testing this also in Google Hangout Meets and it was amazing how accurate it was, and quick!",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "redcrew",
+					"name": "Deborah Edwards-Onoro",
+					"id": 8556552,
+					"id_str": "8556552",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1128636172937437200,
+		"in_reply_to_status_id_str": "1128636172937437184",
+		"in_reply_to_user_id": 8556552,
+		"in_reply_to_user_id_str": "8556552",
+		"in_reply_to_screen_name": "redcrew",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech Officer @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8092,
+			"friends_count": 2238,
+			"listed_count": 597,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5497,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28279,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@redcrew ... we were testing this also in Google Hangout Meets and it was amazing how accurate it was, and quick!"
+	},
+	{
+		"created_at": "Wed May 15 11:27:17 +0000 2019",
+		"id": 1128621058779746300,
+		"id_str": "1128622876519817217",
+		"full_text": "'Equality in Learning Technology: New insights from ALT's Annual Survey' - Join @MarenDeepwell &amp; @mhawksey for this webinar starting in 10 minutes, free to attend and open to all #altc  https://t.co/67oHc32z85 https://t.co/rsODjWnhvH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						183,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						80,
+						94
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						101,
+						110
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/67oHc32z85",
+					"expanded_url": "https://go.alt.ac.uk/2Y0baYV",
+					"display_url": "go.alt.ac.uk/2Y0baYV",
+					"indices": [
+						190,
+						213
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1128620832698323000,
+					"id_str": "1128620832698322946",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/D6mqqusW0AI8AGs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6mqqusW0AI8AGs.jpg",
+					"url": "https://t.co/rsODjWnhvH",
+					"display_url": "pic.twitter.com/rsODjWnhvH",
+					"expanded_url": "https://twitter.com/A_L_T/status/1128621058779746306/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1128620832698323000,
+					"id_str": "1128620832698322946",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/D6mqqusW0AI8AGs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6mqqusW0AI8AGs.jpg",
+					"url": "https://t.co/rsODjWnhvH",
+					"display_url": "pic.twitter.com/rsODjWnhvH",
+					"expanded_url": "https://twitter.com/A_L_T/status/1128621058779746306/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11733,
+			"friends_count": 3533,
+			"listed_count": 572,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 5959,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17845,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1552553640",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'Equality in Learning Technology: New insights from ALT's Annual Survey' - Join @MarenDeepwell &amp; @mhawksey for this webinar starting in 10 minutes, free to attend and open to all #altc  https://t.co/67oHc32z85 https://t.co/rsODjWnhvH"
+	},
+	{
+		"created_at": "Wed May 15 11:26:36 +0000 2019",
+		"id": 1128622706327478300,
+		"id_str": "1128622706327478272",
+		"full_text": "@erickoleda @martinomander @BretMcG ... Sheets are great for the inverse definition of big data i.e. low volume, velocity ... perhaps not variety ;)",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erickoleda",
+					"name": "Eric Koleda",
+					"id": 191872042,
+					"id_str": "191872042",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "martinomander",
+					"name": "Martin Omander",
+					"id": 19045596,
+					"id_str": "19045596",
+					"indices": [
+						12,
+						26
+					]
+				},
+				{
+					"screen_name": "BretMcG",
+					"name": "Bret McGowen 🦝",
+					"id": 213455686,
+					"id_str": "213455686",
+					"indices": [
+						27,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1127934878224388100,
+		"in_reply_to_status_id_str": "1127934878224388098",
+		"in_reply_to_user_id": 191872042,
+		"in_reply_to_user_id_str": "191872042",
+		"in_reply_to_screen_name": "erickoleda",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech Officer @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8092,
+			"friends_count": 2238,
+			"listed_count": 597,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5497,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28279,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@erickoleda @martinomander @BretMcG ... Sheets are great for the inverse definition of big data i.e. low volume, velocity ... perhaps not variety ;)"
+	},
+	{
+		"created_at": "Wed May 15 11:15:18 +0000 2019",
+		"id": 1127934878224388100,
+		"id_str": "1128619861830250497",
+		"full_text": "Last week I was having a chat with @martinomander and @BretMcG about best practices around using Google Sheets as a database, a topic that comes up fairly often and has some nuance around it. I've written up that advice in a new blog post, take a look! https://t.co/i8KRFSMQlZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "martinomander",
+					"name": "Martin Omander",
+					"id": 19045596,
+					"id_str": "19045596",
+					"indices": [
+						35,
+						49
+					]
+				},
+				{
+					"screen_name": "BretMcG",
+					"name": "Bret McGowen 🦝",
+					"id": 213455686,
+					"id_str": "213455686",
+					"indices": [
+						54,
+						62
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/i8KRFSMQlZ",
+					"expanded_url": "https://medium.com/@eric_koleda/why-you-shouldnt-use-google-sheets-as-a-database-55958ea85d17?source=friends_link&sk=13057f0c0a18b19bd70dd381ce880005",
+					"display_url": "medium.com/@eric_koleda/w…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 191872042,
+			"id_str": "191872042",
+			"name": "Eric Koleda",
+			"screen_name": "erickoleda",
+			"location": "New York, NY",
+			"description": "A Developer Programs Engineer at Google working on G Suite APIs and developer products.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 688,
+			"friends_count": 163,
+			"listed_count": 25,
+			"created_at": "Fri Sep 17 15:41:20 +0000 2010",
+			"favourites_count": 711,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 711,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963234010251038721/vQpeZv_j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963234010251038721/vQpeZv_j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/191872042/1478717083",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Last week I was having a chat with @martinomander and @BretMcG about best practices around using Google Sheets as a database, a topic that comes up fairly often and has some nuance around it. I've written up that advice in a new blog post, take a look! https://t.co/i8KRFSMQlZ"
+	},
+	{
+		"created_at": "Wed May 15 08:28:54 +0000 2019",
+		"id": 1128577985664245800,
+		"id_str": "1128577985664245761",
+		"full_text": "@WarwickLanguage @femedtech @francesbell some great examples I've seen similar to this ... climate data scarf anyone ;) https://t.co/EejRrJYras",
+		"truncated": false,
+		"display_text_range": [
+			41,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WarwickLanguage",
+					"name": "Teresa MacKinnon",
+					"id": 81817497,
+					"id_str": "81817497",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "femedtech",
+					"name": "femedtech",
+					"id": 807239380138160100,
+					"id_str": "807239380138160128",
+					"indices": [
+						17,
+						27
+					]
+				},
+				{
+					"screen_name": "francesbell",
+					"name": "Frances Bell",
+					"id": 12438922,
+					"id_str": "12438922",
+					"indices": [
+						28,
+						40
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EejRrJYras",
+					"expanded_url": "https://earther.gizmodo.com/meet-the-knitters-who-are-turning-climate-change-data-i-1831253754",
+					"display_url": "earther.gizmodo.com/meet-the-knitt…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1128568097433169900,
+		"in_reply_to_status_id_str": "1128568097433169921",
+		"in_reply_to_user_id": 81817497,
+		"in_reply_to_user_id_str": "81817497",
+		"in_reply_to_screen_name": "WarwickLanguage",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech Officer @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8092,
+			"friends_count": 2238,
+			"listed_count": 597,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5497,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28279,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@WarwickLanguage @femedtech @francesbell some great examples I've seen similar to this ... climate data scarf anyone ;) https://t.co/EejRrJYras"
+	},
+	{
+		"created_at": "Wed May 15 07:26:34 +0000 2019",
+		"id": 1128562297943801900,
+		"id_str": "1128562297943801856",
+		"full_text": "@willcritchlow More detail in this post https://t.co/5mFNFIwHiI ... currently limited to \"city agencies, including law enforcement\", but does not cover federal (ports, airports etc). More legislation on this coming",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "willcritchlow",
+					"name": "Will Critchlow",
+					"id": 1042251,
+					"id_str": "1042251",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5mFNFIwHiI",
+					"expanded_url": "https://www.theverge.com/2019/5/14/18623013/san-francisco-facial-recognition-ban-vote-city-agencies",
+					"display_url": "theverge.com/2019/5/14/1862…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128544484407615500,
+		"in_reply_to_status_id_str": "1128544484407615489",
+		"in_reply_to_user_id": 1042251,
+		"in_reply_to_user_id_str": "1042251",
+		"in_reply_to_screen_name": "willcritchlow",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech Officer @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8092,
+			"friends_count": 2238,
+			"listed_count": 597,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5497,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28279,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@willcritchlow More detail in this post https://t.co/5mFNFIwHiI ... currently limited to \"city agencies, including law enforcement\", but does not cover federal (ports, airports etc). More legislation on this coming"
+	},
+	{
+		"created_at": "Wed May 15 05:51:45 +0000 2019",
+		"id": 1128538439648010200,
+		"id_str": "1128538439648010245",
+		"full_text": "BBC News - San Francisco is first US city to ban facial recognition https://t.co/UlZ6Pd3W0u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UlZ6Pd3W0u",
+					"expanded_url": "https://www.bbc.co.uk/news/technology-48276660",
+					"display_url": "bbc.co.uk/news/technolog…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech Officer @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8092,
+			"friends_count": 2238,
+			"listed_count": 597,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5497,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28279,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BBC News - San Francisco is first US city to ban facial recognition https://t.co/UlZ6Pd3W0u"
+	},
+	{
 		"created_at": "Tue May 14 21:04:11 +0000 2019",
 		"id": 1128405669411983400,
 		"id_str": "1128405669411983360",
