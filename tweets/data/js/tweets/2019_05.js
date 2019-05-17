@@ -1,6 +1,793 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 16 21:50:52 +0000 2019",
+		"id": 1129142196266065900,
+		"id_str": "1129142196266065921",
+		"full_text": "@jatenas This is exactly the problem ... the response when I recently asked for my WiFi tracking data https://t.co/pdZb2CPHWX",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jatenas",
+					"name": "Javiera Atenas",
+					"id": 88178223,
+					"id_str": "88178223",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129142188150054900,
+					"id_str": "1129142188150054913",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/D6uE1nGXYAEdZjY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6uE1nGXYAEdZjY.jpg",
+					"url": "https://t.co/pdZb2CPHWX",
+					"display_url": "pic.twitter.com/pdZb2CPHWX",
+					"expanded_url": "https://twitter.com/mhawksey/status/1129142196266065921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129142188150054900,
+					"id_str": "1129142188150054913",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/D6uE1nGXYAEdZjY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6uE1nGXYAEdZjY.jpg",
+					"url": "https://t.co/pdZb2CPHWX",
+					"display_url": "pic.twitter.com/pdZb2CPHWX",
+					"expanded_url": "https://twitter.com/mhawksey/status/1129142196266065921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1129135752841969700,
+		"in_reply_to_status_id_str": "1129135752841969664",
+		"in_reply_to_user_id": 88178223,
+		"in_reply_to_user_id_str": "88178223",
+		"in_reply_to_screen_name": "jatenas",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech Officer @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8094,
+			"friends_count": 2240,
+			"listed_count": 597,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28285,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@jatenas This is exactly the problem ... the response when I recently asked for my WiFi tracking data https://t.co/pdZb2CPHWX"
+	},
+	{
+		"created_at": "Thu May 16 21:20:53 +0000 2019",
+		"id": 1129134650218221600,
+		"id_str": "1129134650218221569",
+		"full_text": "@jatenas The joke is the Met the Human Rights Act, Protection of Freedoms Act (when I say reference they just link to the entire Human Rights Act, the entire Protection of Freedoms Act...) https://t.co/nKVvafVex4 https://t.co/D2rktYLe92",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jatenas",
+					"name": "Javiera Atenas",
+					"id": 88178223,
+					"id_str": "88178223",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nKVvafVex4",
+					"expanded_url": "https://www.met.police.uk/live-facial-recognition-trial/",
+					"display_url": "met.police.uk/live-facial-re…",
+					"indices": [
+						189,
+						212
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1129134641917640700,
+					"id_str": "1129134641917640704",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/D6t9-XMWwAAJLIN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6t9-XMWwAAJLIN.jpg",
+					"url": "https://t.co/D2rktYLe92",
+					"display_url": "pic.twitter.com/D2rktYLe92",
+					"expanded_url": "https://twitter.com/mhawksey/status/1129134650218221569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129134641917640700,
+					"id_str": "1129134641917640704",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/D6t9-XMWwAAJLIN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6t9-XMWwAAJLIN.jpg",
+					"url": "https://t.co/D2rktYLe92",
+					"display_url": "pic.twitter.com/D2rktYLe92",
+					"expanded_url": "https://twitter.com/mhawksey/status/1129134650218221569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1129130956726636500,
+		"in_reply_to_status_id_str": "1129130956726636554",
+		"in_reply_to_user_id": 88178223,
+		"in_reply_to_user_id_str": "88178223",
+		"in_reply_to_screen_name": "jatenas",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech Officer @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8094,
+			"friends_count": 2240,
+			"listed_count": 597,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28285,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@jatenas The joke is the Met the Human Rights Act, Protection of Freedoms Act (when I say reference they just link to the entire Human Rights Act, the entire Protection of Freedoms Act...) https://t.co/nKVvafVex4 https://t.co/D2rktYLe92"
+	},
+	{
+		"created_at": "Thu May 16 20:49:34 +0000 2019",
+		"id": 1129126768751841300,
+		"id_str": "1129126768751841281",
+		"full_text": "@tbirdcymru Puts legislation which bans face covering aka burqa bans in a different light",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tbirdcymru",
+					"name": "Terese Bird",
+					"id": 4587771,
+					"id_str": "4587771",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1129104854553628700,
+		"in_reply_to_status_id_str": "1129104854553628672",
+		"in_reply_to_user_id": 4587771,
+		"in_reply_to_user_id_str": "4587771",
+		"in_reply_to_screen_name": "tbirdcymru",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech Officer @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8094,
+			"friends_count": 2240,
+			"listed_count": 597,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28285,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@tbirdcymru Puts legislation which bans face covering aka burqa bans in a different light"
+	},
+	{
+		"created_at": "Thu May 16 17:36:03 +0000 2019",
+		"id": 1129078069539561500,
+		"id_str": "1129078069539561472",
+		"full_text": "Ogle These Vintage Public-Domain Cat Pictures From the Library of Congress https://t.co/FLrdv9054E via @lifehacker https://t.co/q5ZjPOChrg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lifehacker",
+					"name": "Lifehacker",
+					"id": 7144422,
+					"id_str": "7144422",
+					"indices": [
+						103,
+						114
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FLrdv9054E",
+					"expanded_url": "https://lifehacker.com/ogle-these-vintage-public-domain-cat-pictures-from-the-1834779933?utm_medium=sharefromsite&utm_source=lifehacker_twitter&utm_campaign=sharebar",
+					"display_url": "lifehacker.com/ogle-these-vin…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1129078062342168600,
+					"id_str": "1129078062342168578",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/D6tKg_2XYAIPit-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6tKg_2XYAIPit-.jpg",
+					"url": "https://t.co/q5ZjPOChrg",
+					"display_url": "pic.twitter.com/q5ZjPOChrg",
+					"expanded_url": "https://twitter.com/mhawksey/status/1129078069539561472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 532,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1602,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 939,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129078062342168600,
+					"id_str": "1129078062342168578",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/D6tKg_2XYAIPit-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6tKg_2XYAIPit-.jpg",
+					"url": "https://t.co/q5ZjPOChrg",
+					"display_url": "pic.twitter.com/q5ZjPOChrg",
+					"expanded_url": "https://twitter.com/mhawksey/status/1129078069539561472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 532,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1602,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 939,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech Officer @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8094,
+			"friends_count": 2240,
+			"listed_count": 597,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28285,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ogle These Vintage Public-Domain Cat Pictures From the Library of Congress https://t.co/FLrdv9054E via @lifehacker https://t.co/q5ZjPOChrg"
+	},
+	{
+		"created_at": "Thu May 16 17:33:18 +0000 2019",
+		"id": 1129077377122881500,
+		"id_str": "1129077377122881537",
+		"full_text": "@ghenrick Didn't believe it myself until I watched the video, very depressing",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ghenrick",
+					"name": "Gavin Henrick",
+					"id": 24712239,
+					"id_str": "24712239",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1129066002455695400,
+		"in_reply_to_status_id_str": "1129066002455695362",
+		"in_reply_to_user_id": 24712239,
+		"in_reply_to_user_id_str": "24712239",
+		"in_reply_to_screen_name": "ghenrick",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech Officer @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8094,
+			"friends_count": 2240,
+			"listed_count": 597,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28285,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ghenrick Didn't believe it myself until I watched the video, very depressing"
+	},
+	{
 		"created_at": "Wed May 15 14:02:40 +0000 2019",
 		"id": 1128654269345878000,
 		"id_str": "1128661979164491778",
