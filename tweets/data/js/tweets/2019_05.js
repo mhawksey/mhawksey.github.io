@@ -1,6 +1,153 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 18 07:52:13 +0000 2019",
+		"id": 1129655916226383900,
+		"id_str": "1129655916226383877",
+		"full_text": "@redcrew @refreshdetroit @nickdenardis @webcaptioner Not familiar with webcaptioner. A while since I've looked at this space (many years ago I was working on a project that used standards like TTML &amp; WebSRT). Live Transcribe from Google also looks interesting https://t.co/jtYvbYFIEz (might be a way for me to revisit live blogging)",
+		"truncated": false,
+		"display_text_range": [
+			53,
+			336
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "redcrew",
+					"name": "Deborah Edwards-Onoro",
+					"id": 8556552,
+					"id_str": "8556552",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "refreshdetroit",
+					"name": "Refresh Detroit",
+					"id": 18047049,
+					"id_str": "18047049",
+					"indices": [
+						9,
+						24
+					]
+				},
+				{
+					"screen_name": "nickdenardis",
+					"name": "Nick DeNardis",
+					"id": 7023712,
+					"id_str": "7023712",
+					"indices": [
+						25,
+						38
+					]
+				},
+				{
+					"screen_name": "webcaptioner",
+					"name": "Web Captioner",
+					"id": 878142461352259600,
+					"id_str": "878142461352259584",
+					"indices": [
+						39,
+						52
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jtYvbYFIEz",
+					"expanded_url": "https://blog.google/products/android/new-features-make-audio-more-accessible-your-phone/",
+					"display_url": "blog.google/products/andro…",
+					"indices": [
+						264,
+						287
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128646146518339600,
+		"in_reply_to_status_id_str": "1128646146518339584",
+		"in_reply_to_user_id": 8556552,
+		"in_reply_to_user_id_str": "8556552",
+		"in_reply_to_screen_name": "redcrew",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech Officer @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8097,
+			"friends_count": 2242,
+			"listed_count": 597,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5509,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28289,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@redcrew @refreshdetroit @nickdenardis @webcaptioner Not familiar with webcaptioner. A while since I've looked at this space (many years ago I was working on a project that used standards like TTML &amp; WebSRT). Live Transcribe from Google also looks interesting https://t.co/jtYvbYFIEz (might be a way for me to revisit live blogging)"
+	},
+	{
 		"created_at": "Fri May 17 15:39:02 +0000 2019",
 		"id": 1129411009721065500,
 		"id_str": "1129411009721065473",
