@@ -1,6 +1,1240 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 20 20:49:28 +0000 2019",
+		"id": 1130424939411058700,
+		"id_str": "1130576293236531200",
+		"full_text": "Places are now available for Women in Data Science: Exploring the Edinburgh Context, an afternoon of discussing support for gender equality in #datascience - Tues 11 June, Informatics Forum. We're excited to co-host with #DDI Initiative colleagues! https://t.co/JBWfXyyCOj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "datascience",
+					"indices": [
+						143,
+						155
+					]
+				},
+				{
+					"text": "DDI",
+					"indices": [
+						221,
+						225
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JBWfXyyCOj",
+					"expanded_url": "https://www.eventbrite.co.uk/e/women-in-data-science-exploring-the-edinburgh-context-tickets-61151623151",
+					"display_url": "eventbrite.co.uk/e/women-in-dat…",
+					"indices": [
+						249,
+						272
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 986560342191956000,
+			"id_str": "986560342191955968",
+			"name": "Edinburgh Centre for Data, Culture & Society",
+			"screen_name": "EdCDCS",
+			"location": "University of Edinburgh, Scotland",
+			"description": "We are creating an environment  where data-driven research  can grow and thrive at @EdinburghUni. Join us! #CDCS #DigitalHumanities",
+			"url": "https://t.co/WNwAvabylR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WNwAvabylR",
+							"expanded_url": "http://cdcs.ed.ac.uk",
+							"display_url": "cdcs.ed.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 456,
+			"friends_count": 141,
+			"listed_count": 1,
+			"created_at": "Wed Apr 18 11:01:29 +0000 2018",
+			"favourites_count": 42,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1120684771150053376/rw-jflo4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1120684771150053376/rw-jflo4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/986560342191955968/1556028198",
+			"profile_link_color": "FD0E67",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Places are now available for Women in Data Science: Exploring the Edinburgh Context, an afternoon of discussing support for gender equality in #datascience - Tues 11 June, Informatics Forum. We're excited to co-host with #DDI Initiative colleagues! https://t.co/JBWfXyyCOj"
+	},
+	{
+		"created_at": "Mon May 20 20:08:01 +0000 2019",
+		"id": 1130565863403339800,
+		"id_str": "1130565863403339776",
+		"full_text": "One for #altc... https://t.co/XtAjm6pgcM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						8,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XtAjm6pgcM",
+					"expanded_url": "https://twitter.com/neilmosley5/status/1130405150542237697",
+					"display_url": "twitter.com/neilmosley5/st…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech Officer @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8101,
+			"friends_count": 2243,
+			"listed_count": 598,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5517,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28297,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1130405150542237700,
+		"quoted_status_id_str": "1130405150542237697",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XtAjm6pgcM",
+			"expanded": "https://twitter.com/neilmosley5/status/1130405150542237697",
+			"display": "twitter.com/neilmosley5/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 20 09:29:24 +0000 2019",
+			"id": 1130405150542237700,
+			"id_str": "1130405150542237697",
+			"full_text": "Nice paper, highlighting the superficiality of learning analytics dashboards  - ‘significant limitations’ ‘rarely grounded in learning theory’ - I’m yet to be convinced that a lot of LA in HE has much to do with learning and/or is driven by educators. https://t.co/kefXpAMCOY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kefXpAMCOY",
+						"expanded_url": "https://twitter.com/dgasevic/status/1128810809159610368?s=21",
+						"display_url": "twitter.com/dgasevic/statu…",
+						"indices": [
+							252,
+							275
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 859745605505175600,
+				"id_str": "859745605505175552",
+				"name": "Neil Mosley",
+				"screen_name": "neilmosley5",
+				"location": "Cardiff, Wales",
+				"description": "Digital Learning Designer | Cardiff University | Previously Imperial College | Instructional Design | UX. Own views",
+				"url": "https://t.co/NpoQidXy3g",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NpoQidXy3g",
+								"expanded_url": "https://www.linkedin.com/in/neil-mosley-34a93890/",
+								"display_url": "linkedin.com/in/neil-mosley…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1329,
+				"friends_count": 4642,
+				"listed_count": 13,
+				"created_at": "Wed May 03 12:25:00 +0000 2017",
+				"favourites_count": 4298,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3665,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/859762487184560128/M6vfWwHo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/859762487184560128/M6vfWwHo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/859745605505175552/1540851994",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1128810809159610400,
+			"quoted_status_id_str": "1128810809159610368",
+			"quoted_status_permalink": {
+				"url": "https://t.co/kefXpAMCOY",
+				"expanded": "https://twitter.com/dgasevic/status/1128810809159610368?s=21",
+				"display": "twitter.com/dgasevic/statu…"
+			},
+			"retweet_count": 9,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One for #altc... https://t.co/XtAjm6pgcM"
+	},
+	{
+		"created_at": "Mon May 20 19:57:06 +0000 2019",
+		"id": 1130492870065102800,
+		"id_str": "1130563116536930304",
+		"full_text": "blog post: 25 years of Ed Tech - web site suggestions please https://t.co/D2AWPUeyJY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D2AWPUeyJY",
+					"expanded_url": "http://blog.edtechie.net/25yearsedtech/25-years-of-edtech-book-website-suggestions/",
+					"display_url": "blog.edtechie.net/25yearsedtech/…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7127162,
+			"id_str": "7127162",
+			"name": "Martin Weller",
+			"screen_name": "mweller",
+			"location": "Tongwynlais, Cardiff",
+			"description": "Open University, @IETatOU Prof, Director of @oer_hub, President of @A_L_T. Cardiff Devils ST holder. Politely radical",
+			"url": "https://t.co/REishgGy8a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/REishgGy8a",
+							"expanded_url": "http://edtechie.net",
+							"display_url": "edtechie.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10011,
+			"friends_count": 1768,
+			"listed_count": 722,
+			"created_at": "Thu Jun 28 09:14:11 +0000 2007",
+			"favourites_count": 4443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38194,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/760047558404214784/9BjBxogx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/760047558404214784/9BjBxogx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7127162/1540846930",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "blog post: 25 years of Ed Tech - web site suggestions please https://t.co/D2AWPUeyJY"
+	},
+	{
+		"created_at": "Mon May 20 19:04:19 +0000 2019",
+		"id": 1130549832140120000,
+		"id_str": "1130549832140120066",
+		"full_text": "Lots of really helpful tips and resources from 3 years of lecture recording at the University of Edinburgh summarised by @ammienoot #altc https://t.co/7ghGv7JWTH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						132,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ammienoot",
+					"name": "Anne-Marie Scott",
+					"id": 22673907,
+					"id_str": "22673907",
+					"indices": [
+						121,
+						131
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7ghGv7JWTH",
+					"expanded_url": "https://ammienoot.com/brain-fluff/looking-back-on-another-year-of-lecture-recording/",
+					"display_url": "ammienoot.com/brain-fluff/lo…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech Officer @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8101,
+			"friends_count": 2243,
+			"listed_count": 598,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5517,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28297,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Lots of really helpful tips and resources from 3 years of lecture recording at the University of Edinburgh summarised by @ammienoot #altc https://t.co/7ghGv7JWTH"
+	},
+	{
+		"created_at": "Mon May 20 18:25:56 +0000 2019",
+		"id": 1130470562889965600,
+		"id_str": "1130540174239293441",
+		"full_text": "Interested in standing for election as a Trustee of @A_L_T?? Then read a reflection on what’s involved by @BLE1 #altc https://t.co/5w14EBasuo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						112,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						52,
+						58
+					]
+				},
+				{
+					"screen_name": "BLE1",
+					"name": "Sarah Sherman",
+					"id": 12284332,
+					"id_str": "12284332",
+					"indices": [
+						106,
+						111
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5w14EBasuo",
+					"expanded_url": "https://twitter.com/a_l_t/status/1130451781711011847",
+					"display_url": "twitter.com/a_l_t/status/1…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 323173367,
+			"id_str": "323173367",
+			"name": "Dr Maren Deepwell",
+			"screen_name": "MarenDeepwell",
+			"location": "United Kingdom",
+			"description": "CEO @A_L_T #altc Senior #CMALT, Anthropologist, Open Practitioner, leadership, policy & Learning Technology CPD, open governance & equality #femedtech she/her",
+			"url": "https://t.co/kMXdMTr9bt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kMXdMTr9bt",
+							"expanded_url": "http://marendeepwell.com",
+							"display_url": "marendeepwell.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3454,
+			"friends_count": 1650,
+			"listed_count": 191,
+			"created_at": "Fri Jun 24 11:30:35 +0000 2011",
+			"favourites_count": 15847,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9276,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1106108974481489920/SNmOSvkd_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106108974481489920/SNmOSvkd_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/323173367/1552551974",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1130451781711011800,
+		"quoted_status_id_str": "1130451781711011847",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5w14EBasuo",
+			"expanded": "https://twitter.com/a_l_t/status/1130451781711011847",
+			"display": "twitter.com/a_l_t/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 20 12:34:42 +0000 2019",
+			"id": 1130451781711011800,
+			"id_str": "1130451781711011847",
+			"full_text": "[Guest post] Sarah Sherman reflects on being a Trustee of ALT #altc #governance ahead of this year's Trustee elections https://t.co/4F9kLW1cJM https://t.co/vVPj5b47lw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				142
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "altc",
+						"indices": [
+							62,
+							67
+						]
+					},
+					{
+						"text": "governance",
+						"indices": [
+							68,
+							79
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4F9kLW1cJM",
+						"expanded_url": "https://www.alt.ac.uk/news/all_news/guest-post-sarah-sherman-reflects-being-trustee-alt",
+						"display_url": "alt.ac.uk/news/all_news/…",
+						"indices": [
+							119,
+							142
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1130451779559350300,
+						"id_str": "1130451779559350273",
+						"indices": [
+							143,
+							166
+						],
+						"media_url": "http://pbs.twimg.com/media/D7Ar53RX4AEgc_2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7Ar53RX4AEgc_2.jpg",
+						"url": "https://t.co/vVPj5b47lw",
+						"display_url": "pic.twitter.com/vVPj5b47lw",
+						"expanded_url": "https://twitter.com/A_L_T/status/1130451781711011847/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1369,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 802,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 455,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1130451779559350300,
+						"id_str": "1130451779559350273",
+						"indices": [
+							143,
+							166
+						],
+						"media_url": "http://pbs.twimg.com/media/D7Ar53RX4AEgc_2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7Ar53RX4AEgc_2.jpg",
+						"url": "https://t.co/vVPj5b47lw",
+						"display_url": "pic.twitter.com/vVPj5b47lw",
+						"expanded_url": "https://twitter.com/A_L_T/status/1130451781711011847/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1369,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 802,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 455,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41210876,
+				"id_str": "41210876",
+				"name": "ALT - alt.ac.uk",
+				"screen_name": "A_L_T",
+				"location": "UK",
+				"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+				"url": "http://t.co/d7hBNekdUq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/d7hBNekdUq",
+								"expanded_url": "http://www.alt.ac.uk/",
+								"display_url": "alt.ac.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11749,
+				"friends_count": 3541,
+				"listed_count": 574,
+				"created_at": "Tue May 19 21:06:36 +0000 2009",
+				"favourites_count": 6038,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 17894,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1552553640",
+				"profile_link_color": "079948",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 8,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Interested in standing for election as a Trustee of @A_L_T?? Then read a reflection on what’s involved by @BLE1 #altc https://t.co/5w14EBasuo"
+	},
+	{
+		"created_at": "Mon May 20 16:33:07 +0000 2019",
+		"id": 1130441840178716700,
+		"id_str": "1130511781099704320",
+		"full_text": "#ALTC Edinburgh - September - 2019! Just in a conference committee meeting, great to be joining everyone for a catch up! The conference registration is now open. https://t.co/DhFRJzQrb0 https://t.co/gPLT1oSSgs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALTC",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DhFRJzQrb0",
+					"expanded_url": "https://altc.alt.ac.uk/2019/registration/",
+					"display_url": "altc.alt.ac.uk/2019/registrat…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1130441579108417500,
+					"id_str": "1130441579108417537",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/D7AioHoWwAELQyv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7AioHoWwAELQyv.jpg",
+					"url": "https://t.co/gPLT1oSSgs",
+					"display_url": "pic.twitter.com/gPLT1oSSgs",
+					"expanded_url": "https://twitter.com/scotlandlouise/status/1130441840178716672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 320,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 471,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 471,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130441579108417500,
+					"id_str": "1130441579108417537",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/D7AioHoWwAELQyv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7AioHoWwAELQyv.jpg",
+					"url": "https://t.co/gPLT1oSSgs",
+					"display_url": "pic.twitter.com/gPLT1oSSgs",
+					"expanded_url": "https://twitter.com/scotlandlouise/status/1130441840178716672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 320,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 471,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 471,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11687372,
+			"id_str": "11687372",
+			"name": "Louise Jones",
+			"screen_name": "scotlandlouise",
+			"location": "Scotland, United Kingdom",
+			"description": "UK Regional Manager, Google for Education | Member & Co-Chair of Association for Learning Technology ALT 2019 Conference.",
+			"url": "https://t.co/qXyFAIssW4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qXyFAIssW4",
+							"expanded_url": "https://edudirectory.withgoogle.com/profiles/5735101631561728",
+							"display_url": "edudirectory.withgoogle.com/profiles/57351…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2302,
+			"friends_count": 2156,
+			"listed_count": 58,
+			"created_at": "Mon Dec 31 13:07:35 +0000 2007",
+			"favourites_count": 5941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10711,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009169147845111810/ZEwyTx3p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009169147845111810/ZEwyTx3p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11687372/1530744957",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "544373",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#ALTC Edinburgh - September - 2019! Just in a conference committee meeting, great to be joining everyone for a catch up! The conference registration is now open. https://t.co/DhFRJzQrb0 https://t.co/gPLT1oSSgs"
+	},
+	{
+		"created_at": "Mon May 20 16:32:29 +0000 2019",
+		"id": 1130511622517252100,
+		"id_str": "1130511622517252096",
+		"full_text": "Google’s AI can now translate your speech while keeping your voice - via @techreview https://t.co/z9vbSbxxOk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "techreview",
+					"name": "MIT Technology Review",
+					"id": 15808647,
+					"id_str": "15808647",
+					"indices": [
+						73,
+						84
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/z9vbSbxxOk",
+					"expanded_url": "https://www.technologyreview.com/s/613559/google-ai-language-translation/?utm_campaign=site_visitor.unpaid.engagement&utm_source=twitter&utm_medium=social_share&utm_content=2019-05-20",
+					"display_url": "technologyreview.com/s/613559/googl…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech Officer @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8101,
+			"friends_count": 2243,
+			"listed_count": 598,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5517,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28297,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Google’s AI can now translate your speech while keeping your voice - via @techreview https://t.co/z9vbSbxxOk"
+	},
+	{
 		"created_at": "Sat May 18 07:52:13 +0000 2019",
 		"id": 1129655916226383900,
 		"id_str": "1129655916226383877",
