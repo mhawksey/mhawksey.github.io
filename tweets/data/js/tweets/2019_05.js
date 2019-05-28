@@ -1,6 +1,518 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 27 21:28:00 +0000 2019",
+		"id": 1132990183211774000,
+		"id_str": "1133122708030386176",
+		"full_text": "SocioViz is completely new! 😀\n\nSearch for any keyword, hashtag, emoji or user mention filtering by date, location and language.\n\nCollect posts in real-time or search one week in the past (last 7 days) up to 50.000 tweets.\n\nhttps://t.co/RXlcyxaBYT\n\n#socialnetworkanalysis\n#dataviz https://t.co/ksL0dsx1LF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "socialnetworkanalysis",
+					"indices": [
+						248,
+						270
+					]
+				},
+				{
+					"text": "dataviz",
+					"indices": [
+						271,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RXlcyxaBYT",
+					"expanded_url": "https://bit.ly/2K67LmD",
+					"display_url": "bit.ly/2K67LmD",
+					"indices": [
+						223,
+						246
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1132990171631239200,
+					"id_str": "1132990171631239169",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D7kwjuoWwAEGwuJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7kwjuoWwAEGwuJ.jpg",
+					"url": "https://t.co/ksL0dsx1LF",
+					"display_url": "pic.twitter.com/ksL0dsx1LF",
+					"expanded_url": "https://twitter.com/SocioVizNet/status/1132990183211773953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1110,
+							"h": 665,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 407,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1110,
+							"h": 665,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1132990171631239200,
+					"id_str": "1132990171631239169",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D7kwjuoWwAEGwuJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7kwjuoWwAEGwuJ.jpg",
+					"url": "https://t.co/ksL0dsx1LF",
+					"display_url": "pic.twitter.com/ksL0dsx1LF",
+					"expanded_url": "https://twitter.com/SocioVizNet/status/1132990183211773953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1110,
+							"h": 665,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 407,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1110,
+							"h": 665,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2232759379,
+			"id_str": "2232759379",
+			"name": "SocioViz",
+			"screen_name": "SocioVizNet",
+			"location": "Italy",
+			"description": "SocioViz is a social media analytics platform powered by Social Network Analysis metrics. It's free, jump on board! #SocialNetworkAnalysis #dataviz #ddj",
+			"url": "http://t.co/73ZWboJNqA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/73ZWboJNqA",
+							"expanded_url": "http://www.socioviz.net",
+							"display_url": "socioviz.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 962,
+			"friends_count": 853,
+			"listed_count": 143,
+			"created_at": "Fri Dec 06 10:14:22 +0000 2013",
+			"favourites_count": 1733,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "323232",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/555313217501548545/RnqWIzJi_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/555313217501548545/RnqWIzJi_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2232759379/1424940840",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SocioViz is completely new! 😀\n\nSearch for any keyword, hashtag, emoji or user mention filtering by date, location and language.\n\nCollect posts in real-time or search one week in the past (last 7 days) up to 50.000 tweets.\n\nhttps://t.co/RXlcyxaBYT\n\n#socialnetworkanalysis\n#dataviz https://t.co/ksL0dsx1LF"
+	},
+	{
+		"created_at": "Mon May 27 21:17:59 +0000 2019",
+		"id": 1133093812174250000,
+		"id_str": "1133120184892514304",
+		"full_text": "Looking forward to this event. Some tickets still available if you can make it along. #girlgeekscotland #WomenInTech #WomenInSTEM https://t.co/nObwOHXHmU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "girlgeekscotland",
+					"indices": [
+						86,
+						103
+					]
+				},
+				{
+					"text": "WomenInTech",
+					"indices": [
+						104,
+						116
+					]
+				},
+				{
+					"text": "WomenInSTEM",
+					"indices": [
+						117,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nObwOHXHmU",
+					"expanded_url": "https://twitter.com/edinburghuni/status/1132962905010429953",
+					"display_url": "twitter.com/edinburghuni/s…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22673907,
+			"id_str": "22673907",
+			"name": "Anne-Marie Scott",
+			"screen_name": "ammienoot",
+			"location": "Edinburgh",
+			"description": "Edtech lady leader @EdinburghUni | @Apereo Board | Mansfield Traquair Trust | @girlgeekscotland | #femedtech Art, books, rural life, piffle. Views mine. she/her",
+			"url": "https://t.co/QNuHpiA76g",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QNuHpiA76g",
+							"expanded_url": "http://ammienoot.com",
+							"display_url": "ammienoot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2035,
+			"friends_count": 3008,
+			"listed_count": 125,
+			"created_at": "Tue Mar 03 20:30:51 +0000 2009",
+			"favourites_count": 16267,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15627,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1010827648728215552/IMrHrfAA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1010827648728215552/IMrHrfAA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22673907/1493487259",
+			"profile_link_color": "8F9E70",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1132962905010430000,
+		"quoted_status_id_str": "1132962905010429953",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nObwOHXHmU",
+			"expanded": "https://twitter.com/edinburghuni/status/1132962905010429953",
+			"display": "twitter.com/edinburghuni/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 27 10:53:00 +0000 2019",
+			"id": 1132962905010430000,
+			"id_str": "1132962905010429953",
+			"full_text": "Find out about the great legacy of women in #DataScience at @EdinburghUni at this free @EdCDCS event on 11/06. Discuss the past, present &amp; future of #Data #WomenInTech &amp; how to support women working in computational technologies. @InfAtEd @DataCapitalEd\n\nhttps://t.co/ulJoHgymoU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				286
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DataScience",
+						"indices": [
+							44,
+							56
+						]
+					},
+					{
+						"text": "Data",
+						"indices": [
+							153,
+							158
+						]
+					},
+					{
+						"text": "WomenInTech",
+						"indices": [
+							159,
+							171
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EdinburghUni",
+						"name": "The University of Edinburgh",
+						"id": 23426889,
+						"id_str": "23426889",
+						"indices": [
+							60,
+							73
+						]
+					},
+					{
+						"screen_name": "EdCDCS",
+						"name": "Edinburgh Centre for Data, Culture & Society",
+						"id": 986560342191956000,
+						"id_str": "986560342191955968",
+						"indices": [
+							87,
+							94
+						]
+					},
+					{
+						"screen_name": "InfAtEd",
+						"name": "InformaticsEdinburgh",
+						"id": 90873580,
+						"id_str": "90873580",
+						"indices": [
+							238,
+							246
+						]
+					},
+					{
+						"screen_name": "DataCapitalEd",
+						"name": "DataCapital",
+						"id": 1052662219597594600,
+						"id_str": "1052662219597594627",
+						"indices": [
+							247,
+							261
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ulJoHgymoU",
+						"expanded_url": "https://edin.ac/2X2MVbp",
+						"display_url": "edin.ac/2X2MVbp",
+						"indices": [
+							263,
+							286
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23426889,
+				"id_str": "23426889",
+				"name": "The University of Edinburgh",
+				"screen_name": "EdinburghUni",
+				"location": "Edinburgh, United Kingdom",
+				"description": "Influencing the world since 1583. Follow our other accounts: https://t.co/SL2oB6Oet1",
+				"url": "https://t.co/idcXpWKcTF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/idcXpWKcTF",
+								"expanded_url": "http://www.edin.ac/tw",
+								"display_url": "edin.ac/tw",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/SL2oB6Oet1",
+								"expanded_url": "http://www.edin.ac/social-media",
+								"display_url": "edin.ac/social-media",
+								"indices": [
+									61,
+									84
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 102863,
+				"friends_count": 350,
+				"listed_count": 1365,
+				"created_at": "Mon Mar 09 12:01:11 +0000 2009",
+				"favourites_count": 815,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7208,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E6E6E6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/458887980929654784/LGRkgfhX_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/458887980929654784/LGRkgfhX_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23426889/1460709541",
+				"profile_link_color": "00335F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 26,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looking forward to this event. Some tickets still available if you can make it along. #girlgeekscotland #WomenInTech #WomenInSTEM https://t.co/nObwOHXHmU"
+	},
+	{
 		"created_at": "Sun May 26 18:58:16 +0000 2019",
 		"id": 1132722638634311700,
 		"id_str": "1132722638634311681",
