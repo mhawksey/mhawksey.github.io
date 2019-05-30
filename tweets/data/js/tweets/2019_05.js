@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 29 08:37:45 +0000 2019",
+		"id": 1133652935949389800,
+		"id_str": "1133653642165313536",
+		"full_text": "#altc members can tune in to sessions at @A_L_T_NI via https://t.co/1dBSbhtlN9 The programme starts from 10am more details at https://t.co/Fo8MqLVonx https://t.co/AZhpSy9Xwh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "A_L_T_NI",
+					"name": "ALT_NI",
+					"id": 873103980611608600,
+					"id_str": "873103980611608577",
+					"indices": [
+						41,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1dBSbhtlN9",
+					"expanded_url": "https://eu.bbcollab.com/collab/ui/session/guest/abb6187dc25a4c9b8f40022a675986ad",
+					"display_url": "eu.bbcollab.com/collab/ui/sess…",
+					"indices": [
+						55,
+						78
+					]
+				},
+				{
+					"url": "https://t.co/Fo8MqLVonx",
+					"expanded_url": "http://www.altni.com/alt-ni-annual-event-full-programme/",
+					"display_url": "altni.com/alt-ni-annual-…",
+					"indices": [
+						126,
+						149
+					]
+				},
+				{
+					"url": "https://t.co/AZhpSy9Xwh",
+					"expanded_url": "https://twitter.com/femedtech/status/1133645035549921280",
+					"display_url": "twitter.com/femedtech/stat…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11780,
+			"friends_count": 3540,
+			"listed_count": 575,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 6094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17960,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1552553640",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1133645035549921300,
+		"quoted_status_id_str": "1133645035549921280",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AZhpSy9Xwh",
+			"expanded": "https://twitter.com/femedtech/status/1133645035549921280",
+			"display": "twitter.com/femedtech/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 29 08:03:33 +0000 2019",
+			"id": 1133645035549921300,
+			"id_str": "1133645035549921280",
+			"full_text": "Looking forward to @iainmacl keynote this morn @A_L_T_NI @QUBelfast ‘A Voyage Through Space - navigating the digital landscape, spaces for teach8ng &amp; learning, and the ‘inner space of the imagination’ @A_L_T https://t.co/fU8aEKS17B",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				211
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "iainmacl",
+						"name": "Iain MacLaren",
+						"id": 19109747,
+						"id_str": "19109747",
+						"indices": [
+							19,
+							28
+						]
+					},
+					{
+						"screen_name": "A_L_T_NI",
+						"name": "ALT_NI",
+						"id": 873103980611608600,
+						"id_str": "873103980611608577",
+						"indices": [
+							47,
+							56
+						]
+					},
+					{
+						"screen_name": "QUBelfast",
+						"name": "Queen's University Belfast 🎓",
+						"id": 36943804,
+						"id_str": "36943804",
+						"indices": [
+							57,
+							67
+						]
+					},
+					{
+						"screen_name": "A_L_T",
+						"name": "ALT - alt.ac.uk",
+						"id": 41210876,
+						"id_str": "41210876",
+						"indices": [
+							205,
+							211
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1133645028243497000,
+						"id_str": "1133645028243496960",
+						"indices": [
+							212,
+							235
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D7uEJZnXYAAamtl.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D7uEJZnXYAAamtl.jpg",
+						"url": "https://t.co/fU8aEKS17B",
+						"display_url": "pic.twitter.com/fU8aEKS17B",
+						"expanded_url": "https://twitter.com/femedtech/status/1133645035549921280/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 498,
+								"h": 280,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 498,
+								"h": 280,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 498,
+								"h": 280,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1133645028243497000,
+						"id_str": "1133645028243496960",
+						"indices": [
+							212,
+							235
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D7uEJZnXYAAamtl.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D7uEJZnXYAAamtl.jpg",
+						"url": "https://t.co/fU8aEKS17B",
+						"display_url": "pic.twitter.com/fU8aEKS17B",
+						"expanded_url": "https://twitter.com/femedtech/status/1133645035549921280/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 498,
+								"h": 280,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 498,
+								"h": 280,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 498,
+								"h": 280,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								249,
+								140
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/D7uEJZnXYAAamtl.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 807239380138160100,
+				"id_str": "807239380138160128",
+				"name": "femedtech",
+				"screen_name": "femedtech",
+				"location": "everywhere",
+				"description": "#femedtech Feminist in edtech? let's grow FemEdTech network - hosted collaboratively by volunteers. DM to be involved. Curator is currently @louoboyle",
+				"url": "https://t.co/mTL2O6sf59",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mTL2O6sf59",
+								"expanded_url": "https://goo.gl/qwPV8Z",
+								"display_url": "goo.gl/qwPV8Z",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1421,
+				"friends_count": 1836,
+				"listed_count": 19,
+				"created_at": "Fri Dec 09 15:04:00 +0000 2016",
+				"favourites_count": 1983,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2397,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1123280814144405505/qzuV7vG9_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123280814144405505/qzuV7vG9_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/807239380138160128/1525778668",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#altc members can tune in to sessions at @A_L_T_NI via https://t.co/1dBSbhtlN9 The programme starts from 10am more details at https://t.co/Fo8MqLVonx https://t.co/AZhpSy9Xwh"
+	},
+	{
 		"created_at": "Tue May 28 19:31:41 +0000 2019",
 		"id": 1133454213407793200,
 		"id_str": "1133455823622070274",
