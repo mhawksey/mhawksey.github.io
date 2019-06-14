@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 13 07:53:49 +0000 2019",
+		"id": 1138735718950494200,
+		"id_str": "1139078405784317952",
+		"full_text": "Call for Expressions of Interest to Chair the 2020 ALT Annual Conference #altc https://t.co/Y2BBZQt3Jt https://t.co/yRKmzxX4ch",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						73,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y2BBZQt3Jt",
+					"expanded_url": "https://www.alt.ac.uk/news/all_news/call-expressions-interest-chair-2020-alt-annual-conference",
+					"display_url": "alt.ac.uk/news/all_news/…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1138735716987523100,
+					"id_str": "1138735716987523072",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/D82aGfAXUAASSdE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D82aGfAXUAASSdE.jpg",
+					"url": "https://t.co/yRKmzxX4ch",
+					"display_url": "pic.twitter.com/yRKmzxX4ch",
+					"expanded_url": "https://twitter.com/A_L_T/status/1138735718950494218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 619,
+							"h": 329,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 619,
+							"h": 329,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 619,
+							"h": 329,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1138735716987523100,
+					"id_str": "1138735716987523072",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/D82aGfAXUAASSdE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D82aGfAXUAASSdE.jpg",
+					"url": "https://t.co/yRKmzxX4ch",
+					"display_url": "pic.twitter.com/yRKmzxX4ch",
+					"expanded_url": "https://twitter.com/A_L_T/status/1138735718950494218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 619,
+							"h": 329,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 619,
+							"h": 329,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 619,
+							"h": 329,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11839,
+			"friends_count": 3543,
+			"listed_count": 575,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 6134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 18030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1552553640",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Call for Expressions of Interest to Chair the 2020 ALT Annual Conference #altc https://t.co/Y2BBZQt3Jt https://t.co/yRKmzxX4ch"
+	},
+	{
 		"created_at": "Thu Jun 13 00:27:50 +0000 2019",
 		"id": 1138966170336464900,
 		"id_str": "1138966170336464897",
