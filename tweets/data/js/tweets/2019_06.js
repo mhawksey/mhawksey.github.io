@@ -1,6 +1,1057 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 20 17:23:50 +0000 2019",
+		"id": 1141758569752272900,
+		"id_str": "1141758569752272896",
+		"full_text": "Twitter removes precise geo-tagging option from tweets https://t.co/3r9LAK14WB via @engadget",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "engadget",
+					"name": "Engadget",
+					"id": 14372486,
+					"id_str": "14372486",
+					"indices": [
+						83,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3r9LAK14WB",
+					"expanded_url": "https://www.engadget.com/2019/06/19/twitter-removes-precise-geo-tagging/",
+					"display_url": "engadget.com/2019/06/19/twi…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech Officer @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8184,
+			"friends_count": 2310,
+			"listed_count": 606,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5670,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Twitter removes precise geo-tagging option from tweets https://t.co/3r9LAK14WB via @engadget"
+	},
+	{
+		"created_at": "Thu Jun 20 13:58:13 +0000 2019",
+		"id": 1141706726120525800,
+		"id_str": "1141706823768182785",
+		"full_text": "ALT Conference News! We are able to offer (limited) funded places. With many thanks to the Doug Gowan Memorial fund (in memory of Doug Gowan, President of ALT, who passed away in February 2016),Closing date for application for a funded place is the 9 July. https://t.co/llVj0JV6mG https://t.co/jXDGzyrTOy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/llVj0JV6mG",
+					"expanded_url": "https://altc.alt.ac.uk/2019/funded-places/",
+					"display_url": "altc.alt.ac.uk/2019/funded-pl…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1141706468347043800,
+					"id_str": "1141706468347043840",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/D9gn--OXYAAbey4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9gn--OXYAAbey4.jpg",
+					"url": "https://t.co/jXDGzyrTOy",
+					"display_url": "pic.twitter.com/jXDGzyrTOy",
+					"expanded_url": "https://twitter.com/scotlandlouise/status/1141706726120525827/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1141706468347043800,
+					"id_str": "1141706468347043840",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/D9gn--OXYAAbey4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9gn--OXYAAbey4.jpg",
+					"url": "https://t.co/jXDGzyrTOy",
+					"display_url": "pic.twitter.com/jXDGzyrTOy",
+					"expanded_url": "https://twitter.com/scotlandlouise/status/1141706726120525827/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11687372,
+			"id_str": "11687372",
+			"name": "Louise Jones",
+			"screen_name": "scotlandlouise",
+			"location": "Scotland, United Kingdom",
+			"description": "UK Regional Manager, Google for Education | Member & Co-Chair of Association for Learning Technology ALT 2019 Conference.",
+			"url": "https://t.co/qXyFAIssW4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qXyFAIssW4",
+							"expanded_url": "https://edudirectory.withgoogle.com/profiles/5735101631561728",
+							"display_url": "edudirectory.withgoogle.com/profiles/57351…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2423,
+			"friends_count": 2197,
+			"listed_count": 58,
+			"created_at": "Mon Dec 31 13:07:35 +0000 2007",
+			"favourites_count": 6333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10927,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009169147845111810/ZEwyTx3p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009169147845111810/ZEwyTx3p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11687372/1530744957",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "544373",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ALT Conference News! We are able to offer (limited) funded places. With many thanks to the Doug Gowan Memorial fund (in memory of Doug Gowan, President of ALT, who passed away in February 2016),Closing date for application for a funded place is the 9 July. https://t.co/llVj0JV6mG https://t.co/jXDGzyrTOy"
+	},
+	{
+		"created_at": "Thu Jun 20 12:14:26 +0000 2019",
+		"id": 1141626660854345700,
+		"id_str": "1141680707883929600",
+		"full_text": "My notes on from my #Domains19: Minority Report – One Nation Under CCTV - I'm concerned that for example walking in Oxford town centre between late Nov. or early Dec. 2007 you end up in a face recognition dataset https://t.co/9oj6FpFb9C #CameraDay2019 https://t.co/RdiznzYZyI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Domains19",
+					"indices": [
+						20,
+						30
+					]
+				},
+				{
+					"text": "CameraDay2019",
+					"indices": [
+						237,
+						251
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9oj6FpFb9C",
+					"expanded_url": "https://mashe.hawksey.info/2019/06/domains19-minority-report-one-nation-under-cctv/",
+					"display_url": "mashe.hawksey.info/2019/06/domain…",
+					"indices": [
+						213,
+						236
+					]
+				},
+				{
+					"url": "https://t.co/RdiznzYZyI",
+					"expanded_url": "https://twitter.com/surcamcom/status/1141585667664830465",
+					"display_url": "twitter.com/surcamcom/stat…",
+					"indices": [
+						252,
+						275
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech Officer @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8184,
+			"friends_count": 2310,
+			"listed_count": 606,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5670,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1141585667664830500,
+		"quoted_status_id_str": "1141585667664830465",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RdiznzYZyI",
+			"expanded": "https://twitter.com/surcamcom/status/1141585667664830465",
+			"display": "twitter.com/surcamcom/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 20 05:56:47 +0000 2019",
+			"id": 1141585667664830500,
+			"id_str": "1141585667664830465",
+			"full_text": "Today is national surveillance camera day - get involved in the conversation about how and why surveillance cameras are used in society today. #cameraday2019 https://t.co/WMQz3RpWQZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				157
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "cameraday2019",
+						"indices": [
+							143,
+							157
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1141585662677794800,
+						"id_str": "1141585662677794816",
+						"indices": [
+							158,
+							181
+						],
+						"media_url": "http://pbs.twimg.com/media/D9e6HKCWwAA-DNF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D9e6HKCWwAA-DNF.jpg",
+						"url": "https://t.co/WMQz3RpWQZ",
+						"display_url": "pic.twitter.com/WMQz3RpWQZ",
+						"expanded_url": "https://twitter.com/surcamcom/status/1141585667664830465/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1104,
+								"h": 736,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1104,
+								"h": 736,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1141585662677794800,
+						"id_str": "1141585662677794816",
+						"indices": [
+							158,
+							181
+						],
+						"media_url": "http://pbs.twimg.com/media/D9e6HKCWwAA-DNF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D9e6HKCWwAA-DNF.jpg",
+						"url": "https://t.co/WMQz3RpWQZ",
+						"display_url": "pic.twitter.com/WMQz3RpWQZ",
+						"expanded_url": "https://twitter.com/surcamcom/status/1141585667664830465/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1104,
+								"h": 736,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1104,
+								"h": 736,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2397599641,
+				"id_str": "2397599641",
+				"name": "Tony Porter SCC",
+				"screen_name": "surcamcom",
+				"location": "",
+				"description": "Independent Surveillance Camera Commissioner responsible for encouraging compliance with the surveillance camera code of practice.",
+				"url": "https://t.co/C5pxx8yYQ4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/C5pxx8yYQ4",
+								"expanded_url": "https://www.gov.uk/government/organisations/surveillance-camera-commissioner",
+								"display_url": "gov.uk/government/org…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1483,
+				"friends_count": 277,
+				"listed_count": 26,
+				"created_at": "Wed Mar 19 09:51:13 +0000 2014",
+				"favourites_count": 180,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 993,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/465848593278984194/T2xWa20k_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/465848593278984194/T2xWa20k_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2397599641/1401815861",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My notes on from my #Domains19: Minority Report – One Nation Under CCTV - I'm concerned that for example walking in Oxford town centre between late Nov. or early Dec. 2007 you end up in a face recognition dataset https://t.co/9oj6FpFb9C #CameraDay2019 https://t.co/RdiznzYZyI"
+	},
+	{
+		"created_at": "Thu Jun 20 11:18:31 +0000 2019",
+		"id": 1141662048968945700,
+		"id_str": "1141666634458943489",
+		"full_text": "If cost is a barrier for joining the ALT Annual Conference 2019 #altc, 3-5 September 2019, Edinburgh the Doug Gowan Memorial fund is open for applications for funded places until 09 July https://t.co/9ixKawmF0g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						64,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9ixKawmF0g",
+					"expanded_url": "https://altc.alt.ac.uk/2019/news/apply-for-a-funded-place-at-alts-annual-conference/",
+					"display_url": "altc.alt.ac.uk/2019/news/appl…",
+					"indices": [
+						187,
+						210
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11853,
+			"friends_count": 3543,
+			"listed_count": 575,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 6226,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 18132,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1552553640",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If cost is a barrier for joining the ALT Annual Conference 2019 #altc, 3-5 September 2019, Edinburgh the Doug Gowan Memorial fund is open for applications for funded places until 09 July https://t.co/9ixKawmF0g"
+	},
+	{
+		"created_at": "Thu Jun 20 08:39:41 +0000 2019",
+		"id": 1141626660854345700,
+		"id_str": "1141626660854345729",
+		"full_text": "My notes on from my #Domains19: Minority Report – One Nation Under CCTV - I'm concerned that for example walking in Oxford town centre between late Nov. or early Dec. 2007 you end up in a face recognition dataset https://t.co/9oj6FpFb9C #CameraDay2019 https://t.co/RdiznzYZyI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Domains19",
+					"indices": [
+						20,
+						30
+					]
+				},
+				{
+					"text": "CameraDay2019",
+					"indices": [
+						237,
+						251
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9oj6FpFb9C",
+					"expanded_url": "https://mashe.hawksey.info/2019/06/domains19-minority-report-one-nation-under-cctv/",
+					"display_url": "mashe.hawksey.info/2019/06/domain…",
+					"indices": [
+						213,
+						236
+					]
+				},
+				{
+					"url": "https://t.co/RdiznzYZyI",
+					"expanded_url": "https://twitter.com/surcamcom/status/1141585667664830465",
+					"display_url": "twitter.com/surcamcom/stat…",
+					"indices": [
+						252,
+						275
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech Officer @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8184,
+			"friends_count": 2310,
+			"listed_count": 606,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5670,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1141585667664830500,
+		"quoted_status_id_str": "1141585667664830465",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RdiznzYZyI",
+			"expanded": "https://twitter.com/surcamcom/status/1141585667664830465",
+			"display": "twitter.com/surcamcom/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 20 05:56:47 +0000 2019",
+			"id": 1141585667664830500,
+			"id_str": "1141585667664830465",
+			"full_text": "Today is national surveillance camera day - get involved in the conversation about how and why surveillance cameras are used in society today. #cameraday2019 https://t.co/WMQz3RpWQZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				157
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "cameraday2019",
+						"indices": [
+							143,
+							157
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1141585662677794800,
+						"id_str": "1141585662677794816",
+						"indices": [
+							158,
+							181
+						],
+						"media_url": "http://pbs.twimg.com/media/D9e6HKCWwAA-DNF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D9e6HKCWwAA-DNF.jpg",
+						"url": "https://t.co/WMQz3RpWQZ",
+						"display_url": "pic.twitter.com/WMQz3RpWQZ",
+						"expanded_url": "https://twitter.com/surcamcom/status/1141585667664830465/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1104,
+								"h": 736,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1104,
+								"h": 736,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1141585662677794800,
+						"id_str": "1141585662677794816",
+						"indices": [
+							158,
+							181
+						],
+						"media_url": "http://pbs.twimg.com/media/D9e6HKCWwAA-DNF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D9e6HKCWwAA-DNF.jpg",
+						"url": "https://t.co/WMQz3RpWQZ",
+						"display_url": "pic.twitter.com/WMQz3RpWQZ",
+						"expanded_url": "https://twitter.com/surcamcom/status/1141585667664830465/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1104,
+								"h": 736,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1104,
+								"h": 736,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2397599641,
+				"id_str": "2397599641",
+				"name": "Tony Porter SCC",
+				"screen_name": "surcamcom",
+				"location": "",
+				"description": "Independent Surveillance Camera Commissioner responsible for encouraging compliance with the surveillance camera code of practice.",
+				"url": "https://t.co/C5pxx8yYQ4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/C5pxx8yYQ4",
+								"expanded_url": "https://www.gov.uk/government/organisations/surveillance-camera-commissioner",
+								"display_url": "gov.uk/government/org…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1483,
+				"friends_count": 277,
+				"listed_count": 26,
+				"created_at": "Wed Mar 19 09:51:13 +0000 2014",
+				"favourites_count": 180,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 993,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/465848593278984194/T2xWa20k_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/465848593278984194/T2xWa20k_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2397599641/1401815861",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My notes on from my #Domains19: Minority Report – One Nation Under CCTV - I'm concerned that for example walking in Oxford town centre between late Nov. or early Dec. 2007 you end up in a face recognition dataset https://t.co/9oj6FpFb9C #CameraDay2019 https://t.co/RdiznzYZyI"
+	},
+	{
 		"created_at": "Wed Jun 19 17:28:21 +0000 2019",
 		"id": 1141397318543007700,
 		"id_str": "1141397318543007745",
