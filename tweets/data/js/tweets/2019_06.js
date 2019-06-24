@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 23 07:14:18 +0000 2019",
+		"id": 1142518475111444500,
+		"id_str": "1142692337744842752",
+		"full_text": "Accessibilty updates. Great update to live transcribe app on my phone, works on Chromebooks too. Saves text and you can copy and paste. https://t.co/CisJCD18M4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1142518469080096800,
+					"id_str": "1142518469080096770",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/D9sKforXoAIJMK0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9sKforXoAIJMK0.jpg",
+					"url": "https://t.co/CisJCD18M4",
+					"display_url": "pic.twitter.com/CisJCD18M4",
+					"expanded_url": "https://twitter.com/scotlandlouise/status/1142518475111444485/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142518469080096800,
+					"id_str": "1142518469080096770",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/D9sKforXoAIJMK0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9sKforXoAIJMK0.jpg",
+					"url": "https://t.co/CisJCD18M4",
+					"display_url": "pic.twitter.com/CisJCD18M4",
+					"expanded_url": "https://twitter.com/scotlandlouise/status/1142518475111444485/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11687372,
+			"id_str": "11687372",
+			"name": "Louise Jones",
+			"screen_name": "scotlandlouise",
+			"location": "Denmark and United Kingdom",
+			"description": "Member & Co-Chair of Association for Learning Technology ALT 2019 Conference. Independent Learning Technologist.",
+			"url": "https://t.co/qXyFAIssW4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qXyFAIssW4",
+							"expanded_url": "https://edudirectory.withgoogle.com/profiles/5735101631561728",
+							"display_url": "edudirectory.withgoogle.com/profiles/57351…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2433,
+			"friends_count": 2205,
+			"listed_count": 58,
+			"created_at": "Mon Dec 31 13:07:35 +0000 2007",
+			"favourites_count": 6365,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10942,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009169147845111810/ZEwyTx3p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009169147845111810/ZEwyTx3p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11687372/1530744957",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "544373",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Accessibilty updates. Great update to live transcribe app on my phone, works on Chromebooks too. Saves text and you can copy and paste. https://t.co/CisJCD18M4"
+	},
+	{
 		"created_at": "Sat Jun 22 17:46:24 +0000 2019",
 		"id": 1142489022679388200,
 		"id_str": "1142489022679388161",
