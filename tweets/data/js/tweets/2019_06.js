@@ -1,6 +1,1473 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 25 17:34:52 +0000 2019",
+		"id": 1143573283931078700,
+		"id_str": "1143573283931078656",
+		"full_text": "Senate bill would make companies put a price on personal data https://t.co/Q27QIMAAft via @engadget",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "engadget",
+					"name": "Engadget",
+					"id": 14372486,
+					"id_str": "14372486",
+					"indices": [
+						90,
+						99
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Q27QIMAAft",
+					"expanded_url": "https://www.engadget.com/2019/06/24/senate-dashboard-bill-data/",
+					"display_url": "engadget.com/2019/06/24/sen…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech Officer @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8195,
+			"friends_count": 2311,
+			"listed_count": 608,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Senate bill would make companies put a price on personal data https://t.co/Q27QIMAAft via @engadget"
+	},
+	{
+		"created_at": "Tue Jun 25 15:52:08 +0000 2019",
+		"id": 1143547433223434200,
+		"id_str": "1143547433223434241",
+		"full_text": "@afirstenberg @VoiceSummitAI ...it's good to talk :)",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "afirstenberg",
+					"name": "Allen \"Prisoner\" Firstenberg",
+					"id": 304116738,
+					"id_str": "304116738",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "VoiceSummitAI",
+					"name": "VOICE",
+					"id": 975463310496641000,
+					"id_str": "975463310496641024",
+					"indices": [
+						14,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1143525685576851500,
+		"in_reply_to_status_id_str": "1143525685576851456",
+		"in_reply_to_user_id": 304116738,
+		"in_reply_to_user_id_str": "304116738",
+		"in_reply_to_screen_name": "afirstenberg",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech Officer @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8195,
+			"friends_count": 2311,
+			"listed_count": 608,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@afirstenberg @VoiceSummitAI ...it's good to talk :)"
+	},
+	{
+		"created_at": "Tue Jun 25 13:56:32 +0000 2019",
+		"id": 1143518200518316000,
+		"id_str": "1143518341266587649",
+		"full_text": "Here's link @madebymagnolia mentioned for 12 design principles on how to design a voice experience. https://t.co/cxCGcPfmTr #design #UX #IWMW19 #P2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "design",
+					"indices": [
+						124,
+						131
+					]
+				},
+				{
+					"text": "UX",
+					"indices": [
+						132,
+						135
+					]
+				},
+				{
+					"text": "IWMW19",
+					"indices": [
+						136,
+						143
+					]
+				},
+				{
+					"text": "P2",
+					"indices": [
+						144,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "madebymagnolia",
+					"name": "Paul Jackson",
+					"id": 14179118,
+					"id_str": "14179118",
+					"indices": [
+						12,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cxCGcPfmTr",
+					"expanded_url": "https://www.bbc.co.uk/gel/guidelines/how-to-design-a-voice-experience",
+					"display_url": "bbc.co.uk/gel/guidelines…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8556552,
+			"id_str": "8556552",
+			"name": "Deborah Edwards-Onoro",
+			"screen_name": "redcrew",
+			"location": "metro Detroit, Michigan",
+			"description": "WordPress • UX • Accessibility • @refreshdetroit & @MetroDetroitWP organizer • Former @DetroitUX, @hewebmi, @michiganuxpa • Birder, photographer, tennis fan",
+			"url": "https://t.co/nEoP4xt5xX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nEoP4xt5xX",
+							"expanded_url": "https://lireo.com/",
+							"display_url": "lireo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6194,
+			"friends_count": 2620,
+			"listed_count": 1407,
+			"created_at": "Fri Aug 31 12:14:27 +0000 2007",
+			"favourites_count": 53840,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 170226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1F3718",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1069600827281690625/J0FWxUCE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069600827281690625/J0FWxUCE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8556552/1552517765",
+			"profile_link_color": "112275",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFF3AD",
+			"profile_text_color": "301B30",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here's link @madebymagnolia mentioned for 12 design principles on how to design a voice experience. https://t.co/cxCGcPfmTr #design #UX #IWMW19 #P2"
+	},
+	{
+		"created_at": "Tue Jun 25 13:56:05 +0000 2019",
+		"id": 1143518226845982700,
+		"id_str": "1143518226845982720",
+		"full_text": "... example of using conversational interfaces with data (Google Sheets) https://t.co/fq3Grn7kSk #voicefirst #IWMW19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "voicefirst",
+					"indices": [
+						97,
+						108
+					]
+				},
+				{
+					"text": "IWMW19",
+					"indices": [
+						109,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fq3Grn7kSk",
+					"expanded_url": "https://mashe.hawksey.info/2019/01/google-apps-script-patterns-creating-conversational-interfaces-with-dialogflow/",
+					"display_url": "mashe.hawksey.info/2019/01/google…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech Officer @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8195,
+			"friends_count": 2311,
+			"listed_count": 608,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "... example of using conversational interfaces with data (Google Sheets) https://t.co/fq3Grn7kSk #voicefirst #IWMW19"
+	},
+	{
+		"created_at": "Tue Jun 25 13:41:01 +0000 2019",
+		"id": 1143511892322897900,
+		"id_str": "1143514435744649219",
+		"full_text": "Next up, we welcome @MadeByMagnolia from the Voice + AI team the BBC. He will describe how to design a Voice Experience for an Audience that is Still Learning to Speak. Watch live at https://t.co/d9dZYTkR5G and use the #P2 and #iwmw19 hashtags",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "P2",
+					"indices": [
+						219,
+						222
+					]
+				},
+				{
+					"text": "iwmw19",
+					"indices": [
+						227,
+						234
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "madebymagnolia",
+					"name": "Paul Jackson",
+					"id": 14179118,
+					"id_str": "14179118",
+					"indices": [
+						20,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/d9dZYTkR5G",
+					"expanded_url": "https://iwmw.org/iwmw2019/watch-live/",
+					"display_url": "iwmw.org/iwmw2019/watch…",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1143511890154479600,
+		"in_reply_to_status_id_str": "1143511890154479617",
+		"in_reply_to_user_id": 52024576,
+		"in_reply_to_user_id_str": "52024576",
+		"in_reply_to_screen_name": "iwmwlive",
+		"user": {
+			"id": 52024576,
+			"id_str": "52024576",
+			"name": "iwmwlive",
+			"screen_name": "iwmwlive",
+			"location": "Greenwich, London",
+			"description": "Live commentary from IWMW events. IWMW19 will take place at the University of Greenwich on 25-27 June 2019.",
+			"url": "https://t.co/QWFCCkk0qh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QWFCCkk0qh",
+							"expanded_url": "http://iwmw.org/iwmw2019/",
+							"display_url": "iwmw.org/iwmw2019/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 209,
+			"friends_count": 42,
+			"listed_count": 20,
+			"created_at": "Mon Jun 29 11:02:48 +0000 2009",
+			"favourites_count": 203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/739493522097725440/md0f8RyO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/739493522097725440/md0f8RyO_normal.jpg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Next up, we welcome @MadeByMagnolia from the Voice + AI team the BBC. He will describe how to design a Voice Experience for an Audience that is Still Learning to Speak. Watch live at https://t.co/d9dZYTkR5G and use the #P2 and #iwmw19 hashtags"
+	},
+	{
+		"created_at": "Tue Jun 25 12:54:50 +0000 2019",
+		"id": 1143500544734093300,
+		"id_str": "1143502812040617984",
+		"full_text": "You can vote for me, or for @scotlandlouise  as 'Edufuturist of the Year' https://t.co/bk993clh0r @A_L_T #altc  co-chairs #altc2019 #learningtechnology Thank you to whoever it was who nominated me.😊 https://t.co/jfHJYdHiBt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "altc2019",
+					"indices": [
+						122,
+						131
+					]
+				},
+				{
+					"text": "learningtechnology",
+					"indices": [
+						132,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "scotlandlouise",
+					"name": "Louise Jones",
+					"id": 11687372,
+					"id_str": "11687372",
+					"indices": [
+						28,
+						43
+					]
+				},
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						98,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bk993clh0r",
+					"expanded_url": "http://www.edufuturists.com/summit19",
+					"display_url": "edufuturists.com/summit19",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1143500213140762600,
+					"id_str": "1143500213140762624",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/D96HYqTWsAAqFuR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D96HYqTWsAAqFuR.jpg",
+					"url": "https://t.co/jfHJYdHiBt",
+					"display_url": "pic.twitter.com/jfHJYdHiBt",
+					"expanded_url": "https://twitter.com/HoneybHighton/status/1143500544734093313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1143500213140762600,
+					"id_str": "1143500213140762624",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/D96HYqTWsAAqFuR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D96HYqTWsAAqFuR.jpg",
+					"url": "https://t.co/jfHJYdHiBt",
+					"display_url": "pic.twitter.com/jfHJYdHiBt",
+					"expanded_url": "https://twitter.com/HoneybHighton/status/1143500544734093313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2382712322,
+			"id_str": "2382712322",
+			"name": "Melissa",
+			"screen_name": "HoneybHighton",
+			"location": "University of Edinburgh/Oxford",
+			"description": "Edtech blogger, IT Director, maven and occasional keynote. Interested in all things digital in higher education. Tweet people the way you want to be tweeted.",
+			"url": "https://t.co/ZkIRHSRTNv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZkIRHSRTNv",
+							"expanded_url": "http://thinking.is.ed.ac.uk/melissa/",
+							"display_url": "thinking.is.ed.ac.uk/melissa/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1502,
+			"friends_count": 704,
+			"listed_count": 147,
+			"created_at": "Mon Mar 10 21:36:05 +0000 2014",
+			"favourites_count": 651,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6743,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1142797011147776001/4yX5oI1D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1142797011147776001/4yX5oI1D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2382712322/1474024963",
+			"profile_link_color": "B3B300",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You can vote for me, or for @scotlandlouise  as 'Edufuturist of the Year' https://t.co/bk993clh0r @A_L_T #altc  co-chairs #altc2019 #learningtechnology Thank you to whoever it was who nominated me.😊 https://t.co/jfHJYdHiBt"
+	},
+	{
+		"created_at": "Tue Jun 25 11:13:37 +0000 2019",
+		"id": 1143463095500755000,
+		"id_str": "1143477339914985475",
+		"full_text": "A technical perspective on a telepresence robot by @fmacneill https://t.co/y2iMdY0Si1 #altc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						86,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fmacneill",
+					"name": "Fiona MacNeill",
+					"id": 153154143,
+					"id_str": "153154143",
+					"indices": [
+						51,
+						61
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/y2iMdY0Si1",
+					"expanded_url": "http://blogs.brighton.ac.uk/elearningteam/2019/06/20/a-technical-perspective-on-a-telepresence-robot/",
+					"display_url": "blogs.brighton.ac.uk/elearningteam/…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2162676313,
+			"id_str": "2162676313",
+			"name": "Clare Thomson",
+			"screen_name": "slowtech2000",
+			"location": "Somewhere",
+			"description": "Digital Education Consultant at Ulster University & #PhD student @EdinburghUni - Reflective Practice in meded (a tad meta). #CMALT #SFHEA #ds106 #LSP #femedtech",
+			"url": "https://t.co/m7uxOtPKi6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/m7uxOtPKi6",
+							"expanded_url": "http://www.lostandfoundinedtech.org/",
+							"display_url": "lostandfoundinedtech.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 892,
+			"friends_count": 974,
+			"listed_count": 62,
+			"created_at": "Tue Oct 29 11:33:58 +0000 2013",
+			"favourites_count": 5235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4269,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952914512247771136/fFXo4WoL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952914512247771136/fFXo4WoL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2162676313/1547050039",
+			"profile_link_color": "173C8E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A technical perspective on a telepresence robot by @fmacneill https://t.co/y2iMdY0Si1 #altc"
+	},
+	{
+		"created_at": "Tue Jun 25 10:04:35 +0000 2019",
+		"id": 1143429853632499700,
+		"id_str": "1143459966625505280",
+		"full_text": "I’m doing some research on #podcasts. What podcasts do you listen to? Are there any podcasts that have influenced your working life? Have helped you learn something? When do you listen? #LDInsight #altc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "podcasts",
+					"indices": [
+						27,
+						36
+					]
+				},
+				{
+					"text": "LDInsight",
+					"indices": [
+						186,
+						196
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						197,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 268665033,
+			"id_str": "268665033",
+			"name": "Danielle Johnstone",
+			"screen_name": "zimdani",
+			"location": "London, England",
+			"description": "Interested in making tech & learning more inclusive. E-Learning Visual Designer @KingsOnline. Instructional design volunteer @LearnAppeal. Own tweets. She/her.",
+			"url": "https://t.co/es9Ynckd55",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/es9Ynckd55",
+							"expanded_url": "https://www.linkedin.com/in/dsjohnst/",
+							"display_url": "linkedin.com/in/dsjohnst/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 512,
+			"friends_count": 911,
+			"listed_count": 22,
+			"created_at": "Sat Mar 19 06:39:36 +0000 2011",
+			"favourites_count": 2736,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1734,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935518072298975233/67XTgKuR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935518072298975233/67XTgKuR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/268665033/1527507421",
+			"profile_link_color": "FD9377",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I’m doing some research on #podcasts. What podcasts do you listen to? Are there any podcasts that have influenced your working life? Have helped you learn something? When do you listen? #LDInsight #altc"
+	},
+	{
+		"created_at": "Tue Jun 25 08:58:23 +0000 2019",
+		"id": 1143443309366534100,
+		"id_str": "1143443309366534144",
+		"full_text": "French company fined €20,000 for in part \"excessive videosurveillance\" of employees https://t.co/0lwIBw1Ru6 #altc #domains19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "domains19",
+					"indices": [
+						114,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0lwIBw1Ru6",
+					"expanded_url": "https://privacylawblog.fieldfisher.com/2019/videosurveillance-cnil-issues-fine-of-20-000-euros-against-a-small-company-in-france",
+					"display_url": "privacylawblog.fieldfisher.com/2019/videosurv…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech Officer @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8195,
+			"friends_count": 2311,
+			"listed_count": 608,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "French company fined €20,000 for in part \"excessive videosurveillance\" of employees https://t.co/0lwIBw1Ru6 #altc #domains19"
+	},
+	{
+		"created_at": "Tue Jun 25 08:51:26 +0000 2019",
+		"id": 1143441483225292800,
+		"id_str": "1143441557833551872",
+		"full_text": "#altc members might want to tune in to the live stream sessions from the 23rd annual Institutional Web Management Workshop #IWMW19 ... sessions start from 13:45 today https://t.co/jmUPd5gHmk Follow @iwmwlive for details",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "IWMW19",
+					"indices": [
+						123,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iwmwlive",
+					"name": "iwmwlive",
+					"id": 52024576,
+					"id_str": "52024576",
+					"indices": [
+						198,
+						207
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jmUPd5gHmk",
+					"expanded_url": "https://go.alt.ac.uk/2LfVuwC",
+					"display_url": "go.alt.ac.uk/2LfVuwC",
+					"indices": [
+						167,
+						190
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11866,
+			"friends_count": 3551,
+			"listed_count": 575,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 6264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 18187,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1552553640",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#altc members might want to tune in to the live stream sessions from the 23rd annual Institutional Web Management Workshop #IWMW19 ... sessions start from 13:45 today https://t.co/jmUPd5gHmk Follow @iwmwlive for details"
+	},
+	{
+		"created_at": "Tue Jun 25 05:51:19 +0000 2019",
+		"id": 1143396229541445600,
+		"id_str": "1143396229541445633",
+		"full_text": "@twoodwar Love how the frames actually look like the #domains19 sunglasses ;)",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "domains19",
+					"indices": [
+						53,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "twoodwar",
+					"name": "Tom Woodward",
+					"id": 10076902,
+					"id_str": "10076902",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1143306934432489500,
+		"in_reply_to_status_id_str": "1143306934432489478",
+		"in_reply_to_user_id": 10076902,
+		"in_reply_to_user_id_str": "10076902",
+		"in_reply_to_screen_name": "twoodwar",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech Officer @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8195,
+			"friends_count": 2311,
+			"listed_count": 608,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@twoodwar Love how the frames actually look like the #domains19 sunglasses ;)"
+	},
+	{
 		"created_at": "Mon Jun 24 14:55:03 +0000 2019",
 		"id": 1143170679824703500,
 		"id_str": "1143170679824703490",
