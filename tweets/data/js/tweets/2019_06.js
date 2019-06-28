@@ -1,6 +1,806 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 27 17:53:18 +0000 2019",
+		"id": 1144302698709291000,
+		"id_str": "1144302698709291008",
+		"full_text": "Find out about #GoogleAppsScript in the enterprise in 10mins with @BrawerMD #GSuiteDevs https://t.co/KJcOCG1whL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						15,
+						32
+					]
+				},
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						76,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BrawerMD",
+					"name": "Max Brawer",
+					"id": 25871162,
+					"id_str": "25871162",
+					"indices": [
+						66,
+						75
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KJcOCG1whL",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1143282268951199749",
+					"display_url": "twitter.com/AppsScriptInfo…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech Officer @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8199,
+			"friends_count": 2314,
+			"listed_count": 607,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5687,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1143282268951199700,
+		"quoted_status_id_str": "1143282268951199749",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KJcOCG1whL",
+			"expanded": "https://twitter.com/AppsScriptInfo/status/1143282268951199749",
+			"display": "twitter.com/AppsScriptInfo…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 24 22:18:28 +0000 2019",
+			"id": 1143282268951199700,
+			"id_str": "1143282268951199749",
+			"full_text": "For the next episode of Totally Unscripted @mhawksey is joined by @BrawerMD from @BuzzFeed to talk about #GoogleAppsScript in the enterprise. Join us this Thursday at 1800UTC https://t.co/8vfqSQUta8 #GSuiteDevs https://t.co/ItwfTwmJ08",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				210
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GoogleAppsScript",
+						"indices": [
+							105,
+							122
+						]
+					},
+					{
+						"text": "GSuiteDevs",
+						"indices": [
+							199,
+							210
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mhawksey",
+						"name": "Martin Hawksey",
+						"id": 13046992,
+						"id_str": "13046992",
+						"indices": [
+							43,
+							52
+						]
+					},
+					{
+						"screen_name": "BrawerMD",
+						"name": "Max Brawer",
+						"id": 25871162,
+						"id_str": "25871162",
+						"indices": [
+							66,
+							75
+						]
+					},
+					{
+						"screen_name": "BuzzFeed",
+						"name": "BuzzFeed",
+						"id": 5695632,
+						"id_str": "5695632",
+						"indices": [
+							81,
+							90
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/8vfqSQUta8",
+						"expanded_url": "https://tu.appsscript.info/",
+						"display_url": "tu.appsscript.info",
+						"indices": [
+							175,
+							198
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1143281478132015100,
+						"id_str": "1143281478132015111",
+						"indices": [
+							211,
+							234
+						],
+						"media_url": "http://pbs.twimg.com/media/D93Acm5XoAc-yJ6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D93Acm5XoAc-yJ6.jpg",
+						"url": "https://t.co/ItwfTwmJ08",
+						"display_url": "pic.twitter.com/ItwfTwmJ08",
+						"expanded_url": "https://twitter.com/AppsScriptInfo/status/1143282268951199749/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1143281478132015100,
+						"id_str": "1143281478132015111",
+						"indices": [
+							211,
+							234
+						],
+						"media_url": "http://pbs.twimg.com/media/D93Acm5XoAc-yJ6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D93Acm5XoAc-yJ6.jpg",
+						"url": "https://t.co/ItwfTwmJ08",
+						"display_url": "pic.twitter.com/ItwfTwmJ08",
+						"expanded_url": "https://twitter.com/AppsScriptInfo/status/1143282268951199749/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 322526439,
+				"id_str": "322526439",
+				"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+				"screen_name": "AppsScriptInfo",
+				"location": "World",
+				"description": "A Google Apps Script Community account to support #GSuiteDevs. Curated by @mhawksey",
+				"url": "https://t.co/1OwN2T5Za9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1OwN2T5Za9",
+								"expanded_url": "http://tu.appsscript.info",
+								"display_url": "tu.appsscript.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 160,
+				"friends_count": 260,
+				"listed_count": 10,
+				"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+				"favourites_count": 19,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1105,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+				"profile_link_color": "4286F4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Find out about #GoogleAppsScript in the enterprise in 10mins with @BrawerMD #GSuiteDevs https://t.co/KJcOCG1whL"
+	},
+	{
+		"created_at": "Thu Jun 27 10:20:35 +0000 2019",
+		"id": 1144188771187007500,
+		"id_str": "1144188771187007488",
+		"full_text": "This open source tool to help with Data Impact Assessments to comply with #GDPR from the french equivalent of the UK's ICO might be of interest to #altc \n\nhttps://t.co/KWpaexr6Xl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GDPR",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						147,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KWpaexr6Xl",
+					"expanded_url": "https://twitter.com/CNIL_en/status/1143509393629229056",
+					"display_url": "twitter.com/CNIL_en/status…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech Officer @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8199,
+			"friends_count": 2314,
+			"listed_count": 607,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5687,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1143509393629229000,
+		"quoted_status_id_str": "1143509393629229056",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KWpaexr6Xl",
+			"expanded": "https://twitter.com/CNIL_en/status/1143509393629229056",
+			"display": "twitter.com/CNIL_en/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 25 13:20:59 +0000 2019",
+			"id": 1143509393629229000,
+			"id_str": "1143509393629229056",
+			"full_text": "🆕 We just release the version 2.1 of the PIA software ! This free tool aims to help data controllers build and demonstrate compliance to the #GDPR → https://t.co/bs1F1MhPob https://t.co/EmiYGAbrZX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				172
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GDPR",
+						"indices": [
+							141,
+							146
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bs1F1MhPob",
+						"expanded_url": "https://www.cnil.fr/en/open-source-pia-software-helps-carry-out-data-protection-impact-assesment",
+						"display_url": "cnil.fr/en/open-source…",
+						"indices": [
+							149,
+							172
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1143502559308595200,
+						"id_str": "1143502559308595200",
+						"indices": [
+							173,
+							196
+						],
+						"media_url": "http://pbs.twimg.com/media/D96JhOdWwAA5H1N.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D96JhOdWwAA5H1N.jpg",
+						"url": "https://t.co/EmiYGAbrZX",
+						"display_url": "pic.twitter.com/EmiYGAbrZX",
+						"expanded_url": "https://twitter.com/CNIL_en/status/1143509393629229056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 975,
+								"h": 500,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 975,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 349,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1143502559308595200,
+						"id_str": "1143502559308595200",
+						"indices": [
+							173,
+							196
+						],
+						"media_url": "http://pbs.twimg.com/media/D96JhOdWwAA5H1N.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D96JhOdWwAA5H1N.jpg",
+						"url": "https://t.co/EmiYGAbrZX",
+						"display_url": "pic.twitter.com/EmiYGAbrZX",
+						"expanded_url": "https://twitter.com/CNIL_en/status/1143509393629229056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 975,
+								"h": 500,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 975,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 349,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2896133171,
+				"id_str": "2896133171",
+				"name": "CNIL_en",
+				"screen_name": "CNIL_en",
+				"location": "Paris",
+				"description": "CNIL in English - Official account of the French dataprotection authority - 🇫🇷 : @CNIL - #dataprotection #privacy #wp29 #gdpr #rtbf #eudatap #dpo #privacyshield",
+				"url": "https://t.co/l56erStf3w",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/l56erStf3w",
+								"expanded_url": "https://www.cnil.fr/en/home",
+								"display_url": "cnil.fr/en/home",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3320,
+				"friends_count": 107,
+				"listed_count": 102,
+				"created_at": "Fri Nov 28 16:42:53 +0000 2014",
+				"favourites_count": 52,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 549,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1118522278218801152/NtL8QhtC_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118522278218801152/NtL8QhtC_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2896133171/1515175283",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This open source tool to help with Data Impact Assessments to comply with #GDPR from the french equivalent of the UK's ICO might be of interest to #altc \n\nhttps://t.co/KWpaexr6Xl"
+	},
+	{
+		"created_at": "Thu Jun 27 07:20:13 +0000 2019",
+		"id": 1144123867520262100,
+		"id_str": "1144143380366221312",
+		"full_text": "@GdnUniversities nice piece. unfortunately the problems with tech &amp; mental health are going to get even deeper with AI on the scene... 'Mental health and artificial intelligence: losing your voice' https://t.co/rH59KpOh1A",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			225
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GdnUniversities",
+					"name": "Guardian Universities",
+					"id": 252124716,
+					"id_str": "252124716",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rH59KpOh1A",
+					"expanded_url": "https://www.opendemocracy.net/en/digitaliberties/mental-health-and-artificial-intelligence-losing-your-voice-poem/",
+					"display_url": "opendemocracy.net/en/digitaliber…",
+					"indices": [
+						202,
+						225
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1144123191863812100,
+		"in_reply_to_status_id_str": "1144123191863812096",
+		"in_reply_to_user_id": 252124716,
+		"in_reply_to_user_id_str": "252124716",
+		"in_reply_to_screen_name": "GdnUniversities",
+		"user": {
+			"id": 9888872,
+			"id_str": "9888872",
+			"name": "dan mcquillan",
+			"screen_name": "danmcquillan",
+			"location": "",
+			"description": "paradigm dissident. https://t.co/qfWAk4PmA8",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/qfWAk4PmA8",
+							"expanded_url": "http://www.danmcquillan.io/",
+							"display_url": "danmcquillan.io",
+							"indices": [
+								20,
+								43
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4540,
+			"friends_count": 2303,
+			"listed_count": 334,
+			"created_at": "Fri Nov 02 15:45:35 +0000 2007",
+			"favourites_count": 6387,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41600,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/483295714101821441/BcvgqbsK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/483295714101821441/BcvgqbsK_normal.jpeg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@GdnUniversities nice piece. unfortunately the problems with tech &amp; mental health are going to get even deeper with AI on the scene... 'Mental health and artificial intelligence: losing your voice' https://t.co/rH59KpOh1A"
+	},
+	{
 		"created_at": "Wed Jun 26 17:31:08 +0000 2019",
 		"id": 1143934733879054300,
 		"id_str": "1143934733879054338",
