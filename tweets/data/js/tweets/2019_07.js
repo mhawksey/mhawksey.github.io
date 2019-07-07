@@ -1,6 +1,498 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 06 07:08:09 +0000 2019",
+		"id": 1147140614498242600,
+		"id_str": "1147401835139031040",
+		"full_text": "Next week is the 2nd webinar on accessibility for VLEs, free to attend and open to all - register now to find out more about the Web Content Accessibility Guidelines from Robert McLaren, Head of Industry, Technology &amp; Innovation at Policy Connect #altc https://t.co/chC5K2CsSo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						251,
+						256
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/chC5K2CsSo",
+					"expanded_url": "https://www.alt.ac.uk/civicrm/event/info%3Fid%3D440%26amp%3Breset%3D1",
+					"display_url": "alt.ac.uk/civicrm/event/…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11898,
+			"friends_count": 3565,
+			"listed_count": 573,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 6344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 18280,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1552553640",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Next week is the 2nd webinar on accessibility for VLEs, free to attend and open to all - register now to find out more about the Web Content Accessibility Guidelines from Robert McLaren, Head of Industry, Technology &amp; Innovation at Policy Connect #altc https://t.co/chC5K2CsSo"
+	},
+	{
+		"created_at": "Sat Jul 06 07:04:53 +0000 2019",
+		"id": 1147099246711193600,
+		"id_str": "1147401012849893376",
+		"full_text": "And there are a record number of GASTA sessions... which will be hosted as last year by @TomFarrelly - so best prepare for adventures #altc @ILTAtweets @etug #GASTA https://t.co/7DgsU6MxUS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "GASTA",
+					"indices": [
+						158,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TomFarrelly",
+					"name": "Tom Farrelly",
+					"id": 104772398,
+					"id_str": "104772398",
+					"indices": [
+						88,
+						100
+					]
+				},
+				{
+					"screen_name": "ILTAtweets",
+					"name": "ILTA",
+					"id": 32450692,
+					"id_str": "32450692",
+					"indices": [
+						140,
+						151
+					]
+				},
+				{
+					"screen_name": "etug",
+					"name": "etug",
+					"id": 17102936,
+					"id_str": "17102936",
+					"indices": [
+						152,
+						157
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7DgsU6MxUS",
+					"expanded_url": "https://twitter.com/a_l_t/status/1146776977761800192",
+					"display_url": "twitter.com/a_l_t/status/1…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 323173367,
+			"id_str": "323173367",
+			"name": "Dr Maren Deepwell",
+			"screen_name": "MarenDeepwell",
+			"location": "United Kingdom",
+			"description": "CEO @A_L_T #altc Senior #CMALT, Anthropologist, Open Practitioner, leadership, policy & Learning Technology CPD, open governance & equality #femedtech she/her",
+			"url": "https://t.co/kMXdMTr9bt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kMXdMTr9bt",
+							"expanded_url": "http://marendeepwell.com",
+							"display_url": "marendeepwell.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3594,
+			"friends_count": 1680,
+			"listed_count": 191,
+			"created_at": "Fri Jun 24 11:30:35 +0000 2011",
+			"favourites_count": 16342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9517,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1106108974481489920/SNmOSvkd_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106108974481489920/SNmOSvkd_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/323173367/1552551974",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1146776977761800200,
+		"quoted_status_id_str": "1146776977761800192",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7DgsU6MxUS",
+			"expanded": "https://twitter.com/a_l_t/status/1146776977761800192",
+			"display": "twitter.com/a_l_t/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 04 13:45:12 +0000 2019",
+			"id": 1146776977761800200,
+			"id_str": "1146776977761800192",
+			"full_text": "#altc 2019 Annual Conference programme has been announced! https://t.co/Jif7oWBTHL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				82
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "altc",
+						"indices": [
+							0,
+							5
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Jif7oWBTHL",
+						"expanded_url": "https://go.alt.ac.uk/328qZyJ",
+						"display_url": "go.alt.ac.uk/328qZyJ",
+						"indices": [
+							59,
+							82
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41210876,
+				"id_str": "41210876",
+				"name": "ALT - alt.ac.uk",
+				"screen_name": "A_L_T",
+				"location": "UK",
+				"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+				"url": "http://t.co/d7hBNekdUq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/d7hBNekdUq",
+								"expanded_url": "http://www.alt.ac.uk/",
+								"display_url": "alt.ac.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11898,
+				"friends_count": 3565,
+				"listed_count": 573,
+				"created_at": "Tue May 19 21:06:36 +0000 2009",
+				"favourites_count": 6344,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 18280,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1552553640",
+				"profile_link_color": "079948",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And there are a record number of GASTA sessions... which will be hosted as last year by @TomFarrelly - so best prepare for adventures #altc @ILTAtweets @etug #GASTA https://t.co/7DgsU6MxUS"
+	},
+	{
+		"created_at": "Sat Jul 06 07:03:17 +0000 2019",
+		"id": 1147400608837775400,
+		"id_str": "1147400608837775360",
+		"full_text": "The Year Reclaim Hosting Grew Up -  https://t.co/v2xq3bANSN &lt; never considered there was a licence fee for cPanel ... and it's now got jaw droppingly expensive",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v2xq3bANSN",
+					"expanded_url": "https://bavatuesdays.com/the-year-reclaim-hosting-grew-up/",
+					"display_url": "bavatuesdays.com/the-year-recla…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech Officer @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8206,
+			"friends_count": 2319,
+			"listed_count": 605,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28484,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Year Reclaim Hosting Grew Up -  https://t.co/v2xq3bANSN &lt; never considered there was a licence fee for cPanel ... and it's now got jaw droppingly expensive"
+	},
+	{
 		"created_at": "Fri Jul 05 20:58:33 +0000 2019",
 		"id": 1147248423269281800,
 		"id_str": "1147248423269281796",
