@@ -1,6 +1,458 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sun Jul 07 20:04:55 +0000 2019",
+		"id": 1147929540053938200,
+		"id_str": "1147959702405431307",
+		"full_text": "Full programme now online for ALT 2019 Annual Conference on Data, Dialogue, Doing #altc. Edinburgh 3rd to 5th Sept. Honoured to be co-chairing with @scotlandlouise and @HoneybHighton. Our ‘early bird’ registration closes Tuesday 9th July. Register at https://t.co/AzsxA2OuQN.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						82,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "scotlandlouise",
+					"name": "Louise Jones",
+					"id": 11687372,
+					"id_str": "11687372",
+					"indices": [
+						148,
+						163
+					]
+				},
+				{
+					"screen_name": "HoneybHighton",
+					"name": "Melissa",
+					"id": 2382712322,
+					"id_str": "2382712322",
+					"indices": [
+						168,
+						182
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AzsxA2OuQN",
+					"expanded_url": "https://altc.alt.ac.uk/2019/registration/",
+					"display_url": "altc.alt.ac.uk/2019/registrat…",
+					"indices": [
+						251,
+						274
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15094414,
+			"id_str": "15094414",
+			"name": "Keith Smyth",
+			"screen_name": "smythkrs",
+			"location": "Nairn, Scotland",
+			"description": "Professor of Pedagogy and Head of @LTA_UHI at @ThinkUHI. Education, learning, technology, inclusion. Editor @JofPAAP, developer 3E Framework. My views only.",
+			"url": "https://t.co/5Dte2VT0U4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5Dte2VT0U4",
+							"expanded_url": "http://3eeducation.org/",
+							"display_url": "3eeducation.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2617,
+			"friends_count": 2445,
+			"listed_count": 108,
+			"created_at": "Thu Jun 12 07:20:28 +0000 2008",
+			"favourites_count": 3099,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102346598883999744/IYLhDyA0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102346598883999744/IYLhDyA0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15094414/1551654847",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "82ADED",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Full programme now online for ALT 2019 Annual Conference on Data, Dialogue, Doing #altc. Edinburgh 3rd to 5th Sept. Honoured to be co-chairing with @scotlandlouise and @HoneybHighton. Our ‘early bird’ registration closes Tuesday 9th July. Register at https://t.co/AzsxA2OuQN."
+	},
+	{
+		"created_at": "Sun Jul 07 19:56:08 +0000 2019",
+		"id": 1147932340167028700,
+		"id_str": "1147957489142575104",
+		"full_text": "Themes for the ALT 2019 Conference in Edinburgh this September include: student data and learning analytics; creativity across the curriculum; critical frames of reference; and learning technology for wider impact. For more info and to register see https://t.co/PNvc6rV5gP #altc https://t.co/CjFxYXULyQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						273,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PNvc6rV5gP",
+					"expanded_url": "https://altc.alt.ac.uk/2019/news/altc-2019-annual-conference-programme-announced/",
+					"display_url": "altc.alt.ac.uk/2019/news/altc…",
+					"indices": [
+						249,
+						272
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1147932337600114700,
+					"id_str": "1147932337600114689",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/D-5GYQjWsAEomas.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-5GYQjWsAEomas.jpg",
+					"url": "https://t.co/CjFxYXULyQ",
+					"display_url": "pic.twitter.com/CjFxYXULyQ",
+					"expanded_url": "https://twitter.com/smythkrs/status/1147932340167028737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 320,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 471,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 471,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1147932337600114700,
+					"id_str": "1147932337600114689",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/D-5GYQjWsAEomas.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-5GYQjWsAEomas.jpg",
+					"url": "https://t.co/CjFxYXULyQ",
+					"display_url": "pic.twitter.com/CjFxYXULyQ",
+					"expanded_url": "https://twitter.com/smythkrs/status/1147932340167028737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 320,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 471,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 471,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15094414,
+			"id_str": "15094414",
+			"name": "Keith Smyth",
+			"screen_name": "smythkrs",
+			"location": "Nairn, Scotland",
+			"description": "Professor of Pedagogy and Head of @LTA_UHI at @ThinkUHI. Education, learning, technology, inclusion. Editor @JofPAAP, developer 3E Framework. My views only.",
+			"url": "https://t.co/5Dte2VT0U4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5Dte2VT0U4",
+							"expanded_url": "http://3eeducation.org/",
+							"display_url": "3eeducation.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2617,
+			"friends_count": 2445,
+			"listed_count": 108,
+			"created_at": "Thu Jun 12 07:20:28 +0000 2008",
+			"favourites_count": 3099,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102346598883999744/IYLhDyA0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102346598883999744/IYLhDyA0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15094414/1551654847",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "82ADED",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Themes for the ALT 2019 Conference in Edinburgh this September include: student data and learning analytics; creativity across the curriculum; critical frames of reference; and learning technology for wider impact. For more info and to register see https://t.co/PNvc6rV5gP #altc https://t.co/CjFxYXULyQ"
+	},
+	{
+		"created_at": "Sun Jul 07 12:41:03 +0000 2019",
+		"id": 1147847997436379100,
+		"id_str": "1147847997436379136",
+		"full_text": "BBC News - João Gilberto: Brazilian 'father of bossa nova' dies aged 88 https://t.co/yOpTwCzlLy &lt; sad news but brings back wonderful memories of @amcollier's #domain19 talk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "domain19",
+					"indices": [
+						161,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amcollier",
+					"name": "Anne of Green Mountains",
+					"id": 17300374,
+					"id_str": "17300374",
+					"indices": [
+						148,
+						158
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yOpTwCzlLy",
+					"expanded_url": "https://www.bbc.co.uk/news/world-latin-america-48894651",
+					"display_url": "bbc.co.uk/news/world-lat…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech Officer @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8207,
+			"friends_count": 2322,
+			"listed_count": 605,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5721,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28488,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BBC News - João Gilberto: Brazilian 'father of bossa nova' dies aged 88 https://t.co/yOpTwCzlLy &lt; sad news but brings back wonderful memories of @amcollier's #domain19 talk"
+	},
+	{
 		"created_at": "Sat Jul 06 07:08:09 +0000 2019",
 		"id": 1147140614498242600,
 		"id_str": "1147401835139031040",
