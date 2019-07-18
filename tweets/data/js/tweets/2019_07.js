@@ -1,6 +1,608 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Wed Jul 17 11:39:10 +0000 2019",
+		"id": 1151456303019110400,
+		"id_str": "1151456303019110400",
+		"full_text": "Very cool Google Sheets hack from @benlcollins to make a working clock just using built-in Sheet functionality and formulas #GSuite #GSuiteEdu #GSuiteDevs  https://t.co/gXrlt0j4pa https://t.co/jNWaUaRmQL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSuite",
+					"indices": [
+						124,
+						131
+					]
+				},
+				{
+					"text": "GSuiteEdu",
+					"indices": [
+						132,
+						142
+					]
+				},
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						143,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "benlcollins",
+					"name": "Ben Collins",
+					"id": 19338407,
+					"id_str": "19338407",
+					"indices": [
+						34,
+						46
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gXrlt0j4pa",
+					"expanded_url": "https://www.benlcollins.com/spreadsheets/google-sheets-formula-clock/",
+					"display_url": "benlcollins.com/spreadsheets/g…",
+					"indices": [
+						156,
+						179
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1151456292369813500,
+					"id_str": "1151456292369813505",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D_rLZbEXUAEXD72.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D_rLZbEXUAEXD72.jpg",
+					"url": "https://t.co/jNWaUaRmQL",
+					"display_url": "pic.twitter.com/jNWaUaRmQL",
+					"expanded_url": "https://twitter.com/mhawksey/status/1151456303019110400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1151456292369813500,
+					"id_str": "1151456292369813505",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D_rLZbEXUAEXD72.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D_rLZbEXUAEXD72.jpg",
+					"url": "https://t.co/jNWaUaRmQL",
+					"display_url": "pic.twitter.com/jNWaUaRmQL",
+					"expanded_url": "https://twitter.com/mhawksey/status/1151456303019110400/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D_rLZbEXUAEXD72.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech Officer @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8222,
+			"friends_count": 2330,
+			"listed_count": 603,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5777,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28548,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Very cool Google Sheets hack from @benlcollins to make a working clock just using built-in Sheet functionality and formulas #GSuite #GSuiteEdu #GSuiteDevs  https://t.co/gXrlt0j4pa https://t.co/jNWaUaRmQL"
+	},
+	{
+		"created_at": "Wed Jul 17 10:28:27 +0000 2019",
+		"id": 1151385397173399600,
+		"id_str": "1151438509074518022",
+		"full_text": "📘📘📘📘📘📘📗📘📘📘 \n📘📘📘📘📗🌧️📘📘📘📘 \n📘📘📘📘📗📗📗📘📘📘 \n📘📘📘📘📗🌧️📗📘📘📘 \n📘📘📘📘📘📗📗📘📘📘 \n📘📘🌧️📗📘📗📗📘📘📘 \n📘📗📗📗📘📘🌦️📗📘📘 \n📘📗📗📗📘📗📗📗📗📘 \n📗📗📗📗📘📗📗📗📗📗 \n📗📗📘📘📗📗⛅️📗📗📘 \n📘📘📘📘📘📗📗📗🌞📘 \n📘📘📘📘⛅️📗📘📘📘📘\n\n#WorldEmojiDay",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WorldEmojiDay",
+					"indices": [
+						150,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19282280,
+			"id_str": "19282280",
+			"name": "Met Office",
+			"screen_name": "metoffice",
+			"location": "Exeter",
+			"description": "Official UK Met Office account for weather, climate, news & jobs. Any questions? Just ask! Here 24/7/365 Stay #WeatherAware follow @metofficeUK for warnings. 🌦️",
+			"url": "http://t.co/SnqRaTsNEj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/SnqRaTsNEj",
+							"expanded_url": "http://www.metoffice.gov.uk",
+							"display_url": "metoffice.gov.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 759596,
+			"friends_count": 572,
+			"listed_count": 4283,
+			"created_at": "Wed Jan 21 09:47:40 +0000 2009",
+			"favourites_count": 14881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 179812,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1129655641323311104/WQtqBBuG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1129655641323311104/WQtqBBuG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19282280/1556624760",
+			"profile_link_color": "7B9E45",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 91,
+		"favorite_count": 535,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "📘📘📘📘📘📘📗📘📘📘 \n📘📘📘📘📗🌧️📘📘📘📘 \n📘📘📘📘📗📗📗📘📘📘 \n📘📘📘📘📗🌧️📗📘📘📘 \n📘📘📘📘📘📗📗📘📘📘 \n📘📘🌧️📗📘📗📗📘📘📘 \n📘📗📗📗📘📘🌦️📗📘📘 \n📘📗📗📗📘📗📗📗📗📘 \n📗📗📗📗📘📗📗📗📗📗 \n📗📗📘📘📗📗⛅️📗📗📘 \n📘📘📘📘📘📗📗📗🌞📘 \n📘📘📘📘⛅️📗📘📘📘📘\n\n#WorldEmojiDay"
+	},
+	{
+		"created_at": "Wed Jul 17 10:25:21 +0000 2019",
+		"id": 1151431363918291000,
+		"id_str": "1151437728564875264",
+		"full_text": "where should our new strategy take us? more about how you can have a say #altc https://t.co/z1qfwXSZYM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						73,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z1qfwXSZYM",
+					"expanded_url": "https://twitter.com/a_l_t/status/1151172920384712709",
+					"display_url": "twitter.com/a_l_t/status/1…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4013641,
+			"id_str": "4013641",
+			"name": "Sheila MacNeill",
+			"screen_name": "sheilmcn",
+			"location": "",
+			"description": "Open practitioner interested in all things to do with learning & digital stuff. Chair of Association of Learning Technology  More at: https://t.co/6DGfwFlA7G",
+			"url": "https://t.co/6DGfwFlA7G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6DGfwFlA7G",
+							"expanded_url": "http://about.me/sheilmcn",
+							"display_url": "about.me/sheilmcn",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6DGfwFlA7G",
+							"expanded_url": "http://about.me/sheilmcn",
+							"display_url": "about.me/sheilmcn",
+							"indices": [
+								134,
+								157
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4629,
+			"friends_count": 2753,
+			"listed_count": 378,
+			"created_at": "Tue Apr 10 10:55:00 +0000 2007",
+			"favourites_count": 5382,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46384,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/515415746755575808/fbCFyMN0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/515415746755575808/fbCFyMN0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4013641/1503423765",
+			"profile_link_color": "7DB300",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "791e00bcadc4615f",
+			"url": "https://api.twitter.com/1.1/geo/id/791e00bcadc4615f.json",
+			"place_type": "city",
+			"name": "Glasgow",
+			"full_name": "Glasgow, Scotland",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-4.3932845,
+							55.796184
+						],
+						[
+							-4.0902182,
+							55.796184
+						],
+						[
+							-4.0902182,
+							55.9204214
+						],
+						[
+							-4.3932845,
+							55.9204214
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1151172920384712700,
+		"quoted_status_id_str": "1151172920384712709",
+		"quoted_status_permalink": {
+			"url": "https://t.co/z1qfwXSZYM",
+			"expanded": "https://twitter.com/a_l_t/status/1151172920384712709",
+			"display": "twitter.com/a_l_t/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 16 16:53:06 +0000 2019",
+			"id": 1151172920384712700,
+			"id_str": "1151172920384712709",
+			"full_text": "[ALT News] A new strategy for ALT - update from the Chair and Chief Executive https://t.co/e56vdAq96l",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				101
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/e56vdAq96l",
+						"expanded_url": "https://go.alt.ac.uk/2lAP0xu",
+						"display_url": "go.alt.ac.uk/2lAP0xu",
+						"indices": [
+							78,
+							101
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41210876,
+				"id_str": "41210876",
+				"name": "ALT - alt.ac.uk",
+				"screen_name": "A_L_T",
+				"location": "UK",
+				"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+				"url": "http://t.co/d7hBNekdUq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/d7hBNekdUq",
+								"expanded_url": "http://www.alt.ac.uk/",
+								"display_url": "alt.ac.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11931,
+				"friends_count": 3577,
+				"listed_count": 573,
+				"created_at": "Tue May 19 21:06:36 +0000 2009",
+				"favourites_count": 6475,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 18412,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1552553640",
+				"profile_link_color": "079948",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "where should our new strategy take us? more about how you can have a say #altc https://t.co/z1qfwXSZYM"
+	},
+	{
 		"created_at": "Tue Jul 16 20:18:37 +0000 2019",
 		"id": 1151224638258593800,
 		"id_str": "1151224638258593792",
