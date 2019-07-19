@@ -1,6 +1,382 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 18 13:43:41 +0000 2019",
+		"id": 1151850025380655100,
+		"id_str": "1151850025380655104",
+		"full_text": "In case you missed notes on my first 'academic VJ' experience https://t.co/RLfnhkk8oO https://t.co/0XfX394ZDB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RLfnhkk8oO",
+					"expanded_url": "https://mashe.hawksey.info/2019/07/domains19-the-art-of-surveillance-and-video-production/",
+					"display_url": "mashe.hawksey.info/2019/07/domain…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1151849966295486500,
+					"id_str": "1151849966295486465",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/D_wxcQuWkAEQRil.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_wxcQuWkAEQRil.jpg",
+					"url": "https://t.co/0XfX394ZDB",
+					"display_url": "pic.twitter.com/0XfX394ZDB",
+					"expanded_url": "https://twitter.com/mhawksey/status/1151850025380655104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 959,
+							"h": 388,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 959,
+							"h": 388,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 275,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1151849966295486500,
+					"id_str": "1151849966295486465",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/D_wxcQuWkAEQRil.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_wxcQuWkAEQRil.jpg",
+					"url": "https://t.co/0XfX394ZDB",
+					"display_url": "pic.twitter.com/0XfX394ZDB",
+					"expanded_url": "https://twitter.com/mhawksey/status/1151850025380655104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 959,
+							"h": 388,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 959,
+							"h": 388,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 275,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech Officer @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8222,
+			"friends_count": 2330,
+			"listed_count": 603,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5780,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28551,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In case you missed notes on my first 'academic VJ' experience https://t.co/RLfnhkk8oO https://t.co/0XfX394ZDB"
+	},
+	{
+		"created_at": "Thu Jul 18 12:21:53 +0000 2019",
+		"id": 1151807859966926800,
+		"id_str": "1151829442496516096",
+		"full_text": "[#altc 2019] Student competition to create ALT s Awards 2019 Update https://t.co/MfePv6Pb31 https://t.co/54VFd80PFi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						1,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MfePv6Pb31",
+					"expanded_url": "https://go.alt.ac.uk/2XO4kt9",
+					"display_url": "go.alt.ac.uk/2XO4kt9",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1151807858448539600,
+					"id_str": "1151807858448539650",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/D_wLJQxUIAIQ9ic.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_wLJQxUIAIQ9ic.jpg",
+					"url": "https://t.co/54VFd80PFi",
+					"display_url": "pic.twitter.com/54VFd80PFi",
+					"expanded_url": "https://twitter.com/A_L_T/status/1151807859966926848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 626,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 626,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 626,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1151807858448539600,
+					"id_str": "1151807858448539650",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/D_wLJQxUIAIQ9ic.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_wLJQxUIAIQ9ic.jpg",
+					"url": "https://t.co/54VFd80PFi",
+					"display_url": "pic.twitter.com/54VFd80PFi",
+					"expanded_url": "https://twitter.com/A_L_T/status/1151807859966926848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 626,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 626,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 626,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11933,
+			"friends_count": 3577,
+			"listed_count": 573,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 6481,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 18422,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1552553640",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#altc 2019] Student competition to create ALT s Awards 2019 Update https://t.co/MfePv6Pb31 https://t.co/54VFd80PFi"
+	},
+	{
 		"created_at": "Wed Jul 17 11:39:10 +0000 2019",
 		"id": 1151456303019110400,
 		"id_str": "1151456303019110400",
