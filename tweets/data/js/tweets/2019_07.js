@@ -1,6 +1,132 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sun Jul 28 18:00:37 +0000 2019",
+		"id": 1155538563469103000,
+		"id_str": "1155538563469103104",
+		"full_text": "@psychemedia Not closely, mostly horizon scanning. From a recent post about wyze adding person detection to their existing cameras via a firmware update came across https://t.co/LCda3SWxrT who specialise in this sort of stuff on low compute https://t.co/4fUjQ5MRfz",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			264
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "psychemedia",
+					"name": "Tony Hirst",
+					"id": 7129072,
+					"id_str": "7129072",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LCda3SWxrT",
+					"expanded_url": "http://Xnor.ai",
+					"display_url": "Xnor.ai",
+					"indices": [
+						165,
+						188
+					]
+				},
+				{
+					"url": "https://t.co/4fUjQ5MRfz",
+					"expanded_url": "https://www.theverge.com/2019/7/9/20687708/wyze-cam-people-detection-xnor-ai-firmware-update-announcement",
+					"display_url": "theverge.com/2019/7/9/20687…",
+					"indices": [
+						241,
+						264
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1154131875771953200,
+		"in_reply_to_status_id_str": "1154131875771953158",
+		"in_reply_to_user_id": 7129072,
+		"in_reply_to_user_id_str": "7129072",
+		"in_reply_to_screen_name": "psychemedia",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech Officer @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8226,
+			"friends_count": 2332,
+			"listed_count": 608,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28560,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@psychemedia Not closely, mostly horizon scanning. From a recent post about wyze adding person detection to their existing cameras via a firmware update came across https://t.co/LCda3SWxrT who specialise in this sort of stuff on low compute https://t.co/4fUjQ5MRfz"
+	},
+	{
 		"created_at": "Wed Jul 24 16:27:05 +0000 2019",
 		"id": 1154065474164056000,
 		"id_str": "1154065474164056066",
