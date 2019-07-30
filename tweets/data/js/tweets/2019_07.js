@@ -1,6 +1,465 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 29 19:01:10 +0000 2019",
+		"id": 1155916189601865700,
+		"id_str": "1155916189601865728",
+		"full_text": "@TheSamBerman Not in the same Google Sheet",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheSamBerman",
+					"name": "Sam Berman",
+					"id": 726360048,
+					"id_str": "726360048",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1155913838157619200,
+		"in_reply_to_status_id_str": "1155913838157619200",
+		"in_reply_to_user_id": 726360048,
+		"in_reply_to_user_id_str": "726360048",
+		"in_reply_to_screen_name": "TheSamBerman",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech Officer @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8229,
+			"friends_count": 2335,
+			"listed_count": 607,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TheSamBerman Not in the same Google Sheet"
+	},
+	{
+		"created_at": "Mon Jul 29 18:50:03 +0000 2019",
+		"id": 1155913394983231500,
+		"id_str": "1155913394983231492",
+		"full_text": "@TheSamBerman You can make as many copies of the template as you like and setup different search terms",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheSamBerman",
+					"name": "Sam Berman",
+					"id": 726360048,
+					"id_str": "726360048",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1155903268872233000,
+		"in_reply_to_status_id_str": "1155903268872232960",
+		"in_reply_to_user_id": 726360048,
+		"in_reply_to_user_id_str": "726360048",
+		"in_reply_to_screen_name": "TheSamBerman",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech Officer @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8229,
+			"friends_count": 2335,
+			"listed_count": 607,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TheSamBerman You can make as many copies of the template as you like and setup different search terms"
+	},
+	{
+		"created_at": "Mon Jul 29 15:26:38 +0000 2019",
+		"id": 1155862175069741000,
+		"id_str": "1155862202424995841",
+		"full_text": "Some great resources for #GSuiteDevs getting started with #GSuite #AppMaker ... #GoogleAppsScript https://t.co/WhadLSjkhH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						25,
+						36
+					]
+				},
+				{
+					"text": "GSuite",
+					"indices": [
+						58,
+						65
+					]
+				},
+				{
+					"text": "AppMaker",
+					"indices": [
+						66,
+						75
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						80,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WhadLSjkhH",
+					"expanded_url": "https://twitter.com/TechandEco/status/1150886401132523520",
+					"display_url": "twitter.com/TechandEco/sta…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322526439,
+			"id_str": "322526439",
+			"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+			"screen_name": "AppsScriptInfo",
+			"location": "World",
+			"description": "A Google Apps Script Community account to support #GSuiteDevs. Curated by @mhawksey",
+			"url": "https://t.co/1OwN2T5Za9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1OwN2T5Za9",
+							"expanded_url": "http://tu.appsscript.info",
+							"display_url": "tu.appsscript.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 175,
+			"friends_count": 278,
+			"listed_count": 10,
+			"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+			"profile_link_color": "4286F4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1150886401132523500,
+		"quoted_status_id_str": "1150886401132523520",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WhadLSjkhH",
+			"expanded": "https://twitter.com/TechandEco/status/1150886401132523520",
+			"display": "twitter.com/TechandEco/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 15 21:54:35 +0000 2019",
+			"id": 1150886401132523500,
+			"id_str": "1150886401132523520",
+			"full_text": "Just wrote 4 short articles on App Maker that break down what problems you can solve, sample apps, and a tour of building a basic app as well as what the interface looks like. Cheers! https://t.co/tEb6h9qRbp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				207
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/tEb6h9qRbp",
+						"expanded_url": "https://medium.com/@TechandEco/get-the-run-down-on-app-maker-in-g-suite-c24732a9c330",
+						"display_url": "medium.com/@TechandEco/ge…",
+						"indices": [
+							184,
+							207
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1102403074591666200,
+				"id_str": "1102403074591666176",
+				"name": "AGV: Sustainability, Open data, & Tech love",
+				"screen_name": "TechandEco",
+				"location": "Sunnyvale, CA",
+				"description": "Google Developer Advocate (G Suite). FoodForests. Phytoremdiation. Earthern bldgs. Reprogramming. Open Source. Composting. These are my opinions my friends",
+				"url": "https://t.co/UxEmQNTbFo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UxEmQNTbFo",
+								"expanded_url": "https://medium.com/@sustainabilityandtech",
+								"display_url": "medium.com/@sustainabilit…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 26,
+				"friends_count": 103,
+				"listed_count": 1,
+				"created_at": "Mon Mar 04 02:59:09 +0000 2019",
+				"favourites_count": 14,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 30,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1113494606136483842/RwRdpMQh_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113494606136483842/RwRdpMQh_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1102403074591666176/1554969477",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some great resources for #GSuiteDevs getting started with #GSuite #AppMaker ... #GoogleAppsScript https://t.co/WhadLSjkhH"
+	},
+	{
 		"created_at": "Sun Jul 28 18:00:37 +0000 2019",
 		"id": 1155538563469103000,
 		"id_str": "1155538563469103104",
