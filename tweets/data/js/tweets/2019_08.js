@@ -1,6 +1,677 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 06 20:52:53 +0000 2019",
+		"id": 1158637785139601400,
+		"id_str": "1158843406468177921",
+		"full_text": "Make sure to watch the keynotes and follow the stream from #digped this week. What a group of educators. \n\nhttps://t.co/dVMHA8QKg9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "digped",
+					"indices": [
+						59,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dVMHA8QKg9",
+					"expanded_url": "http://www.digitalpedagogylab.com/dpl-2019-live/",
+					"display_url": "digitalpedagogylab.com/dpl-2019-live/",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 512388879,
+			"id_str": "512388879",
+			"name": "Christian Friedrich",
+			"screen_name": "friedelitis",
+			"location": "Hamburg & Berlin",
+			"description": "Education & Science @WikimediaDE I @VConnecting I Learning and Organizational Change I Podcasting I #FOEPodcast #HamburghOERteinHOOU",
+			"url": "https://t.co/apxrJmtHT1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/apxrJmtHT1",
+							"expanded_url": "http://christianfriedrich.org",
+							"display_url": "christianfriedrich.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1667,
+			"friends_count": 1687,
+			"listed_count": 101,
+			"created_at": "Fri Mar 02 19:53:37 +0000 2012",
+			"favourites_count": 7478,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/664857149110136832/2pfU_j2r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/664857149110136832/2pfU_j2r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/512388879/1561711353",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Make sure to watch the keynotes and follow the stream from #digped this week. What a group of educators. \n\nhttps://t.co/dVMHA8QKg9"
+	},
+	{
+		"created_at": "Tue Aug 06 20:04:50 +0000 2019",
+		"id": 1158831317955547100,
+		"id_str": "1158831317955547137",
+		"full_text": "6+ years at @A_L_T and I'd never read  Research in Learning Technology Vol 1, issue 1, article 1 ... I have now\n\nBarker, P. (1993). Virtual Reality: theoretical basis, practical applications. Research in Learning Technology, 1(1), 15-25. https://t.co/Pm3oRJNsN0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						12,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Pm3oRJNsN0",
+					"expanded_url": "https://journal.alt.ac.uk/index.php/rlt/article/view/737",
+					"display_url": "journal.alt.ac.uk/index.php/rlt/…",
+					"indices": [
+						238,
+						261
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8240,
+			"friends_count": 2345,
+			"listed_count": 610,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28589,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "6+ years at @A_L_T and I'd never read  Research in Learning Technology Vol 1, issue 1, article 1 ... I have now\n\nBarker, P. (1993). Virtual Reality: theoretical basis, practical applications. Research in Learning Technology, 1(1), 15-25. https://t.co/Pm3oRJNsN0"
+	},
+	{
+		"created_at": "Tue Aug 06 19:20:37 +0000 2019",
+		"id": 1158673108494102500,
+		"id_str": "1158820187937955841",
+		"full_text": "Broadening access to digital education: is there another way? https://t.co/MgnSJG1ddc via @A_L_T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						90,
+						96
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MgnSJG1ddc",
+					"expanded_url": "https://altc.alt.ac.uk/blog/2019/08/broadening-access-to-digital-education-is-there-another-way/",
+					"display_url": "altc.alt.ac.uk/blog/2019/08/b…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 264872340,
+			"id_str": "264872340",
+			"name": "Kelly Terrell",
+			"screen_name": "KellyATerrell",
+			"location": "Southampton, UK",
+			"description": "Head of @EdShare as part of @EPrints team @UniSouthampton. Computer Science nerd. Edinburgh MSc in Digital Education alumni. #mscde Co-Chair of ALT Open Edu SIG",
+			"url": "https://t.co/PKzfiQOOYr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PKzfiQOOYr",
+							"expanded_url": "http://kellyaterrell.wordpress.com",
+							"display_url": "kellyaterrell.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 276,
+			"friends_count": 245,
+			"listed_count": 19,
+			"created_at": "Sat Mar 12 16:01:34 +0000 2011",
+			"favourites_count": 964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 784,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937621236779245568/gn20hyR1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937621236779245568/gn20hyR1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/264872340/1457615244",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Broadening access to digital education: is there another way? https://t.co/MgnSJG1ddc via @A_L_T"
+	},
+	{
+		"created_at": "Tue Aug 06 13:45:07 +0000 2019",
+		"id": 1158735655280660500,
+		"id_str": "1158735757693063168",
+		"full_text": "Already an amazing response to this year's Learning Technologist of the Year Community Choice voting... in 24 hours we've already recorded over 150 votes. Voting open until 4th September. This year's awards proudly sponsored by @EDINADigital #altc https://t.co/isxpwHPJcF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						242,
+						247
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EDINADigital",
+					"name": "EDINA",
+					"id": 202689494,
+					"id_str": "202689494",
+					"indices": [
+						228,
+						241
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/isxpwHPJcF",
+					"expanded_url": "https://twitter.com/A_L_T/status/1158368741568274434",
+					"display_url": "twitter.com/A_L_T/status/1…",
+					"indices": [
+						248,
+						271
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11986,
+			"friends_count": 3655,
+			"listed_count": 574,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 6557,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 18550,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1552553640",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1158368741568274400,
+		"quoted_status_id_str": "1158368741568274434",
+		"quoted_status_permalink": {
+			"url": "https://t.co/isxpwHPJcF",
+			"expanded": "https://twitter.com/A_L_T/status/1158368741568274434",
+			"display": "twitter.com/A_L_T/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 05 13:26:44 +0000 2019",
+			"id": 1158368741568274400,
+			"id_str": "1158368741568274434",
+			"full_text": "Voting is now open for the Learning Technologist of the Year - Community Choice Award! You can vote via Twitter or Email. See the entries of the finalists and all the voting information here https://t.co/Xk3qoS1V3C #altc https://t.co/bxgB7sjoII",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				220
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "altc",
+						"indices": [
+							215,
+							220
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Xk3qoS1V3C",
+						"expanded_url": "https://go.alt.ac.uk/2yD9RUd",
+						"display_url": "go.alt.ac.uk/2yD9RUd",
+						"indices": [
+							191,
+							214
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1158368740104376300,
+						"id_str": "1158368740104376321",
+						"indices": [
+							221,
+							244
+						],
+						"media_url": "http://pbs.twimg.com/media/EBNaO1jWkAEmrhp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EBNaO1jWkAEmrhp.jpg",
+						"url": "https://t.co/bxgB7sjoII",
+						"display_url": "pic.twitter.com/bxgB7sjoII",
+						"expanded_url": "https://twitter.com/A_L_T/status/1158368741568274434/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1158368740104376300,
+						"id_str": "1158368740104376321",
+						"indices": [
+							221,
+							244
+						],
+						"media_url": "http://pbs.twimg.com/media/EBNaO1jWkAEmrhp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EBNaO1jWkAEmrhp.jpg",
+						"url": "https://t.co/bxgB7sjoII",
+						"display_url": "pic.twitter.com/bxgB7sjoII",
+						"expanded_url": "https://twitter.com/A_L_T/status/1158368741568274434/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41210876,
+				"id_str": "41210876",
+				"name": "ALT - alt.ac.uk",
+				"screen_name": "A_L_T",
+				"location": "UK",
+				"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+				"url": "http://t.co/d7hBNekdUq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/d7hBNekdUq",
+								"expanded_url": "http://www.alt.ac.uk/",
+								"display_url": "alt.ac.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11986,
+				"friends_count": 3655,
+				"listed_count": 574,
+				"created_at": "Tue May 19 21:06:36 +0000 2009",
+				"favourites_count": 6557,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 18550,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1552553640",
+				"profile_link_color": "079948",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Already an amazing response to this year's Learning Technologist of the Year Community Choice voting... in 24 hours we've already recorded over 150 votes. Voting open until 4th September. This year's awards proudly sponsored by @EDINADigital #altc https://t.co/isxpwHPJcF"
+	},
+	{
 		"created_at": "Mon Aug 05 19:49:09 +0000 2019",
 		"id": 1158464982750826500,
 		"id_str": "1158464982750826497",
