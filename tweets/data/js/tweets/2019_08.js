@@ -1,6 +1,510 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Wed Aug 07 20:23:11 +0000 2019",
+		"id": 1159029146175103000,
+		"id_str": "1159198323112329221",
+		"full_text": "Google Apps Script: Google Standard Color Palette Picker for Sidebar and Dialog Boxes in Google Sheets, Google Docs and Google Slides. Super excited to share this one. Enjoy! #GoogleAppsScript #GAS #Gsuite https://t.co/Uh7YRkWLQv https://t.co/hSl9K5iqhH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						175,
+						192
+					]
+				},
+				{
+					"text": "GAS",
+					"indices": [
+						193,
+						197
+					]
+				},
+				{
+					"text": "Gsuite",
+					"indices": [
+						198,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Uh7YRkWLQv",
+					"expanded_url": "https://yagisanatode.com/2019/08/07/google-apps-script-google-standard-color-palette-picker-for-sidebar-and-dialog-boxes-in-google-sheets-google-docs-and-google-slides/",
+					"display_url": "yagisanatode.com/2019/08/07/goo…",
+					"indices": [
+						206,
+						229
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1159029144501543000,
+					"id_str": "1159029144501542912",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/EBWy3bpW4AA9jC_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBWy3bpW4AA9jC_.jpg",
+					"url": "https://t.co/hSl9K5iqhH",
+					"display_url": "pic.twitter.com/hSl9K5iqhH",
+					"expanded_url": "https://twitter.com/LifeOfSpy/status/1159029146175102976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 538,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 538,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1159029144501543000,
+					"id_str": "1159029144501542912",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/EBWy3bpW4AA9jC_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBWy3bpW4AA9jC_.jpg",
+					"url": "https://t.co/hSl9K5iqhH",
+					"display_url": "pic.twitter.com/hSl9K5iqhH",
+					"expanded_url": "https://twitter.com/LifeOfSpy/status/1159029146175102976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 538,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 538,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2346078620,
+			"id_str": "2346078620",
+			"name": "Yagisanatode",
+			"screen_name": "LifeOfSpy",
+			"location": "",
+			"description": "Part of the top-secret unicorn riding project.\nGoogle Apps Script fetishists.\nGoogle Sheet groupie.\nGoogle Suite Igor.\nCoding goat.\n\nFeed the goat? @xrptipbot",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84,
+			"friends_count": 387,
+			"listed_count": 3,
+			"created_at": "Sun Feb 16 02:31:08 +0000 2014",
+			"favourites_count": 2991,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1033213062164172800/hxM2sRZ1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1033213062164172800/hxM2sRZ1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2346078620/1535172648",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Google Apps Script: Google Standard Color Palette Picker for Sidebar and Dialog Boxes in Google Sheets, Google Docs and Google Slides. Super excited to share this one. Enjoy! #GoogleAppsScript #GAS #Gsuite https://t.co/Uh7YRkWLQv https://t.co/hSl9K5iqhH"
+	},
+	{
+		"created_at": "Wed Aug 07 18:24:21 +0000 2019",
+		"id": 1159168418421137400,
+		"id_str": "1159168418421137409",
+		"full_text": "@drumlumbo I'll have to delete that tweet before we put the house on the market",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drumlumbo",
+					"name": "Drummond Cargill",
+					"id": 146921944,
+					"id_str": "146921944",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1159165432294772700,
+		"in_reply_to_status_id_str": "1159165432294772736",
+		"in_reply_to_user_id": 146921944,
+		"in_reply_to_user_id_str": "146921944",
+		"in_reply_to_screen_name": "drumlumbo",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8243,
+			"friends_count": 2345,
+			"listed_count": 610,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28593,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@drumlumbo I'll have to delete that tweet before we put the house on the market"
+	},
+	{
+		"created_at": "Wed Aug 07 16:06:36 +0000 2019",
+		"id": 1159133750971850800,
+		"id_str": "1159133750971850758",
+		"full_text": "Hmm ... our garden seems to have got a new water feature ;-s https://t.co/WjGly8SNMU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1159133688703139800,
+					"id_str": "1159133688703139842",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1159133688703139842/pu/img/CqWDnZA5-fhHjIlP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1159133688703139842/pu/img/CqWDnZA5-fhHjIlP.jpg",
+					"url": "https://t.co/WjGly8SNMU",
+					"display_url": "pic.twitter.com/WjGly8SNMU",
+					"expanded_url": "https://twitter.com/mhawksey/status/1159133750971850758/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1159133688703139800,
+					"id_str": "1159133688703139842",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1159133688703139842/pu/img/CqWDnZA5-fhHjIlP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1159133688703139842/pu/img/CqWDnZA5-fhHjIlP.jpg",
+					"url": "https://t.co/WjGly8SNMU",
+					"display_url": "pic.twitter.com/WjGly8SNMU",
+					"expanded_url": "https://twitter.com/mhawksey/status/1159133750971850758/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 8160,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1159133688703139842/pu/vid/1280x720/zWaUUxNkkKAgSdzh.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1159133688703139842/pu/pl/eQztYZDwf_zjzFF_.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1159133688703139842/pu/vid/640x360/fkJoPyoElbsUZ89C.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1159133688703139842/pu/vid/480x270/ayynmXpnKj17fsqq.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8243,
+			"friends_count": 2345,
+			"listed_count": 610,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28593,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hmm ... our garden seems to have got a new water feature ;-s https://t.co/WjGly8SNMU"
+	},
+	{
 		"created_at": "Tue Aug 06 20:52:53 +0000 2019",
 		"id": 1158637785139601400,
 		"id_str": "1158843406468177921",
