@@ -1,6 +1,547 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 09 20:45:50 +0000 2019",
+		"id": 1159928795886948400,
+		"id_str": "1159928795886948352",
+		"full_text": "@Daisynmurphy @iMurphed ... a week of heavy rain and the daisys are looking less happy :( https://t.co/oCjyGR4mLI",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Daisynmurphy",
+					"name": "Daisy Narayanan",
+					"id": 298732981,
+					"id_str": "298732981",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "iMurphed",
+					"name": "𝙸𝚊𝚗 𝙼𝚞𝚛𝚙𝚑𝚢",
+					"id": 2327031283,
+					"id_str": "2327031283",
+					"indices": [
+						14,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oCjyGR4mLI",
+					"expanded_url": "https://twitter.com/mhawksey/status/1159133750971850758?s=19",
+					"display_url": "twitter.com/mhawksey/statu…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1159894587072290800,
+		"in_reply_to_status_id_str": "1159894587072290817",
+		"in_reply_to_user_id": 298732981,
+		"in_reply_to_user_id_str": "298732981",
+		"in_reply_to_screen_name": "Daisynmurphy",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8242,
+			"friends_count": 2346,
+			"listed_count": 611,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5811,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28599,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1159133750971850800,
+		"quoted_status_id_str": "1159133750971850758",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oCjyGR4mLI",
+			"expanded": "https://twitter.com/mhawksey/status/1159133750971850758?s=19",
+			"display": "twitter.com/mhawksey/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 07 16:06:36 +0000 2019",
+			"id": 1159133750971850800,
+			"id_str": "1159133750971850758",
+			"full_text": "Hmm ... our garden seems to have got a new water feature ;-s https://t.co/WjGly8SNMU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				60
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1159133688703139800,
+						"id_str": "1159133688703139842",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1159133688703139842/pu/img/CqWDnZA5-fhHjIlP.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1159133688703139842/pu/img/CqWDnZA5-fhHjIlP.jpg",
+						"url": "https://t.co/WjGly8SNMU",
+						"display_url": "pic.twitter.com/WjGly8SNMU",
+						"expanded_url": "https://twitter.com/mhawksey/status/1159133750971850758/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1159133688703139800,
+						"id_str": "1159133688703139842",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1159133688703139842/pu/img/CqWDnZA5-fhHjIlP.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1159133688703139842/pu/img/CqWDnZA5-fhHjIlP.jpg",
+						"url": "https://t.co/WjGly8SNMU",
+						"display_url": "pic.twitter.com/WjGly8SNMU",
+						"expanded_url": "https://twitter.com/mhawksey/status/1159133750971850758/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 8160,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1159133688703139842/pu/vid/1280x720/zWaUUxNkkKAgSdzh.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1159133688703139842/pu/pl/eQztYZDwf_zjzFF_.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1159133688703139842/pu/vid/640x360/fkJoPyoElbsUZ89C.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1159133688703139842/pu/vid/480x270/ayynmXpnKj17fsqq.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13046992,
+				"id_str": "13046992",
+				"name": "Martin Hawksey #altc",
+				"screen_name": "mhawksey",
+				"location": "Edinburgh, Scotland",
+				"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+				"url": "https://t.co/OwPc0EbVqg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OwPc0EbVqg",
+								"expanded_url": "https://mashe.hawksey.info",
+								"display_url": "mashe.hawksey.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8242,
+				"friends_count": 2346,
+				"listed_count": 611,
+				"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+				"favourites_count": 5811,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 28599,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F5F5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+				"profile_link_color": "4099FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D4D4D4",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Daisynmurphy @iMurphed ... a week of heavy rain and the daisys are looking less happy :( https://t.co/oCjyGR4mLI"
+	},
+	{
+		"created_at": "Fri Aug 09 14:02:18 +0000 2019",
+		"id": 1159766467723899000,
+		"id_str": "1159827244535050240",
+		"full_text": "The next @OERConf, #OER20, will take place on 1-2 April 2020, London, UK - the 11th annual conference for Open Education research, practice and policy, organised by @A_L_T https://t.co/zN1xem3m97",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OER20",
+					"indices": [
+						19,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OERConf",
+					"name": "OER Open Education Conference #OER20",
+					"id": 2695133612,
+					"id_str": "2695133612",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						165,
+						171
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1159766465807081500,
+					"id_str": "1159766465807081474",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EBhRdLjXYAIVdcM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBhRdLjXYAIVdcM.jpg",
+					"url": "https://t.co/zN1xem3m97",
+					"display_url": "pic.twitter.com/zN1xem3m97",
+					"expanded_url": "https://twitter.com/OERConf/status/1159766467723898880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2034,
+							"h": 1144,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1159766465807081500,
+					"id_str": "1159766465807081474",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EBhRdLjXYAIVdcM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBhRdLjXYAIVdcM.jpg",
+					"url": "https://t.co/zN1xem3m97",
+					"display_url": "pic.twitter.com/zN1xem3m97",
+					"expanded_url": "https://twitter.com/OERConf/status/1159766467723898880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2034,
+							"h": 1144,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2695133612,
+			"id_str": "2695133612",
+			"name": "OER Open Education Conference #OER20",
+			"screen_name": "OERConf",
+			"location": "",
+			"description": "Official account for the OER Conference, organised by @A_L_T, UK, annual conference for Open Education research, practice and policy",
+			"url": "https://t.co/3ZTy1E6ref",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3ZTy1E6ref",
+							"expanded_url": "https://oer20.oerconf.org/",
+							"display_url": "oer20.oerconf.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1800,
+			"friends_count": 1149,
+			"listed_count": 76,
+			"created_at": "Thu Jul 31 08:18:01 +0000 2014",
+			"favourites_count": 1347,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2790,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151146806685970432/uTaIvO2Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151146806685970432/uTaIvO2Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2695133612/1563289295",
+			"profile_link_color": "444444",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The next @OERConf, #OER20, will take place on 1-2 April 2020, London, UK - the 11th annual conference for Open Education research, practice and policy, organised by @A_L_T https://t.co/zN1xem3m97"
+	},
+	{
 		"created_at": "Thu Aug 08 19:54:32 +0000 2019",
 		"id": 1159553498591236000,
 		"id_str": "1159553498591236096",
