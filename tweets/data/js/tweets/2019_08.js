@@ -1,6 +1,131 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Thu Aug 15 21:02:19 +0000 2019",
+		"id": 1162028176056443000,
+		"id_str": "1162107271847063553",
+		"full_text": "Registration closing soon, but still time to book your place at our learning technology conference  https://t.co/9tvTWwrTEQ #edtech @A_L_T  The social programme is looking good too. There will be dancing.....",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edtech",
+					"indices": [
+						124,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						132,
+						138
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9tvTWwrTEQ",
+					"expanded_url": "https://altc.alt.ac.uk/2019/",
+					"display_url": "altc.alt.ac.uk/2019/",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2382712322,
+			"id_str": "2382712322",
+			"name": "Melissa",
+			"screen_name": "HoneybHighton",
+			"location": "University of Edinburgh/Oxford",
+			"description": "Edtech blogger, IT Director, maven and occasional keynote. Interested in all things digital in higher education. Tweet people the way you want to be tweeted.",
+			"url": "https://t.co/ZkIRHSRTNv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZkIRHSRTNv",
+							"expanded_url": "http://thinking.is.ed.ac.uk/melissa/",
+							"display_url": "thinking.is.ed.ac.uk/melissa/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1581,
+			"friends_count": 720,
+			"listed_count": 149,
+			"created_at": "Mon Mar 10 21:36:05 +0000 2014",
+			"favourites_count": 761,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7086,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1142797011147776001/4yX5oI1D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1142797011147776001/4yX5oI1D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2382712322/1474024963",
+			"profile_link_color": "B3B300",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Registration closing soon, but still time to book your place at our learning technology conference  https://t.co/9tvTWwrTEQ #edtech @A_L_T  The social programme is looking good too. There will be dancing....."
+	},
+	{
 		"created_at": "Wed Aug 14 20:55:34 +0000 2019",
 		"id": 1161743186957611000,
 		"id_str": "1161743186957611010",
