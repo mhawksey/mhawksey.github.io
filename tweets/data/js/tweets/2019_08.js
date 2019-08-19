@@ -1,6 +1,434 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sun Aug 18 08:54:44 +0000 2019",
+		"id": 1163011336005197800,
+		"id_str": "1163011336005197824",
+		"full_text": "@kerrg Google Scholar certainly seems to index material but publishers may have signed up for that",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kerrg",
+					"name": "Kerr Gardiner",
+					"id": 6348602,
+					"id_str": "6348602",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1162693941814341600,
+		"in_reply_to_status_id_str": "1162693941814341634",
+		"in_reply_to_user_id": 6348602,
+		"in_reply_to_user_id_str": "6348602",
+		"in_reply_to_screen_name": "kerrg",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8247,
+			"friends_count": 2347,
+			"listed_count": 614,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kerrg Google Scholar certainly seems to index material but publishers may have signed up for that"
+	},
+	{
+		"created_at": "Sun Aug 18 04:58:39 +0000 2019",
+		"id": 1162951920845250600,
+		"id_str": "1162951920845250565",
+		"full_text": "Pretty cool... https://t.co/fggSEylFiA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fggSEylFiA",
+					"expanded_url": "https://twitter.com/addyosmani/status/1162789789818474496",
+					"display_url": "twitter.com/addyosmani/sta…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8247,
+			"friends_count": 2347,
+			"listed_count": 614,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1162789789818474500,
+		"quoted_status_id_str": "1162789789818474496",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fggSEylFiA",
+			"expanded": "https://twitter.com/addyosmani/status/1162789789818474496",
+			"display": "twitter.com/addyosmani/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Aug 17 18:14:24 +0000 2019",
+			"id": 1162789789818474500,
+			"id_str": "1162789789818474496",
+			"full_text": "A black hole simulation in 140 bytes of JavaScript: https://t.co/SmCQzqLmVk 🤯\n\nfor(i=0;i&lt;2e3;x.fillRect(i?960+i*S(F=260*(t+9)/i+S(i*i)):0,i?500+.2*(2*i*C(F)+2e4/i):0,K=i++?S(i)*9:2e3,K))x.fillStyle=R(99*i,2*i,i,i?1:.4) https://t.co/nspJxGWX8p",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				221
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SmCQzqLmVk",
+						"expanded_url": "http://frankforce.com/?p=6378",
+						"display_url": "frankforce.com/?p=6378",
+						"indices": [
+							52,
+							75
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1162789756490506200,
+						"id_str": "1162789756490506241",
+						"indices": [
+							222,
+							245
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1162789756490506241/pu/img/wrNf3i_RfM3DjJMO.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1162789756490506241/pu/img/wrNf3i_RfM3DjJMO.jpg",
+						"url": "https://t.co/nspJxGWX8p",
+						"display_url": "pic.twitter.com/nspJxGWX8p",
+						"expanded_url": "https://twitter.com/addyosmani/status/1162789789818474496/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1162789756490506200,
+						"id_str": "1162789756490506241",
+						"indices": [
+							222,
+							245
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1162789756490506241/pu/img/wrNf3i_RfM3DjJMO.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1162789756490506241/pu/img/wrNf3i_RfM3DjJMO.jpg",
+						"url": "https://t.co/nspJxGWX8p",
+						"display_url": "pic.twitter.com/nspJxGWX8p",
+						"expanded_url": "https://twitter.com/addyosmani/status/1162789789818474496/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 12000,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1162789756490506241/pu/vid/640x360/C2B6OmVGuRnLNcr2.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1162789756490506241/pu/pl/RcM9LTYFx4VR6h9_.m3u8?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1162789756490506241/pu/vid/480x270/n_44M2-pa83AfeM5.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 35432643,
+				"id_str": "35432643",
+				"name": "Addy Osmani",
+				"screen_name": "addyosmani",
+				"location": "Mountain View, CA",
+				"description": "Engineering Manager working on @GoogleChrome • Husband & Dad • Make the web fast ⚡• Lead for speed @ChromiumDev",
+				"url": "https://t.co/ptp0qKv2CR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ptp0qKv2CR",
+								"expanded_url": "https://addyosmani.com/",
+								"display_url": "addyosmani.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 209671,
+				"friends_count": 1791,
+				"listed_count": 6876,
+				"created_at": "Sun Apr 26 08:40:11 +0000 2009",
+				"favourites_count": 25541,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 21880,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1053159168197111808/8eipWrau_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1053159168197111808/8eipWrau_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/35432643/1539971599",
+				"profile_link_color": "3C9596",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "56E372",
+				"profile_text_color": "0A0A0A",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2106,
+			"favorite_count": 7511,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pretty cool... https://t.co/fggSEylFiA"
+	},
+	{
 		"created_at": "Sat Aug 17 11:39:15 +0000 2019",
 		"id": 1162690350353408000,
 		"id_str": "1162690350353408000",
