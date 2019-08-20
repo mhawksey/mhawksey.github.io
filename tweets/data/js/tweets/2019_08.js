@@ -1,6 +1,412 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Mon Aug 19 21:10:20 +0000 2019",
+		"id": 1163558843772821500,
+		"id_str": "1163558843772821504",
+		"full_text": "Happy Birthday #GoogleAppsScript ... you can watch @jrochelle provide an introduction to Google Apps Script in 2009 https://t.co/8aVQUIZ65H Official launch posted this day 10 years ago  https://t.co/o8qTSDQ81F #GSuiteDevs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						15,
+						32
+					]
+				},
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						210,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jrochelle",
+					"name": "Jonathan Rochelle",
+					"id": 14428744,
+					"id_str": "14428744",
+					"indices": [
+						51,
+						61
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8aVQUIZ65H",
+					"expanded_url": "https://www.youtube.com/watch?v=7ux-IexZFec",
+					"display_url": "youtube.com/watch?v=7ux-Ie…",
+					"indices": [
+						116,
+						139
+					]
+				},
+				{
+					"url": "https://t.co/o8qTSDQ81F",
+					"expanded_url": "http://googleappsscript.blogspot.com/2009/08/google-apps-script-launched-to-google.html",
+					"display_url": "googleappsscript.blogspot.com/2009/08/google…",
+					"indices": [
+						186,
+						209
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8248,
+			"friends_count": 2348,
+			"listed_count": 614,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5826,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28614,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy Birthday #GoogleAppsScript ... you can watch @jrochelle provide an introduction to Google Apps Script in 2009 https://t.co/8aVQUIZ65H Official launch posted this day 10 years ago  https://t.co/o8qTSDQ81F #GSuiteDevs"
+	},
+	{
+		"created_at": "Mon Aug 19 15:27:42 +0000 2019",
+		"id": 1163467809415979000,
+		"id_str": "1163472615295606784",
+		"full_text": "Still time to register for this free webinar with  on Thursday at 1600 BST #altc #FHEDAWG #a11y #accessibility #OpenTextbooks ... https://t.co/1cEHbMV3xa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						75,
+						80
+					]
+				},
+				{
+					"text": "FHEDAWG",
+					"indices": [
+						81,
+						89
+					]
+				},
+				{
+					"text": "a11y",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "accessibility",
+					"indices": [
+						96,
+						110
+					]
+				},
+				{
+					"text": "OpenTextbooks",
+					"indices": [
+						111,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1cEHbMV3xa",
+					"expanded_url": "https://twitter.com/MaryJacobTEL1/status/1163452784630521857",
+					"display_url": "twitter.com/MaryJacobTEL1/…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12021,
+			"friends_count": 3667,
+			"listed_count": 574,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 6633,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 18666,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1552553640",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1163452784630521900,
+		"quoted_status_id_str": "1163452784630521857",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1cEHbMV3xa",
+			"expanded": "https://twitter.com/MaryJacobTEL1/status/1163452784630521857",
+			"display": "twitter.com/MaryJacobTEL1/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 19 14:08:54 +0000 2019",
+			"id": 1163452784630521900,
+			"id_str": "1163452784630521857",
+			"full_text": "Great webinar from @A_L_T Digital Accessibility as a right with Greg Gay, talking about practical online courses and \"interactive, modular, and open textbooks aimed at raising awareness of digital accessibility globally.\" https://t.co/75FOF6Gw4D",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				245
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "A_L_T",
+						"name": "ALT - alt.ac.uk",
+						"id": 41210876,
+						"id_str": "41210876",
+						"indices": [
+							19,
+							25
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/75FOF6Gw4D",
+						"expanded_url": "https://www.alt.ac.uk/civicrm/event/info%3Fid=457",
+						"display_url": "alt.ac.uk/civicrm/event/…",
+						"indices": [
+							222,
+							245
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 798515073257979900,
+				"id_str": "798515073257979904",
+				"name": "Mary Jacob L&T",
+				"screen_name": "MaryJacobTEL1",
+				"location": "Aberystwyth, Wales",
+				"description": "Passionate about the pedagogy - Aberystwyth University PGCTHE Lecturer in Learning & Teaching / Aber image by Werner Wilmes on Flickr CC-BY",
+				"url": "https://t.co/UMQIiVDRMF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UMQIiVDRMF",
+								"expanded_url": "https://www.aber.ac.uk/en/cdsap/pgcthe/",
+								"display_url": "aber.ac.uk/en/cdsap/pgcth…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 250,
+				"friends_count": 479,
+				"listed_count": 5,
+				"created_at": "Tue Nov 15 13:16:43 +0000 2016",
+				"favourites_count": 648,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 486,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1105127515046232064/sK2bFK26_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1105127515046232064/sK2bFK26_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/798515073257979904/1500300880",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Still time to register for this free webinar with  on Thursday at 1600 BST #altc #FHEDAWG #a11y #accessibility #OpenTextbooks ... https://t.co/1cEHbMV3xa"
+	},
+	{
 		"created_at": "Sun Aug 18 08:54:44 +0000 2019",
 		"id": 1163011336005197800,
 		"id_str": "1163011336005197824",
