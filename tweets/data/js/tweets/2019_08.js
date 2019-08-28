@@ -1,6 +1,534 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 27 21:07:19 +0000 2019",
+		"id": 1166400942134005800,
+		"id_str": "1166457187415285760",
+		"full_text": "If you're in the Vancouver area and is interested in building awesome applications in G-Suite, I'll be speaking at #devfest19 @gdgvancouver! #gsuite #appmaker #gsuitedevs https://t.co/sTQxyp6qUo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "devfest19",
+					"indices": [
+						115,
+						125
+					]
+				},
+				{
+					"text": "gsuite",
+					"indices": [
+						141,
+						148
+					]
+				},
+				{
+					"text": "appmaker",
+					"indices": [
+						149,
+						158
+					]
+				},
+				{
+					"text": "gsuitedevs",
+					"indices": [
+						159,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gdgvancouver",
+					"name": "GDG Cloud Vancouver",
+					"id": 847993629075427300,
+					"id_str": "847993629075427329",
+					"indices": [
+						126,
+						139
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sTQxyp6qUo",
+					"expanded_url": "https://twitter.com/gdgvancouver/status/1165747468610330624",
+					"display_url": "twitter.com/gdgvancouver/s…",
+					"indices": [
+						171,
+						194
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1868737826,
+			"id_str": "1868737826",
+			"name": "Cleo",
+			"screen_name": "CinFourThirds",
+			"location": "Edmonton, AB",
+			"description": "Google Developer Expert for G-Suite / Google App Maker. Occasional photographer and traveler",
+			"url": "https://t.co/ORzaCoSMDA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ORzaCoSMDA",
+							"expanded_url": "http://cinfourthirds.com",
+							"display_url": "cinfourthirds.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86,
+			"friends_count": 57,
+			"listed_count": 7,
+			"created_at": "Sun Sep 15 18:29:38 +0000 2013",
+			"favourites_count": 143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 180,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1155958863297822720/Phs4F9pi_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1155958863297822720/Phs4F9pi_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1868737826/1555286512",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1165747468610330600,
+		"quoted_status_id_str": "1165747468610330624",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sTQxyp6qUo",
+			"expanded": "https://twitter.com/gdgvancouver/status/1165747468610330624",
+			"display": "twitter.com/gdgvancouver/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Aug 25 22:07:09 +0000 2019",
+			"id": 1165747468610330600,
+			"id_str": "1165747468610330624",
+			"full_text": "Last week of getting a ticket to this amazing event. ONLY 10 SPOTS left. https://t.co/ZkWZ5hmy7s",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				72
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZkWZ5hmy7s",
+						"expanded_url": "https://twitter.com/gdgvancouver/status/1161335231648919553",
+						"display_url": "twitter.com/gdgvancouver/s…",
+						"indices": [
+							73,
+							96
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 847993629075427300,
+				"id_str": "847993629075427329",
+				"name": "GDG Cloud Vancouver",
+				"screen_name": "gdgvancouver",
+				"location": "Vancouver, British Columbia",
+				"description": "Google Developers Group (#GDG) - Cloud #Vancouver doing all things #google and #opensource with focus on #cloud and #machinelearning",
+				"url": "https://t.co/xMlEnU8bdo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xMlEnU8bdo",
+								"expanded_url": "https://www.gdgvancouver.com/",
+								"display_url": "gdgvancouver.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 299,
+				"friends_count": 192,
+				"listed_count": 13,
+				"created_at": "Sat Apr 01 02:06:51 +0000 2017",
+				"favourites_count": 542,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1099,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1126333708242305024/c7IQl8RH_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126333708242305024/c7IQl8RH_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/847993629075427329/1540333893",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "300bcc6e23a88361",
+				"url": "https://api.twitter.com/1.1/geo/id/300bcc6e23a88361.json",
+				"place_type": "city",
+				"name": "Seattle",
+				"full_name": "Seattle, WA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-122.436232,
+								47.4953154
+							],
+							[
+								-122.2249728,
+								47.4953154
+							],
+							[
+								-122.2249728,
+								47.734319
+							],
+							[
+								-122.436232,
+								47.734319
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1161335231648919600,
+			"quoted_status_id_str": "1161335231648919553",
+			"quoted_status_permalink": {
+				"url": "https://t.co/ZkWZ5hmy7s",
+				"expanded": "https://twitter.com/gdgvancouver/status/1161335231648919553",
+				"display": "twitter.com/gdgvancouver/s…"
+			},
+			"retweet_count": 4,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you're in the Vancouver area and is interested in building awesome applications in G-Suite, I'll be speaking at #devfest19 @gdgvancouver! #gsuite #appmaker #gsuitedevs https://t.co/sTQxyp6qUo"
+	},
+	{
+		"created_at": "Tue Aug 27 09:26:43 +0000 2019",
+		"id": 1166280873186136000,
+		"id_str": "1166280873186136065",
+		"full_text": "@scotlandlouise ... learned about service workers/PWA at a @GoogleDevExpert summit and been meaning to implement for a while :)",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "scotlandlouise",
+					"name": "Louise Jones",
+					"id": 11687372,
+					"id_str": "11687372",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "GoogleDevExpert",
+					"name": "Google Developers Experts",
+					"id": 3003834689,
+					"id_str": "3003834689",
+					"indices": [
+						59,
+						75
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1166275346146234400,
+		"in_reply_to_status_id_str": "1166275346146234370",
+		"in_reply_to_user_id": 11687372,
+		"in_reply_to_user_id_str": "11687372",
+		"in_reply_to_screen_name": "scotlandlouise",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8248,
+			"friends_count": 2349,
+			"listed_count": 612,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28637,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@scotlandlouise ... learned about service workers/PWA at a @GoogleDevExpert summit and been meaning to implement for a while :)"
+	},
+	{
+		"created_at": "Tue Aug 27 08:58:27 +0000 2019",
+		"id": 1166273761500377000,
+		"id_str": "1166273761500377089",
+		"full_text": "...and the #altc 2019 conference website has a service worker ... visit https://t.co/C1AUCDyqQk on your mobile then turn off all data and you should still be able to see the page (basically in the background pages are being heavily cached)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						11,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C1AUCDyqQk",
+					"expanded_url": "https://altc.alt.ac.uk/2019/programme/#/day1",
+					"display_url": "altc.alt.ac.uk/2019/programme…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8248,
+			"friends_count": 2349,
+			"listed_count": 612,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28637,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "...and the #altc 2019 conference website has a service worker ... visit https://t.co/C1AUCDyqQk on your mobile then turn off all data and you should still be able to see the page (basically in the background pages are being heavily cached)"
+	},
+	{
 		"created_at": "Mon Aug 26 21:20:06 +0000 2019",
 		"id": 1166098017092624400,
 		"id_str": "1166098017092624386",
