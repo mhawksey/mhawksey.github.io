@@ -1,6 +1,127 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 31 19:58:59 +0000 2019",
+		"id": 1167889341122613200,
+		"id_str": "1167889539806851075",
+		"full_text": "Google Drive apps and Editor add-ons moving from Chrome Web Store to G Suite Marketplace - \"If an add-on’s developer hasn’t taken action to migrate their listing, new users won’t be able to install it\" #GSuiteDevs #GoogleAppsScript https://t.co/bKx4UnGOfU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						202,
+						213
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						214,
+						231
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bKx4UnGOfU",
+					"expanded_url": "https://gsuiteupdates.googleblog.com/2019/08/apps-addons-gsm-migration.html",
+					"display_url": "gsuiteupdates.googleblog.com/2019/08/apps-a…",
+					"indices": [
+						232,
+						255
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322526439,
+			"id_str": "322526439",
+			"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+			"screen_name": "AppsScriptInfo",
+			"location": "World",
+			"description": "A Google Apps Script Community account to support #GSuiteDevs. Curated by @mhawksey",
+			"url": "https://t.co/1OwN2T5Za9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1OwN2T5Za9",
+							"expanded_url": "http://tu.appsscript.info",
+							"display_url": "tu.appsscript.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 184,
+			"friends_count": 299,
+			"listed_count": 10,
+			"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1159,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+			"profile_link_color": "4286F4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Google Drive apps and Editor add-ons moving from Chrome Web Store to G Suite Marketplace - \"If an add-on’s developer hasn’t taken action to migrate their listing, new users won’t be able to install it\" #GSuiteDevs #GoogleAppsScript https://t.co/bKx4UnGOfU"
+	},
+	{
 		"created_at": "Fri Aug 30 21:01:40 +0000 2019",
 		"id": 1167437104936366000,
 		"id_str": "1167542925988900864",
@@ -857,7 +978,7 @@ Grailbird.data.tweets_2019_08 =
 		"created_at": "Fri Aug 30 09:21:08 +0000 2019",
 		"id": 1164440376679260200,
 		"id_str": "1167366633993715712",
-		"full_text": "Oooh, aren't we lucky 🍀? Now we have 2 speakers on Data Viz!\n\nHappy 🙌 to announce that Morgan Aw (right), Software Engineer from the Data Studio Team at Google will be joining Yulan Lin for our Data Visualization Talk &amp; Workshop on 📅 Sep 10.\n\n👩🏻‍💻 RSVP &gt;&gt; https://t.co/gSJOX7ogMS https://t.co/G1NiPZ8A3W",
+		"full_text": "Oooh, aren't we lucky 🍀? Now we have 2 speakers on Data Viz!\n\nHappy 🙌 to announce that Morgan Aw (right), Software Engineer from the Data Studio Team at Google will be joining Yulan Lin for our Data Visualization Talk &amp; Workshop on 📅 Sep 10.\n\n👩🏻💻 RSVP &gt;&gt; https://t.co/gSJOX7ogMS https://t.co/G1NiPZ8A3W",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1035,7 +1156,7 @@ Grailbird.data.tweets_2019_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Oooh, aren't we lucky 🍀? Now we have 2 speakers on Data Viz!\n\nHappy 🙌 to announce that Morgan Aw (right), Software Engineer from the Data Studio Team at Google will be joining Yulan Lin for our Data Visualization Talk &amp; Workshop on 📅 Sep 10.\n\n👩🏻‍💻 RSVP &gt;&gt; https://t.co/gSJOX7ogMS https://t.co/G1NiPZ8A3W"
+		"text": "Oooh, aren't we lucky 🍀? Now we have 2 speakers on Data Viz!\n\nHappy 🙌 to announce that Morgan Aw (right), Software Engineer from the Data Studio Team at Google will be joining Yulan Lin for our Data Visualization Talk &amp; Workshop on 📅 Sep 10.\n\n👩🏻💻 RSVP &gt;&gt; https://t.co/gSJOX7ogMS https://t.co/G1NiPZ8A3W"
 	},
 	{
 		"created_at": "Fri Aug 30 08:14:57 +0000 2019",
