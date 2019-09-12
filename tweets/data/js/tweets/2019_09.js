@@ -1,6 +1,971 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Wed Sep 11 14:10:48 +0000 2019",
+		"id": 1171788182117073000,
+		"id_str": "1171788182117072896",
+		"full_text": "@rachelleeobrien @MarenDeepwell Thanks Rachelle - for me this was also the first clear instance when distributed team skills greatly benefited a f2f event :)",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rachelleeobrien",
+					"name": "Rachelle O'Brien",
+					"id": 43586185,
+					"id_str": "43586185",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell #altc",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						17,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1171784436955984000,
+		"in_reply_to_status_id_str": "1171784436955983877",
+		"in_reply_to_user_id": 43586185,
+		"in_reply_to_user_id_str": "43586185",
+		"in_reply_to_screen_name": "rachelleeobrien",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8278,
+			"friends_count": 2377,
+			"listed_count": 615,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5959,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28731,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@rachelleeobrien @MarenDeepwell Thanks Rachelle - for me this was also the first clear instance when distributed team skills greatly benefited a f2f event :)"
+	},
+	{
+		"created_at": "Wed Sep 11 13:45:05 +0000 2019",
+		"id": 1171781710624776200,
+		"id_str": "1171781710624776197",
+		"full_text": "The Google Fusion Tables shutdown begins in earnest - some good news \n\"We’ve seen a lot of great maps created with Fusion Tables ... that shouldn’t have to disappear along with Fusion Tables ... we've partnered with Ubilabs to create a new open source tool built to preserve maps\" https://t.co/Nuc08Sy24U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1171781398149120000,
+					"id_str": "1171781398149120000",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EEMA-ScWwAAYAt6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEMA-ScWwAAYAt6.jpg",
+					"url": "https://t.co/Nuc08Sy24U",
+					"display_url": "pic.twitter.com/Nuc08Sy24U",
+					"expanded_url": "https://twitter.com/mhawksey/status/1171781710624776197/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 440,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 292,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 440,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171781398149120000,
+					"id_str": "1171781398149120000",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EEMA-ScWwAAYAt6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEMA-ScWwAAYAt6.jpg",
+					"url": "https://t.co/Nuc08Sy24U",
+					"display_url": "pic.twitter.com/Nuc08Sy24U",
+					"expanded_url": "https://twitter.com/mhawksey/status/1171781710624776197/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 440,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 292,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 440,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8278,
+			"friends_count": 2377,
+			"listed_count": 615,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5959,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28731,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Google Fusion Tables shutdown begins in earnest - some good news \n\"We’ve seen a lot of great maps created with Fusion Tables ... that shouldn’t have to disappear along with Fusion Tables ... we've partnered with Ubilabs to create a new open source tool built to preserve maps\" https://t.co/Nuc08Sy24U"
+	},
+	{
+		"created_at": "Wed Sep 11 13:34:01 +0000 2019",
+		"id": 1171312813224157200,
+		"id_str": "1171778927448207360",
+		"full_text": "Wanna follow the trend of Apps develop in your org with a Dashboard of the default Cloud SQL App Maker Instance ? Read my first @Medium article ! #googleappsscript #cloudsqladminapi #cloudsql #googleappmaker https://t.co/Wi9Zqadig1 https://t.co/qkFm8lXGy7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "googleappsscript",
+					"indices": [
+						146,
+						163
+					]
+				},
+				{
+					"text": "cloudsqladminapi",
+					"indices": [
+						164,
+						181
+					]
+				},
+				{
+					"text": "cloudsql",
+					"indices": [
+						182,
+						191
+					]
+				},
+				{
+					"text": "googleappmaker",
+					"indices": [
+						192,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Medium",
+					"name": "Medium",
+					"id": 571202103,
+					"id_str": "571202103",
+					"indices": [
+						128,
+						135
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Wi9Zqadig1",
+					"expanded_url": "https://medium.com/@jeremy.dessalinesdorbigny/follow-the-trend-of-apps-develop-in-your-org-with-a-dashboard-of-the-default-cloud-sql-app-maker-db-c3d2dab414a8",
+					"display_url": "medium.com/@jeremy.dessal…",
+					"indices": [
+						208,
+						231
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1171312804588134400,
+					"id_str": "1171312804588134400",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EEFWyjZXoAAi2cH.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EEFWyjZXoAAi2cH.jpg",
+					"url": "https://t.co/qkFm8lXGy7",
+					"display_url": "pic.twitter.com/qkFm8lXGy7",
+					"expanded_url": "https://twitter.com/Gr3m/status/1171312813224157184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171312804588134400,
+					"id_str": "1171312804588134400",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EEFWyjZXoAAi2cH.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EEFWyjZXoAAi2cH.jpg",
+					"url": "https://t.co/qkFm8lXGy7",
+					"display_url": "pic.twitter.com/qkFm8lXGy7",
+					"expanded_url": "https://twitter.com/Gr3m/status/1171312813224157184/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EEFWyjZXoAAi2cH.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 50463734,
+			"id_str": "50463734",
+			"name": "Jérémy Dessalines",
+			"screen_name": "Gr3m",
+			"location": "Paris, France",
+			"description": "Software project manager @veolia x Art addict x Music @lesarcadians ex @grdf @mcdonalds",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 367,
+			"listed_count": 43,
+			"created_at": "Wed Jun 24 22:30:18 +0000 2009",
+			"favourites_count": 1378,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4250,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1018083531661209600/S-XynhDy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1018083531661209600/S-XynhDy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/50463734/1353484444",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wanna follow the trend of Apps develop in your org with a Dashboard of the default Cloud SQL App Maker Instance ? Read my first @Medium article ! #googleappsscript #cloudsqladminapi #cloudsql #googleappmaker https://t.co/Wi9Zqadig1 https://t.co/qkFm8lXGy7"
+	},
+	{
+		"created_at": "Wed Sep 11 13:33:17 +0000 2019",
+		"id": 1171699789093888000,
+		"id_str": "1171778742416551936",
+		"full_text": "Free tools for retrieving Twitter data include:\n\nTAGS (https://t.co/JYHoFSkbBk)\nChorus (https://t.co/VAannT4jXQ)\nMozdeh (https://t.co/JK27VadSAf)\nCOSMOS (https://t.co/OixOI3R4CO)\n😎\n\nLearn more in this instantly available online course 😊\nhttps://t.co/PDDg7CSVZ3\n\n#PhDChat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PhDChat",
+					"indices": [
+						262,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JYHoFSkbBk",
+					"expanded_url": "https://tags.hawksey.info",
+					"display_url": "tags.hawksey.info",
+					"indices": [
+						55,
+						78
+					]
+				},
+				{
+					"url": "https://t.co/VAannT4jXQ",
+					"expanded_url": "http://chorusanalytics.co.uk",
+					"display_url": "chorusanalytics.co.uk",
+					"indices": [
+						88,
+						111
+					]
+				},
+				{
+					"url": "https://t.co/JK27VadSAf",
+					"expanded_url": "http://mozdeh.wlv.ac.uk",
+					"display_url": "mozdeh.wlv.ac.uk",
+					"indices": [
+						121,
+						144
+					]
+				},
+				{
+					"url": "https://t.co/OixOI3R4CO",
+					"expanded_url": "http://socialdatalab.net/cosmos",
+					"display_url": "socialdatalab.net/cosmos",
+					"indices": [
+						154,
+						177
+					]
+				},
+				{
+					"url": "https://t.co/PDDg7CSVZ3",
+					"expanded_url": "https://courses.researchingsocialmedia.com/courses/social-media-digital-humanities-methods-approaches-for-social-scientists",
+					"display_url": "courses.researchingsocialmedia.com/courses/social…",
+					"indices": [
+						237,
+						260
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2176358690,
+			"id_str": "2176358690",
+			"name": "Dr. Wasim Ahmed",
+			"screen_name": "was3210",
+			"location": "Newcastle Upon Tyne, England",
+			"description": "Lecturer | Digital Business expert with a specialism in social media research |",
+			"url": "https://t.co/rsDnCbYcTI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rsDnCbYcTI",
+							"expanded_url": "http://wasimahmed.org",
+							"display_url": "wasimahmed.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10869,
+			"friends_count": 6442,
+			"listed_count": 346,
+			"created_at": "Tue Nov 05 16:04:49 +0000 2013",
+			"favourites_count": 24964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16652,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102940827075203073/3Ywj3wKa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102940827075203073/3Ywj3wKa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2176358690/1555151295",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 24,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Free tools for retrieving Twitter data include:\n\nTAGS (https://t.co/JYHoFSkbBk)\nChorus (https://t.co/VAannT4jXQ)\nMozdeh (https://t.co/JK27VadSAf)\nCOSMOS (https://t.co/OixOI3R4CO)\n😎\n\nLearn more in this instantly available online course 😊\nhttps://t.co/PDDg7CSVZ3\n\n#PhDChat"
+	},
+	{
+		"created_at": "Wed Sep 11 13:32:54 +0000 2019",
+		"id": 1171778152542146600,
+		"id_str": "1171778645939118082",
+		"full_text": "NEW podcast &amp; blog post openly sharing our approach to leading a virtual team with @mhawksey &amp; me: this time we talk all things blended https://t.co/E5J9p0lXrt https://t.co/pvUBjVKpru",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey #altc",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						87,
+						96
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/E5J9p0lXrt",
+					"expanded_url": "https://marendeepwell.com/?p=2229",
+					"display_url": "marendeepwell.com/?p=2229",
+					"indices": [
+						144,
+						167
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1171778142442315800,
+					"id_str": "1171778142442315785",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EEL-Ax_XYAkNtao.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEL-Ax_XYAkNtao.jpg",
+					"url": "https://t.co/pvUBjVKpru",
+					"display_url": "pic.twitter.com/pvUBjVKpru",
+					"expanded_url": "https://twitter.com/MarenDeepwell/status/1171778152542146560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 319,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 563,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171778142442315800,
+					"id_str": "1171778142442315785",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EEL-Ax_XYAkNtao.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEL-Ax_XYAkNtao.jpg",
+					"url": "https://t.co/pvUBjVKpru",
+					"display_url": "pic.twitter.com/pvUBjVKpru",
+					"expanded_url": "https://twitter.com/MarenDeepwell/status/1171778152542146560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 319,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 563,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 323173367,
+			"id_str": "323173367",
+			"name": "Dr Maren Deepwell #altc",
+			"screen_name": "MarenDeepwell",
+			"location": "United Kingdom",
+			"description": "CEO @A_L_T #altc Senior #CMALT, Anthropologist, Open Practitioner, leadership, policy & Learning Technology CPD, open governance & equality #femedtech she/her",
+			"url": "https://t.co/kMXdMTr9bt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kMXdMTr9bt",
+							"expanded_url": "http://marendeepwell.com",
+							"display_url": "marendeepwell.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3741,
+			"friends_count": 1739,
+			"listed_count": 194,
+			"created_at": "Fri Jun 24 11:30:35 +0000 2011",
+			"favourites_count": 17464,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1106108974481489920/SNmOSvkd_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106108974481489920/SNmOSvkd_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/323173367/1568223365",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW podcast &amp; blog post openly sharing our approach to leading a virtual team with @mhawksey &amp; me: this time we talk all things blended https://t.co/E5J9p0lXrt https://t.co/pvUBjVKpru"
+	},
+	{
+		"created_at": "Wed Sep 11 09:07:05 +0000 2019",
+		"id": 1171711750099611600,
+		"id_str": "1171711750099611649",
+		"full_text": "BBC News - Musicians call for facial recognition ban at gigs &lt; useful piece to to get a sense of companies involved and their relationships https://t.co/3Mv6vzzW6E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3Mv6vzzW6E",
+					"expanded_url": "https://www.bbc.co.uk/news/technology-49647244",
+					"display_url": "bbc.co.uk/news/technolog…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8278,
+			"friends_count": 2377,
+			"listed_count": 615,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5959,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28731,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BBC News - Musicians call for facial recognition ban at gigs &lt; useful piece to to get a sense of companies involved and their relationships https://t.co/3Mv6vzzW6E"
+	},
+	{
 		"created_at": "Tue Sep 10 15:21:30 +0000 2019",
 		"id": 1171443589978546200,
 		"id_str": "1171443589978546176",
