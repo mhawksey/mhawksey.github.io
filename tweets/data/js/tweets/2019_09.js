@@ -1,6 +1,629 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 13 15:26:15 +0000 2019",
+		"id": 1172531946448130000,
+		"id_str": "1172531946448130048",
+		"full_text": "@rushaw @timmmmyboy ... I like a lot, thanks for sharing. Latest edition to my kit was 15.6 inch Portable TouchScreen monitor (I could basically scene switch OBS better)   https://t.co/T9lpdRX1Jn \n https://t.co/T6U432aSiz",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rushaw",
+					"name": "Andy Rush",
+					"id": 743493,
+					"id_str": "743493",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "timmmmyboy",
+					"name": "timmmmyboy",
+					"id": 1025923491495903200,
+					"id_str": "1025923491495903232",
+					"indices": [
+						8,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/T9lpdRX1Jn",
+					"expanded_url": "https://www.amazon.co.uk/dp/B07P2D19SN/ref=cm_sw_r_tw_dp_U_x_Us7EDbAD263ZE",
+					"display_url": "amazon.co.uk/dp/B07P2D19SN/…",
+					"indices": [
+						172,
+						195
+					]
+				},
+				{
+					"url": "https://t.co/T6U432aSiz",
+					"expanded_url": "https://twitter.com/mhawksey/status/1169192711397814272",
+					"display_url": "twitter.com/mhawksey/statu…",
+					"indices": [
+						198,
+						221
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1172486230157795300,
+		"in_reply_to_status_id_str": "1172486230157795328",
+		"in_reply_to_user_id": 743493,
+		"in_reply_to_user_id_str": "743493",
+		"in_reply_to_screen_name": "rushaw",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8277,
+			"friends_count": 2379,
+			"listed_count": 615,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5969,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1169192711397814300,
+		"quoted_status_id_str": "1169192711397814272",
+		"quoted_status_permalink": {
+			"url": "https://t.co/T6U432aSiz",
+			"expanded": "https://twitter.com/mhawksey/status/1169192711397814272",
+			"display": "twitter.com/mhawksey/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 04 10:17:19 +0000 2019",
+			"id": 1169192711397814300,
+			"id_str": "1169192711397814272",
+			"full_text": "Also the obligatory #altc behind the scenes shoot, joined by @LornaMCampbell doing her @A_L_T tweeting magic (new to the kit is a 15\" portable touch screen for @OBSProject multiview) https://t.co/piZT8oK0hg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				182
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "altc",
+						"indices": [
+							20,
+							25
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LornaMCampbell",
+						"name": "Lorna M. Campbell",
+						"id": 4016151,
+						"id_str": "4016151",
+						"indices": [
+							61,
+							76
+						]
+					},
+					{
+						"screen_name": "A_L_T",
+						"name": "ALT - alt.ac.uk",
+						"id": 41210876,
+						"id_str": "41210876",
+						"indices": [
+							87,
+							93
+						]
+					},
+					{
+						"screen_name": "OBSProject",
+						"name": "OBS",
+						"id": 794683735,
+						"id_str": "794683735",
+						"indices": [
+							160,
+							171
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1169192684214509600,
+						"id_str": "1169192684214509569",
+						"indices": [
+							183,
+							206
+						],
+						"media_url": "http://pbs.twimg.com/media/EDnOjTiXYAEBG0A.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EDnOjTiXYAEBG0A.jpg",
+						"url": "https://t.co/piZT8oK0hg",
+						"display_url": "pic.twitter.com/piZT8oK0hg",
+						"expanded_url": "https://twitter.com/mhawksey/status/1169192711397814272/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1169192684214509600,
+						"id_str": "1169192684214509569",
+						"indices": [
+							183,
+							206
+						],
+						"media_url": "http://pbs.twimg.com/media/EDnOjTiXYAEBG0A.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EDnOjTiXYAEBG0A.jpg",
+						"url": "https://t.co/piZT8oK0hg",
+						"display_url": "pic.twitter.com/piZT8oK0hg",
+						"expanded_url": "https://twitter.com/mhawksey/status/1169192711397814272/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1169192701612449800,
+						"id_str": "1169192701612449794",
+						"indices": [
+							183,
+							206
+						],
+						"media_url": "http://pbs.twimg.com/media/EDnOkUWW4AIRtHC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EDnOkUWW4AIRtHC.jpg",
+						"url": "https://t.co/piZT8oK0hg",
+						"display_url": "pic.twitter.com/piZT8oK0hg",
+						"expanded_url": "https://twitter.com/mhawksey/status/1169192711397814272/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13046992,
+				"id_str": "13046992",
+				"name": "Martin Hawksey #altc",
+				"screen_name": "mhawksey",
+				"location": "Edinburgh, Scotland",
+				"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+				"url": "https://t.co/OwPc0EbVqg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OwPc0EbVqg",
+								"expanded_url": "https://mashe.hawksey.info",
+								"display_url": "mashe.hawksey.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8277,
+				"friends_count": 2379,
+				"listed_count": 615,
+				"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+				"favourites_count": 5969,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 28739,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F5F5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+				"profile_link_color": "4099FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D4D4D4",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rushaw @timmmmyboy ... I like a lot, thanks for sharing. Latest edition to my kit was 15.6 inch Portable TouchScreen monitor (I could basically scene switch OBS better)   https://t.co/T9lpdRX1Jn \n https://t.co/T6U432aSiz"
+	},
+	{
+		"created_at": "Fri Sep 13 11:51:07 +0000 2019",
+		"id": 1172477807257161700,
+		"id_str": "1172477807257161728",
+		"full_text": "@timmmmyboy @rushaw ... I was running out of usb ports for capture boxes and this looks perfect! I'd looked at other vision mixing options but they've all been horrendously expensive (also really like that it has hdmi out)",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "timmmmyboy",
+					"name": "timmmmyboy",
+					"id": 1025923491495903200,
+					"id_str": "1025923491495903232",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "rushaw",
+					"name": "Andy Rush",
+					"id": 743493,
+					"id_str": "743493",
+					"indices": [
+						12,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1172470969484660700,
+		"in_reply_to_status_id_str": "1172470969484660736",
+		"in_reply_to_user_id": 1025923491495903200,
+		"in_reply_to_user_id_str": "1025923491495903232",
+		"in_reply_to_screen_name": "timmmmyboy",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8277,
+			"friends_count": 2379,
+			"listed_count": 615,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5969,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@timmmmyboy @rushaw ... I was running out of usb ports for capture boxes and this looks perfect! I'd looked at other vision mixing options but they've all been horrendously expensive (also really like that it has hdmi out)"
+	},
+	{
+		"created_at": "Fri Sep 13 10:08:26 +0000 2019",
+		"id": 1172451965718147000,
+		"id_str": "1172451965718147072",
+		"full_text": "@mweller @MarenDeepwell ... I had a similar realization with green tea",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mweller",
+					"name": "Martin Weller",
+					"id": 7127162,
+					"id_str": "7127162",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell #altc",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						9,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1172451411616923600,
+		"in_reply_to_status_id_str": "1172451411616923649",
+		"in_reply_to_user_id": 7127162,
+		"in_reply_to_user_id_str": "7127162",
+		"in_reply_to_screen_name": "mweller",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8277,
+			"friends_count": 2379,
+			"listed_count": 615,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5969,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mweller @MarenDeepwell ... I had a similar realization with green tea"
+	},
+	{
 		"created_at": "Thu Sep 12 21:50:43 +0000 2019",
 		"id": 1172266312434966500,
 		"id_str": "1172266312434966528",
