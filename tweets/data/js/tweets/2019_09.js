@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Wed Sep 18 12:44:41 +0000 2019",
+		"id": 1174013172497440800,
+		"id_str": "1174303227992563712",
+		"full_text": "Have you submitted to @SocMedHE #socmedhe19 yet?  Still 2 weeks to go! https://t.co/8ueJ5wE3MA #lthechat #altc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "socmedhe19",
+					"indices": [
+						32,
+						43
+					]
+				},
+				{
+					"text": "lthechat",
+					"indices": [
+						95,
+						104
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						105,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SocMedHE",
+					"name": "@SocMedHE",
+					"id": 3346395670,
+					"id_str": "3346395670",
+					"indices": [
+						22,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8ueJ5wE3MA",
+					"expanded_url": "https://www.edgehill.ac.uk/clt/conference-2014/social-media-for-learning-in-higher-education-conference-2019/",
+					"display_url": "edgehill.ac.uk/clt/conference…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 558091832,
+			"id_str": "558091832",
+			"name": "Sarah Honeychurch",
+			"screen_name": "NomadWarMachine",
+			"location": "Glasgow",
+			"description": "Remixer, knitter, uke player. Teaching Fellow @UofGAsbs @UofGlasgow; #jisc50social  https://t.co/FaYghV5n1R #clmooc #ds106 #YouYesYet #LTHEchat #ALTC",
+			"url": "https://t.co/nA2gSqPgC8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nA2gSqPgC8",
+							"expanded_url": "http://about.me/sarahhoneychurch",
+							"display_url": "about.me/sarahhoneychur…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FaYghV5n1R",
+							"expanded_url": "http://bit.ly/1Le3tna",
+							"display_url": "bit.ly/1Le3tna",
+							"indices": [
+								84,
+								107
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2412,
+			"friends_count": 2157,
+			"listed_count": 106,
+			"created_at": "Thu Apr 19 21:58:27 +0000 2012",
+			"favourites_count": 22870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20224,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1047122314276614144/XdsZ7BKr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1047122314276614144/XdsZ7BKr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/558091832/1522083865",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Have you submitted to @SocMedHE #socmedhe19 yet?  Still 2 weeks to go! https://t.co/8ueJ5wE3MA #lthechat #altc"
+	},
+	{
+		"created_at": "Wed Sep 18 08:09:31 +0000 2019",
+		"id": 1174233978896826400,
+		"id_str": "1174233978896826371",
+		"full_text": "@MarenDeepwell ... and so would a lot of Wordpress plugin developers #EndlessUpdates ;)",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EndlessUpdates",
+					"indices": [
+						69,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell #altc",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1174026415865565200,
+		"in_reply_to_status_id_str": "1174026415865565184",
+		"in_reply_to_user_id": 323173367,
+		"in_reply_to_user_id_str": "323173367",
+		"in_reply_to_screen_name": "MarenDeepwell",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8280,
+			"friends_count": 2382,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5980,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28756,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MarenDeepwell ... and so would a lot of Wordpress plugin developers #EndlessUpdates ;)"
+	},
+	{
 		"created_at": "Tue Sep 17 18:25:08 +0000 2019",
 		"id": 1174026514666594300,
 		"id_str": "1174026514666594307",
