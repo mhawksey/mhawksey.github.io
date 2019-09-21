@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 20 14:06:50 +0000 2019",
+		"id": 1174701197711872000,
+		"id_str": "1175048678136012801",
+		"full_text": "Currently working on a #DataStudio dashboard to visualize my @Strava activity data 🏃‍♂️🚴‍♂️🥾\n\nI've used #AppsScript to connect to the Strava API and dump the data into a #GoogleSheet. \n\nThe #DataStudio dashboard shows a bubble chart based on week number and day of the week. (1/5) https://t.co/RCB70UbQ6G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DataStudio",
+					"indices": [
+						23,
+						34
+					]
+				},
+				{
+					"text": "AppsScript",
+					"indices": [
+						104,
+						115
+					]
+				},
+				{
+					"text": "GoogleSheet",
+					"indices": [
+						170,
+						182
+					]
+				},
+				{
+					"text": "DataStudio",
+					"indices": [
+						190,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Strava",
+					"name": "Strava",
+					"id": 42924530,
+					"id_str": "42924530",
+					"indices": [
+						61,
+						68
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1174701193710510000,
+					"id_str": "1174701193710510080",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EE1ggwhXoAAgA4-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EE1ggwhXoAAgA4-.jpg",
+					"url": "https://t.co/RCB70UbQ6G",
+					"display_url": "pic.twitter.com/RCB70UbQ6G",
+					"expanded_url": "https://twitter.com/benlcollins/status/1174701197711872001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1285,
+							"h": 1306,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1181,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 669,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1174701193710510000,
+					"id_str": "1174701193710510080",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EE1ggwhXoAAgA4-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EE1ggwhXoAAgA4-.jpg",
+					"url": "https://t.co/RCB70UbQ6G",
+					"display_url": "pic.twitter.com/RCB70UbQ6G",
+					"expanded_url": "https://twitter.com/benlcollins/status/1174701197711872001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1285,
+							"h": 1306,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1181,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 669,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19338407,
+			"id_str": "19338407",
+			"name": "Ben Collins",
+			"screen_name": "benlcollins",
+			"location": "Harpers Ferry, WV",
+			"description": "I teach online courses. Google Developer Expert for G Suite, focussed on G Sheets/Data Studio/Apps Script.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3356,
+			"friends_count": 435,
+			"listed_count": 258,
+			"created_at": "Thu Jan 22 13:43:22 +0000 2009",
+			"favourites_count": 6569,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CFCFCF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/966495721598935040/y1KUcaEN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/966495721598935040/y1KUcaEN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19338407/1415055908",
+			"profile_link_color": "619DE6",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "ECFFD6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Currently working on a #DataStudio dashboard to visualize my @Strava activity data 🏃‍♂️🚴‍♂️🥾\n\nI've used #AppsScript to connect to the Strava API and dump the data into a #GoogleSheet. \n\nThe #DataStudio dashboard shows a bubble chart based on week number and day of the week. (1/5) https://t.co/RCB70UbQ6G"
+	},
+	{
 		"created_at": "Thu Sep 19 12:55:14 +0000 2019",
 		"id": 1174668271443959800,
 		"id_str": "1174668271443959813",
