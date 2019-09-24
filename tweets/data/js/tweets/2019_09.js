@@ -1,6 +1,1171 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 23 17:04:47 +0000 2019",
+		"id": 1176180624497025000,
+		"id_str": "1176180624497025024",
+		"full_text": "Chinese subway stations now let you pay for tickets by scanning your face https://t.co/v28YNsLzQP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v28YNsLzQP",
+					"expanded_url": "https://thenextweb.com/world/2019/09/23/chinese-subway-stations-now-let-you-pay-for-tickets-by-scanning-your-face/",
+					"display_url": "thenextweb.com/world/2019/09/…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8283,
+			"friends_count": 2383,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5985,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Chinese subway stations now let you pay for tickets by scanning your face https://t.co/v28YNsLzQP"
+	},
+	{
+		"created_at": "Mon Sep 23 16:09:21 +0000 2019",
+		"id": 1176166673742815200,
+		"id_str": "1176166673742815234",
+		"full_text": "I missed this post from @brucemcpherson on how to fuzzy match in #GoogleAppsScript with a Google Sheets example  https://t.co/KOu4PYnuQT #GSuiteDevs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						65,
+						82
+					]
+				},
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						137,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brucemcpherson",
+					"name": "Bruce McPherson",
+					"id": 17517365,
+					"id_str": "17517365",
+					"indices": [
+						24,
+						39
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KOu4PYnuQT",
+					"expanded_url": "http://ramblings.mcpher.com/Home/excelquirks/gassnips/roughmatching",
+					"display_url": "ramblings.mcpher.com/Home/excelquir…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8283,
+			"friends_count": 2383,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5985,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I missed this post from @brucemcpherson on how to fuzzy match in #GoogleAppsScript with a Google Sheets example  https://t.co/KOu4PYnuQT #GSuiteDevs"
+	},
+	{
+		"created_at": "Mon Sep 23 16:00:27 +0000 2019",
+		"id": 1176164434735186000,
+		"id_str": "1176164434735185920",
+		"full_text": "Some great coding tips event for #GoogleAppsScript pros from @benlcollins including Script Editor keyboard shortcuts https://t.co/bRGq3WGzbo #GSuiteDevs https://t.co/QM3NMjmGxf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						33,
+						50
+					]
+				},
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						141,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "benlcollins",
+					"name": "Ben Collins",
+					"id": 19338407,
+					"id_str": "19338407",
+					"indices": [
+						61,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bRGq3WGzbo",
+					"expanded_url": "https://www.benlcollins.com/apps-script/coding-tips/",
+					"display_url": "benlcollins.com/apps-script/co…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1176164422676615200,
+					"id_str": "1176164422676615168",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EFKTT5MXkAAhoDB.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EFKTT5MXkAAhoDB.jpg",
+					"url": "https://t.co/QM3NMjmGxf",
+					"display_url": "pic.twitter.com/QM3NMjmGxf",
+					"expanded_url": "https://twitter.com/mhawksey/status/1176164434735185920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 942,
+							"h": 710,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 513,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 942,
+							"h": 710,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1176164422676615200,
+					"id_str": "1176164422676615168",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EFKTT5MXkAAhoDB.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EFKTT5MXkAAhoDB.jpg",
+					"url": "https://t.co/QM3NMjmGxf",
+					"display_url": "pic.twitter.com/QM3NMjmGxf",
+					"expanded_url": "https://twitter.com/mhawksey/status/1176164434735185920/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 942,
+							"h": 710,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 513,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 942,
+							"h": 710,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							471,
+							355
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EFKTT5MXkAAhoDB.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8283,
+			"friends_count": 2383,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5985,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some great coding tips event for #GoogleAppsScript pros from @benlcollins including Script Editor keyboard shortcuts https://t.co/bRGq3WGzbo #GSuiteDevs https://t.co/QM3NMjmGxf"
+	},
+	{
+		"created_at": "Mon Sep 23 13:55:26 +0000 2019",
+		"id": 1176132972057178000,
+		"id_str": "1176132972057178114",
+		"full_text": "Some useful advice from @st3phcloud on how to 'Send push message to Hangouts Chat with Apps Script' https://t.co/AEexXxC9Qh #GSuiteDevs #GoogleAppsScript",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						124,
+						135
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						136,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "st3phcloud",
+					"name": "Stéphane Giron",
+					"id": 915246906560979000,
+					"id_str": "915246906560978944",
+					"indices": [
+						24,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AEexXxC9Qh",
+					"expanded_url": "https://medium.com/@stephane.giron/send-push-message-to-hangouts-chat-with-apps-script-274ddadcbc55",
+					"display_url": "medium.com/@stephane.giro…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8283,
+			"friends_count": 2383,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5985,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some useful advice from @st3phcloud on how to 'Send push message to Hangouts Chat with Apps Script' https://t.co/AEexXxC9Qh #GSuiteDevs #GoogleAppsScript"
+	},
+	{
+		"created_at": "Mon Sep 23 13:20:02 +0000 2019",
+		"id": 1176124063388983300,
+		"id_str": "1176124063388983309",
+		"full_text": "@johannafunk1 At this point yes please ... but all me again in a month or two and I think I'll have a different answer 😉",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "johannafunk1",
+					"name": "Johanna Funk",
+					"id": 1363543626,
+					"id_str": "1363543626",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1176109657808523300,
+		"in_reply_to_status_id_str": "1176109657808523264",
+		"in_reply_to_user_id": 1363543626,
+		"in_reply_to_user_id_str": "1363543626",
+		"in_reply_to_screen_name": "johannafunk1",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8283,
+			"friends_count": 2383,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5985,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@johannafunk1 At this point yes please ... but all me again in a month or two and I think I'll have a different answer 😉"
+	},
+	{
+		"created_at": "Mon Sep 23 11:37:21 +0000 2019",
+		"id": 1176094900355551200,
+		"id_str": "1176098220335874048",
+		"full_text": "By me: Google Apps Script Patterns: Celebrating 10 years by revisiting mail merge/bulk emailing https://t.co/i1sHCT51qw #GSuiteDevs #GoogleAppsScript #GSuiteEdu #GoogleEdu #GoogleIE https://t.co/d4TRxynhqB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						120,
+						131
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						132,
+						149
+					]
+				},
+				{
+					"text": "GSuiteEdu",
+					"indices": [
+						150,
+						160
+					]
+				},
+				{
+					"text": "GoogleEdu",
+					"indices": [
+						161,
+						171
+					]
+				},
+				{
+					"text": "GoogleIE",
+					"indices": [
+						172,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i1sHCT51qw",
+					"expanded_url": "https://mashe.hawksey.info/2019/09/google-apps-script-patterns-mail-merge-bulk-emailing/",
+					"display_url": "mashe.hawksey.info/2019/09/google…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1176094410427240400,
+					"id_str": "1176094410427240448",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EFJTopPWkAA7KzA.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EFJTopPWkAA7KzA.jpg",
+					"url": "https://t.co/d4TRxynhqB",
+					"display_url": "pic.twitter.com/d4TRxynhqB",
+					"expanded_url": "https://twitter.com/mhawksey/status/1176094900355551232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 394,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 394,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 394,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1176094410427240400,
+					"id_str": "1176094410427240448",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EFJTopPWkAA7KzA.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EFJTopPWkAA7KzA.jpg",
+					"url": "https://t.co/d4TRxynhqB",
+					"display_url": "pic.twitter.com/d4TRxynhqB",
+					"expanded_url": "https://twitter.com/mhawksey/status/1176094900355551232/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 394,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 394,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 394,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							300,
+							197
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EFJTopPWkAA7KzA.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8283,
+			"friends_count": 2383,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5985,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "By me: Google Apps Script Patterns: Celebrating 10 years by revisiting mail merge/bulk emailing https://t.co/i1sHCT51qw #GSuiteDevs #GoogleAppsScript #GSuiteEdu #GoogleEdu #GoogleIE https://t.co/d4TRxynhqB"
+	},
+	{
+		"created_at": "Mon Sep 23 11:24:09 +0000 2019",
+		"id": 1176094900355551200,
+		"id_str": "1176094900355551232",
+		"full_text": "By me: Google Apps Script Patterns: Celebrating 10 years by revisiting mail merge/bulk emailing https://t.co/i1sHCT51qw #GSuiteDevs #GoogleAppsScript #GSuiteEdu #GoogleEdu #GoogleIE https://t.co/d4TRxynhqB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						120,
+						131
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						132,
+						149
+					]
+				},
+				{
+					"text": "GSuiteEdu",
+					"indices": [
+						150,
+						160
+					]
+				},
+				{
+					"text": "GoogleEdu",
+					"indices": [
+						161,
+						171
+					]
+				},
+				{
+					"text": "GoogleIE",
+					"indices": [
+						172,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i1sHCT51qw",
+					"expanded_url": "https://mashe.hawksey.info/2019/09/google-apps-script-patterns-mail-merge-bulk-emailing/",
+					"display_url": "mashe.hawksey.info/2019/09/google…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1176094410427240400,
+					"id_str": "1176094410427240448",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EFJTopPWkAA7KzA.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EFJTopPWkAA7KzA.jpg",
+					"url": "https://t.co/d4TRxynhqB",
+					"display_url": "pic.twitter.com/d4TRxynhqB",
+					"expanded_url": "https://twitter.com/mhawksey/status/1176094900355551232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 394,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 394,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 394,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1176094410427240400,
+					"id_str": "1176094410427240448",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EFJTopPWkAA7KzA.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EFJTopPWkAA7KzA.jpg",
+					"url": "https://t.co/d4TRxynhqB",
+					"display_url": "pic.twitter.com/d4TRxynhqB",
+					"expanded_url": "https://twitter.com/mhawksey/status/1176094900355551232/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 394,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 394,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 394,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							300,
+							197
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EFJTopPWkAA7KzA.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8283,
+			"friends_count": 2383,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5985,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "By me: Google Apps Script Patterns: Celebrating 10 years by revisiting mail merge/bulk emailing https://t.co/i1sHCT51qw #GSuiteDevs #GoogleAppsScript #GSuiteEdu #GoogleEdu #GoogleIE https://t.co/d4TRxynhqB"
+	},
+	{
 		"created_at": "Sun Sep 22 19:05:19 +0000 2019",
 		"id": 1175848569628168200,
 		"id_str": "1175848569628168193",
