@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 24 07:18:00 +0000 2019",
+		"id": 1176185018059825200,
+		"id_str": "1176395340779589633",
+		"full_text": "🛎️Ding, ding! My Automation with #AppsScript course is available again this week. \n\nSave time⏱️: \n\n▪️ automate  @GSuite workflows 🚀\n▪️ connect #GoogleSheets to Gmail, Docs, Calendar\n▪️ work with data in Sheets 🔎\n▪️ connect to APIs 📡\n▪️ and more! 🤓\n\nhttps://t.co/deyaBb3w01 https://t.co/HA4G7qT9uk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AppsScript",
+					"indices": [
+						33,
+						44
+					]
+				},
+				{
+					"text": "GoogleSheets",
+					"indices": [
+						143,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gsuite",
+					"name": "G Suite",
+					"id": 17003765,
+					"id_str": "17003765",
+					"indices": [
+						112,
+						119
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/deyaBb3w01",
+					"expanded_url": "http://bit.ly/2XV0Q3r",
+					"display_url": "bit.ly/2XV0Q3r",
+					"indices": [
+						249,
+						272
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1176185013353795600,
+					"id_str": "1176185013353795584",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EFKmCbcXUAApX_J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFKmCbcXUAApX_J.jpg",
+					"url": "https://t.co/HA4G7qT9uk",
+					"display_url": "pic.twitter.com/HA4G7qT9uk",
+					"expanded_url": "https://twitter.com/benlcollins/status/1176185018059825152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 722,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 240,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 423,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1176185013353795600,
+					"id_str": "1176185013353795584",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EFKmCbcXUAApX_J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFKmCbcXUAApX_J.jpg",
+					"url": "https://t.co/HA4G7qT9uk",
+					"display_url": "pic.twitter.com/HA4G7qT9uk",
+					"expanded_url": "https://twitter.com/benlcollins/status/1176185018059825152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 722,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 240,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 423,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19338407,
+			"id_str": "19338407",
+			"name": "Ben Collins",
+			"screen_name": "benlcollins",
+			"location": "Harpers Ferry, WV",
+			"description": "I teach online courses. Google Developer Expert for G Suite, focussed on G Sheets/Data Studio/Apps Script.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3359,
+			"friends_count": 438,
+			"listed_count": 258,
+			"created_at": "Thu Jan 22 13:43:22 +0000 2009",
+			"favourites_count": 6598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7640,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CFCFCF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/966495721598935040/y1KUcaEN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/966495721598935040/y1KUcaEN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19338407/1415055908",
+			"profile_link_color": "619DE6",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "ECFFD6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🛎️Ding, ding! My Automation with #AppsScript course is available again this week. \n\nSave time⏱️: \n\n▪️ automate  @GSuite workflows 🚀\n▪️ connect #GoogleSheets to Gmail, Docs, Calendar\n▪️ work with data in Sheets 🔎\n▪️ connect to APIs 📡\n▪️ and more! 🤓\n\nhttps://t.co/deyaBb3w01 https://t.co/HA4G7qT9uk"
+	},
+	{
 		"created_at": "Mon Sep 23 17:04:47 +0000 2019",
 		"id": 1176180624497025000,
 		"id_str": "1176180624497025024",
