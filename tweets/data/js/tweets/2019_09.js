@@ -1,6 +1,1162 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 27 21:15:38 +0000 2019",
+		"id": 1177692053364527000,
+		"id_str": "1177693304445644805",
+		"full_text": "Each of the 137 venues you can visit as part of Doors Open Days this weekend https://t.co/y5iicW04Mz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y5iicW04Mz",
+					"expanded_url": "https://www.edinburghlive.co.uk/news/edinburgh-news/doors-open-day-edinburgh-each-16991312?utm_source=twitter.com&utm_medium=social&utm_campaign=sharebar",
+					"display_url": "edinburghlive.co.uk/news/edinburgh…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17761108,
+			"id_str": "17761108",
+			"name": "clairedonlan",
+			"screen_name": "clairedonlan",
+			"location": "Edinburgh, Scotland",
+			"description": "Customer Services, Information Services, Heriot Watt Uni.\nLearning Technologies. Libraries. Books.\nEdinburgh. \nalso Claire Bond @cracabond books",
+			"url": "https://t.co/4nu28sIx4w",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4nu28sIx4w",
+							"expanded_url": "http://cracajile.wordpress.com",
+							"display_url": "cracajile.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1587,
+			"friends_count": 1996,
+			"listed_count": 137,
+			"created_at": "Sun Nov 30 19:46:15 +0000 2008",
+			"favourites_count": 525,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11978,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3657330290/0ff243f79056b1f28d3ebc88b36c6a32_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3657330290/0ff243f79056b1f28d3ebc88b36c6a32_normal.jpeg",
+			"profile_link_color": "642D8B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3384db45b5e064f0",
+			"url": "https://api.twitter.com/1.1/geo/id/3384db45b5e064f0.json",
+			"place_type": "city",
+			"name": "Northam",
+			"full_name": "Northam, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-4.250555,
+							51.0275406
+						],
+						[
+							-4.2014429,
+							51.0275406
+						],
+						[
+							-4.2014429,
+							51.046915
+						],
+						[
+							-4.250555,
+							51.046915
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Each of the 137 venues you can visit as part of Doors Open Days this weekend https://t.co/y5iicW04Mz"
+	},
+	{
+		"created_at": "Fri Sep 27 21:15:22 +0000 2019",
+		"id": 1177643940318732300,
+		"id_str": "1177693235696881667",
+		"full_text": "📣Stop the bus 🚌!!! If you’re a member of @A_L_T you can register for the Social Media conference of the year #SocMedHE19 for just £3️⃣5️⃣📣 What are you waiting for  ⏰ https://t.co/HuYZuIbXY3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SocMedHE19",
+					"indices": [
+						109,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						41,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HuYZuIbXY3",
+					"expanded_url": "https://www.edgehill.ac.uk/clt/conference-2014/social-media-for-learning-in-higher-education-conference-2019/",
+					"display_url": "edgehill.ac.uk/clt/conference…",
+					"indices": [
+						167,
+						190
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 859771153321259000,
+			"id_str": "859771153321259009",
+			"name": "Suzanne Faulkner",
+			"screen_name": "SFaulknerPandO",
+			"location": "Largs, Scotland",
+			"description": "Teaching Fellow Prosthetics&Orthotics @UniStrathclyde,passionate about digital engagement📲 🎓,sprint triathlete 🏊🏻‍♀️🚴‍♀️ 🏃‍♀️Lego Serious Play facilitator",
+			"url": "https://t.co/BXMTBgSRHk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BXMTBgSRHk",
+							"expanded_url": "https://bit.ly/2JCaoJY",
+							"display_url": "bit.ly/2JCaoJY",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1028,
+			"friends_count": 704,
+			"listed_count": 20,
+			"created_at": "Wed May 03 14:06:31 +0000 2017",
+			"favourites_count": 12794,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878517414471897088/4UzVqIN1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878517414471897088/4UzVqIN1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/859771153321259009/1526588492",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📣Stop the bus 🚌!!! If you’re a member of @A_L_T you can register for the Social Media conference of the year #SocMedHE19 for just £3️⃣5️⃣📣 What are you waiting for  ⏰ https://t.co/HuYZuIbXY3"
+	},
+	{
+		"created_at": "Fri Sep 27 21:05:53 +0000 2019",
+		"id": 1177559150563344400,
+		"id_str": "1177690849871826944",
+		"full_text": "That feeling when you first discovered `document.designMode` https://t.co/bxA1otzCjN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1177558925463425000,
+					"id_str": "1177558925463425024",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1177558925463425024/pu/img/k8hd9W45tAgvkl7P.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1177558925463425024/pu/img/k8hd9W45tAgvkl7P.jpg",
+					"url": "https://t.co/bxA1otzCjN",
+					"display_url": "pic.twitter.com/bxA1otzCjN",
+					"expanded_url": "https://twitter.com/sulco/status/1177559150563344384/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1048,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1048,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 467,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1177558925463425000,
+					"id_str": "1177558925463425024",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1177558925463425024/pu/img/k8hd9W45tAgvkl7P.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1177558925463425024/pu/img/k8hd9W45tAgvkl7P.jpg",
+					"url": "https://t.co/bxA1otzCjN",
+					"display_url": "pic.twitter.com/bxA1otzCjN",
+					"expanded_url": "https://twitter.com/sulco/status/1177559150563344384/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 1048,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1048,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 467,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							131,
+							90
+						],
+						"duration_millis": 42066,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1177558925463425024/pu/vid/1048x720/ZuTMe3fV5FnbJNMy.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1177558925463425024/pu/vid/524x360/S4bjnIdl8-4K1vuN.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1177558925463425024/pu/pl/_6j7u5BihSzT6PNX.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1177558925463425024/pu/vid/392x270/hlyHq0JdB9Mnd7Dc.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18118070,
+			"id_str": "18118070",
+			"name": "Tomek Sułkowski",
+			"screen_name": "sulco",
+			"location": "Warsaw, Poland",
+			"description": "Engineer @StackBlitz⚡️· Shares #JavaScript,  #TypeScript & #Devtools stuff. Angular Tricity co-organizer · Making frontend easy one tweet at a time ___🖊",
+			"url": "https://t.co/IFU5poPEla",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IFU5poPEla",
+							"expanded_url": "http://medium.com/@tomsu",
+							"display_url": "medium.com/@tomsu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5978,
+			"friends_count": 184,
+			"listed_count": 103,
+			"created_at": "Sun Dec 14 16:05:06 +0000 2008",
+			"favourites_count": 4121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/799913500600598528/z4Wctlai_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/799913500600598528/z4Wctlai_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18118070/1565214013",
+			"profile_link_color": "DD0332",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4154,
+		"favorite_count": 12709,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "That feeling when you first discovered `document.designMode` https://t.co/bxA1otzCjN"
+	},
+	{
+		"created_at": "Fri Sep 27 14:30:14 +0000 2019",
+		"id": 1177501074178969600,
+		"id_str": "1177591278831321089",
+		"full_text": "Exciting news #GoogleAppsScript fans ... Apps Script Pulse – Sharing Google Apps Script community content https://t.co/zI9PWL2kq8 #GSuiteDevs @GoogleDevExpert https://t.co/rDI6bvrqES",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						14,
+						31
+					]
+				},
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						130,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GoogleDevExpert",
+					"name": "Google Developers Experts",
+					"id": 3003834689,
+					"id_str": "3003834689",
+					"indices": [
+						142,
+						158
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zI9PWL2kq8",
+					"expanded_url": "https://mashe.hawksey.info/2019/09/apps-script-pulse-capturing-and-sharing-google-apps-script-community-content/",
+					"display_url": "mashe.hawksey.info/2019/09/apps-s…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1177501066998341600,
+					"id_str": "1177501066998341632",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EFdS-1UUYAADHqP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFdS-1UUYAADHqP.jpg",
+					"url": "https://t.co/rDI6bvrqES",
+					"display_url": "pic.twitter.com/rDI6bvrqES",
+					"expanded_url": "https://twitter.com/mhawksey/status/1177501074178969600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 306,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1337,
+							"h": 602,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1177501066998341600,
+					"id_str": "1177501066998341632",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EFdS-1UUYAADHqP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFdS-1UUYAADHqP.jpg",
+					"url": "https://t.co/rDI6bvrqES",
+					"display_url": "pic.twitter.com/rDI6bvrqES",
+					"expanded_url": "https://twitter.com/mhawksey/status/1177501074178969600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 306,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1337,
+							"h": 602,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8292,
+			"friends_count": 2386,
+			"listed_count": 616,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5990,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 24,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Exciting news #GoogleAppsScript fans ... Apps Script Pulse – Sharing Google Apps Script community content https://t.co/zI9PWL2kq8 #GSuiteDevs @GoogleDevExpert https://t.co/rDI6bvrqES"
+	},
+	{
+		"created_at": "Fri Sep 27 14:28:08 +0000 2019",
+		"id": 1177590751397589000,
+		"id_str": "1177590751397588992",
+		"full_text": "@st3phcloud Thanks Stéphane :)",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "st3phcloud",
+					"name": "Stéphane Giron",
+					"id": 915246906560979000,
+					"id_str": "915246906560978944",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1177552762193793000,
+		"in_reply_to_status_id_str": "1177552762193793024",
+		"in_reply_to_user_id": 915246906560979000,
+		"in_reply_to_user_id_str": "915246906560978944",
+		"in_reply_to_screen_name": "st3phcloud",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8292,
+			"friends_count": 2386,
+			"listed_count": 616,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5990,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "da",
+		"text": "@st3phcloud Thanks Stéphane :)"
+	},
+	{
+		"created_at": "Fri Sep 27 08:38:52 +0000 2019",
+		"id": 1177502805830955000,
+		"id_str": "1177502854421999617",
+		"full_text": "Last chance to get Ben Collin’s excellent Automation with Apps Script course! It closes today!! Sign up while you still can! https://t.co/yRJXbG2LKk #gsuite #gsuitedu #appsscript #googleappsscript #edtech #excel #javascript #googlesheets",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "gsuite",
+					"indices": [
+						149,
+						156
+					]
+				},
+				{
+					"text": "gsuitedu",
+					"indices": [
+						157,
+						166
+					]
+				},
+				{
+					"text": "appsscript",
+					"indices": [
+						167,
+						178
+					]
+				},
+				{
+					"text": "googleappsscript",
+					"indices": [
+						179,
+						196
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						197,
+						204
+					]
+				},
+				{
+					"text": "excel",
+					"indices": [
+						205,
+						211
+					]
+				},
+				{
+					"text": "javascript",
+					"indices": [
+						212,
+						223
+					]
+				},
+				{
+					"text": "googlesheets",
+					"indices": [
+						224,
+						237
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yRJXbG2LKk",
+					"expanded_url": "https://courses.benlcollins.com/a/aff_nhd9f94m/external?affcode=69396_kqpndtf0",
+					"display_url": "courses.benlcollins.com/a/aff_nhd9f94m…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4409428666,
+			"id_str": "4409428666",
+			"name": "Baz Roberts",
+			"screen_name": "barrielroberts",
+			"location": "Seville, Spain",
+			"description": "Author of the Beginner's Guide to... series for Google Drive, Sheets, Forms, Docs, Slides, & Apps Script, and Google Sheet Functions - A step-by-step guide",
+			"url": "https://t.co/FyVNuIxegx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FyVNuIxegx",
+							"expanded_url": "https://bazroberts.com",
+							"display_url": "bazroberts.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 133,
+			"friends_count": 55,
+			"listed_count": 43,
+			"created_at": "Mon Dec 07 22:38:46 +0000 2015",
+			"favourites_count": 519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 521,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/809048411018240001/e06O2ELU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/809048411018240001/e06O2ELU_normal.jpg",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Last chance to get Ben Collin’s excellent Automation with Apps Script course! It closes today!! Sign up while you still can! https://t.co/yRJXbG2LKk #gsuite #gsuitedu #appsscript #googleappsscript #edtech #excel #javascript #googlesheets"
+	},
+	{
+		"created_at": "Fri Sep 27 08:31:47 +0000 2019",
+		"id": 1177501074178969600,
+		"id_str": "1177501074178969600",
+		"full_text": "Exciting news #GoogleAppsScript fans ... Apps Script Pulse – Sharing Google Apps Script community content https://t.co/zI9PWL2kq8 #GSuiteDevs @GoogleDevExpert https://t.co/rDI6bvrqES",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						14,
+						31
+					]
+				},
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						130,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GoogleDevExpert",
+					"name": "Google Developers Experts",
+					"id": 3003834689,
+					"id_str": "3003834689",
+					"indices": [
+						142,
+						158
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zI9PWL2kq8",
+					"expanded_url": "https://mashe.hawksey.info/2019/09/apps-script-pulse-capturing-and-sharing-google-apps-script-community-content/",
+					"display_url": "mashe.hawksey.info/2019/09/apps-s…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1177501066998341600,
+					"id_str": "1177501066998341632",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EFdS-1UUYAADHqP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFdS-1UUYAADHqP.jpg",
+					"url": "https://t.co/rDI6bvrqES",
+					"display_url": "pic.twitter.com/rDI6bvrqES",
+					"expanded_url": "https://twitter.com/mhawksey/status/1177501074178969600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 306,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1337,
+							"h": 602,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1177501066998341600,
+					"id_str": "1177501066998341632",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EFdS-1UUYAADHqP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFdS-1UUYAADHqP.jpg",
+					"url": "https://t.co/rDI6bvrqES",
+					"display_url": "pic.twitter.com/rDI6bvrqES",
+					"expanded_url": "https://twitter.com/mhawksey/status/1177501074178969600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 306,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1337,
+							"h": 602,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8292,
+			"friends_count": 2386,
+			"listed_count": 616,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5990,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 24,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Exciting news #GoogleAppsScript fans ... Apps Script Pulse – Sharing Google Apps Script community content https://t.co/zI9PWL2kq8 #GSuiteDevs @GoogleDevExpert https://t.co/rDI6bvrqES"
+	},
+	{
 		"created_at": "Thu Sep 26 12:59:33 +0000 2019",
 		"id": 1177206071892611000,
 		"id_str": "1177206071892611077",
