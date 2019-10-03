@@ -1,6 +1,136 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 02 18:10:01 +0000 2019",
+		"id": 1179448969354592300,
+		"id_str": "1179458530690117633",
+		"full_text": "syncGoogleScriptRun – use https://t.co/ebEuckPG5h with the synchronous process – tanaikech #GSuiteDevs #GoogleAppsScript https://t.co/RmdRsHNRJb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						91,
+						102
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						103,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ebEuckPG5h",
+					"expanded_url": "http://google.script.run",
+					"display_url": "google.script.run",
+					"indices": [
+						26,
+						49
+					]
+				},
+				{
+					"url": "https://t.co/RmdRsHNRJb",
+					"expanded_url": "https://pulse.appsscript.info/p/2019/10/syncgooglescriptrun-use-google-script-run-with-the-synchronous-process-tanaikech/",
+					"display_url": "pulse.appsscript.info/p/2019/10/sync…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322526439,
+			"id_str": "322526439",
+			"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+			"screen_name": "AppsScriptInfo",
+			"location": "World",
+			"description": "A Google Apps Script Community account to support #GSuiteDevs. Curated by @mhawksey",
+			"url": "https://t.co/1OwN2T5Za9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1OwN2T5Za9",
+							"expanded_url": "http://tu.appsscript.info",
+							"display_url": "tu.appsscript.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 221,
+			"friends_count": 349,
+			"listed_count": 10,
+			"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+			"favourites_count": 65,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+			"profile_link_color": "4286F4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "syncGoogleScriptRun – use https://t.co/ebEuckPG5h with the synchronous process – tanaikech #GSuiteDevs #GoogleAppsScript https://t.co/RmdRsHNRJb"
+	},
+	{
 		"created_at": "Tue Oct 01 12:03:58 +0000 2019",
 		"id": 1179004021971067000,
 		"id_str": "1179004021971066885",
