@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sun Oct 06 15:18:10 +0000 2019",
+		"id": 1180864833010520000,
+		"id_str": "1180864833010520064",
+		"full_text": "Running shoes back on today for the Linlithgow 10k. It's been a long time since I've done a 10k - pleased to squeeze in under the 39min mark https://t.co/zhg0MWFwdK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1180864813846745000,
+					"id_str": "1180864813846745088",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EGNGSq0X0AAfvn-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGNGSq0X0AAfvn-.jpg",
+					"url": "https://t.co/zhg0MWFwdK",
+					"display_url": "pic.twitter.com/zhg0MWFwdK",
+					"expanded_url": "https://twitter.com/mhawksey/status/1180864833010520064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 994,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 563,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1697,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1180864813846745000,
+					"id_str": "1180864813846745088",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EGNGSq0X0AAfvn-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGNGSq0X0AAfvn-.jpg",
+					"url": "https://t.co/zhg0MWFwdK",
+					"display_url": "pic.twitter.com/zhg0MWFwdK",
+					"expanded_url": "https://twitter.com/mhawksey/status/1180864833010520064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 994,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 563,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1697,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8299,
+			"friends_count": 2393,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6002,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28821,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Running shoes back on today for the Linlithgow 10k. It's been a long time since I've done a 10k - pleased to squeeze in under the 39min mark https://t.co/zhg0MWFwdK"
+	},
+	{
 		"created_at": "Sat Oct 05 12:36:28 +0000 2019",
 		"id": 1180460516424081400,
 		"id_str": "1180461754775691265",
