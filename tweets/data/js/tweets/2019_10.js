@@ -1,6 +1,524 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 17 10:51:06 +0000 2019",
+		"id": 1184772454469779500,
+		"id_str": "1184783893037273088",
+		"full_text": "#OER20 themes :\n* Openness in the age of surveillance\n* Sustainable communities\n* Open education for civic engagement &amp; democracy\n* Criticality and care in open education\n* Caring pedagogies and designing for diverse communities of inclusion\n\n💓 https://t.co/dzvefLWcim",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OER20",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dzvefLWcim",
+					"expanded_url": "https://twitter.com/A_L_T/status/1184142913573289984",
+					"display_url": "twitter.com/A_L_T/status/1…",
+					"indices": [
+						249,
+						272
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11143372,
+			"id_str": "11143372",
+			"name": "Phil Barker 🐝",
+			"screen_name": "philbarker",
+			"location": "Edinburgh",
+			"description": "learning technology, resource description, open education; cycling and random nonsense #Cetis #LRMI #OER  #OpenScot #CMALT\nhe/him",
+			"url": "http://t.co/ahz6i71pWb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ahz6i71pWb",
+							"expanded_url": "http://blogs.pjjk.net/phil/",
+							"display_url": "blogs.pjjk.net/phil/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1758,
+			"friends_count": 924,
+			"listed_count": 105,
+			"created_at": "Thu Dec 13 22:19:28 +0000 2007",
+			"favourites_count": 6783,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1006115801076813824/wAAcnkeP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1006115801076813824/wAAcnkeP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11143372/1400952481",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1184142913573290000,
+		"quoted_status_id_str": "1184142913573289984",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dzvefLWcim",
+			"expanded": "https://twitter.com/A_L_T/status/1184142913573289984",
+			"display": "twitter.com/A_L_T/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 15 16:24:05 +0000 2019",
+			"id": 1184142913573290000,
+			"id_str": "1184142913573289984",
+			"full_text": "[#OER20] OER20 Conference: Call for proposals now open #altc https://t.co/iM0CPelTvR https://t.co/s4lGLV5s4T",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				84
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OER20",
+						"indices": [
+							1,
+							7
+						]
+					},
+					{
+						"text": "altc",
+						"indices": [
+							55,
+							60
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/iM0CPelTvR",
+						"expanded_url": "https://go.alt.ac.uk/2Ml8m4V",
+						"display_url": "go.alt.ac.uk/2Ml8m4V",
+						"indices": [
+							61,
+							84
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1184142912054911000,
+						"id_str": "1184142912054910976",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/EG7rtGRUYAAoOc6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EG7rtGRUYAAoOc6.jpg",
+						"url": "https://t.co/s4lGLV5s4T",
+						"display_url": "pic.twitter.com/s4lGLV5s4T",
+						"expanded_url": "https://twitter.com/A_L_T/status/1184142913573289984/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2034,
+								"h": 1144,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1184142912054911000,
+						"id_str": "1184142912054910976",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/EG7rtGRUYAAoOc6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EG7rtGRUYAAoOc6.jpg",
+						"url": "https://t.co/s4lGLV5s4T",
+						"display_url": "pic.twitter.com/s4lGLV5s4T",
+						"expanded_url": "https://twitter.com/A_L_T/status/1184142913573289984/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2034,
+								"h": 1144,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41210876,
+				"id_str": "41210876",
+				"name": "ALT - alt.ac.uk",
+				"screen_name": "A_L_T",
+				"location": "UK",
+				"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+				"url": "http://t.co/d7hBNekdUq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/d7hBNekdUq",
+								"expanded_url": "http://www.alt.ac.uk/",
+								"display_url": "alt.ac.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12298,
+				"friends_count": 3691,
+				"listed_count": 575,
+				"created_at": "Tue May 19 21:06:36 +0000 2009",
+				"favourites_count": 7091,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 19816,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1570791245",
+				"profile_link_color": "079948",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#OER20 themes :\n* Openness in the age of surveillance\n* Sustainable communities\n* Open education for civic engagement &amp; democracy\n* Criticality and care in open education\n* Caring pedagogies and designing for diverse communities of inclusion\n\n💓 https://t.co/dzvefLWcim"
+	},
+	{
+		"created_at": "Thu Oct 17 10:00:55 +0000 2019",
+		"id": 1184768901046923300,
+		"id_str": "1184771264029835264",
+		"full_text": "How to use Google Spreadsheet as Admin Interface for your Firebase project #GSuiteDevs #GoogleAppsScript https://t.co/2SC72QEsJi https://t.co/K2ofKeVrNo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						75,
+						86
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						87,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2SC72QEsJi",
+					"expanded_url": "https://pulse.appsscript.info/p/2019/10/how-to-use-google-spreadsheet-as-admin-interface-for-your-firebase-project/",
+					"display_url": "pulse.appsscript.info/p/2019/10/how-…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1184768898886852600,
+					"id_str": "1184768898886852609",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EHElCU8U4AEk-AF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHElCU8U4AEk-AF.jpg",
+					"url": "https://t.co/K2ofKeVrNo",
+					"display_url": "pic.twitter.com/K2ofKeVrNo",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1184768901046923270/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 732,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 415,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 732,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1184768898886852600,
+					"id_str": "1184768898886852609",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EHElCU8U4AEk-AF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHElCU8U4AEk-AF.jpg",
+					"url": "https://t.co/K2ofKeVrNo",
+					"display_url": "pic.twitter.com/K2ofKeVrNo",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1184768901046923270/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 732,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 415,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 732,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322526439,
+			"id_str": "322526439",
+			"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+			"screen_name": "AppsScriptInfo",
+			"location": "World",
+			"description": "A Google Apps Script Community account to support #GSuiteDevs. Curated by @mhawksey",
+			"url": "https://t.co/1OwN2T5Za9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1OwN2T5Za9",
+							"expanded_url": "http://tu.appsscript.info",
+							"display_url": "tu.appsscript.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 248,
+			"friends_count": 396,
+			"listed_count": 11,
+			"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+			"profile_link_color": "4286F4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How to use Google Spreadsheet as Admin Interface for your Firebase project #GSuiteDevs #GoogleAppsScript https://t.co/2SC72QEsJi https://t.co/K2ofKeVrNo"
+	},
+	{
 		"created_at": "Wed Oct 16 16:54:22 +0000 2019",
 		"id": 1184512923215040500,
 		"id_str": "1184512923215040512",
