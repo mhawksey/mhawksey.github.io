@@ -1,6 +1,470 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 18 13:09:31 +0000 2019",
+		"id": 1185181111946756000,
+		"id_str": "1185181111946756097",
+		"full_text": "Some of the UK’s phone number infrastructure relies on Yahoo Groups, which is shutting down https://t.co/OmPULlBzLH via @Verge",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "verge",
+					"name": "The Verge",
+					"id": 275686563,
+					"id_str": "275686563",
+					"indices": [
+						120,
+						126
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OmPULlBzLH",
+					"expanded_url": "https://www.theverge.com/2019/10/17/20919630/yahoo-groups-uk-ofcom-simwood-numbers",
+					"display_url": "theverge.com/2019/10/17/209…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8319,
+			"friends_count": 2405,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6036,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some of the UK’s phone number infrastructure relies on Yahoo Groups, which is shutting down https://t.co/OmPULlBzLH via @Verge"
+	},
+	{
+		"created_at": "Fri Oct 18 12:09:47 +0000 2019",
+		"id": 1185166080609837000,
+		"id_str": "1185166080609837057",
+		"full_text": "Thanks @TheSheetsGuy for your contribution to @AppsScriptInfo :) #GoogleAppsScript #GSuiteDevs https://t.co/qNwUHk61Gq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						65,
+						82
+					]
+				},
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						83,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheSheetsGuy",
+					"name": "Brian Wochele",
+					"id": 4070249117,
+					"id_str": "4070249117",
+					"indices": [
+						7,
+						20
+					]
+				},
+				{
+					"screen_name": "AppsScriptInfo",
+					"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+					"id": 322526439,
+					"id_str": "322526439",
+					"indices": [
+						46,
+						61
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qNwUHk61Gq",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1185086119144091648",
+					"display_url": "twitter.com/AppsScriptInfo…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8319,
+			"friends_count": 2405,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6036,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1185086119144091600,
+		"quoted_status_id_str": "1185086119144091648",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qNwUHk61Gq",
+			"expanded": "https://twitter.com/AppsScriptInfo/status/1185086119144091648",
+			"display": "twitter.com/AppsScriptInfo…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 18 06:52:03 +0000 2019",
+			"id": 1185086119144091600,
+			"id_str": "1185086119144091648",
+			"full_text": "Google Apps Script: A Beginner’s Guide To Learn Apps Script #GSuiteDevs #GoogleAppsScript https://t.co/5LOp9xPGO3 https://t.co/qLd9Cm32qF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				113
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GSuiteDevs",
+						"indices": [
+							60,
+							71
+						]
+					},
+					{
+						"text": "GoogleAppsScript",
+						"indices": [
+							72,
+							89
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5LOp9xPGO3",
+						"expanded_url": "https://pulse.appsscript.info/p/2019/10/google-apps-script-a-beginners-guide-to-learn-apps-script/",
+						"display_url": "pulse.appsscript.info/p/2019/10/goog…",
+						"indices": [
+							90,
+							113
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1185086117655089200,
+						"id_str": "1185086117655089152",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/EHJFi48UEAAmy8v.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHJFi48UEAAmy8v.jpg",
+						"url": "https://t.co/qLd9Cm32qF",
+						"display_url": "pic.twitter.com/qLd9Cm32qF",
+						"expanded_url": "https://twitter.com/AppsScriptInfo/status/1185086119144091648/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 660,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 660,
+								"h": 360,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 660,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1185086117655089200,
+						"id_str": "1185086117655089152",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/EHJFi48UEAAmy8v.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHJFi48UEAAmy8v.jpg",
+						"url": "https://t.co/qLd9Cm32qF",
+						"display_url": "pic.twitter.com/qLd9Cm32qF",
+						"expanded_url": "https://twitter.com/AppsScriptInfo/status/1185086119144091648/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 660,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 660,
+								"h": 360,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 660,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 322526439,
+				"id_str": "322526439",
+				"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+				"screen_name": "AppsScriptInfo",
+				"location": "World",
+				"description": "A Google Apps Script Community account to support #GSuiteDevs. Curated by @mhawksey",
+				"url": "https://t.co/1OwN2T5Za9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1OwN2T5Za9",
+								"expanded_url": "http://tu.appsscript.info",
+								"display_url": "tu.appsscript.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 249,
+				"friends_count": 401,
+				"listed_count": 11,
+				"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+				"favourites_count": 87,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1247,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+				"profile_link_color": "4286F4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks @TheSheetsGuy for your contribution to @AppsScriptInfo :) #GoogleAppsScript #GSuiteDevs https://t.co/qNwUHk61Gq"
+	},
+	{
 		"created_at": "Thu Oct 17 10:51:06 +0000 2019",
 		"id": 1184772454469779500,
 		"id_str": "1184783893037273088",
