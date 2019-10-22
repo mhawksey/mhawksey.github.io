@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 21 18:00:14 +0000 2019",
+		"id": 1186341435999686700,
+		"id_str": "1186341435999686656",
+		"full_text": "@RalfSiegesmund @ericb321 @sdcthailand @eslweb @davidchapa Hi Ralf - @TheSheetsGuy recently shared this resource https://t.co/r8GOoQW10r ... @alicekeeler also has a load of classroom based script examples/tutorials https://t.co/O0xVFJkAPU",
+		"truncated": false,
+		"display_text_range": [
+			59,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RalfSiegesmund",
+					"name": "Ralf Siegesmund",
+					"id": 2834688343,
+					"id_str": "2834688343",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "ericb321",
+					"name": "Eric Burton",
+					"id": 102775760,
+					"id_str": "102775760",
+					"indices": [
+						16,
+						25
+					]
+				},
+				{
+					"screen_name": "sdcthailand",
+					"name": "Sethi De Clercq",
+					"id": 126228159,
+					"id_str": "126228159",
+					"indices": [
+						26,
+						38
+					]
+				},
+				{
+					"screen_name": "eslweb",
+					"name": "James Abela",
+					"id": 107159982,
+					"id_str": "107159982",
+					"indices": [
+						39,
+						46
+					]
+				},
+				{
+					"screen_name": "davidchapa",
+					"name": "David A. Chapa",
+					"id": 23565831,
+					"id_str": "23565831",
+					"indices": [
+						47,
+						58
+					]
+				},
+				{
+					"screen_name": "TheSheetsGuy",
+					"name": "Brian Wochele",
+					"id": 4070249117,
+					"id_str": "4070249117",
+					"indices": [
+						69,
+						82
+					]
+				},
+				{
+					"screen_name": "alicekeeler",
+					"name": "Alice Keeler",
+					"id": 200715240,
+					"id_str": "200715240",
+					"indices": [
+						141,
+						153
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/r8GOoQW10r",
+					"expanded_url": "https://pulse.appsscript.info/p/2019/10/google-apps-script-a-beginners-guide-to-learn-apps-script/",
+					"display_url": "pulse.appsscript.info/p/2019/10/goog…",
+					"indices": [
+						113,
+						136
+					]
+				},
+				{
+					"url": "https://t.co/O0xVFJkAPU",
+					"expanded_url": "https://alicekeeler.com/category/google/script-2/",
+					"display_url": "alicekeeler.com/category/googl…",
+					"indices": [
+						215,
+						238
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1186325429184913400,
+		"in_reply_to_status_id_str": "1186325429184913408",
+		"in_reply_to_user_id": 2834688343,
+		"in_reply_to_user_id_str": "2834688343",
+		"in_reply_to_screen_name": "RalfSiegesmund",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8325,
+			"friends_count": 2408,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6037,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@RalfSiegesmund @ericb321 @sdcthailand @eslweb @davidchapa Hi Ralf - @TheSheetsGuy recently shared this resource https://t.co/r8GOoQW10r ... @alicekeeler also has a load of classroom based script examples/tutorials https://t.co/O0xVFJkAPU"
+	},
+	{
 		"created_at": "Fri Oct 18 13:09:31 +0000 2019",
 		"id": 1185181111946756000,
 		"id_str": "1185181111946756097",
