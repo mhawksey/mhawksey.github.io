@@ -1,6 +1,714 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 22 20:07:35 +0000 2019",
+		"id": 1186735872516989000,
+		"id_str": "1186735872516988928",
+		"full_text": "Didn't think it would take long for @alicekeeler to appear in AppsScriptPulse :) #GoogleAppsScript #GSuiteDevs https://t.co/y5zXWQMegw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						81,
+						98
+					]
+				},
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						99,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alicekeeler",
+					"name": "Alice Keeler",
+					"id": 200715240,
+					"id_str": "200715240",
+					"indices": [
+						36,
+						48
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/y5zXWQMegw",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1186721894545756160",
+					"display_url": "twitter.com/AppsScriptInfo…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8325,
+			"friends_count": 2407,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6040,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1186721894545756200,
+		"quoted_status_id_str": "1186721894545756160",
+		"quoted_status_permalink": {
+			"url": "https://t.co/y5zXWQMegw",
+			"expanded": "https://twitter.com/AppsScriptInfo/status/1186721894545756160",
+			"display": "twitter.com/AppsScriptInfo…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 22 19:12:02 +0000 2019",
+			"id": 1186721894545756200,
+			"id_str": "1186721894545756160",
+			"full_text": "Create a Branching Google Form – Teacher Tech #GSuiteDevs #GoogleAppsScript https://t.co/MTELklWCfb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				99
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GSuiteDevs",
+						"indices": [
+							46,
+							57
+						]
+					},
+					{
+						"text": "GoogleAppsScript",
+						"indices": [
+							58,
+							75
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/MTELklWCfb",
+						"expanded_url": "https://pulse.appsscript.info/p/2019/10/create-a-branching-google-form-teacher-tech/",
+						"display_url": "pulse.appsscript.info/p/2019/10/crea…",
+						"indices": [
+							76,
+							99
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 322526439,
+				"id_str": "322526439",
+				"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+				"screen_name": "AppsScriptInfo",
+				"location": "World",
+				"description": "A Google Apps Script Community account to support #GSuiteDevs. Curated by @mhawksey",
+				"url": "https://t.co/1OwN2T5Za9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1OwN2T5Za9",
+								"expanded_url": "http://tu.appsscript.info",
+								"display_url": "tu.appsscript.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 257,
+				"friends_count": 405,
+				"listed_count": 11,
+				"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+				"favourites_count": 91,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1253,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+				"profile_link_color": "4286F4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Didn't think it would take long for @alicekeeler to appear in AppsScriptPulse :) #GoogleAppsScript #GSuiteDevs https://t.co/y5zXWQMegw"
+	},
+	{
+		"created_at": "Tue Oct 22 13:45:02 +0000 2019",
+		"id": 1186639602804756500,
+		"id_str": "1186639602804756480",
+		"full_text": "@RalfSiegesmund @eslweb @ericb321 @sdcthailand @davidchapa might be a minor syntax thing preventing the autocomplete appearing - usually for me it's forgetting a ';' at the end of each line of code (the script will run ok without all the ; but a known problem for breaking autocomplete)",
+		"truncated": false,
+		"display_text_range": [
+			59,
+			286
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RalfSiegesmund",
+					"name": "Ralf Siegesmund",
+					"id": 2834688343,
+					"id_str": "2834688343",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "eslweb",
+					"name": "James Abela",
+					"id": 107159982,
+					"id_str": "107159982",
+					"indices": [
+						16,
+						23
+					]
+				},
+				{
+					"screen_name": "ericb321",
+					"name": "Eric Burton",
+					"id": 102775760,
+					"id_str": "102775760",
+					"indices": [
+						24,
+						33
+					]
+				},
+				{
+					"screen_name": "sdcthailand",
+					"name": "Sethi De Clercq",
+					"id": 126228159,
+					"id_str": "126228159",
+					"indices": [
+						34,
+						46
+					]
+				},
+				{
+					"screen_name": "davidchapa",
+					"name": "David A. Chapa",
+					"id": 23565831,
+					"id_str": "23565831",
+					"indices": [
+						47,
+						58
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1186600341233471500,
+		"in_reply_to_status_id_str": "1186600341233471488",
+		"in_reply_to_user_id": 2834688343,
+		"in_reply_to_user_id_str": "2834688343",
+		"in_reply_to_screen_name": "RalfSiegesmund",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8325,
+			"friends_count": 2407,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6040,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RalfSiegesmund @eslweb @ericb321 @sdcthailand @davidchapa might be a minor syntax thing preventing the autocomplete appearing - usually for me it's forgetting a ';' at the end of each line of code (the script will run ok without all the ; but a known problem for breaking autocomplete)"
+	},
+	{
+		"created_at": "Tue Oct 22 08:18:25 +0000 2019",
+		"id": 1186557404596637700,
+		"id_str": "1186557404596637697",
+		"full_text": "@RalfSiegesmund @eslweb @ericb321 @sdcthailand @davidchapa ... mail merges were one of the first apps script use cases highlighted back in the launch in 2009 https://t.co/i1sHCT51qw :)",
+		"truncated": false,
+		"display_text_range": [
+			59,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RalfSiegesmund",
+					"name": "Ralf Siegesmund",
+					"id": 2834688343,
+					"id_str": "2834688343",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "eslweb",
+					"name": "James Abela",
+					"id": 107159982,
+					"id_str": "107159982",
+					"indices": [
+						16,
+						23
+					]
+				},
+				{
+					"screen_name": "ericb321",
+					"name": "Eric Burton",
+					"id": 102775760,
+					"id_str": "102775760",
+					"indices": [
+						24,
+						33
+					]
+				},
+				{
+					"screen_name": "sdcthailand",
+					"name": "Sethi De Clercq",
+					"id": 126228159,
+					"id_str": "126228159",
+					"indices": [
+						34,
+						46
+					]
+				},
+				{
+					"screen_name": "davidchapa",
+					"name": "David A. Chapa",
+					"id": 23565831,
+					"id_str": "23565831",
+					"indices": [
+						47,
+						58
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/i1sHCT51qw",
+					"expanded_url": "https://mashe.hawksey.info/2019/09/google-apps-script-patterns-mail-merge-bulk-emailing/",
+					"display_url": "mashe.hawksey.info/2019/09/google…",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1186544179008065500,
+		"in_reply_to_status_id_str": "1186544179008065537",
+		"in_reply_to_user_id": 2834688343,
+		"in_reply_to_user_id_str": "2834688343",
+		"in_reply_to_screen_name": "RalfSiegesmund",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8325,
+			"friends_count": 2407,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6040,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@RalfSiegesmund @eslweb @ericb321 @sdcthailand @davidchapa ... mail merges were one of the first apps script use cases highlighted back in the launch in 2009 https://t.co/i1sHCT51qw :)"
+	},
+	{
+		"created_at": "Tue Oct 22 08:16:50 +0000 2019",
+		"id": 1186557008897564700,
+		"id_str": "1186557008897564672",
+		"full_text": "@RalfSiegesmund @eslweb @ericb321 @sdcthailand @davidchapa great video! Very clear explanation of what is going on in the script",
+		"truncated": false,
+		"display_text_range": [
+			59,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RalfSiegesmund",
+					"name": "Ralf Siegesmund",
+					"id": 2834688343,
+					"id_str": "2834688343",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "eslweb",
+					"name": "James Abela",
+					"id": 107159982,
+					"id_str": "107159982",
+					"indices": [
+						16,
+						23
+					]
+				},
+				{
+					"screen_name": "ericb321",
+					"name": "Eric Burton",
+					"id": 102775760,
+					"id_str": "102775760",
+					"indices": [
+						24,
+						33
+					]
+				},
+				{
+					"screen_name": "sdcthailand",
+					"name": "Sethi De Clercq",
+					"id": 126228159,
+					"id_str": "126228159",
+					"indices": [
+						34,
+						46
+					]
+				},
+				{
+					"screen_name": "davidchapa",
+					"name": "David A. Chapa",
+					"id": 23565831,
+					"id_str": "23565831",
+					"indices": [
+						47,
+						58
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1186544179008065500,
+		"in_reply_to_status_id_str": "1186544179008065537",
+		"in_reply_to_user_id": 2834688343,
+		"in_reply_to_user_id_str": "2834688343",
+		"in_reply_to_screen_name": "RalfSiegesmund",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8325,
+			"friends_count": 2407,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6040,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RalfSiegesmund @eslweb @ericb321 @sdcthailand @davidchapa great video! Very clear explanation of what is going on in the script"
+	},
+	{
 		"created_at": "Mon Oct 21 18:00:14 +0000 2019",
 		"id": 1186341435999686700,
 		"id_str": "1186341435999686656",
