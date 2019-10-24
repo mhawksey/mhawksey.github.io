@@ -1,6 +1,693 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 23 21:23:02 +0000 2019",
+		"id": 1187117250878328800,
+		"id_str": "1187117250878328833",
+		"full_text": "@JeremiahOsGo from the same menu the last item should be something stop 'stop collecting every hour'",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JeremiahOsGo",
+					"name": "Jeremiah Osborne-Gowey",
+					"id": 43940052,
+					"id_str": "43940052",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1187095355566936000,
+		"in_reply_to_status_id_str": "1187095355566936064",
+		"in_reply_to_user_id": 43940052,
+		"in_reply_to_user_id_str": "43940052",
+		"in_reply_to_screen_name": "JeremiahOsGo",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8330,
+			"friends_count": 2409,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6031,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JeremiahOsGo from the same menu the last item should be something stop 'stop collecting every hour'"
+	},
+	{
+		"created_at": "Wed Oct 23 19:32:54 +0000 2019",
+		"id": 1187089533365555200,
+		"id_str": "1187089533365555202",
+		"full_text": "Great to have @schoraria911 on board feeding https://t.co/BamxhNDSSt #GoogleAppsScript #GSuiteDevs https://t.co/giXDOs8kpX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						69,
+						86
+					]
+				},
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						87,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "schoraria911",
+					"name": "Sourabh Choraria",
+					"id": 1145333591867453400,
+					"id_str": "1145333591867453440",
+					"indices": [
+						14,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BamxhNDSSt",
+					"expanded_url": "https://pulse.appsscript.info/",
+					"display_url": "pulse.appsscript.info",
+					"indices": [
+						45,
+						68
+					]
+				},
+				{
+					"url": "https://t.co/giXDOs8kpX",
+					"expanded_url": "https://twitter.com/schoraria911/status/1187045158786748417",
+					"display_url": "twitter.com/schoraria911/s…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8330,
+			"friends_count": 2409,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6031,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1187045158786748400,
+		"quoted_status_id_str": "1187045158786748417",
+		"quoted_status_permalink": {
+			"url": "https://t.co/giXDOs8kpX",
+			"expanded": "https://twitter.com/schoraria911/status/1187045158786748417",
+			"display": "twitter.com/schoraria911/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 23 16:36:34 +0000 2019",
+			"id": 1187045158786748400,
+			"id_str": "1187045158786748417",
+			"full_text": "There! Officially an @AppsScriptInfo Contributor ☺️\n\nThanks @mhawksey for building a platform that collates all the latest scoop from the #GoogleAppsScript community. https://t.co/CBdc3zTqST",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				166
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GoogleAppsScript",
+						"indices": [
+							138,
+							155
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AppsScriptInfo",
+						"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+						"id": 322526439,
+						"id_str": "322526439",
+						"indices": [
+							21,
+							36
+						]
+					},
+					{
+						"screen_name": "mhawksey",
+						"name": "Martin Hawksey #altc",
+						"id": 13046992,
+						"id_str": "13046992",
+						"indices": [
+							60,
+							69
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1187045148829470700,
+						"id_str": "1187045148829470720",
+						"indices": [
+							167,
+							190
+						],
+						"media_url": "http://pbs.twimg.com/media/EHk7RgxU0AA9-Zq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHk7RgxU0AA9-Zq.jpg",
+						"url": "https://t.co/CBdc3zTqST",
+						"display_url": "pic.twitter.com/CBdc3zTqST",
+						"expanded_url": "https://twitter.com/schoraria911/status/1187045158786748417/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1038,
+								"h": 594,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1038,
+								"h": 594,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 389,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1187045148829470700,
+						"id_str": "1187045148829470720",
+						"indices": [
+							167,
+							190
+						],
+						"media_url": "http://pbs.twimg.com/media/EHk7RgxU0AA9-Zq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHk7RgxU0AA9-Zq.jpg",
+						"url": "https://t.co/CBdc3zTqST",
+						"display_url": "pic.twitter.com/CBdc3zTqST",
+						"expanded_url": "https://twitter.com/schoraria911/status/1187045158786748417/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1038,
+								"h": 594,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1038,
+								"h": 594,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 389,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1145333591867453400,
+				"id_str": "1145333591867453440",
+				"name": "Sourabh Choraria",
+				"screen_name": "schoraria911",
+				"location": "Bengaluru, India",
+				"description": "#GoogleAppsScript junkie, exWikipedian, WordPress whizz (brag). Love pizzas, #automations, cycling, workarounds & documentation (not necessarily in that order)!",
+				"url": "https://t.co/5SWxwokMx8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5SWxwokMx8",
+								"expanded_url": "https://script.gs",
+								"display_url": "script.gs",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 40,
+				"friends_count": 71,
+				"listed_count": 0,
+				"created_at": "Sun Jun 30 14:09:42 +0000 2019",
+				"favourites_count": 337,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 160,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1145333882851512320/Tyu8mj24_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145333882851512320/Tyu8mj24_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1145333591867453440/1561909439",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great to have @schoraria911 on board feeding https://t.co/BamxhNDSSt #GoogleAppsScript #GSuiteDevs https://t.co/giXDOs8kpX"
+	},
+	{
+		"created_at": "Wed Oct 23 19:29:53 +0000 2019",
+		"id": 1187088772334342100,
+		"id_str": "1187088772334342144",
+		"full_text": "@JeremiahOsGo there are differences between the two - main one is Twitter web search isn't date restricted. Twitter don't really go into the details if anything else is different. In TAGS and the web search --&gt; #fireadapted OR \"fire-adapted\" OR \"fire adapted\" &lt;-- seemed better",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "fireadapted",
+					"indices": [
+						214,
+						226
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JeremiahOsGo",
+					"name": "Jeremiah Osborne-Gowey",
+					"id": 43940052,
+					"id_str": "43940052",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1187046858947887000,
+		"in_reply_to_status_id_str": "1187046858947887106",
+		"in_reply_to_user_id": 43940052,
+		"in_reply_to_user_id_str": "43940052",
+		"in_reply_to_screen_name": "JeremiahOsGo",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8330,
+			"friends_count": 2409,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6031,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JeremiahOsGo there are differences between the two - main one is Twitter web search isn't date restricted. Twitter don't really go into the details if anything else is different. In TAGS and the web search --&gt; #fireadapted OR \"fire-adapted\" OR \"fire adapted\" &lt;-- seemed better"
+	},
+	{
+		"created_at": "Wed Oct 23 16:23:01 +0000 2019",
+		"id": 1187041747697836000,
+		"id_str": "1187041747697836032",
+		"full_text": "@JeremiahOsGo looking at the Twitter web page search maybe putting quotes around \"fire-adapted\" would give you better results?  https://t.co/ERWjV35I3q",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JeremiahOsGo",
+					"name": "Jeremiah Osborne-Gowey",
+					"id": 43940052,
+					"id_str": "43940052",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ERWjV35I3q",
+					"expanded_url": "https://twitter.com/search?q=%23fireadapted%20OR%20%22fire-adapted%22%20OR%20%22fire%20adapted%22&src=typed_query&f=live",
+					"display_url": "twitter.com/search?q=%23fi…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1187035188531851300,
+		"in_reply_to_status_id_str": "1187035188531851264",
+		"in_reply_to_user_id": 43940052,
+		"in_reply_to_user_id_str": "43940052",
+		"in_reply_to_screen_name": "JeremiahOsGo",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8330,
+			"friends_count": 2409,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6031,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@JeremiahOsGo looking at the Twitter web page search maybe putting quotes around \"fire-adapted\" would give you better results?  https://t.co/ERWjV35I3q"
+	},
+	{
 		"created_at": "Tue Oct 22 20:07:35 +0000 2019",
 		"id": 1186735872516989000,
 		"id_str": "1186735872516988928",
