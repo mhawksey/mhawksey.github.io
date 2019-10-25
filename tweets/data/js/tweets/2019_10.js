@@ -1,6 +1,563 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 24 15:05:05 +0000 2019",
+		"id": 1187384524797337600,
+		"id_str": "1187384524797337609",
+		"full_text": "@jvalls10 in theory the YouTube Data API could be used for this - you might also be able to use this add-on  https://t.co/Zi4nuazaWc",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jvalls10",
+					"name": "Jaime F. Valls M.",
+					"id": 44826365,
+					"id_str": "44826365",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Zi4nuazaWc",
+					"expanded_url": "https://www.syncwithtech.org/track-youtube-videos-channels/",
+					"display_url": "syncwithtech.org/track-youtube-…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1187380316509528000,
+		"in_reply_to_status_id_str": "1187380316509528065",
+		"in_reply_to_user_id": 44826365,
+		"in_reply_to_user_id_str": "44826365",
+		"in_reply_to_screen_name": "jvalls10",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8333,
+			"friends_count": 2410,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6033,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28859,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@jvalls10 in theory the YouTube Data API could be used for this - you might also be able to use this add-on  https://t.co/Zi4nuazaWc"
+	},
+	{
+		"created_at": "Thu Oct 24 10:18:37 +0000 2019",
+		"id": 1187297566544646100,
+		"id_str": "1187312429467930624",
+		"full_text": "Send automatic FYI emails for Meeting Action Items by @dontmesswithjo (contributed by @schoraria911) #GSuiteDevs #GoogleAppsScript https://t.co/j2nfOaLxBN https://t.co/z76amiQOM5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						101,
+						112
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						113,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dontmesswithjo",
+					"name": "Joanna Smith",
+					"id": 2990847316,
+					"id_str": "2990847316",
+					"indices": [
+						54,
+						69
+					]
+				},
+				{
+					"screen_name": "schoraria911",
+					"name": "Sourabh Choraria",
+					"id": 1145333591867453400,
+					"id_str": "1145333591867453440",
+					"indices": [
+						86,
+						99
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/j2nfOaLxBN",
+					"expanded_url": "https://pulse.appsscript.info/p/2019/10/send-automatic-fyi-emails-for-meeting-action-items/",
+					"display_url": "pulse.appsscript.info/p/2019/10/send…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1187297564564918300,
+					"id_str": "1187297564564918272",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EHog2CqUEAAIi7H.png",
+					"media_url_https": "https://pbs.twimg.com/media/EHog2CqUEAAIi7H.png",
+					"url": "https://t.co/z76amiQOM5",
+					"display_url": "pic.twitter.com/z76amiQOM5",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1187297566544646144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 412,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 874,
+							"h": 530,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 874,
+							"h": 530,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1187297564564918300,
+					"id_str": "1187297564564918272",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EHog2CqUEAAIi7H.png",
+					"media_url_https": "https://pbs.twimg.com/media/EHog2CqUEAAIi7H.png",
+					"url": "https://t.co/z76amiQOM5",
+					"display_url": "pic.twitter.com/z76amiQOM5",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1187297566544646144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 412,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 874,
+							"h": 530,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 874,
+							"h": 530,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322526439,
+			"id_str": "322526439",
+			"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+			"screen_name": "AppsScriptInfo",
+			"location": "World",
+			"description": "A Google Apps Script Community account to support #GSuiteDevs. Curated by @mhawksey",
+			"url": "https://t.co/1OwN2T5Za9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1OwN2T5Za9",
+							"expanded_url": "http://tu.appsscript.info",
+							"display_url": "tu.appsscript.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 409,
+			"listed_count": 11,
+			"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+			"favourites_count": 99,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1262,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+			"profile_link_color": "4286F4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Send automatic FYI emails for Meeting Action Items by @dontmesswithjo (contributed by @schoraria911) #GSuiteDevs #GoogleAppsScript https://t.co/j2nfOaLxBN https://t.co/z76amiQOM5"
+	},
+	{
+		"created_at": "Thu Oct 24 06:14:05 +0000 2019",
+		"id": 1187161669518024700,
+		"id_str": "1187250890677391360",
+		"full_text": "Amazon Price Tracker – Monitor Price Drops on Amazon with Google Sheets by @labnol (contributed by @mhawksey) #GSuiteDevs #GoogleAppsScript https://t.co/Jtu3aEnxBf https://t.co/gMdcDn2zFL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						110,
+						121
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						122,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "labnol",
+					"name": "Amit Agarwal",
+					"id": 724473,
+					"id_str": "724473",
+					"indices": [
+						75,
+						82
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey #altc",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						99,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Jtu3aEnxBf",
+					"expanded_url": "https://pulse.appsscript.info/p/2019/10/amazon-price-tracker-monitor-price-drops-on-amazon-with-google-sheets/",
+					"display_url": "pulse.appsscript.info/p/2019/10/amaz…",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1187161667773198300,
+					"id_str": "1187161667773198336",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EHmlPzqU8AAnkae.png",
+					"media_url_https": "https://pbs.twimg.com/media/EHmlPzqU8AAnkae.png",
+					"url": "https://t.co/gMdcDn2zFL",
+					"display_url": "pic.twitter.com/gMdcDn2zFL",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1187161669518024704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 865,
+							"h": 610,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 865,
+							"h": 610,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1187161667773198300,
+					"id_str": "1187161667773198336",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EHmlPzqU8AAnkae.png",
+					"media_url_https": "https://pbs.twimg.com/media/EHmlPzqU8AAnkae.png",
+					"url": "https://t.co/gMdcDn2zFL",
+					"display_url": "pic.twitter.com/gMdcDn2zFL",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1187161669518024704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 865,
+							"h": 610,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 865,
+							"h": 610,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322526439,
+			"id_str": "322526439",
+			"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+			"screen_name": "AppsScriptInfo",
+			"location": "World",
+			"description": "A Google Apps Script Community account to support #GSuiteDevs. Curated by @mhawksey",
+			"url": "https://t.co/1OwN2T5Za9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1OwN2T5Za9",
+							"expanded_url": "http://tu.appsscript.info",
+							"display_url": "tu.appsscript.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 409,
+			"listed_count": 11,
+			"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+			"favourites_count": 99,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1262,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+			"profile_link_color": "4286F4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Amazon Price Tracker – Monitor Price Drops on Amazon with Google Sheets by @labnol (contributed by @mhawksey) #GSuiteDevs #GoogleAppsScript https://t.co/Jtu3aEnxBf https://t.co/gMdcDn2zFL"
+	},
+	{
 		"created_at": "Wed Oct 23 21:23:02 +0000 2019",
 		"id": 1187117250878328800,
 		"id_str": "1187117250878328833",
