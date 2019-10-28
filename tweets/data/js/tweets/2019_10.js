@@ -1,6 +1,724 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sun Oct 27 21:52:36 +0000 2019",
+		"id": 1188477590387880000,
+		"id_str": "1188574241353945088",
+		"full_text": "SphygmoBot – A Telegram human heartbeat bot built using Google Apps Script #GSuiteDevs #GoogleAppsScript by @schoraria911 (contributed by @mhawksey) #GSuiteDevs #GoogleAppsScript https://t.co/AUmjKVQFx3 https://t.co/EAdw2492M2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						75,
+						86
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						87,
+						104
+					]
+				},
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						149,
+						160
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						161,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "schoraria911",
+					"name": "Sourabh Choraria",
+					"id": 1145333591867453400,
+					"id_str": "1145333591867453440",
+					"indices": [
+						108,
+						121
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey #altc",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						138,
+						147
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AUmjKVQFx3",
+					"expanded_url": "https://pulse.appsscript.info/p/2019/10/sphygmobot-a-telegram-human-heartbeat-bot-built-using-google-apps-script/",
+					"display_url": "pulse.appsscript.info/p/2019/10/sphy…",
+					"indices": [
+						179,
+						202
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1188477588374806500,
+					"id_str": "1188477588374806529",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EH5SEd6X4AE77Kk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EH5SEd6X4AE77Kk.jpg",
+					"url": "https://t.co/EAdw2492M2",
+					"display_url": "pic.twitter.com/EAdw2492M2",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1188477590387879938/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1188477588374806500,
+					"id_str": "1188477588374806529",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EH5SEd6X4AE77Kk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EH5SEd6X4AE77Kk.jpg",
+					"url": "https://t.co/EAdw2492M2",
+					"display_url": "pic.twitter.com/EAdw2492M2",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1188477590387879938/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322526439,
+			"id_str": "322526439",
+			"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+			"screen_name": "AppsScriptInfo",
+			"location": "World",
+			"description": "A Google Apps Script Community account to support #GSuiteDevs. Curated by @mhawksey",
+			"url": "https://t.co/1OwN2T5Za9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1OwN2T5Za9",
+							"expanded_url": "http://tu.appsscript.info",
+							"display_url": "tu.appsscript.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 265,
+			"friends_count": 413,
+			"listed_count": 11,
+			"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+			"favourites_count": 102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+			"profile_link_color": "4286F4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SphygmoBot – A Telegram human heartbeat bot built using Google Apps Script #GSuiteDevs #GoogleAppsScript by @schoraria911 (contributed by @mhawksey) #GSuiteDevs #GoogleAppsScript https://t.co/AUmjKVQFx3 https://t.co/EAdw2492M2"
+	},
+	{
+		"created_at": "Sun Oct 27 13:00:23 +0000 2019",
+		"id": 1188440304765956000,
+		"id_str": "1188440304765956096",
+		"full_text": "@JSDBroughton @labnol @GoogleDevExpert diversity is an issue - if you have any recommendations for experts in the community feel free to ping me",
+		"truncated": false,
+		"display_text_range": [
+			39,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JSDBroughton",
+					"name": "jnthn.",
+					"id": 87413516,
+					"id_str": "87413516",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "labnol",
+					"name": "Amit Agarwal",
+					"id": 724473,
+					"id_str": "724473",
+					"indices": [
+						14,
+						21
+					]
+				},
+				{
+					"screen_name": "GoogleDevExpert",
+					"name": "Google Developers Experts",
+					"id": 3003834689,
+					"id_str": "3003834689",
+					"indices": [
+						22,
+						38
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1188432302214393900,
+		"in_reply_to_status_id_str": "1188432302214393856",
+		"in_reply_to_user_id": 87413516,
+		"in_reply_to_user_id_str": "87413516",
+		"in_reply_to_screen_name": "JSDBroughton",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8336,
+			"friends_count": 2412,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6054,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28870,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JSDBroughton @labnol @GoogleDevExpert diversity is an issue - if you have any recommendations for experts in the community feel free to ping me"
+	},
+	{
+		"created_at": "Sun Oct 27 11:44:47 +0000 2019",
+		"id": 1188421280388616200,
+		"id_str": "1188421280388616198",
+		"full_text": "Priveleged to finally meet @labnol in person :) #GoogleAppsScript #GSuiteDevs @GoogleDevExpert #GDESummit2019 https://t.co/IpVRRo6JHL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						48,
+						65
+					]
+				},
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						66,
+						77
+					]
+				},
+				{
+					"text": "GDESummit2019",
+					"indices": [
+						95,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "labnol",
+					"name": "Amit Agarwal",
+					"id": 724473,
+					"id_str": "724473",
+					"indices": [
+						27,
+						34
+					]
+				},
+				{
+					"screen_name": "GoogleDevExpert",
+					"name": "Google Developers Experts",
+					"id": 3003834689,
+					"id_str": "3003834689",
+					"indices": [
+						78,
+						94
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IpVRRo6JHL",
+					"expanded_url": "https://twitter.com/labnol/status/1188191016194461696",
+					"display_url": "twitter.com/labnol/status/…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8336,
+			"friends_count": 2412,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6054,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28870,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1188191016194461700,
+		"quoted_status_id_str": "1188191016194461696",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IpVRRo6JHL",
+			"expanded": "https://twitter.com/labnol/status/1188191016194461696",
+			"display": "twitter.com/labnol/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 26 20:29:48 +0000 2019",
+			"id": 1188191016194461700,
+			"id_str": "1188191016194461696",
+			"full_text": "With @gsuite @GoogleDevExpert #GDESummit2019 https://t.co/YRaVaouSWU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				44
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GDESummit2019",
+						"indices": [
+							30,
+							44
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "gsuite",
+						"name": "G Suite of Apparitions 👻",
+						"id": 17003765,
+						"id_str": "17003765",
+						"indices": [
+							5,
+							12
+						]
+					},
+					{
+						"screen_name": "GoogleDevExpert",
+						"name": "Google Developers Experts",
+						"id": 3003834689,
+						"id_str": "3003834689",
+						"indices": [
+							13,
+							29
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1188191010574106600,
+						"id_str": "1188191010574106624",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/EH1NbcaVAAAVepe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EH1NbcaVAAAVepe.jpg",
+						"url": "https://t.co/YRaVaouSWU",
+						"display_url": "pic.twitter.com/YRaVaouSWU",
+						"expanded_url": "https://twitter.com/labnol/status/1188191016194461696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1188191010574106600,
+						"id_str": "1188191010574106624",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/EH1NbcaVAAAVepe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EH1NbcaVAAAVepe.jpg",
+						"url": "https://t.co/YRaVaouSWU",
+						"display_url": "pic.twitter.com/YRaVaouSWU",
+						"expanded_url": "https://twitter.com/labnol/status/1188191016194461696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 724473,
+				"id_str": "724473",
+				"name": "Amit Agarwal",
+				"screen_name": "labnol",
+				"location": "Email: amit@labnol.org",
+				"description": "Computer Science Engineer (IIT), Google Developers Expert for GSuite and Apps Script and founder of Digital Inspiration, a popular tech website since 2004.",
+				"url": "https://t.co/Wq95hQI27V",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Wq95hQI27V",
+								"expanded_url": "https://www.labnol.org/",
+								"display_url": "labnol.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 95853,
+				"friends_count": 207,
+				"listed_count": 2796,
+				"created_at": "Mon Jan 29 07:56:35 +0000 2007",
+				"favourites_count": 5377,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12524,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "00ABF0",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1144978512832368640/Ej7Zz7E9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1144978512832368640/Ej7Zz7E9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/724473/1536562508",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "7B8894",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 52,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Priveleged to finally meet @labnol in person :) #GoogleAppsScript #GSuiteDevs @GoogleDevExpert #GDESummit2019 https://t.co/IpVRRo6JHL"
+	},
+	{
 		"created_at": "Fri Oct 25 21:02:09 +0000 2019",
 		"id": 1187836768013504500,
 		"id_str": "1187836768013504512",
