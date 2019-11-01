@@ -1,6 +1,1815 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 31 18:40:50 +0000 2019",
+		"id": 1189975532982677500,
+		"id_str": "1189975532982677504",
+		"full_text": "Great to have @bennettscience contributing to AppsScriptPulse https://t.co/BamxhNDSSt :)\n\n#GoogleAppsScript #GSuiteDevs https://t.co/tQDm2u9Yuz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						90,
+						107
+					]
+				},
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						108,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bennettscience",
+					"name": "Brian E. Bennett",
+					"id": 270307546,
+					"id_str": "270307546",
+					"indices": [
+						14,
+						29
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BamxhNDSSt",
+					"expanded_url": "https://pulse.appsscript.info/",
+					"display_url": "pulse.appsscript.info",
+					"indices": [
+						62,
+						85
+					]
+				},
+				{
+					"url": "https://t.co/tQDm2u9Yuz",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1189974323718574082",
+					"display_url": "twitter.com/AppsScriptInfo…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8341,
+			"friends_count": 2413,
+			"listed_count": 618,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6067,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1189974323718574000,
+		"quoted_status_id_str": "1189974323718574082",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tQDm2u9Yuz",
+			"expanded": "https://twitter.com/AppsScriptInfo/status/1189974323718574082",
+			"display": "twitter.com/AppsScriptInfo…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 31 18:36:02 +0000 2019",
+			"id": 1189974323718574000,
+			"id_str": "1189974323718574082",
+			"full_text": "Write Apps Script Offline with clasp #GSuiteDevs #GoogleAppsScript (contributed by @bennettscience) #GSuiteDevs #GoogleAppsScript https://t.co/vfLNVpUyu2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				153
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GSuiteDevs",
+						"indices": [
+							37,
+							48
+						]
+					},
+					{
+						"text": "GoogleAppsScript",
+						"indices": [
+							49,
+							66
+						]
+					},
+					{
+						"text": "GSuiteDevs",
+						"indices": [
+							100,
+							111
+						]
+					},
+					{
+						"text": "GoogleAppsScript",
+						"indices": [
+							112,
+							129
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "bennettscience",
+						"name": "Brian E. Bennett",
+						"id": 270307546,
+						"id_str": "270307546",
+						"indices": [
+							83,
+							98
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/vfLNVpUyu2",
+						"expanded_url": "https://pulse.appsscript.info/p/2019/10/write-apps-script-offline-with-clasp/",
+						"display_url": "pulse.appsscript.info/p/2019/10/writ…",
+						"indices": [
+							130,
+							153
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 322526439,
+				"id_str": "322526439",
+				"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+				"screen_name": "AppsScriptInfo",
+				"location": "World",
+				"description": "A Google Apps Script Community account to support #GSuiteDevs. Curated by @mhawksey",
+				"url": "https://t.co/1OwN2T5Za9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1OwN2T5Za9",
+								"expanded_url": "http://tu.appsscript.info",
+								"display_url": "tu.appsscript.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 269,
+				"friends_count": 436,
+				"listed_count": 11,
+				"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+				"favourites_count": 106,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1280,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+				"profile_link_color": "4286F4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great to have @bennettscience contributing to AppsScriptPulse https://t.co/BamxhNDSSt :)\n\n#GoogleAppsScript #GSuiteDevs https://t.co/tQDm2u9Yuz"
+	},
+	{
+		"created_at": "Thu Oct 31 16:30:49 +0000 2019",
+		"id": 1189938319565754400,
+		"id_str": "1189942812902600704",
+		"full_text": "Happy Halloween Folks👻 Don't forget you still have time to submit a proposal for the ALT Online Winter Conference in December (deadline is 18 Nov 2019) its free, online and you don't need a broomstick to get there ! More info here https://t.co/0piNnyqdRW\n#ALTC @A_L_T https://t.co/juHXyJZbPm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALTC",
+					"indices": [
+						255,
+						260
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						261,
+						267
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0piNnyqdRW",
+					"expanded_url": "https://altc.alt.ac.uk/online2019/",
+					"display_url": "altc.alt.ac.uk/online2019/",
+					"indices": [
+						231,
+						254
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1189938315069407200,
+					"id_str": "1189938315069407232",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/EIOCl85WwAA3maW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIOCl85WwAA3maW.jpg",
+					"url": "https://t.co/juHXyJZbPm",
+					"display_url": "pic.twitter.com/juHXyJZbPm",
+					"expanded_url": "https://twitter.com/debbaff/status/1189938319565754369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 398,
+							"h": 398,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 398,
+							"h": 398,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 398,
+							"h": 398,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189938315069407200,
+					"id_str": "1189938315069407232",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/EIOCl85WwAA3maW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIOCl85WwAA3maW.jpg",
+					"url": "https://t.co/juHXyJZbPm",
+					"display_url": "pic.twitter.com/juHXyJZbPm",
+					"expanded_url": "https://twitter.com/debbaff/status/1189938319565754369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 398,
+							"h": 398,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 398,
+							"h": 398,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 398,
+							"h": 398,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 231750350,
+			"id_str": "231750350",
+			"name": "Deb Baff",
+			"screen_name": "debbaff",
+			"location": "South Wales",
+			"description": "Membership Manager @A_L_T PhD Student @EdResLancaster proud 2be @GOGN_OER #oer #openbadges #lthechat #openedsig mum, loves 😻cats/pink 🦄stuff tweetsrmine",
+			"url": "https://t.co/F048kOco4b",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F048kOco4b",
+							"expanded_url": "https://about.me/debbaff",
+							"display_url": "about.me/debbaff",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1971,
+			"friends_count": 1961,
+			"listed_count": 91,
+			"created_at": "Wed Dec 29 10:46:51 +0000 2010",
+			"favourites_count": 12851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5993,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/862616430835097601/2ki8W-6__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/862616430835097601/2ki8W-6__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/231750350/1388520591",
+			"profile_link_color": "B40B43",
+			"profile_sidebar_border_color": "CC3366",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy Halloween Folks👻 Don't forget you still have time to submit a proposal for the ALT Online Winter Conference in December (deadline is 18 Nov 2019) its free, online and you don't need a broomstick to get there ! More info here https://t.co/0piNnyqdRW\n#ALTC @A_L_T https://t.co/juHXyJZbPm"
+	},
+	{
+		"created_at": "Thu Oct 31 10:07:10 +0000 2019",
+		"id": 1189834118743384000,
+		"id_str": "1189846263694528517",
+		"full_text": "Meet ALT's Board of Trustees, leading on Members' input to the next Strategy 2020-2025 #altc #openGovernance #Members  @sheilmcn @ElizabethECharl @mweller @smythkrs @danielclarkfca @sharonlflynn @nlafferty @PeterBryantHE @LornaMCampbell @bellaabramsIT https://t.co/l9tayChn8e https://t.co/Ikw6zOdBbV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "openGovernance",
+					"indices": [
+						93,
+						108
+					]
+				},
+				{
+					"text": "Members",
+					"indices": [
+						109,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sheilmcn",
+					"name": "Sheila MacNeill",
+					"id": 4013641,
+					"id_str": "4013641",
+					"indices": [
+						119,
+						128
+					]
+				},
+				{
+					"screen_name": "ElizabethECharl",
+					"name": "Elizabeth E Charles",
+					"id": 515481222,
+					"id_str": "515481222",
+					"indices": [
+						129,
+						145
+					]
+				},
+				{
+					"screen_name": "mweller",
+					"name": "Martin Weller",
+					"id": 7127162,
+					"id_str": "7127162",
+					"indices": [
+						146,
+						154
+					]
+				},
+				{
+					"screen_name": "smythkrs",
+					"name": "Keith Smyth",
+					"id": 15094414,
+					"id_str": "15094414",
+					"indices": [
+						155,
+						164
+					]
+				},
+				{
+					"screen_name": "danielclarkfca",
+					"name": "Daniel Clark",
+					"id": 69575271,
+					"id_str": "69575271",
+					"indices": [
+						165,
+						180
+					]
+				},
+				{
+					"screen_name": "sharonlflynn",
+					"name": "Dr Sharon Flynn",
+					"id": 21418565,
+					"id_str": "21418565",
+					"indices": [
+						181,
+						194
+					]
+				},
+				{
+					"screen_name": "nlafferty",
+					"name": "Natalie Lafferty",
+					"id": 14107935,
+					"id_str": "14107935",
+					"indices": [
+						195,
+						205
+					]
+				},
+				{
+					"screen_name": "PeterBryantHE",
+					"name": "Peter Bryant",
+					"id": 617985395,
+					"id_str": "617985395",
+					"indices": [
+						206,
+						220
+					]
+				},
+				{
+					"screen_name": "LornaMCampbell",
+					"name": "Lorna M. Campbell",
+					"id": 4016151,
+					"id_str": "4016151",
+					"indices": [
+						221,
+						236
+					]
+				},
+				{
+					"screen_name": "bellaabramsIT",
+					"name": "BellaAbrams",
+					"id": 14697876,
+					"id_str": "14697876",
+					"indices": [
+						237,
+						251
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/l9tayChn8e",
+					"expanded_url": "https://www.alt.ac.uk/about-alt/how-we-are-governed/central-executive-committee",
+					"display_url": "alt.ac.uk/about-alt/how-…",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1189834116818198500,
+					"id_str": "1189834116818198528",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EIMj00KW4AAVpkz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIMj00KW4AAVpkz.jpg",
+					"url": "https://t.co/Ikw6zOdBbV",
+					"display_url": "pic.twitter.com/Ikw6zOdBbV",
+					"expanded_url": "https://twitter.com/A_L_T/status/1189834118743384064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 860,
+									"y": 306,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 459,
+									"y": 262,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 59,
+									"y": 453,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 835,
+									"y": 463,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 634,
+									"y": 447,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 446,
+									"y": 471,
+									"h": 86,
+									"w": 86
+								},
+								{
+									"x": 619,
+									"y": 259,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 241,
+									"y": 487,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 246,
+									"y": 270,
+									"h": 107,
+									"w": 107
+								},
+								{
+									"x": 29,
+									"y": 242,
+									"h": 124,
+									"w": 124
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 860,
+									"y": 306,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 459,
+									"y": 262,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 59,
+									"y": 453,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 835,
+									"y": 463,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 634,
+									"y": 447,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 446,
+									"y": 471,
+									"h": 86,
+									"w": 86
+								},
+								{
+									"x": 619,
+									"y": 259,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 241,
+									"y": 487,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 246,
+									"y": 270,
+									"h": 107,
+									"w": 107
+								},
+								{
+									"x": 29,
+									"y": 242,
+									"h": 124,
+									"w": 124
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 609,
+									"y": 216,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 325,
+									"y": 185,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 41,
+									"y": 320,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 591,
+									"y": 327,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 449,
+									"y": 316,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 315,
+									"y": 333,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 438,
+									"y": 183,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 170,
+									"y": 344,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 174,
+									"y": 191,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 20,
+									"y": 171,
+									"h": 87,
+									"w": 87
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 860,
+									"y": 306,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 459,
+									"y": 262,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 59,
+									"y": 453,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 835,
+									"y": 463,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 634,
+									"y": 447,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 446,
+									"y": 471,
+									"h": 86,
+									"w": 86
+								},
+								{
+									"x": 619,
+									"y": 259,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 241,
+									"y": 487,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 246,
+									"y": 270,
+									"h": 107,
+									"w": 107
+								},
+								{
+									"x": 29,
+									"y": 242,
+									"h": 124,
+									"w": 124
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189834116818198500,
+					"id_str": "1189834116818198528",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EIMj00KW4AAVpkz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIMj00KW4AAVpkz.jpg",
+					"url": "https://t.co/Ikw6zOdBbV",
+					"display_url": "pic.twitter.com/Ikw6zOdBbV",
+					"expanded_url": "https://twitter.com/A_L_T/status/1189834118743384064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 860,
+									"y": 306,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 459,
+									"y": 262,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 59,
+									"y": 453,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 835,
+									"y": 463,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 634,
+									"y": 447,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 446,
+									"y": 471,
+									"h": 86,
+									"w": 86
+								},
+								{
+									"x": 619,
+									"y": 259,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 241,
+									"y": 487,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 246,
+									"y": 270,
+									"h": 107,
+									"w": 107
+								},
+								{
+									"x": 29,
+									"y": 242,
+									"h": 124,
+									"w": 124
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 860,
+									"y": 306,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 459,
+									"y": 262,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 59,
+									"y": 453,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 835,
+									"y": 463,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 634,
+									"y": 447,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 446,
+									"y": 471,
+									"h": 86,
+									"w": 86
+								},
+								{
+									"x": 619,
+									"y": 259,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 241,
+									"y": 487,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 246,
+									"y": 270,
+									"h": 107,
+									"w": 107
+								},
+								{
+									"x": 29,
+									"y": 242,
+									"h": 124,
+									"w": 124
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 609,
+									"y": 216,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 325,
+									"y": 185,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 41,
+									"y": 320,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 591,
+									"y": 327,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 449,
+									"y": 316,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 315,
+									"y": 333,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 438,
+									"y": 183,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 170,
+									"y": 344,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 174,
+									"y": 191,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 20,
+									"y": 171,
+									"h": 87,
+									"w": 87
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 860,
+									"y": 306,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 459,
+									"y": 262,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 59,
+									"y": 453,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 835,
+									"y": 463,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 634,
+									"y": 447,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 446,
+									"y": 471,
+									"h": 86,
+									"w": 86
+								},
+								{
+									"x": 619,
+									"y": 259,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 241,
+									"y": 487,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 246,
+									"y": 270,
+									"h": 107,
+									"w": 107
+								},
+								{
+									"x": 29,
+									"y": 242,
+									"h": 124,
+									"w": 124
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12338,
+			"friends_count": 3702,
+			"listed_count": 574,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 7182,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 19916,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1570791245",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Meet ALT's Board of Trustees, leading on Members' input to the next Strategy 2020-2025 #altc #openGovernance #Members  @sheilmcn @ElizabethECharl @mweller @smythkrs @danielclarkfca @sharonlflynn @nlafferty @PeterBryantHE @LornaMCampbell @bellaabramsIT https://t.co/l9tayChn8e https://t.co/Ikw6zOdBbV"
+	},
+	{
+		"created_at": "Thu Oct 31 09:14:48 +0000 2019",
+		"id": 1189826861888655400,
+		"id_str": "1189833087477256192",
+		"full_text": "How are you approaching #accessibility with regard to your VLE and Online Learning Content?  Join the @A_L_T FHEDAWG webinar today to share your questions and experiences in approaching accessibility requirements https://t.co/Nr7v5WOQua  #ALTC  #moodle #a11y https://t.co/LCzEToPsNN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "accessibility",
+					"indices": [
+						24,
+						38
+					]
+				},
+				{
+					"text": "ALTC",
+					"indices": [
+						238,
+						243
+					]
+				},
+				{
+					"text": "moodle",
+					"indices": [
+						245,
+						252
+					]
+				},
+				{
+					"text": "a11y",
+					"indices": [
+						253,
+						258
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						102,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Nr7v5WOQua",
+					"expanded_url": "https://go.alt.ac.uk/2ILHp84",
+					"display_url": "go.alt.ac.uk/2ILHp84",
+					"indices": [
+						213,
+						236
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1189826858113740800,
+					"id_str": "1189826858113740801",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/EIMdOTYWsAELd3U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIMdOTYWsAELd3U.jpg",
+					"url": "https://t.co/LCzEToPsNN",
+					"display_url": "pic.twitter.com/LCzEToPsNN",
+					"expanded_url": "https://twitter.com/ghenrick/status/1189826861888655367/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 256,
+									"y": 316,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 232,
+									"y": 213,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 226,
+									"y": 128,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 225,
+									"y": 87,
+									"h": 106,
+									"w": 106
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 256,
+									"y": 316,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 232,
+									"y": 213,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 226,
+									"y": 128,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 225,
+									"y": 87,
+									"h": 106,
+									"w": 106
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 256,
+									"y": 316,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 232,
+									"y": 213,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 226,
+									"y": 128,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 225,
+									"y": 87,
+									"h": 106,
+									"w": 106
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 256,
+									"y": 316,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 232,
+									"y": 213,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 226,
+									"y": 128,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 225,
+									"y": 87,
+									"h": 106,
+									"w": 106
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189826858113740800,
+					"id_str": "1189826858113740801",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/EIMdOTYWsAELd3U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIMdOTYWsAELd3U.jpg",
+					"url": "https://t.co/LCzEToPsNN",
+					"display_url": "pic.twitter.com/LCzEToPsNN",
+					"expanded_url": "https://twitter.com/ghenrick/status/1189826861888655367/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 256,
+									"y": 316,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 232,
+									"y": 213,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 226,
+									"y": 128,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 225,
+									"y": 87,
+									"h": 106,
+									"w": 106
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 256,
+									"y": 316,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 232,
+									"y": 213,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 226,
+									"y": 128,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 225,
+									"y": 87,
+									"h": 106,
+									"w": 106
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 256,
+									"y": 316,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 232,
+									"y": 213,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 226,
+									"y": 128,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 225,
+									"y": 87,
+									"h": 106,
+									"w": 106
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 256,
+									"y": 316,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 232,
+									"y": 213,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 226,
+									"y": 128,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 225,
+									"y": 87,
+									"h": 106,
+									"w": 106
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24712239,
+			"id_str": "24712239",
+			"name": "Gavin Henrick",
+			"screen_name": "ghenrick",
+			"location": "Ireland",
+			"description": "Co-Founder of Brickfield Education Labs - a new Edtech company focused on improving quality & effectiveness of learning  #analytics #bigdata #moodle #a11y",
+			"url": "https://t.co/E7eSRpo82J",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/E7eSRpo82J",
+							"expanded_url": "https://www.lts.ie",
+							"display_url": "lts.ie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3652,
+			"friends_count": 3478,
+			"listed_count": 301,
+			"created_at": "Mon Mar 16 15:48:01 +0000 2009",
+			"favourites_count": 112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1189829097234616320/cwtz0pFa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189829097234616320/cwtz0pFa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24712239/1561884896",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How are you approaching #accessibility with regard to your VLE and Online Learning Content?  Join the @A_L_T FHEDAWG webinar today to share your questions and experiences in approaching accessibility requirements https://t.co/Nr7v5WOQua  #ALTC  #moodle #a11y https://t.co/LCzEToPsNN"
+	},
+	{
 		"created_at": "Wed Oct 30 20:17:34 +0000 2019",
 		"id": 1189637489826418700,
 		"id_str": "1189637489826418688",
