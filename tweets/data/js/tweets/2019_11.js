@@ -1,6 +1,4848 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 16 19:12:05 +0000 2019",
+		"id": 1195781604142129200,
+		"id_str": "1195781604142129155",
+		"full_text": "@dsottimano ... you found the slides then :) Just writing about some of the tricks under the hood",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dsottimano",
+					"name": "David Sottimano",
+					"id": 147616003,
+					"id_str": "147616003",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 147616003,
+		"in_reply_to_user_id_str": "147616003",
+		"in_reply_to_screen_name": "dsottimano",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8369,
+			"friends_count": 2433,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@dsottimano ... you found the slides then :) Just writing about some of the tricks under the hood"
+	},
+	{
+		"created_at": "Sat Nov 16 18:00:49 +0000 2019",
+		"id": 1195763670183227400,
+		"id_str": "1195763670183227393",
+		"full_text": "Think Voice First: Rapidly building zero cost conversational interfaces in #GSuite with Dialogflow https://t.co/7U7UbdwjJO (#EasterEgg File &gt; Make a copy and then Tools &gt; Script editor to see the code behind this prez inc. presenter tweeting) #DevFest @GDGLondon https://t.co/vZGzo3XtQl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSuite",
+					"indices": [
+						75,
+						82
+					]
+				},
+				{
+					"text": "EasterEgg",
+					"indices": [
+						124,
+						134
+					]
+				},
+				{
+					"text": "DevFest",
+					"indices": [
+						249,
+						257
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gdglondon",
+					"name": "GDG London",
+					"id": 53442117,
+					"id_str": "53442117",
+					"indices": [
+						258,
+						268
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7U7UbdwjJO",
+					"expanded_url": "https://go.alt.ac.uk/voice1st-devfest",
+					"display_url": "go.alt.ac.uk/voice1st-devfe…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1195763668195184600,
+					"id_str": "1195763668195184642",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EJg0uIYXkAIj2uI.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJg0uIYXkAIj2uI.png",
+					"url": "https://t.co/vZGzo3XtQl",
+					"display_url": "pic.twitter.com/vZGzo3XtQl",
+					"expanded_url": "https://twitter.com/mhawksey/status/1195763670183227393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 393,
+									"y": 264,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 393,
+									"y": 264,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 334,
+									"y": 224,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 393,
+									"y": 264,
+									"h": 48,
+									"w": 48
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1195763668195184600,
+					"id_str": "1195763668195184642",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EJg0uIYXkAIj2uI.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJg0uIYXkAIj2uI.png",
+					"url": "https://t.co/vZGzo3XtQl",
+					"display_url": "pic.twitter.com/vZGzo3XtQl",
+					"expanded_url": "https://twitter.com/mhawksey/status/1195763670183227393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 393,
+									"y": 264,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 393,
+									"y": 264,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 334,
+									"y": 224,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 393,
+									"y": 264,
+									"h": 48,
+									"w": 48
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mashe.hawksey.info/category/twtrservice/\" rel=\"nofollow\">MHawksey</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8369,
+			"friends_count": 2433,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Think Voice First: Rapidly building zero cost conversational interfaces in #GSuite with Dialogflow https://t.co/7U7UbdwjJO (#EasterEgg File &gt; Make a copy and then Tools &gt; Script editor to see the code behind this prez inc. presenter tweeting) #DevFest @GDGLondon https://t.co/vZGzo3XtQl"
+	},
+	{
+		"created_at": "Sat Nov 16 16:03:30 +0000 2019",
+		"id": 1195734145827250200,
+		"id_str": "1195734145827250176",
+		"full_text": "@ukdatageek .. this was the post on the Calendar Hangouts Chat bot I mentioned https://t.co/KtgNb43MKe :)",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ukdatageek",
+					"name": "Grant Kemp",
+					"id": 84301543,
+					"id_str": "84301543",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KtgNb43MKe",
+					"expanded_url": "https://mashe.hawksey.info/2018/10/introduction-to-building-conversational-interfaces-with-dialogflow-in-google-apps-script-powered-google-hangouts-chat-bots/",
+					"display_url": "mashe.hawksey.info/2018/10/introd…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1195715804727324700,
+		"in_reply_to_status_id_str": "1195715804727324672",
+		"in_reply_to_user_id": 84301543,
+		"in_reply_to_user_id_str": "84301543",
+		"in_reply_to_screen_name": "ukdatageek",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8369,
+			"friends_count": 2433,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ukdatageek .. this was the post on the Calendar Hangouts Chat bot I mentioned https://t.co/KtgNb43MKe :)"
+	},
+	{
+		"created_at": "Sat Nov 16 15:19:07 +0000 2019",
+		"id": 1195722975623954400,
+		"id_str": "1195722975623954432",
+		"full_text": "@presactlyalicia continuing her UK #DevFest tour at @GDGLondon helping grow the #GSuiteDevs/#GoogleAppsScript community https://t.co/w8i1qNnzZH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DevFest",
+					"indices": [
+						35,
+						43
+					]
+				},
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						80,
+						91
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						92,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "presactlyalicia",
+					"name": "Alicia Williams",
+					"id": 3247555832,
+					"id_str": "3247555832",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "gdglondon",
+					"name": "GDG London",
+					"id": 53442117,
+					"id_str": "53442117",
+					"indices": [
+						52,
+						62
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1195722959958298600,
+					"id_str": "1195722959958298624",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EJgPsmYX0AA2C8J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJgPsmYX0AA2C8J.jpg",
+					"url": "https://t.co/w8i1qNnzZH",
+					"display_url": "pic.twitter.com/w8i1qNnzZH",
+					"expanded_url": "https://twitter.com/mhawksey/status/1195722975623954432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1195722959958298600,
+					"id_str": "1195722959958298624",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EJgPsmYX0AA2C8J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJgPsmYX0AA2C8J.jpg",
+					"url": "https://t.co/w8i1qNnzZH",
+					"display_url": "pic.twitter.com/w8i1qNnzZH",
+					"expanded_url": "https://twitter.com/mhawksey/status/1195722975623954432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 3247555832,
+		"in_reply_to_user_id_str": "3247555832",
+		"in_reply_to_screen_name": "presactlyalicia",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8369,
+			"friends_count": 2433,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@presactlyalicia continuing her UK #DevFest tour at @GDGLondon helping grow the #GSuiteDevs/#GoogleAppsScript community https://t.co/w8i1qNnzZH"
+	},
+	{
+		"created_at": "Sat Nov 16 15:15:33 +0000 2019",
+		"id": 1195722077900329000,
+		"id_str": "1195722077900328960",
+		"full_text": "@ukdatageek Thanks Grant - nice to speak to you after :)",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ukdatageek",
+					"name": "Grant Kemp",
+					"id": 84301543,
+					"id_str": "84301543",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1195715804727324700,
+		"in_reply_to_status_id_str": "1195715804727324672",
+		"in_reply_to_user_id": 84301543,
+		"in_reply_to_user_id_str": "84301543",
+		"in_reply_to_screen_name": "ukdatageek",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8369,
+			"friends_count": 2433,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ukdatageek Thanks Grant - nice to speak to you after :)"
+	},
+	{
+		"created_at": "Sat Nov 16 15:14:18 +0000 2019",
+		"id": 1195721761893077000,
+		"id_str": "1195721761893076992",
+		"full_text": "If you are interested in finding out about the amazing solutions the #GoogleAppsScript / #GSuiteDevs community are making follow @AppsScriptInfo or subscribe to https://t.co/Sc9nkrqgt6 #DevFest @GDGLondon https://t.co/3NMNkEy5tF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						69,
+						86
+					]
+				},
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						89,
+						100
+					]
+				},
+				{
+					"text": "DevFest",
+					"indices": [
+						185,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppsScriptInfo",
+					"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+					"id": 322526439,
+					"id_str": "322526439",
+					"indices": [
+						129,
+						144
+					]
+				},
+				{
+					"screen_name": "gdglondon",
+					"name": "GDG London",
+					"id": 53442117,
+					"id_str": "53442117",
+					"indices": [
+						194,
+						204
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Sc9nkrqgt6",
+					"expanded_url": "https://pulse.appsscript.info",
+					"display_url": "pulse.appsscript.info",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1195721759682711600,
+					"id_str": "1195721759682711553",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/EJgOmvAX0AEZBfL.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJgOmvAX0AEZBfL.png",
+					"url": "https://t.co/3NMNkEy5tF",
+					"display_url": "pic.twitter.com/3NMNkEy5tF",
+					"expanded_url": "https://twitter.com/mhawksey/status/1195721761893076992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1195721759682711600,
+					"id_str": "1195721759682711553",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/EJgOmvAX0AEZBfL.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJgOmvAX0AEZBfL.png",
+					"url": "https://t.co/3NMNkEy5tF",
+					"display_url": "pic.twitter.com/3NMNkEy5tF",
+					"expanded_url": "https://twitter.com/mhawksey/status/1195721761893076992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mashe.hawksey.info/category/twtrservice/\" rel=\"nofollow\">MHawksey</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8369,
+			"friends_count": 2433,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you are interested in finding out about the amazing solutions the #GoogleAppsScript / #GSuiteDevs community are making follow @AppsScriptInfo or subscribe to https://t.co/Sc9nkrqgt6 #DevFest @GDGLondon https://t.co/3NMNkEy5tF"
+	},
+	{
+		"created_at": "Sat Nov 16 15:13:58 +0000 2019",
+		"id": 1195721680833929200,
+		"id_str": "1195721680833929217",
+		"full_text": "Even if you don’t want to develop conversational interfaces in G Suite Dialogflow’s API opens up other oppoutunities #DevFest @GDGLondon https://t.co/D5Zlh6fLsJ https://t.co/RBsCPq4zz4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DevFest",
+					"indices": [
+						117,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gdglondon",
+					"name": "GDG London",
+					"id": 53442117,
+					"id_str": "53442117",
+					"indices": [
+						126,
+						136
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/D5Zlh6fLsJ",
+					"expanded_url": "https://cloud.google.com/dialogflow/docs/reference/rest/v2-overview",
+					"display_url": "cloud.google.com/dialogflow/doc…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1195721678929760300,
+					"id_str": "1195721678929760261",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EJgOiCLXkAUXR6I.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJgOiCLXkAUXR6I.png",
+					"url": "https://t.co/RBsCPq4zz4",
+					"display_url": "pic.twitter.com/RBsCPq4zz4",
+					"expanded_url": "https://twitter.com/mhawksey/status/1195721680833929217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1195721678929760300,
+					"id_str": "1195721678929760261",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EJgOiCLXkAUXR6I.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJgOiCLXkAUXR6I.png",
+					"url": "https://t.co/RBsCPq4zz4",
+					"display_url": "pic.twitter.com/RBsCPq4zz4",
+					"expanded_url": "https://twitter.com/mhawksey/status/1195721680833929217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mashe.hawksey.info/category/twtrservice/\" rel=\"nofollow\">MHawksey</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8369,
+			"friends_count": 2433,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Even if you don’t want to develop conversational interfaces in G Suite Dialogflow’s API opens up other oppoutunities #DevFest @GDGLondon https://t.co/D5Zlh6fLsJ https://t.co/RBsCPq4zz4"
+	},
+	{
+		"created_at": "Sat Nov 16 15:13:37 +0000 2019",
+		"id": 1195721591818268700,
+		"id_str": "1195721591818268673",
+		"full_text": "Everything might look like it should have a conversational interface, but not everything should. Google have published some design best practices for conversational interface design #DevFest @GDGLondon https://t.co/XSW0CgzcDW https://t.co/0CsrOtcG8e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DevFest",
+					"indices": [
+						182,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gdglondon",
+					"name": "GDG London",
+					"id": 53442117,
+					"id_str": "53442117",
+					"indices": [
+						191,
+						201
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XSW0CgzcDW",
+					"expanded_url": "https://developers.googleblog.com/2018/09/sample-dialogs-key-to-creating-great.html",
+					"display_url": "developers.googleblog.com/2018/09/sample…",
+					"indices": [
+						202,
+						225
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1195721589842686000,
+					"id_str": "1195721589842685952",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/EJgOc2TWsAA_K4Q.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJgOc2TWsAA_K4Q.png",
+					"url": "https://t.co/0CsrOtcG8e",
+					"display_url": "pic.twitter.com/0CsrOtcG8e",
+					"expanded_url": "https://twitter.com/mhawksey/status/1195721591818268673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1195721589842686000,
+					"id_str": "1195721589842685952",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/EJgOc2TWsAA_K4Q.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJgOc2TWsAA_K4Q.png",
+					"url": "https://t.co/0CsrOtcG8e",
+					"display_url": "pic.twitter.com/0CsrOtcG8e",
+					"expanded_url": "https://twitter.com/mhawksey/status/1195721591818268673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mashe.hawksey.info/category/twtrservice/\" rel=\"nofollow\">MHawksey</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8369,
+			"friends_count": 2433,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Everything might look like it should have a conversational interface, but not everything should. Google have published some design best practices for conversational interface design #DevFest @GDGLondon https://t.co/XSW0CgzcDW https://t.co/0CsrOtcG8e"
+	},
+	{
+		"created_at": "Sat Nov 16 15:13:14 +0000 2019",
+		"id": 1195721495642857500,
+		"id_str": "1195721495642857475",
+		"full_text": "A boilerplate for adding conversational interfaces to #GSuite editors https://t.co/QOctvzT68V #GoogleAppsScript #GSuiteDevs #DevFest @GDGLondon https://t.co/sj4mEvYtkd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSuite",
+					"indices": [
+						54,
+						61
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						94,
+						111
+					]
+				},
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						112,
+						123
+					]
+				},
+				{
+					"text": "DevFest",
+					"indices": [
+						124,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gdglondon",
+					"name": "GDG London",
+					"id": 53442117,
+					"id_str": "53442117",
+					"indices": [
+						133,
+						143
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QOctvzT68V",
+					"expanded_url": "https://mashe.hawksey.info/?p=18273",
+					"display_url": "mashe.hawksey.info/?p=18273",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1195721493780598800,
+					"id_str": "1195721493780598785",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/EJgOXQcXkAEgI7A.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJgOXQcXkAEgI7A.png",
+					"url": "https://t.co/sj4mEvYtkd",
+					"display_url": "pic.twitter.com/sj4mEvYtkd",
+					"expanded_url": "https://twitter.com/mhawksey/status/1195721495642857475/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1195721493780598800,
+					"id_str": "1195721493780598785",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/EJgOXQcXkAEgI7A.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJgOXQcXkAEgI7A.png",
+					"url": "https://t.co/sj4mEvYtkd",
+					"display_url": "pic.twitter.com/sj4mEvYtkd",
+					"expanded_url": "https://twitter.com/mhawksey/status/1195721495642857475/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mashe.hawksey.info/category/twtrservice/\" rel=\"nofollow\">MHawksey</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8369,
+			"friends_count": 2433,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A boilerplate for adding conversational interfaces to #GSuite editors https://t.co/QOctvzT68V #GoogleAppsScript #GSuiteDevs #DevFest @GDGLondon https://t.co/sj4mEvYtkd"
+	},
+	{
+		"created_at": "Sat Nov 16 15:12:05 +0000 2019",
+		"id": 1195721205074079700,
+		"id_str": "1195721205074079744",
+		"full_text": "#GoogleAppsScript - it’s serverless, it’s integrated, it’s JavaScript and it’s FREE (even to consumer https://t.co/URsfhSljdN accounts) #DevFest @GDGLondon  https://t.co/GsrEYGowl4 https://t.co/8wjV7SlArC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						0,
+						17
+					]
+				},
+				{
+					"text": "DevFest",
+					"indices": [
+						136,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gdglondon",
+					"name": "GDG London",
+					"id": 53442117,
+					"id_str": "53442117",
+					"indices": [
+						145,
+						155
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/URsfhSljdN",
+					"expanded_url": "http://gmail.com",
+					"display_url": "gmail.com",
+					"indices": [
+						102,
+						125
+					]
+				},
+				{
+					"url": "https://t.co/GsrEYGowl4",
+					"expanded_url": "https://twitter.com/mhawksey/status/1195663521750667264",
+					"display_url": "twitter.com/mhawksey/statu…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1195721202536505300,
+					"id_str": "1195721202536505345",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/EJgOGTeXYAEo7Bp.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJgOGTeXYAEo7Bp.png",
+					"url": "https://t.co/8wjV7SlArC",
+					"display_url": "pic.twitter.com/8wjV7SlArC",
+					"expanded_url": "https://twitter.com/mhawksey/status/1195721205074079744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1195721202536505300,
+					"id_str": "1195721202536505345",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/EJgOGTeXYAEo7Bp.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJgOGTeXYAEo7Bp.png",
+					"url": "https://t.co/8wjV7SlArC",
+					"display_url": "pic.twitter.com/8wjV7SlArC",
+					"expanded_url": "https://twitter.com/mhawksey/status/1195721205074079744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mashe.hawksey.info/category/twtrservice/\" rel=\"nofollow\">MHawksey</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8369,
+			"friends_count": 2433,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1195663521750667300,
+		"quoted_status_id_str": "1195663521750667264",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GsrEYGowl4",
+			"expanded": "https://twitter.com/mhawksey/status/1195663521750667264",
+			"display": "twitter.com/mhawksey/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 16 11:22:52 +0000 2019",
+			"id": 1195663521750667300,
+			"id_str": "1195663521750667264",
+			"full_text": "#GoogleAppsScript hiding in plane sight for over 10 years... https://t.co/4XowsghDn2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				60
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GoogleAppsScript",
+						"indices": [
+							0,
+							17
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1195663510199517200,
+						"id_str": "1195663510199517184",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EJfZoKxWwAAuIM3.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EJfZoKxWwAAuIM3.jpg",
+						"url": "https://t.co/4XowsghDn2",
+						"display_url": "pic.twitter.com/4XowsghDn2",
+						"expanded_url": "https://twitter.com/mhawksey/status/1195663521750667264/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1195663510199517200,
+						"id_str": "1195663510199517184",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EJfZoKxWwAAuIM3.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EJfZoKxWwAAuIM3.jpg",
+						"url": "https://t.co/4XowsghDn2",
+						"display_url": "pic.twitter.com/4XowsghDn2",
+						"expanded_url": "https://twitter.com/mhawksey/status/1195663521750667264/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								300,
+								169
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EJfZoKxWwAAuIM3.mp4"
+								}
+							]
+						},
+						"features": {}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13046992,
+				"id_str": "13046992",
+				"name": "Martin Hawksey #altc",
+				"screen_name": "mhawksey",
+				"location": "Edinburgh, Scotland",
+				"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+				"url": "https://t.co/OwPc0EbVqg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OwPc0EbVqg",
+								"expanded_url": "https://mashe.hawksey.info",
+								"display_url": "mashe.hawksey.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8369,
+				"friends_count": 2433,
+				"listed_count": 617,
+				"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+				"favourites_count": 6111,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 28962,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F5F5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+				"profile_link_color": "4099FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D4D4D4",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#GoogleAppsScript - it’s serverless, it’s integrated, it’s JavaScript and it’s FREE (even to consumer https://t.co/URsfhSljdN accounts) #DevFest @GDGLondon  https://t.co/GsrEYGowl4 https://t.co/8wjV7SlArC"
+	},
+	{
+		"created_at": "Sat Nov 16 15:11:47 +0000 2019",
+		"id": 1195721128418988000,
+		"id_str": "1195721128418988033",
+		"full_text": "Dialogflow has many ‘one click’ integrations but unfortunately currently integrating with G Suite Editors (Doc, Sheets, Forms, Slides) isn’t one of them ... but there is an API! #DevFest @GDGLondon https://t.co/6wOGFkNh3W https://t.co/v2Cqy61zaW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DevFest",
+					"indices": [
+						178,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gdglondon",
+					"name": "GDG London",
+					"id": 53442117,
+					"id_str": "53442117",
+					"indices": [
+						187,
+						197
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6wOGFkNh3W",
+					"expanded_url": "https://cloud.google.com/dialogflow/docs/integrations/",
+					"display_url": "cloud.google.com/dialogflow/doc…",
+					"indices": [
+						198,
+						221
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1195721126271434800,
+					"id_str": "1195721126271434752",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EJgOB3XWwAAml3d.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJgOB3XWwAAml3d.png",
+					"url": "https://t.co/v2Cqy61zaW",
+					"display_url": "pic.twitter.com/v2Cqy61zaW",
+					"expanded_url": "https://twitter.com/mhawksey/status/1195721128418988033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 152,
+									"y": 92,
+									"h": 152,
+									"w": 152
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 152,
+									"y": 92,
+									"h": 152,
+									"w": 152
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 152,
+									"y": 92,
+									"h": 152,
+									"w": 152
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 129,
+									"y": 78,
+									"h": 129,
+									"w": 129
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1195721126271434800,
+					"id_str": "1195721126271434752",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EJgOB3XWwAAml3d.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJgOB3XWwAAml3d.png",
+					"url": "https://t.co/v2Cqy61zaW",
+					"display_url": "pic.twitter.com/v2Cqy61zaW",
+					"expanded_url": "https://twitter.com/mhawksey/status/1195721128418988033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 152,
+									"y": 92,
+									"h": 152,
+									"w": 152
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 152,
+									"y": 92,
+									"h": 152,
+									"w": 152
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 152,
+									"y": 92,
+									"h": 152,
+									"w": 152
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 129,
+									"y": 78,
+									"h": 129,
+									"w": 129
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mashe.hawksey.info/category/twtrservice/\" rel=\"nofollow\">MHawksey</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8369,
+			"friends_count": 2433,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dialogflow has many ‘one click’ integrations but unfortunately currently integrating with G Suite Editors (Doc, Sheets, Forms, Slides) isn’t one of them ... but there is an API! #DevFest @GDGLondon https://t.co/6wOGFkNh3W https://t.co/v2Cqy61zaW"
+	},
+	{
+		"created_at": "Sat Nov 16 15:11:09 +0000 2019",
+		"id": 1195720972009197600,
+		"id_str": "1195720972009197568",
+		"full_text": "Conversational interfaces are not about replicating existing functionality, they provide us new ways to interact with the world around us for example let's start letting people have conversations with their data. If you want to play https://t.co/QOctvzT68V #DevFest @GDGLondon https://t.co/VUwBp2ipH4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DevFest",
+					"indices": [
+						257,
+						265
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gdglondon",
+					"name": "GDG London",
+					"id": 53442117,
+					"id_str": "53442117",
+					"indices": [
+						266,
+						276
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QOctvzT68V",
+					"expanded_url": "https://mashe.hawksey.info/?p=18273",
+					"display_url": "mashe.hawksey.info/?p=18273",
+					"indices": [
+						233,
+						256
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1195720961103929300,
+					"id_str": "1195720961103929345",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EJgN4QEWoAE2Z6c.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EJgN4QEWoAE2Z6c.jpg",
+					"url": "https://t.co/VUwBp2ipH4",
+					"display_url": "pic.twitter.com/VUwBp2ipH4",
+					"expanded_url": "https://twitter.com/mhawksey/status/1195720972009197568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 276,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 276,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 276,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1195720961103929300,
+					"id_str": "1195720961103929345",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EJgN4QEWoAE2Z6c.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EJgN4QEWoAE2Z6c.jpg",
+					"url": "https://t.co/VUwBp2ipH4",
+					"display_url": "pic.twitter.com/VUwBp2ipH4",
+					"expanded_url": "https://twitter.com/mhawksey/status/1195720972009197568/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 276,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 276,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 276,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							50,
+							23
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EJgN4QEWoAE2Z6c.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8369,
+			"friends_count": 2433,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Conversational interfaces are not about replicating existing functionality, they provide us new ways to interact with the world around us for example let's start letting people have conversations with their data. If you want to play https://t.co/QOctvzT68V #DevFest @GDGLondon https://t.co/VUwBp2ipH4"
+	},
+	{
+		"created_at": "Sat Nov 16 15:09:17 +0000 2019",
+		"id": 1195720500162502700,
+		"id_str": "1195720500162502656",
+		"full_text": "The mother of all demos demonstrates some of the amazing work in the 1960s around human/computer interaction, but in some ways we have the hangover of pointer (bug) based interaction #DevFest @GDGLondon https://t.co/U4gYkCIrgZ https://t.co/DNuFqrIwuS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DevFest",
+					"indices": [
+						183,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gdglondon",
+					"name": "GDG London",
+					"id": 53442117,
+					"id_str": "53442117",
+					"indices": [
+						192,
+						202
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/U4gYkCIrgZ",
+					"expanded_url": "https://www.youtube.com/watch?v=VScVgXM7lQQ&list=PLCGFadV4FqU2yAqCzKaxnKKXgnJBUrKTE",
+					"display_url": "youtube.com/watch?v=VScVgX…",
+					"indices": [
+						203,
+						226
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1195720498002432000,
+					"id_str": "1195720498002432006",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/EJgNdS4WkAYMQOa.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJgNdS4WkAYMQOa.png",
+					"url": "https://t.co/DNuFqrIwuS",
+					"display_url": "pic.twitter.com/DNuFqrIwuS",
+					"expanded_url": "https://twitter.com/mhawksey/status/1195720500162502656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 576,
+									"y": 314,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 348,
+									"y": 137,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 459,
+									"y": 177,
+									"h": 74,
+									"w": 74
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 576,
+									"y": 314,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 348,
+									"y": 137,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 459,
+									"y": 177,
+									"h": 74,
+									"w": 74
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 576,
+									"y": 314,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 348,
+									"y": 137,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 459,
+									"y": 177,
+									"h": 74,
+									"w": 74
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 489,
+									"y": 266,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 295,
+									"y": 116,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 390,
+									"y": 150,
+									"h": 62,
+									"w": 62
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1195720498002432000,
+					"id_str": "1195720498002432006",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/EJgNdS4WkAYMQOa.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJgNdS4WkAYMQOa.png",
+					"url": "https://t.co/DNuFqrIwuS",
+					"display_url": "pic.twitter.com/DNuFqrIwuS",
+					"expanded_url": "https://twitter.com/mhawksey/status/1195720500162502656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 576,
+									"y": 314,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 348,
+									"y": 137,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 459,
+									"y": 177,
+									"h": 74,
+									"w": 74
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 576,
+									"y": 314,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 348,
+									"y": 137,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 459,
+									"y": 177,
+									"h": 74,
+									"w": 74
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 576,
+									"y": 314,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 348,
+									"y": 137,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 459,
+									"y": 177,
+									"h": 74,
+									"w": 74
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 489,
+									"y": 266,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 295,
+									"y": 116,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 390,
+									"y": 150,
+									"h": 62,
+									"w": 62
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mashe.hawksey.info/category/twtrservice/\" rel=\"nofollow\">MHawksey</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8369,
+			"friends_count": 2433,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The mother of all demos demonstrates some of the amazing work in the 1960s around human/computer interaction, but in some ways we have the hangover of pointer (bug) based interaction #DevFest @GDGLondon https://t.co/U4gYkCIrgZ https://t.co/DNuFqrIwuS"
+	},
+	{
+		"created_at": "Sat Nov 16 15:09:06 +0000 2019",
+		"id": 1195720453979017200,
+		"id_str": "1195720453979017217",
+		"full_text": "… smart speakers where the Trojan horse - it’s about the shift to digital assistants and conversational interfaces ‘breaking free’ from smart speakers” #DevFest @GDGLondon https://t.co/4Nb0vqrBcT https://t.co/0fuMcnER2x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DevFest",
+					"indices": [
+						152,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gdglondon",
+					"name": "GDG London",
+					"id": 53442117,
+					"id_str": "53442117",
+					"indices": [
+						161,
+						171
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4Nb0vqrBcT",
+					"expanded_url": "https://docs.google.com/presentation/d/1AWInMRxqkCvniZX44UZBTMoXpx9KiXgyLdScD1G7oG0/edit#slide=id.g70b366528b_0_118",
+					"display_url": "docs.google.com/presentation/d…",
+					"indices": [
+						172,
+						195
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1195720451969998800,
+					"id_str": "1195720451969998848",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EJgNanZXYAAicPZ.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJgNanZXYAAicPZ.png",
+					"url": "https://t.co/0fuMcnER2x",
+					"display_url": "pic.twitter.com/0fuMcnER2x",
+					"expanded_url": "https://twitter.com/mhawksey/status/1195720453979017217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 417,
+									"y": 96,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 417,
+									"y": 96,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 354,
+									"y": 81,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 417,
+									"y": 96,
+									"h": 48,
+									"w": 48
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1195720451969998800,
+					"id_str": "1195720451969998848",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EJgNanZXYAAicPZ.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJgNanZXYAAicPZ.png",
+					"url": "https://t.co/0fuMcnER2x",
+					"display_url": "pic.twitter.com/0fuMcnER2x",
+					"expanded_url": "https://twitter.com/mhawksey/status/1195720453979017217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 417,
+									"y": 96,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 417,
+									"y": 96,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 354,
+									"y": 81,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 417,
+									"y": 96,
+									"h": 48,
+									"w": 48
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mashe.hawksey.info/category/twtrservice/\" rel=\"nofollow\">MHawksey</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8369,
+			"friends_count": 2433,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "… smart speakers where the Trojan horse - it’s about the shift to digital assistants and conversational interfaces ‘breaking free’ from smart speakers” #DevFest @GDGLondon https://t.co/4Nb0vqrBcT https://t.co/0fuMcnER2x"
+	},
+	{
+		"created_at": "Sat Nov 16 15:08:38 +0000 2019",
+		"id": 1195720338920923100,
+		"id_str": "1195720338920923136",
+		"full_text": "“Voice is the future of a frictionless world” #DevFest @GDGLondon - Gary Vaynerchuk https://t.co/brJfGbIoY5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DevFest",
+					"indices": [
+						46,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gdglondon",
+					"name": "GDG London",
+					"id": 53442117,
+					"id_str": "53442117",
+					"indices": [
+						55,
+						65
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1195720336848887800,
+					"id_str": "1195720336848887809",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/EJgNT6iWoAEy-G8.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJgNT6iWoAEy-G8.png",
+					"url": "https://t.co/brJfGbIoY5",
+					"display_url": "pic.twitter.com/brJfGbIoY5",
+					"expanded_url": "https://twitter.com/mhawksey/status/1195720338920923136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1195720336848887800,
+					"id_str": "1195720336848887809",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/EJgNT6iWoAEy-G8.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJgNT6iWoAEy-G8.png",
+					"url": "https://t.co/brJfGbIoY5",
+					"display_url": "pic.twitter.com/brJfGbIoY5",
+					"expanded_url": "https://twitter.com/mhawksey/status/1195720338920923136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mashe.hawksey.info/category/twtrservice/\" rel=\"nofollow\">MHawksey</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8369,
+			"friends_count": 2433,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Voice is the future of a frictionless world” #DevFest @GDGLondon - Gary Vaynerchuk https://t.co/brJfGbIoY5"
+	},
+	{
+		"created_at": "Sat Nov 16 14:05:35 +0000 2019",
+		"id": 1195704468752470000,
+		"id_str": "1195704468752470017",
+		"full_text": "Think Voice First: Rapidly building zero cost conversational interfaces in #GSuite with Dialogflow https://t.co/7U7UbdwjJO (#EasterEgg File &gt; Make a copy and then Tools &gt; Script editor to see the code behind this prez inc. presenter tweeting) #DevFest @GDGLondon https://t.co/noSTrhFvQs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSuite",
+					"indices": [
+						75,
+						82
+					]
+				},
+				{
+					"text": "EasterEgg",
+					"indices": [
+						124,
+						134
+					]
+				},
+				{
+					"text": "DevFest",
+					"indices": [
+						249,
+						257
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gdglondon",
+					"name": "GDG London",
+					"id": 53442117,
+					"id_str": "53442117",
+					"indices": [
+						258,
+						268
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7U7UbdwjJO",
+					"expanded_url": "https://go.alt.ac.uk/voice1st-devfest",
+					"display_url": "go.alt.ac.uk/voice1st-devfe…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1195704466865107000,
+					"id_str": "1195704466865106951",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EJf-4KPXsAch7eH.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJf-4KPXsAch7eH.png",
+					"url": "https://t.co/noSTrhFvQs",
+					"display_url": "pic.twitter.com/noSTrhFvQs",
+					"expanded_url": "https://twitter.com/mhawksey/status/1195704468752470017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 393,
+									"y": 264,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 393,
+									"y": 264,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 334,
+									"y": 224,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 393,
+									"y": 264,
+									"h": 48,
+									"w": 48
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1195704466865107000,
+					"id_str": "1195704466865106951",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EJf-4KPXsAch7eH.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJf-4KPXsAch7eH.png",
+					"url": "https://t.co/noSTrhFvQs",
+					"display_url": "pic.twitter.com/noSTrhFvQs",
+					"expanded_url": "https://twitter.com/mhawksey/status/1195704468752470017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 393,
+									"y": 264,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 393,
+									"y": 264,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 334,
+									"y": 224,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 393,
+									"y": 264,
+									"h": 48,
+									"w": 48
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mashe.hawksey.info/category/twtrservice/\" rel=\"nofollow\">MHawksey</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8369,
+			"friends_count": 2433,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Think Voice First: Rapidly building zero cost conversational interfaces in #GSuite with Dialogflow https://t.co/7U7UbdwjJO (#EasterEgg File &gt; Make a copy and then Tools &gt; Script editor to see the code behind this prez inc. presenter tweeting) #DevFest @GDGLondon https://t.co/noSTrhFvQs"
+	},
+	{
+		"created_at": "Sat Nov 16 11:22:52 +0000 2019",
+		"id": 1195663521750667300,
+		"id_str": "1195663521750667264",
+		"full_text": "#GoogleAppsScript hiding in plane sight for over 10 years... https://t.co/4XowsghDn2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						0,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1195663510199517200,
+					"id_str": "1195663510199517184",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EJfZoKxWwAAuIM3.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EJfZoKxWwAAuIM3.jpg",
+					"url": "https://t.co/4XowsghDn2",
+					"display_url": "pic.twitter.com/4XowsghDn2",
+					"expanded_url": "https://twitter.com/mhawksey/status/1195663521750667264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1195663510199517200,
+					"id_str": "1195663510199517184",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EJfZoKxWwAAuIM3.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EJfZoKxWwAAuIM3.jpg",
+					"url": "https://t.co/4XowsghDn2",
+					"display_url": "pic.twitter.com/4XowsghDn2",
+					"expanded_url": "https://twitter.com/mhawksey/status/1195663521750667264/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							300,
+							169
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EJfZoKxWwAAuIM3.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8369,
+			"friends_count": 2433,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#GoogleAppsScript hiding in plane sight for over 10 years... https://t.co/4XowsghDn2"
+	},
+	{
+		"created_at": "Sat Nov 16 11:04:05 +0000 2019",
+		"id": 1195658795046834200,
+		"id_str": "1195658795046834176",
+		"full_text": "@JSDBroughton @aygul @gdglondon ... one day I'm sure I'll make the jump to clasp ;)",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JSDBroughton",
+					"name": "ⒿⓄⓃⒶⓉⒽⓄⓃ",
+					"id": 87413516,
+					"id_str": "87413516",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "aygul",
+					"name": "Aygul Zagidullina",
+					"id": 15182718,
+					"id_str": "15182718",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"screen_name": "gdglondon",
+					"name": "GDG London",
+					"id": 53442117,
+					"id_str": "53442117",
+					"indices": [
+						21,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1195654509453815800,
+		"in_reply_to_status_id_str": "1195654509453815808",
+		"in_reply_to_user_id": 87413516,
+		"in_reply_to_user_id_str": "87413516",
+		"in_reply_to_screen_name": "JSDBroughton",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8369,
+			"friends_count": 2433,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JSDBroughton @aygul @gdglondon ... one day I'm sure I'll make the jump to clasp ;)"
+	},
+	{
+		"created_at": "Sat Nov 16 10:21:54 +0000 2019",
+		"id": 1195648178554654700,
+		"id_str": "1195648178554654721",
+		"full_text": "Packed room as @aygul kicks off with the first talk in the hot tech stand \"Tech for good: Making a difference with Google Assistant\" #DevFest @GDGLondon https://t.co/8EllFBtB3X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DevFest",
+					"indices": [
+						133,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aygul",
+					"name": "Aygul Zagidullina",
+					"id": 15182718,
+					"id_str": "15182718",
+					"indices": [
+						15,
+						21
+					]
+				},
+				{
+					"screen_name": "gdglondon",
+					"name": "GDG London",
+					"id": 53442117,
+					"id_str": "53442117",
+					"indices": [
+						142,
+						152
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1195648168236638200,
+					"id_str": "1195648168236638208",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EJfLrJgXYAAkACd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJfLrJgXYAAkACd.jpg",
+					"url": "https://t.co/8EllFBtB3X",
+					"display_url": "pic.twitter.com/8EllFBtB3X",
+					"expanded_url": "https://twitter.com/mhawksey/status/1195648178554654721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1195648168236638200,
+					"id_str": "1195648168236638208",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EJfLrJgXYAAkACd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJfLrJgXYAAkACd.jpg",
+					"url": "https://t.co/8EllFBtB3X",
+					"display_url": "pic.twitter.com/8EllFBtB3X",
+					"expanded_url": "https://twitter.com/mhawksey/status/1195648178554654721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8369,
+			"friends_count": 2433,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Packed room as @aygul kicks off with the first talk in the hot tech stand \"Tech for good: Making a difference with Google Assistant\" #DevFest @GDGLondon https://t.co/8EllFBtB3X"
+	},
+	{
+		"created_at": "Sat Nov 16 09:33:57 +0000 2019",
+		"id": 1195636112200536000,
+		"id_str": "1195636112200536064",
+		"full_text": "If you are interested in finding out about the amazing solutions the #GoogleAppsScript / #GSuiteDevs community are making follow @AppsScriptInfo or subscribe to https://t.co/Sc9nkrqgt6 #DevFest @GDGLondon https://t.co/xTSPZQ3Tem",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						69,
+						86
+					]
+				},
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						89,
+						100
+					]
+				},
+				{
+					"text": "DevFest",
+					"indices": [
+						185,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppsScriptInfo",
+					"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+					"id": 322526439,
+					"id_str": "322526439",
+					"indices": [
+						129,
+						144
+					]
+				},
+				{
+					"screen_name": "gdglondon",
+					"name": "GDG London",
+					"id": 53442117,
+					"id_str": "53442117",
+					"indices": [
+						194,
+						204
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Sc9nkrqgt6",
+					"expanded_url": "https://pulse.appsscript.info",
+					"display_url": "pulse.appsscript.info",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1195636110334017500,
+					"id_str": "1195636110334017536",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/EJfAtSUWwAArZv7.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJfAtSUWwAArZv7.png",
+					"url": "https://t.co/xTSPZQ3Tem",
+					"display_url": "pic.twitter.com/xTSPZQ3Tem",
+					"expanded_url": "https://twitter.com/mhawksey/status/1195636112200536064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1195636110334017500,
+					"id_str": "1195636110334017536",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/EJfAtSUWwAArZv7.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJfAtSUWwAArZv7.png",
+					"url": "https://t.co/xTSPZQ3Tem",
+					"display_url": "pic.twitter.com/xTSPZQ3Tem",
+					"expanded_url": "https://twitter.com/mhawksey/status/1195636112200536064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mashe.hawksey.info/category/twtrservice/\" rel=\"nofollow\">MHawksey</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8369,
+			"friends_count": 2433,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you are interested in finding out about the amazing solutions the #GoogleAppsScript / #GSuiteDevs community are making follow @AppsScriptInfo or subscribe to https://t.co/Sc9nkrqgt6 #DevFest @GDGLondon https://t.co/xTSPZQ3Tem"
+	},
+	{
 		"created_at": "Fri Nov 15 15:16:53 +0000 2019",
 		"id": 1195360025570664400,
 		"id_str": "1195360025570664449",
