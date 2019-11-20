@@ -1,6 +1,474 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Tue Nov 19 20:32:22 +0000 2019",
+		"id": 1196875239990399000,
+		"id_str": "1196888970736615425",
+		"full_text": "This is great news! I am sure we will be celebrating at #OER20. Btw, the call for proposals to the conference will be closing soon. Check it out here 👉 https://t.co/zDBSxtVXcW cc: @OERConf @A_L_T @disrupt_learn @MiaZamoraPhD @time_motion @MarenDeepwell @mhawksey https://t.co/JBhO4ZsFGc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OER20",
+					"indices": [
+						56,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OERConf",
+					"name": "OER Open Education Conference #OER20",
+					"id": 2695133612,
+					"id_str": "2695133612",
+					"indices": [
+						180,
+						188
+					]
+				},
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						189,
+						195
+					]
+				},
+				{
+					"screen_name": "disrupt_learn",
+					"name": "Disruptive Media Learning Lab",
+					"id": 2521466321,
+					"id_str": "2521466321",
+					"indices": [
+						196,
+						210
+					]
+				},
+				{
+					"screen_name": "MiaZamoraPhD",
+					"name": "Mia Zamora",
+					"id": 579873574,
+					"id_str": "579873574",
+					"indices": [
+						211,
+						224
+					]
+				},
+				{
+					"screen_name": "time_motion",
+					"name": "Jonathan Shaw",
+					"id": 66360983,
+					"id_str": "66360983",
+					"indices": [
+						225,
+						237
+					]
+				},
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell #altc",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						238,
+						252
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey #altc",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						253,
+						262
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zDBSxtVXcW",
+					"expanded_url": "https://oer20.oerconf.org/call-for-proposals/",
+					"display_url": "oer20.oerconf.org/call-for-propo…",
+					"indices": [
+						152,
+						175
+					]
+				},
+				{
+					"url": "https://t.co/JBhO4ZsFGc",
+					"expanded_url": "https://twitter.com/cgreen/status/1196832560585703425",
+					"display_url": "twitter.com/cgreen/status/…",
+					"indices": [
+						263,
+						286
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41424326,
+			"id_str": "41424326",
+			"name": "Daniel Villar",
+			"screen_name": "villaronrubia",
+			"location": "Coventry, England",
+			"description": "Principal Innovation Lead at Coventry University's @disrupt_learn // @oiioxford DPhil alumnus. Views my own.",
+			"url": "http://t.co/JV6Tos7PAX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/JV6Tos7PAX",
+							"expanded_url": "http://uk.linkedin.com/in/danielvillaronrubia/",
+							"display_url": "uk.linkedin.com/in/danielvilla…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1068,
+			"friends_count": 904,
+			"listed_count": 66,
+			"created_at": "Wed May 20 19:05:29 +0000 2009",
+			"favourites_count": 2585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/939186553968123904/hfJvuNB1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/939186553968123904/hfJvuNB1_normal.jpg",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1196832560585703400,
+		"quoted_status_id_str": "1196832560585703425",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JBhO4ZsFGc",
+			"expanded": "https://twitter.com/cgreen/status/1196832560585703425",
+			"display": "twitter.com/cgreen/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 19 16:48:13 +0000 2019",
+			"id": 1196832560585703400,
+			"id_str": "1196832560585703425",
+			"full_text": "The @UNESCO #OER Recommendation has been adopted, with unanimous support, at the 40th UNESCO General Conference! Well done! Now begins the hard work of helping national governments support #openeducation in their countries. @creativecommons and others will be there to assist.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OER",
+						"indices": [
+							12,
+							16
+						]
+					},
+					{
+						"text": "openeducation",
+						"indices": [
+							189,
+							203
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UNESCO",
+						"name": "UNESCO",
+						"id": 20646711,
+						"id_str": "20646711",
+						"indices": [
+							4,
+							11
+						]
+					},
+					{
+						"screen_name": "creativecommons",
+						"name": "Creative Commons",
+						"id": 17462723,
+						"id_str": "17462723",
+						"indices": [
+							224,
+							240
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 821877,
+				"id_str": "821877",
+				"name": "Dr. Cable Green",
+				"screen_name": "cgreen",
+				"location": "Olympia, WA",
+				"description": "Interim CEO /\nDirector of Open Education @creativecommons \nDefault = Open",
+				"url": "https://t.co/dHzqGQ0Ba8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dHzqGQ0Ba8",
+								"expanded_url": "https://creativecommons.org/author/cablecreativecommons-org/",
+								"display_url": "creativecommons.org/author/cablecr…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7650,
+				"friends_count": 1196,
+				"listed_count": 398,
+				"created_at": "Thu Mar 08 14:43:22 +0000 2007",
+				"favourites_count": 10680,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8299,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBDBDB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/677633997900521473/ziPnVm8L_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/677633997900521473/ziPnVm8L_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/821877/1510172075",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 81,
+			"favorite_count": 126,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is great news! I am sure we will be celebrating at #OER20. Btw, the call for proposals to the conference will be closing soon. Check it out here 👉 https://t.co/zDBSxtVXcW cc: @OERConf @A_L_T @disrupt_learn @MiaZamoraPhD @time_motion @MarenDeepwell @mhawksey https://t.co/JBhO4ZsFGc"
+	},
+	{
+		"created_at": "Tue Nov 19 17:16:43 +0000 2019",
+		"id": 1196839732346597400,
+		"id_str": "1196839732346597377",
+		"full_text": "By me (with contributions from @MarenDeepwell) The ALT #VirtualTeams Stack https://t.co/OaGcRlWibd #altc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VirtualTeams",
+					"indices": [
+						55,
+						68
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						99,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell #altc",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						31,
+						45
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OaGcRlWibd",
+					"expanded_url": "https://mashe.hawksey.info/2019/11/the-alt-virtual-teams-stack/",
+					"display_url": "mashe.hawksey.info/2019/11/the-al…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8373,
+			"friends_count": 2437,
+			"listed_count": 616,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28966,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "By me (with contributions from @MarenDeepwell) The ALT #VirtualTeams Stack https://t.co/OaGcRlWibd #altc"
+	},
+	{
 		"created_at": "Sun Nov 17 09:09:30 +0000 2019",
 		"id": 1195992346976047000,
 		"id_str": "1195992346976047109",
