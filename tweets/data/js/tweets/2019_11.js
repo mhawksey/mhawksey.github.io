@@ -1,6 +1,944 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 22 21:28:18 +0000 2019",
+		"id": 1197990210644131800,
+		"id_str": "1197990210644131844",
+		"full_text": "@afirstenberg I was meaning to ask you about this - are there any recordings of you in action?",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "afirstenberg",
+					"name": "Allen \"Prisoner\" Firstenberg",
+					"id": 304116738,
+					"id_str": "304116738",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1197980583156224000,
+		"in_reply_to_status_id_str": "1197980583156224000",
+		"in_reply_to_user_id": 304116738,
+		"in_reply_to_user_id_str": "304116738",
+		"in_reply_to_screen_name": "afirstenberg",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8386,
+			"friends_count": 2441,
+			"listed_count": 616,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28989,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@afirstenberg I was meaning to ask you about this - are there any recordings of you in action?"
+	},
+	{
+		"created_at": "Fri Nov 22 19:58:19 +0000 2019",
+		"id": 1197967566498664400,
+		"id_str": "1197967566498664450",
+		"full_text": "@techstreams .. the tweeting slides interests me the most. Was thinking publish as a web app would mean I could use a dialer interface on my phone",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "techstreams",
+					"name": "Laura Taylor",
+					"id": 14328802,
+					"id_str": "14328802",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1197959876976111600,
+		"in_reply_to_status_id_str": "1197959876976111616",
+		"in_reply_to_user_id": 14328802,
+		"in_reply_to_user_id_str": "14328802",
+		"in_reply_to_screen_name": "techstreams",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8386,
+			"friends_count": 2441,
+			"listed_count": 616,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28989,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@techstreams .. the tweeting slides interests me the most. Was thinking publish as a web app would mean I could use a dialer interface on my phone"
+	},
+	{
+		"created_at": "Fri Nov 22 19:54:39 +0000 2019",
+		"id": 1197966642275328000,
+		"id_str": "1197966642275328001",
+		"full_text": "@mmcorm @MarenDeepwell Thanks for sharing :)",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mmcorm",
+					"name": "Melissa-MarieCormier",
+					"id": 20160671,
+					"id_str": "20160671",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell #altc",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						8,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1197930303102296000,
+		"in_reply_to_status_id_str": "1197930303102296065",
+		"in_reply_to_user_id": 20160671,
+		"in_reply_to_user_id_str": "20160671",
+		"in_reply_to_screen_name": "mmcorm",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8386,
+			"friends_count": 2441,
+			"listed_count": 616,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28989,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mmcorm @MarenDeepwell Thanks for sharing :)"
+	},
+	{
+		"created_at": "Fri Nov 22 19:53:10 +0000 2019",
+		"id": 1197966271821893600,
+		"id_str": "1197966271821893632",
+		"full_text": "@spragueducate Hi Kate - whilst the code requests other permissions these aren't used by the published script. Unfortunately there is no way to limit the permissions requested. Asking to read drafts and email messages is bundled with all the other permissions prompts you are seeing",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			282
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "spragueducate",
+					"name": "Kate Sprague",
+					"id": 1182056543035908000,
+					"id_str": "1182056543035908096",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1197946364904132600,
+		"in_reply_to_status_id_str": "1197946364904132608",
+		"in_reply_to_user_id": 1182056543035908000,
+		"in_reply_to_user_id_str": "1182056543035908096",
+		"in_reply_to_screen_name": "spragueducate",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8386,
+			"friends_count": 2441,
+			"listed_count": 616,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28989,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@spragueducate Hi Kate - whilst the code requests other permissions these aren't used by the published script. Unfortunately there is no way to limit the permissions requested. Asking to read drafts and email messages is bundled with all the other permissions prompts you are seeing"
+	},
+	{
+		"created_at": "Fri Nov 22 19:18:51 +0000 2019",
+		"id": 1197957635657621500,
+		"id_str": "1197957635657621505",
+		"full_text": "By me: Hacking Google Slides as a voice enabled presentation tool using Google Apps Script https://t.co/ttEpgWVNW0 #GoogleAppsScript #GSuiteDevs #GoogleIE https://t.co/vmDbceXO8b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						115,
+						132
+					]
+				},
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						133,
+						144
+					]
+				},
+				{
+					"text": "GoogleIE",
+					"indices": [
+						145,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ttEpgWVNW0",
+					"expanded_url": "https://mashe.hawksey.info/2019/11/hacking-google-slides-as-a-voice-enabled-presentation-tool-using-google-apps-script/",
+					"display_url": "mashe.hawksey.info/2019/11/hackin…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1197957629500362800,
+					"id_str": "1197957629500362752",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EKAAHfJWkAA8h8w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKAAHfJWkAA8h8w.jpg",
+					"url": "https://t.co/vmDbceXO8b",
+					"display_url": "pic.twitter.com/vmDbceXO8b",
+					"expanded_url": "https://twitter.com/mhawksey/status/1197957635657621505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 328,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1836,
+							"h": 886,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 579,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 315,
+									"y": 183,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 228,
+									"y": 191,
+									"h": 28,
+									"w": 28
+								},
+								{
+									"x": 95,
+									"y": 54,
+									"h": 231,
+									"w": 231
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 853,
+									"y": 496,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 618,
+									"y": 516,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 258,
+									"y": 148,
+									"h": 625,
+									"w": 625
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 557,
+									"y": 324,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 403,
+									"y": 337,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 168,
+									"y": 96,
+									"h": 408,
+									"w": 408
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 853,
+									"y": 496,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 618,
+									"y": 516,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 258,
+									"y": 148,
+									"h": 625,
+									"w": 625
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1197957629500362800,
+					"id_str": "1197957629500362752",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EKAAHfJWkAA8h8w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKAAHfJWkAA8h8w.jpg",
+					"url": "https://t.co/vmDbceXO8b",
+					"display_url": "pic.twitter.com/vmDbceXO8b",
+					"expanded_url": "https://twitter.com/mhawksey/status/1197957635657621505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 328,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1836,
+							"h": 886,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 579,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 315,
+									"y": 183,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 228,
+									"y": 191,
+									"h": 28,
+									"w": 28
+								},
+								{
+									"x": 95,
+									"y": 54,
+									"h": 231,
+									"w": 231
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 853,
+									"y": 496,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 618,
+									"y": 516,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 258,
+									"y": 148,
+									"h": 625,
+									"w": 625
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 557,
+									"y": 324,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 403,
+									"y": 337,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 168,
+									"y": 96,
+									"h": 408,
+									"w": 408
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 853,
+									"y": 496,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 618,
+									"y": 516,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 258,
+									"y": 148,
+									"h": 625,
+									"w": 625
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8386,
+			"friends_count": 2441,
+			"listed_count": 616,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28989,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "By me: Hacking Google Slides as a voice enabled presentation tool using Google Apps Script https://t.co/ttEpgWVNW0 #GoogleAppsScript #GSuiteDevs #GoogleIE https://t.co/vmDbceXO8b"
+	},
+	{
+		"created_at": "Fri Nov 22 15:32:25 +0000 2019",
+		"id": 1197900648777429000,
+		"id_str": "1197900648777428992",
+		"full_text": "@MKlontzas If the sheet isn't shared with 'anyone with a link' that can cause a problem",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MKlontzas",
+					"name": "Michael Klontzas",
+					"id": 906641029,
+					"id_str": "906641029",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1197889792584761300,
+		"in_reply_to_status_id_str": "1197889792584761344",
+		"in_reply_to_user_id": 906641029,
+		"in_reply_to_user_id_str": "906641029",
+		"in_reply_to_screen_name": "MKlontzas",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8386,
+			"friends_count": 2441,
+			"listed_count": 616,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28989,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MKlontzas If the sheet isn't shared with 'anyone with a link' that can cause a problem"
+	},
+	{
 		"created_at": "Thu Nov 21 21:42:08 +0000 2019",
 		"id": 1197631304956883000,
 		"id_str": "1197631304956882945",
