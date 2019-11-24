@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 23 13:02:51 +0000 2019",
+		"id": 1198139467908997000,
+		"id_str": "1198225396896010240",
+		"full_text": "#OpenScot https://t.co/0d6AcCorPj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OpenScot",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0d6AcCorPj",
+					"expanded_url": "https://twitter.com/Bali_Maha/status/1198137616509607936",
+					"display_url": "twitter.com/Bali_Maha/stat…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11143372,
+			"id_str": "11143372",
+			"name": "Phil Barker 🐝",
+			"screen_name": "philbarker",
+			"location": "Edinburgh, Scotland, Europe",
+			"description": "learning technology, resource description, open education; cycling and random nonsense #Cetis #LRMI #OER  #OpenScot #CMALT\nhe/him",
+			"url": "http://t.co/ahz6i71pWb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ahz6i71pWb",
+							"expanded_url": "http://blogs.pjjk.net/phil/",
+							"display_url": "blogs.pjjk.net/phil/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1776,
+			"friends_count": 941,
+			"listed_count": 105,
+			"created_at": "Thu Dec 13 22:19:28 +0000 2007",
+			"favourites_count": 7055,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13305,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1006115801076813824/wAAcnkeP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1006115801076813824/wAAcnkeP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11143372/1400952481",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1198137616509608000,
+		"quoted_status_id_str": "1198137616509607936",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0d6AcCorPj",
+			"expanded": "https://twitter.com/Bali_Maha/status/1198137616509607936",
+			"display": "twitter.com/Bali_Maha/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 23 07:14:02 +0000 2019",
+			"id": 1198137616509608000,
+			"id_str": "1198137616509607936",
+			"full_text": "Book chapter just published\n\nThe Different Faces of Open in Egypt by co-authored w/ @NadinneAbo my colleague @CLTAUC \n\nOA link below:\nhttps://t.co/41LYzmUtMH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				157
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NadinneAbo",
+						"name": "Nadinne Aboulmagd",
+						"id": 233710654,
+						"id_str": "233710654",
+						"indices": [
+							84,
+							95
+						]
+					},
+					{
+						"screen_name": "CLTAUC",
+						"name": "CLT AUC",
+						"id": 1896706812,
+						"id_str": "1896706812",
+						"indices": [
+							109,
+							116
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/41LYzmUtMH",
+						"expanded_url": "https://www.dropbox.com/s/zquty163lgam7ui/Different%20Faces%20of%20Open%20in%20Egypt.pdf?dl=0",
+						"display_url": "dropbox.com/s/zquty163lgam…",
+						"indices": [
+							134,
+							157
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1535273520,
+				"id_str": "1535273520",
+				"name": "ℳąhą Bąℓi, PhD مها بالي 🏵",
+				"screen_name": "Bali_Maha",
+				"location": "AUC, Cairo, #Egypt",
+				"description": "Writaholic/Learnaholic. Associate Prof of Practice #facdev @cltauc. Co-founder @VConnecting & @UnboundEq part of @HybridPed #digped\nWas #PhDmum @SheffieldUni",
+				"url": "https://t.co/pjHqig6ctM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pjHqig6ctM",
+								"expanded_url": "http://blog.mahabali.me",
+								"display_url": "blog.mahabali.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7786,
+				"friends_count": 6334,
+				"listed_count": 476,
+				"created_at": "Thu Jun 20 23:42:32 +0000 2013",
+				"favourites_count": 84434,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 61132,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1139214312147492867/APfYW47O_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139214312147492867/APfYW47O_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1535273520/1380017817",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#OpenScot https://t.co/0d6AcCorPj"
+	},
+	{
 		"created_at": "Fri Nov 22 21:28:18 +0000 2019",
 		"id": 1197990210644131800,
 		"id_str": "1197990210644131844",
