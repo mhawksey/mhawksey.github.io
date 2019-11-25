@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 24 08:37:18 +0000 2019",
+		"id": 1198188953154621400,
+		"id_str": "1198520957889130497",
+		"full_text": "Aaaaaaand its finally done! 🎉\n\nMy first #DataStudio Community Connector that will help visualise @SendGrid's Global Stats using #GoogleAppsScript -\nhttps://t.co/YUhMe7PGFF\n\nI hope my pull request is accepted too - https://t.co/2BTVgWm1Vd  😅 🤞🏽 https://t.co/HciKmS7JrB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DataStudio",
+					"indices": [
+						40,
+						51
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						128,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SendGrid",
+					"name": "SendGrid",
+					"id": 42126617,
+					"id_str": "42126617",
+					"indices": [
+						97,
+						106
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YUhMe7PGFF",
+					"expanded_url": "https://script.gs/create-a-google-data-studio-community-connector-with-key-auth-type/",
+					"display_url": "script.gs/create-a-googl…",
+					"indices": [
+						148,
+						171
+					]
+				},
+				{
+					"url": "https://t.co/2BTVgWm1Vd",
+					"expanded_url": "https://github.com/googledatastudio/community-connectors/pull/274",
+					"display_url": "github.com/googledatastud…",
+					"indices": [
+						214,
+						237
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1198188937040187400,
+					"id_str": "1198188937040187397",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/EKDSfW4VUAUH1kF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKDSfW4VUAUH1kF.jpg",
+					"url": "https://t.co/HciKmS7JrB",
+					"display_url": "pic.twitter.com/HciKmS7JrB",
+					"expanded_url": "https://twitter.com/schoraria911/status/1198188953154621440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1362,
+							"h": 764,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 673,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1198188937040187400,
+					"id_str": "1198188937040187397",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/EKDSfW4VUAUH1kF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKDSfW4VUAUH1kF.jpg",
+					"url": "https://t.co/HciKmS7JrB",
+					"display_url": "pic.twitter.com/HciKmS7JrB",
+					"expanded_url": "https://twitter.com/schoraria911/status/1198188953154621440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1362,
+							"h": 764,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 673,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1145333591867453400,
+			"id_str": "1145333591867453440",
+			"name": "Sourabh Choraria",
+			"screen_name": "schoraria911",
+			"location": "Bengaluru, India",
+			"description": "#GoogleAppsScript junkie, exWikipedian, WordPress whizz (brag). Love pizzas, #automations, cycling, workarounds & documentation (not necessarily in that order)!",
+			"url": "https://t.co/5SWxwokMx8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5SWxwokMx8",
+							"expanded_url": "https://script.gs",
+							"display_url": "script.gs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55,
+			"friends_count": 51,
+			"listed_count": 0,
+			"created_at": "Sun Jun 30 14:09:42 +0000 2019",
+			"favourites_count": 543,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145333882851512320/Tyu8mj24_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145333882851512320/Tyu8mj24_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1145333591867453440/1561909439",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Aaaaaaand its finally done! 🎉\n\nMy first #DataStudio Community Connector that will help visualise @SendGrid's Global Stats using #GoogleAppsScript -\nhttps://t.co/YUhMe7PGFF\n\nI hope my pull request is accepted too - https://t.co/2BTVgWm1Vd  😅 🤞🏽 https://t.co/HciKmS7JrB"
+	},
+	{
 		"created_at": "Sat Nov 23 13:02:51 +0000 2019",
 		"id": 1198139467908997000,
 		"id_str": "1198225396896010240",
