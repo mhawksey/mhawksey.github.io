@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 30 04:09:47 +0000 2019",
+		"id": 1200627961164161000,
+		"id_str": "1200627961164161025",
+		"full_text": "@CosmoCat .. you can 'see' Dan in action as part of our Online Winter Conference in a couple of weeks... ;) https://t.co/8pKgUyruIg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CosmoCat",
+					"name": "Chahira Nouira",
+					"id": 20323362,
+					"id_str": "20323362",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8pKgUyruIg",
+					"expanded_url": "https://twitter.com/danielharding/status/1200339983325896704",
+					"display_url": "twitter.com/danielharding/…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 20323362,
+		"in_reply_to_user_id_str": "20323362",
+		"in_reply_to_screen_name": "CosmoCat",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8405,
+			"friends_count": 2455,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6176,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29035,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1200339983325896700,
+		"quoted_status_id_str": "1200339983325896704",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8pKgUyruIg",
+			"expanded": "https://twitter.com/danielharding/status/1200339983325896704",
+			"display": "twitter.com/danielharding/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 29 09:05:27 +0000 2019",
+			"id": 1200339983325896700,
+			"id_str": "1200339983325896704",
+			"full_text": "📧| \"Your @A_L_T Online Winter Conference Submission is Scheduled\" \n\n📅| Wednesday 11 December, 13:00\n\n🇬🇧🇩🇪🇩🇿🇳🇪🇲🇱🇺🇳\n\nhttps://t.co/48PjhYxtzb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				138
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "A_L_T",
+						"name": "ALT - alt.ac.uk",
+						"id": 41210876,
+						"id_str": "41210876",
+						"indices": [
+							9,
+							15
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/48PjhYxtzb",
+						"expanded_url": "https://altc.alt.ac.uk/online2019/sessions/338/",
+						"display_url": "altc.alt.ac.uk/online2019/ses…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15984852,
+				"id_str": "15984852",
+				"name": "Daniel Harding",
+				"screen_name": "danielharding",
+				"location": "Deutschland",
+				"description": "eLearning Content Designer 🇺🇳 | FHEA | CMALT | 🇪🇺",
+				"url": "https://t.co/ergFTYQJV4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ergFTYQJV4",
+								"expanded_url": "https://danharding.co.uk",
+								"display_url": "danharding.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 857,
+				"friends_count": 863,
+				"listed_count": 57,
+				"created_at": "Mon Aug 25 18:10:46 +0000 2008",
+				"favourites_count": 1730,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 393,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1194965335239200770/ENNvyKN4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194965335239200770/ENNvyKN4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15984852/1573739633",
+				"profile_link_color": "F95141",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@CosmoCat .. you can 'see' Dan in action as part of our Online Winter Conference in a couple of weeks... ;) https://t.co/8pKgUyruIg"
+	},
+	{
 		"created_at": "Fri Nov 29 16:09:23 +0000 2019",
 		"id": 1200446669759897600,
 		"id_str": "1200446669759897601",
