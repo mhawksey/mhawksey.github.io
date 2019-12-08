@@ -1,6 +1,165 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 07 18:41:57 +0000 2019",
+		"id": 1203384165649043500,
+		"id_str": "1203384165649043458",
+		"full_text": "@matt_browne_ @imthenachoman @AppsScriptInfo @GSuiteDevs You might want to watch TU episode 10 where @SteveWebster22 shares his experience of \"Professionalizing Google Apps Script Development\" https://t.co/3qmzX2DtDR",
+		"truncated": false,
+		"display_text_range": [
+			57,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "matt_browne_",
+					"name": "Matt Browne",
+					"id": 1096059672061128700,
+					"id_str": "1096059672061128705",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "imthenachoman",
+					"name": "imthenachoman",
+					"id": 14258013,
+					"id_str": "14258013",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "AppsScriptInfo",
+					"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+					"id": 322526439,
+					"id_str": "322526439",
+					"indices": [
+						29,
+						44
+					]
+				},
+				{
+					"screen_name": "GSuiteDevs",
+					"name": "G Suite Developers",
+					"id": 111197966,
+					"id_str": "111197966",
+					"indices": [
+						45,
+						56
+					]
+				},
+				{
+					"screen_name": "SteveWebster22",
+					"name": "Steve Webster",
+					"id": 3431975507,
+					"id_str": "3431975507",
+					"indices": [
+						101,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3qmzX2DtDR",
+					"expanded_url": "https://www.youtube.com/watch?v=KWM14-q2JSI",
+					"display_url": "youtube.com/watch?v=KWM14-…",
+					"indices": [
+						193,
+						216
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1203318351876878300,
+		"in_reply_to_status_id_str": "1203318351876878336",
+		"in_reply_to_user_id": 1096059672061128700,
+		"in_reply_to_user_id_str": "1096059672061128705",
+		"in_reply_to_screen_name": "matt_browne_",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8414,
+			"friends_count": 2457,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6202,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29060,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@matt_browne_ @imthenachoman @AppsScriptInfo @GSuiteDevs You might want to watch TU episode 10 where @SteveWebster22 shares his experience of \"Professionalizing Google Apps Script Development\" https://t.co/3qmzX2DtDR"
+	},
+	{
 		"created_at": "Fri Dec 06 15:35:45 +0000 2019",
 		"id": 1202974918561980400,
 		"id_str": "1202974918561980416",
