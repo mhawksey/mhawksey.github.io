@@ -1,6 +1,124 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 10 21:13:46 +0000 2019",
+		"id": 1204509533437120500,
+		"id_str": "1204509533437120512",
+		"full_text": "@AEncheva @labnol On line 5 you've a string of email addresses - so the way your script is setup it will only email this group",
+		"truncated": false,
+		"display_text_range": [
+			18,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AEncheva",
+					"name": "Anna Encheva",
+					"id": 885884168818872300,
+					"id_str": "885884168818872320",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "labnol",
+					"name": "Amit Agarwal",
+					"id": 724473,
+					"id_str": "724473",
+					"indices": [
+						10,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1204425283614449700,
+		"in_reply_to_status_id_str": "1204425283614449665",
+		"in_reply_to_user_id": 885884168818872300,
+		"in_reply_to_user_id_str": "885884168818872320",
+		"in_reply_to_screen_name": "AEncheva",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8429,
+			"friends_count": 2459,
+			"listed_count": 619,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29069,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AEncheva @labnol On line 5 you've a string of email addresses - so the way your script is setup it will only email this group"
+	},
+	{
 		"created_at": "Mon Dec 09 21:59:50 +0000 2019",
 		"id": 1204158739714052000,
 		"id_str": "1204158739714052096",
