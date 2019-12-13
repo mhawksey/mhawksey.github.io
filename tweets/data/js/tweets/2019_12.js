@@ -1,6 +1,1075 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 12 16:52:30 +0000 2019",
+		"id": 1205168560580026400,
+		"id_str": "1205168560580026371",
+		"full_text": "Interesting how Hubub encourages you to analyse the content ... I find myself spooling bck/fwd to find the points to comment on. When presenting this to learners do you advise watching once uninterrupted, then again to comment? #ThinkHubub #ALTC #hubub https://t.co/2fdPDLUJBl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ThinkHubub",
+					"indices": [
+						228,
+						239
+					]
+				},
+				{
+					"text": "ALTC",
+					"indices": [
+						240,
+						245
+					]
+				},
+				{
+					"text": "hubub",
+					"indices": [
+						246,
+						252
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2fdPDLUJBl",
+					"expanded_url": "https://crossing.onhubub.com/experience/5df260d3ae1e34001fee56e7/flow/80",
+					"display_url": "crossing.onhubub.com/experience/5df…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://thinkhubub.com\" rel=\"nofollow\">Hubub App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8458,
+			"friends_count": 2462,
+			"listed_count": 620,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29080,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Interesting how Hubub encourages you to analyse the content ... I find myself spooling bck/fwd to find the points to comment on. When presenting this to learners do you advise watching once uninterrupted, then again to comment? #ThinkHubub #ALTC #hubub https://t.co/2fdPDLUJBl"
+	},
+	{
+		"created_at": "Thu Dec 12 15:53:34 +0000 2019",
+		"id": 1205153730435436500,
+		"id_str": "1205153730435436544",
+		"full_text": "@Autumm @hj_dewaard @VConnecting @Bali_Maha @friedelitis @voicEdcanada @greeneterry @harmonygritz @wavinya66 @A_L_T feel free to get in touch re: OER20 :)",
+		"truncated": false,
+		"display_text_range": [
+			116,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Autumm",
+					"name": "Autumm Caines is a Liminal Space",
+					"id": 6292182,
+					"id_str": "6292182",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "hj_dewaard",
+					"name": "Helen DeWaard",
+					"id": 2894844952,
+					"id_str": "2894844952",
+					"indices": [
+						8,
+						19
+					]
+				},
+				{
+					"screen_name": "VConnecting",
+					"name": "Virtually Connecting conversation not presentation",
+					"id": 3230962884,
+					"id_str": "3230962884",
+					"indices": [
+						20,
+						32
+					]
+				},
+				{
+					"screen_name": "Bali_Maha",
+					"name": "ℳąhą Bąℓi, PhD مها بالي 🏵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						33,
+						43
+					]
+				},
+				{
+					"screen_name": "friedelitis",
+					"name": "Christian Friedrich",
+					"id": 512388879,
+					"id_str": "512388879",
+					"indices": [
+						44,
+						56
+					]
+				},
+				{
+					"screen_name": "voicEdcanada",
+					"name": "voicEd.ca",
+					"id": 514144436,
+					"id_str": "514144436",
+					"indices": [
+						57,
+						70
+					]
+				},
+				{
+					"screen_name": "greeneterry",
+					"name": "Hark! The Herald Terry Greene",
+					"id": 212019344,
+					"id_str": "212019344",
+					"indices": [
+						71,
+						83
+					]
+				},
+				{
+					"screen_name": "harmonygritz",
+					"name": "George Station",
+					"id": 155090409,
+					"id_str": "155090409",
+					"indices": [
+						84,
+						97
+					]
+				},
+				{
+					"screen_name": "wavinya66",
+					"name": "Irene Maweu",
+					"id": 123168263,
+					"id_str": "123168263",
+					"indices": [
+						98,
+						108
+					]
+				},
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						109,
+						115
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1205150493288411100,
+		"in_reply_to_status_id_str": "1205150493288411137",
+		"in_reply_to_user_id": 6292182,
+		"in_reply_to_user_id_str": "6292182",
+		"in_reply_to_screen_name": "Autumm",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8458,
+			"friends_count": 2462,
+			"listed_count": 620,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29080,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Autumm @hj_dewaard @VConnecting @Bali_Maha @friedelitis @voicEdcanada @greeneterry @harmonygritz @wavinya66 @A_L_T feel free to get in touch re: OER20 :)"
+	},
+	{
+		"created_at": "Thu Dec 12 15:31:44 +0000 2019",
+		"id": 1205148237142859800,
+		"id_str": "1205148237142859776",
+		"full_text": "@suebecks @PhilVincent @SocMedHE we stopped using them at ALT because we couldn't find a good one that didn't cost a lot on money ... so looking forward to the response you get. \n\nOne of the @GoogleDevExpert's does offer to setup free walls https://t.co/isNVEmZYdK https://t.co/U4vWvhFJUg",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			264
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "PhilVincent",
+					"name": "Phil Vincent",
+					"id": 201692767,
+					"id_str": "201692767",
+					"indices": [
+						10,
+						22
+					]
+				},
+				{
+					"screen_name": "SocMedHE",
+					"name": "Social Media for Learning in Higher Education",
+					"id": 3346395670,
+					"id_str": "3346395670",
+					"indices": [
+						23,
+						32
+					]
+				},
+				{
+					"screen_name": "GoogleDevExpert",
+					"name": "Google Developers Experts",
+					"id": 3003834689,
+					"id_str": "3003834689",
+					"indices": [
+						191,
+						207
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/isNVEmZYdK",
+					"expanded_url": "http://bit.ly/2om2cZ4",
+					"display_url": "bit.ly/2om2cZ4",
+					"indices": [
+						241,
+						264
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1205148201822695400,
+					"id_str": "1205148201822695424",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/ELmL54dXsAAicAI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELmL54dXsAAicAI.jpg",
+					"url": "https://t.co/U4vWvhFJUg",
+					"display_url": "pic.twitter.com/U4vWvhFJUg",
+					"expanded_url": "https://twitter.com/mhawksey/status/1205148237142859776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 666,
+									"y": 343,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 1056,
+									"y": 288,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 998,
+									"y": 445,
+									"h": 91,
+									"w": 91
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 377,
+									"y": 194,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 598,
+									"y": 163,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 565,
+									"y": 252,
+									"h": 51,
+									"w": 51
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1137,
+									"y": 585,
+									"h": 111,
+									"w": 111
+								},
+								{
+									"x": 1803,
+									"y": 491,
+									"h": 139,
+									"w": 139
+								},
+								{
+									"x": 1703,
+									"y": 759,
+									"h": 155,
+									"w": 155
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 2240,
+									"y": 1153,
+									"h": 220,
+									"w": 220
+								},
+								{
+									"x": 3551,
+									"y": 968,
+									"h": 275,
+									"w": 275
+								},
+								{
+									"x": 3354,
+									"y": 1496,
+									"h": 307,
+									"w": 307
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205148201822695400,
+					"id_str": "1205148201822695424",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/ELmL54dXsAAicAI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELmL54dXsAAicAI.jpg",
+					"url": "https://t.co/U4vWvhFJUg",
+					"display_url": "pic.twitter.com/U4vWvhFJUg",
+					"expanded_url": "https://twitter.com/mhawksey/status/1205148237142859776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 666,
+									"y": 343,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 1056,
+									"y": 288,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 998,
+									"y": 445,
+									"h": 91,
+									"w": 91
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 377,
+									"y": 194,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 598,
+									"y": 163,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 565,
+									"y": 252,
+									"h": 51,
+									"w": 51
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1137,
+									"y": 585,
+									"h": 111,
+									"w": 111
+								},
+								{
+									"x": 1803,
+									"y": 491,
+									"h": 139,
+									"w": 139
+								},
+								{
+									"x": 1703,
+									"y": 759,
+									"h": 155,
+									"w": 155
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 2240,
+									"y": 1153,
+									"h": 220,
+									"w": 220
+								},
+								{
+									"x": 3551,
+									"y": 968,
+									"h": 275,
+									"w": 275
+								},
+								{
+									"x": 3354,
+									"y": 1496,
+									"h": 307,
+									"w": 307
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1205146407700697000,
+		"in_reply_to_status_id_str": "1205146407700697088",
+		"in_reply_to_user_id": 34904126,
+		"in_reply_to_user_id_str": "34904126",
+		"in_reply_to_screen_name": "suebecks",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8458,
+			"friends_count": 2462,
+			"listed_count": 620,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29080,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@suebecks @PhilVincent @SocMedHE we stopped using them at ALT because we couldn't find a good one that didn't cost a lot on money ... so looking forward to the response you get. \n\nOne of the @GoogleDevExpert's does offer to setup free walls https://t.co/isNVEmZYdK https://t.co/U4vWvhFJUg"
+	},
+	{
+		"created_at": "Thu Dec 12 15:20:41 +0000 2019",
+		"id": 1205145455656607700,
+		"id_str": "1205145455656607745",
+		"full_text": "@MarenDeepwell @A_L_T ***Blush*** but really not possible without the @A_L_T team and all the #altc'ers",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						94,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell #altc",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						15,
+						21
+					]
+				},
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						70,
+						76
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1205119603766157300,
+		"in_reply_to_status_id_str": "1205119603766157314",
+		"in_reply_to_user_id": 323173367,
+		"in_reply_to_user_id_str": "323173367",
+		"in_reply_to_screen_name": "MarenDeepwell",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8458,
+			"friends_count": 2462,
+			"listed_count": 620,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29080,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MarenDeepwell @A_L_T ***Blush*** but really not possible without the @A_L_T team and all the #altc'ers"
+	},
+	{
+		"created_at": "Thu Dec 12 14:40:16 +0000 2019",
+		"id": 1205135284947628000,
+		"id_str": "1205135284947628033",
+		"full_text": "@hj_dewaard @VConnecting @Bali_Maha @Autumm @friedelitis @voicEdcanada @greeneterry @harmonygritz @wavinya66 @A_L_T sorry I had to dip out early - guess even in online conferences I can't escape ;)",
+		"truncated": false,
+		"display_text_range": [
+			116,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hj_dewaard",
+					"name": "Helen DeWaard",
+					"id": 2894844952,
+					"id_str": "2894844952",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "VConnecting",
+					"name": "Virtually Connecting conversation not presentation",
+					"id": 3230962884,
+					"id_str": "3230962884",
+					"indices": [
+						12,
+						24
+					]
+				},
+				{
+					"screen_name": "Bali_Maha",
+					"name": "ℳąhą Bąℓi, PhD مها بالي 🏵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						25,
+						35
+					]
+				},
+				{
+					"screen_name": "Autumm",
+					"name": "Autumm Caines is a Liminal Space",
+					"id": 6292182,
+					"id_str": "6292182",
+					"indices": [
+						36,
+						43
+					]
+				},
+				{
+					"screen_name": "friedelitis",
+					"name": "Christian Friedrich",
+					"id": 512388879,
+					"id_str": "512388879",
+					"indices": [
+						44,
+						56
+					]
+				},
+				{
+					"screen_name": "voicEdcanada",
+					"name": "voicEd.ca",
+					"id": 514144436,
+					"id_str": "514144436",
+					"indices": [
+						57,
+						70
+					]
+				},
+				{
+					"screen_name": "greeneterry",
+					"name": "Hark! The Herald Terry Greene",
+					"id": 212019344,
+					"id_str": "212019344",
+					"indices": [
+						71,
+						83
+					]
+				},
+				{
+					"screen_name": "harmonygritz",
+					"name": "George Station",
+					"id": 155090409,
+					"id_str": "155090409",
+					"indices": [
+						84,
+						97
+					]
+				},
+				{
+					"screen_name": "wavinya66",
+					"name": "Irene Maweu",
+					"id": 123168263,
+					"id_str": "123168263",
+					"indices": [
+						98,
+						108
+					]
+				},
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						109,
+						115
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1205119256687497200,
+		"in_reply_to_status_id_str": "1205119256687497218",
+		"in_reply_to_user_id": 2894844952,
+		"in_reply_to_user_id_str": "2894844952",
+		"in_reply_to_screen_name": "hj_dewaard",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8458,
+			"friends_count": 2462,
+			"listed_count": 620,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29080,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@hj_dewaard @VConnecting @Bali_Maha @Autumm @friedelitis @voicEdcanada @greeneterry @harmonygritz @wavinya66 @A_L_T sorry I had to dip out early - guess even in online conferences I can't escape ;)"
+	},
+	{
 		"created_at": "Wed Dec 11 21:22:38 +0000 2019",
 		"id": 1204874153070878700,
 		"id_str": "1204874153070878720",
