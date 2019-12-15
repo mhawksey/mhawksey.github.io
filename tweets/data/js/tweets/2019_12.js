@@ -1,6 +1,466 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 14 20:50:54 +0000 2019",
+		"id": 1205586579428954000,
+		"id_str": "1205953330637418497",
+		"full_text": "We just got a snazzy new marketing page for Apps Script: https://t.co/HvO9WtyOfO\n\nProvides a pretty nice overview of the product, without overwhelming you with the technical details right away.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HvO9WtyOfO",
+					"expanded_url": "https://gsuite.google.com/products/apps-script/",
+					"display_url": "gsuite.google.com/products/apps-…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 191872042,
+			"id_str": "191872042",
+			"name": "Eric Koleda",
+			"screen_name": "erickoleda",
+			"location": "New York, NY",
+			"description": "Developer Relations Engineer 🥑 at Google working on G Suite APIs and developer products.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 829,
+			"friends_count": 239,
+			"listed_count": 30,
+			"created_at": "Fri Sep 17 15:41:20 +0000 2010",
+			"favourites_count": 1190,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 832,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963234010251038721/vQpeZv_j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963234010251038721/vQpeZv_j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/191872042/1478717083",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We just got a snazzy new marketing page for Apps Script: https://t.co/HvO9WtyOfO\n\nProvides a pretty nice overview of the product, without overwhelming you with the technical details right away."
+	},
+	{
+		"created_at": "Sat Dec 14 20:50:49 +0000 2019",
+		"id": 1205907134614917000,
+		"id_str": "1205953309833605121",
+		"full_text": "This looks like it could be an amazing space to watch out for - just nominated @AppsScriptInfo here 🚀 https://t.co/bFzzz3EX7P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppsScriptInfo",
+					"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+					"id": 322526439,
+					"id_str": "322526439",
+					"indices": [
+						79,
+						94
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bFzzz3EX7P",
+					"expanded_url": "https://twitter.com/agustinlautaro/status/1205627581220999169",
+					"display_url": "twitter.com/agustinlautaro…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1145333591867453400,
+			"id_str": "1145333591867453440",
+			"name": "Sourabh Choraria",
+			"screen_name": "schoraria911",
+			"location": "Bengaluru, India",
+			"description": "#GoogleAppsScript junkie, exWikipedian, WordPress whizz (brag). Love pizzas, #automations, cycling, workarounds & documentation (not necessarily in that order)!",
+			"url": "https://t.co/5SWxwokMx8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5SWxwokMx8",
+							"expanded_url": "https://script.gs",
+							"display_url": "script.gs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75,
+			"friends_count": 60,
+			"listed_count": 1,
+			"created_at": "Sun Jun 30 14:09:42 +0000 2019",
+			"favourites_count": 774,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 317,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145333882851512320/Tyu8mj24_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145333882851512320/Tyu8mj24_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1145333591867453440/1561909439",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1205627581220999200,
+		"quoted_status_id_str": "1205627581220999169",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bFzzz3EX7P",
+			"expanded": "https://twitter.com/agustinlautaro/status/1205627581220999169",
+			"display": "twitter.com/agustinlautaro…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 13 23:16:29 +0000 2019",
+			"id": 1205627581220999200,
+			"id_str": "1205627581220999169",
+			"full_text": "Made with @sveltejs, deployed with @zeithq\n \nA community list of personal sites for inspiration\n\n🚀 https://t.co/CcrTAQrrwm\n\n#svelte #now",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				136
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "svelte",
+						"indices": [
+							124,
+							131
+						]
+					},
+					{
+						"text": "now",
+						"indices": [
+							132,
+							136
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "sveltejs",
+						"name": "Svelte",
+						"id": 801833412487184400,
+						"id_str": "801833412487184384",
+						"indices": [
+							10,
+							19
+						]
+					},
+					{
+						"screen_name": "zeithq",
+						"name": "ZEIT",
+						"id": 4686835494,
+						"id_str": "4686835494",
+						"indices": [
+							35,
+							42
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/CcrTAQrrwm",
+						"expanded_url": "https://sitesshowcase.com/",
+						"display_url": "sitesshowcase.com",
+						"indices": [
+							99,
+							122
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 45369418,
+				"id_str": "45369418",
+				"name": "Agustín",
+				"screen_name": "agustinlautaro",
+				"location": "Buenos Aires, Argentina",
+				"description": "FullStack Web Developer 🛸",
+				"url": "https://t.co/mVK5uUSLTp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mVK5uUSLTp",
+								"expanded_url": "https://agustinl.dev/",
+								"display_url": "agustinl.dev",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 204,
+				"friends_count": 817,
+				"listed_count": 1,
+				"created_at": "Sun Jun 07 16:34:55 +0000 2009",
+				"favourites_count": 223,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1095,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F2F2F2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1160661977875791874/sXiWcpyg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160661977875791874/sXiWcpyg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/45369418/1559445162",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This looks like it could be an amazing space to watch out for - just nominated @AppsScriptInfo here 🚀 https://t.co/bFzzz3EX7P"
+	},
+	{
+		"created_at": "Sat Dec 14 20:50:46 +0000 2019",
+		"id": 1205872581259206700,
+		"id_str": "1205953297733103620",
+		"full_text": "Don't be afraid to share that simple tech tip you've been using for years and is second nature to you now. \n\nI guarantee that you that plenty of people could benefit from your expertise.\n\nYou could help level up somebody's career and inspire them to learn more.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4070249117,
+			"id_str": "4070249117",
+			"name": "Brian Wochele",
+			"screen_name": "TheSheetsGuy",
+			"location": "Oconomowoc, WI",
+			"description": "Google Sheets training, articles and tips.",
+			"url": "https://t.co/Mbo83bcv7s",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Mbo83bcv7s",
+							"expanded_url": "http://www.learn-sheets.com",
+							"display_url": "learn-sheets.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2533,
+			"friends_count": 144,
+			"listed_count": 8,
+			"created_at": "Thu Oct 29 20:35:22 +0000 2015",
+			"favourites_count": 1024,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 465,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1141166332764966913/cQIwjEuQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141166332764966913/cQIwjEuQ_normal.jpg",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Don't be afraid to share that simple tech tip you've been using for years and is second nature to you now. \n\nI guarantee that you that plenty of people could benefit from your expertise.\n\nYou could help level up somebody's career and inspire them to learn more."
+	},
+	{
 		"created_at": "Fri Dec 13 10:59:10 +0000 2019",
 		"id": 1205442029209165800,
 		"id_str": "1205442029209165824",
