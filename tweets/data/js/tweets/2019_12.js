@@ -1,6 +1,1057 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 16 20:52:15 +0000 2019",
+		"id": 1206650223726153700,
+		"id_str": "1206678448418238464",
+		"full_text": "Google Sheets Tip:\n\nIf you are using Windows 10 and want to insert an emoji or two into your Google Sheets spreadsheet, use the keyboard shortcut [WIN + .] to activate the emoji picker.\n\nEven use them in file names to make them pop in Drive.\n\n#GoogleSheets #Windows10 #GoogleDrive https://t.co/TfLC6ZayEu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleSheets",
+					"indices": [
+						243,
+						256
+					]
+				},
+				{
+					"text": "Windows10",
+					"indices": [
+						257,
+						267
+					]
+				},
+				{
+					"text": "GoogleDrive",
+					"indices": [
+						268,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1206650214691541000,
+					"id_str": "1206650214691540994",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EL7h-ibWkAIqQBS.png",
+					"media_url_https": "https://pbs.twimg.com/media/EL7h-ibWkAIqQBS.png",
+					"url": "https://t.co/TfLC6ZayEu",
+					"display_url": "pic.twitter.com/TfLC6ZayEu",
+					"expanded_url": "https://twitter.com/TheSheetsGuy/status/1206650223726153728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 501,
+							"h": 508,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 501,
+							"h": 508,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 501,
+							"h": 508,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 258,
+									"y": 80,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 320,
+									"y": 85,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 140,
+									"y": 146,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 20,
+									"y": 146,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 198,
+									"y": 201,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 21,
+									"y": 386,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 251,
+									"y": 195,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 17,
+									"y": 252,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 258,
+									"y": 80,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 320,
+									"y": 85,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 140,
+									"y": 146,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 20,
+									"y": 146,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 198,
+									"y": 201,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 21,
+									"y": 386,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 251,
+									"y": 195,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 17,
+									"y": 252,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 258,
+									"y": 80,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 320,
+									"y": 85,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 140,
+									"y": 146,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 20,
+									"y": 146,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 198,
+									"y": 201,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 21,
+									"y": 386,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 251,
+									"y": 195,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 17,
+									"y": 252,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 258,
+									"y": 80,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 320,
+									"y": 85,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 140,
+									"y": 146,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 20,
+									"y": 146,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 198,
+									"y": 201,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 21,
+									"y": 386,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 251,
+									"y": 195,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 17,
+									"y": 252,
+									"h": 45,
+									"w": 45
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206650214691541000,
+					"id_str": "1206650214691540994",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EL7h-ibWkAIqQBS.png",
+					"media_url_https": "https://pbs.twimg.com/media/EL7h-ibWkAIqQBS.png",
+					"url": "https://t.co/TfLC6ZayEu",
+					"display_url": "pic.twitter.com/TfLC6ZayEu",
+					"expanded_url": "https://twitter.com/TheSheetsGuy/status/1206650223726153728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 501,
+							"h": 508,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 501,
+							"h": 508,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 501,
+							"h": 508,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 258,
+									"y": 80,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 320,
+									"y": 85,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 140,
+									"y": 146,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 20,
+									"y": 146,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 198,
+									"y": 201,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 21,
+									"y": 386,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 251,
+									"y": 195,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 17,
+									"y": 252,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 258,
+									"y": 80,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 320,
+									"y": 85,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 140,
+									"y": 146,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 20,
+									"y": 146,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 198,
+									"y": 201,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 21,
+									"y": 386,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 251,
+									"y": 195,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 17,
+									"y": 252,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 258,
+									"y": 80,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 320,
+									"y": 85,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 140,
+									"y": 146,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 20,
+									"y": 146,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 198,
+									"y": 201,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 21,
+									"y": 386,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 251,
+									"y": 195,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 17,
+									"y": 252,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 258,
+									"y": 80,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 320,
+									"y": 85,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 140,
+									"y": 146,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 20,
+									"y": 146,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 198,
+									"y": 201,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 21,
+									"y": 386,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 251,
+									"y": 195,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 17,
+									"y": 252,
+									"h": 45,
+									"w": 45
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4070249117,
+			"id_str": "4070249117",
+			"name": "Brian Wochele",
+			"screen_name": "TheSheetsGuy",
+			"location": "Oconomowoc, WI",
+			"description": "Google Sheets training, articles and tips.",
+			"url": "https://t.co/Mbo83bcv7s",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Mbo83bcv7s",
+							"expanded_url": "http://www.learn-sheets.com",
+							"display_url": "learn-sheets.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2545,
+			"friends_count": 145,
+			"listed_count": 8,
+			"created_at": "Thu Oct 29 20:35:22 +0000 2015",
+			"favourites_count": 1057,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1141166332764966913/cQIwjEuQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141166332764966913/cQIwjEuQ_normal.jpg",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Google Sheets Tip:\n\nIf you are using Windows 10 and want to insert an emoji or two into your Google Sheets spreadsheet, use the keyboard shortcut [WIN + .] to activate the emoji picker.\n\nEven use them in file names to make them pop in Drive.\n\n#GoogleSheets #Windows10 #GoogleDrive https://t.co/TfLC6ZayEu"
+	},
+	{
+		"created_at": "Mon Dec 16 20:50:48 +0000 2019",
+		"id": 1206678084293943300,
+		"id_str": "1206678084293943296",
+		"full_text": "Controversial sale of .org domain manager faces review at ICANN - \"ICANN asks questions about new owner, will have 30 days to make decision\" https://t.co/gFRG2vr6uU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gFRG2vr6uU",
+					"expanded_url": "https://cms.arstechnica.com/?p=1633441",
+					"display_url": "cms.arstechnica.com/?p=1633441",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8470,
+			"friends_count": 2465,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6234,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Controversial sale of .org domain manager faces review at ICANN - \"ICANN asks questions about new owner, will have 30 days to make decision\" https://t.co/gFRG2vr6uU"
+	},
+	{
+		"created_at": "Mon Dec 16 18:57:43 +0000 2019",
+		"id": 1206649623907127300,
+		"id_str": "1206649623907127296",
+		"full_text": "\"Government needs to act to determine where the lines of appropriate use should be drawn. This is not likely to happen on the federal level, though, anytime soon\" https://t.co/NmpTeGQMNx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NmpTeGQMNx",
+					"expanded_url": "https://www.wired.com/story/facial-recognition-laws-are-literally-all-over-the-map",
+					"display_url": "wired.com/story/facial-r…",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8470,
+			"friends_count": 2465,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6234,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Government needs to act to determine where the lines of appropriate use should be drawn. This is not likely to happen on the federal level, though, anytime soon\" https://t.co/NmpTeGQMNx"
+	},
+	{
+		"created_at": "Mon Dec 16 15:55:15 +0000 2019",
+		"id": 1206603706487255000,
+		"id_str": "1206603706487255043",
+		"full_text": "@Alex2Salamanca @TheSheetsGuy @benlcollins @ProlificOaktree @barrielroberts @st3phcloud @LifeOfSpy @grmeyer @andrealeard @alicekeeler @prashanth_kv ...if not already you might want to follow @pfelipm - Pablo also might have some follow suggestions :)",
+		"truncated": false,
+		"display_text_range": [
+			148,
+			250
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Alex2Salamanca",
+					"name": "Alex Salamanca",
+					"id": 867455414685896700,
+					"id_str": "867455414685896704",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "TheSheetsGuy",
+					"name": "Brian Wochele",
+					"id": 4070249117,
+					"id_str": "4070249117",
+					"indices": [
+						16,
+						29
+					]
+				},
+				{
+					"screen_name": "benlcollins",
+					"name": "Ben Collins",
+					"id": 19338407,
+					"id_str": "19338407",
+					"indices": [
+						30,
+						42
+					]
+				},
+				{
+					"screen_name": "ProlificOaktree",
+					"name": "Prolific Oaktree",
+					"id": 1855905217,
+					"id_str": "1855905217",
+					"indices": [
+						43,
+						59
+					]
+				},
+				{
+					"screen_name": "barrielroberts",
+					"name": "Baz Roberts",
+					"id": 4409428666,
+					"id_str": "4409428666",
+					"indices": [
+						60,
+						75
+					]
+				},
+				{
+					"screen_name": "st3phcloud",
+					"name": "Stéphane Giron",
+					"id": 915246906560979000,
+					"id_str": "915246906560978944",
+					"indices": [
+						76,
+						87
+					]
+				},
+				{
+					"screen_name": "LifeOfSpy",
+					"name": "Yagisanatode",
+					"id": 2346078620,
+					"id_str": "2346078620",
+					"indices": [
+						88,
+						98
+					]
+				},
+				{
+					"screen_name": "grmeyer",
+					"name": "Greg Meyer",
+					"id": 19522325,
+					"id_str": "19522325",
+					"indices": [
+						99,
+						107
+					]
+				},
+				{
+					"screen_name": "andrealeard",
+					"name": "Andrea Leardini",
+					"id": 3071838921,
+					"id_str": "3071838921",
+					"indices": [
+						108,
+						120
+					]
+				},
+				{
+					"screen_name": "alicekeeler",
+					"name": "Alice Keeler",
+					"id": 200715240,
+					"id_str": "200715240",
+					"indices": [
+						121,
+						133
+					]
+				},
+				{
+					"screen_name": "prashanth_kv",
+					"name": "Prashanth KV",
+					"id": 122947361,
+					"id_str": "122947361",
+					"indices": [
+						134,
+						147
+					]
+				},
+				{
+					"screen_name": "pfelipm",
+					"name": "Pablo Felip",
+					"id": 127973484,
+					"id_str": "127973484",
+					"indices": [
+						191,
+						199
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1205509910701756400,
+		"in_reply_to_status_id_str": "1205509910701756423",
+		"in_reply_to_user_id": 867455414685896700,
+		"in_reply_to_user_id_str": "867455414685896704",
+		"in_reply_to_screen_name": "Alex2Salamanca",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8470,
+			"friends_count": 2465,
+			"listed_count": 617,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6234,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Alex2Salamanca @TheSheetsGuy @benlcollins @ProlificOaktree @barrielroberts @st3phcloud @LifeOfSpy @grmeyer @andrealeard @alicekeeler @prashanth_kv ...if not already you might want to follow @pfelipm - Pablo also might have some follow suggestions :)"
+	},
+	{
 		"created_at": "Sat Dec 14 20:50:54 +0000 2019",
 		"id": 1205586579428954000,
 		"id_str": "1205953330637418497",
