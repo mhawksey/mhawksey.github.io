@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 06 14:23:50 +0000 2020",
+		"id": 1212735368585515000,
+		"id_str": "1214190843600494592",
+		"full_text": "Have your say on the ALT Annual Survey #altc https://t.co/nmOmVsyKki https://t.co/dsaQMFDKvt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						39,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nmOmVsyKki",
+					"expanded_url": "https://go.alt.ac.uk/ALTSurvey2019",
+					"display_url": "go.alt.ac.uk/ALTSurvey2019",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1212735366626762800,
+					"id_str": "1212735366626762752",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/ENSAY_5XYAAPK-z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENSAY_5XYAAPK-z.jpg",
+					"url": "https://t.co/dsaQMFDKvt",
+					"display_url": "pic.twitter.com/dsaQMFDKvt",
+					"expanded_url": "https://twitter.com/A_L_T/status/1212735368585515009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212735366626762800,
+					"id_str": "1212735366626762752",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/ENSAY_5XYAAPK-z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENSAY_5XYAAPK-z.jpg",
+					"url": "https://t.co/dsaQMFDKvt",
+					"display_url": "pic.twitter.com/dsaQMFDKvt",
+					"expanded_url": "https://twitter.com/A_L_T/status/1212735368585515009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12532,
+			"friends_count": 3714,
+			"listed_count": 572,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 7575,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 20614,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1570791245",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Have your say on the ALT Annual Survey #altc https://t.co/nmOmVsyKki https://t.co/dsaQMFDKvt"
+	},
+	{
 		"created_at": "Sun Jan 05 17:53:17 +0000 2020",
 		"id": 1213412387388194800,
 		"id_str": "1213881167843414017",
