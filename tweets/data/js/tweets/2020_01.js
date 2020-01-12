@@ -1,6 +1,748 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 11 17:45:12 +0000 2020",
+		"id": 1216053459394482200,
+		"id_str": "1216053459394482177",
+		"full_text": "@CinFourThirds you and to help Pete? https://t.co/926cCXpUhx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CinFourThirds",
+					"name": "Cleo",
+					"id": 1868737826,
+					"id_str": "1868737826",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/926cCXpUhx",
+					"expanded_url": "https://twitter.com/peateedee/status/1215634193935425542",
+					"display_url": "twitter.com/peateedee/stat…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1868737826,
+		"in_reply_to_user_id_str": "1868737826",
+		"in_reply_to_screen_name": "CinFourThirds",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8494,
+			"friends_count": 2474,
+			"listed_count": 620,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6277,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29176,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1215634193935425500,
+		"quoted_status_id_str": "1215634193935425542",
+		"quoted_status_permalink": {
+			"url": "https://t.co/926cCXpUhx",
+			"expanded": "https://twitter.com/peateedee/status/1215634193935425542",
+			"display": "twitter.com/peateedee/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 10 13:59:11 +0000 2020",
+			"id": 1215634193935425500,
+			"id_str": "1215634193935425542",
+			"full_text": "Pls retweet! Does anyone out there have experience using Google #AppMaker? I think I might be able to use it for my #GoogleEI #SWE19 project, but I'd love to chat with someone more experienced before I go so far down the rabbit hole only to find it isn't right for me! #GoogleET",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AppMaker",
+						"indices": [
+							64,
+							73
+						]
+					},
+					{
+						"text": "GoogleEI",
+						"indices": [
+							116,
+							125
+						]
+					},
+					{
+						"text": "SWE19",
+						"indices": [
+							126,
+							132
+						]
+					},
+					{
+						"text": "GoogleET",
+						"indices": [
+							269,
+							278
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 634662291,
+				"id_str": "634662291",
+				"name": "Pete Dunford #FE",
+				"screen_name": "peateedee",
+				"location": "Bridgend, Wales",
+				"description": "#FE Animal Care lecturer. Learning Technologist. Fellow of HEA. Google L1&2 Cert Ed #GoogleET #GoogleEI #SWE19. Love biology & using technology to aid learning.",
+				"url": "https://t.co/PUuNgXtwlK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PUuNgXtwlK",
+								"expanded_url": "http://thefearfulbiologist.wordpress.com",
+								"display_url": "thefearfulbiologist.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 752,
+				"friends_count": 954,
+				"listed_count": 4,
+				"created_at": "Fri Jul 13 13:42:39 +0000 2012",
+				"favourites_count": 4645,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2002,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1213959082182422530/I8SqPN5N_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213959082182422530/I8SqPN5N_normal.jpg",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@CinFourThirds you and to help Pete? https://t.co/926cCXpUhx"
+	},
+	{
+		"created_at": "Sat Jan 11 17:16:05 +0000 2020",
+		"id": 1216046131676876800,
+		"id_str": "1216046131676876800",
+		"full_text": "One in five Americans wears a smartwatch or fitness tracker, Pew claims https://t.co/1RZt8YtMzZ via @engadget",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "engadget",
+					"name": "Engadget",
+					"id": 14372486,
+					"id_str": "14372486",
+					"indices": [
+						100,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1RZt8YtMzZ",
+					"expanded_url": "https://www.engadget.com/2020/01/09/one-in-five-americans-uses-a-wearable-device/",
+					"display_url": "engadget.com/2020/01/09/one…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8494,
+			"friends_count": 2474,
+			"listed_count": 620,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6277,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29176,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One in five Americans wears a smartwatch or fitness tracker, Pew claims https://t.co/1RZt8YtMzZ via @engadget"
+	},
+	{
+		"created_at": "Sat Jan 11 17:13:26 +0000 2020",
+		"id": 1215875511747895300,
+		"id_str": "1216045463738163200",
+		"full_text": "While I don't use @gsuite for Edu or as a teacher, I'd urge all folks who do to share their insights here - there are some very interesting pointers that are worth noting!\nI'd also love to help automate some of these. https://t.co/Nq1LsY9Ppm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gsuite",
+					"name": "G Suite",
+					"id": 17003765,
+					"id_str": "17003765",
+					"indices": [
+						18,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Nq1LsY9Ppm",
+					"expanded_url": "https://twitter.com/deanstokes/status/1215553085227118592",
+					"display_url": "twitter.com/deanstokes/sta…",
+					"indices": [
+						218,
+						241
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1145333591867453400,
+			"id_str": "1145333591867453440",
+			"name": "Sourabh Choraria",
+			"screen_name": "schoraria911",
+			"location": "Bengaluru, India",
+			"description": "#GoogleAppsScript junkie ➡️; love pizzas, #automations, cycling, workarounds & documentation (not necessarily in that order)!",
+			"url": "https://t.co/5SWxwokMx8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5SWxwokMx8",
+							"expanded_url": "https://script.gs",
+							"display_url": "script.gs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 111,
+			"friends_count": 68,
+			"listed_count": 2,
+			"created_at": "Sun Jun 30 14:09:42 +0000 2019",
+			"favourites_count": 1225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145333882851512320/Tyu8mj24_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145333882851512320/Tyu8mj24_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1145333591867453440/1561909439",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1215553085227118600,
+		"quoted_status_id_str": "1215553085227118592",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Nq1LsY9Ppm",
+			"expanded": "https://twitter.com/deanstokes/status/1215553085227118592",
+			"display": "twitter.com/deanstokes/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 10 08:36:54 +0000 2020",
+			"id": 1215553085227118600,
+			"id_str": "1215553085227118592",
+			"full_text": "Quick question: In one tweet, could you summarise how using G Suite for Education and Chromebooks has helped your school? Or you as a teacher? Or specifically in your classroom? #GoogleEDU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				188
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GoogleEDU",
+						"indices": [
+							178,
+							188
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18375365,
+				"id_str": "18375365",
+				"name": "Dean Stokes",
+				"screen_name": "deanstokes",
+				"location": "London, England",
+				"description": "Adoption Lead for EMEA @GoogleforEdu. Former teacher, lifelong learner. Views here are entirely mine.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2519,
+				"friends_count": 1103,
+				"listed_count": 77,
+				"created_at": "Thu Dec 25 15:09:10 +0000 2008",
+				"favourites_count": 15,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 290,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "00CCFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/963178033996853248/aDeHoNmR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/963178033996853248/aDeHoNmR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18375365/1518473907",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "CCCCCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 63,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "While I don't use @gsuite for Edu or as a teacher, I'd urge all folks who do to share their insights here - there are some very interesting pointers that are worth noting!\nI'd also love to help automate some of these. https://t.co/Nq1LsY9Ppm"
+	},
+	{
+		"created_at": "Sat Jan 11 13:21:12 +0000 2020",
+		"id": 1215987021434454000,
+		"id_str": "1215987021434454016",
+		"full_text": "@imthenachoman @AppsScriptInfo I know quite a few of the Google #GSuiteDevs use Medium. @TechandEco, @erickoleda or @presactlyalicia might want to comment on ease of use and reach. Personally I've gone self hosted WordPress for 10 years and happy to share the list plugins I use.",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						64,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "imthenachoman",
+					"name": "imthenachoman",
+					"id": 14258013,
+					"id_str": "14258013",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "AppsScriptInfo",
+					"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+					"id": 322526439,
+					"id_str": "322526439",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"screen_name": "TechandEco",
+					"name": "Ecoregeneration and Tech",
+					"id": 1102403074591666200,
+					"id_str": "1102403074591666176",
+					"indices": [
+						88,
+						99
+					]
+				},
+				{
+					"screen_name": "erickoleda",
+					"name": "Eric Koleda",
+					"id": 191872042,
+					"id_str": "191872042",
+					"indices": [
+						101,
+						112
+					]
+				},
+				{
+					"screen_name": "presactlyalicia",
+					"name": "Alicia Williams",
+					"id": 3247555832,
+					"id_str": "3247555832",
+					"indices": [
+						116,
+						132
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1215970195631759400,
+		"in_reply_to_status_id_str": "1215970195631759360",
+		"in_reply_to_user_id": 14258013,
+		"in_reply_to_user_id_str": "14258013",
+		"in_reply_to_screen_name": "imthenachoman",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8494,
+			"friends_count": 2474,
+			"listed_count": 620,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6277,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29176,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@imthenachoman @AppsScriptInfo I know quite a few of the Google #GSuiteDevs use Medium. @TechandEco, @erickoleda or @presactlyalicia might want to comment on ease of use and reach. Personally I've gone self hosted WordPress for 10 years and happy to share the list plugins I use."
+	},
+	{
 		"created_at": "Fri Jan 10 19:50:06 +0000 2020",
 		"id": 1215722502753783800,
 		"id_str": "1215722502753783810",
