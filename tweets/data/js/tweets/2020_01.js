@@ -1,6 +1,1362 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 15 00:08:52 +0000 2020",
+		"id": 1217237177043751000,
+		"id_str": "1217237177043750912",
+		"full_text": "Interesting to see evidence in the growth of the #GoogleAppsScript user base #GSuiteDevs https://t.co/icoeIwedZO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						49,
+						66
+					]
+				},
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						77,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/icoeIwedZO",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1217221362118344704",
+					"display_url": "twitter.com/AppsScriptInfo…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8494,
+			"friends_count": 2475,
+			"listed_count": 620,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1217221362118344700,
+		"quoted_status_id_str": "1217221362118344704",
+		"quoted_status_permalink": {
+			"url": "https://t.co/icoeIwedZO",
+			"expanded": "https://twitter.com/AppsScriptInfo/status/1217221362118344704",
+			"display": "twitter.com/AppsScriptInfo…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 14 23:06:02 +0000 2020",
+			"id": 1217221362118344700,
+			"id_str": "1217221362118344704",
+			"full_text": "Google Apps Script growth analysis based on Stackoverflow analysis (contributed by @mhawksey) #GSuiteDevs #GoogleAppsScript https://t.co/3tze4uHtHQ https://t.co/5b8K2yGC3F",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				147
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GSuiteDevs",
+						"indices": [
+							94,
+							105
+						]
+					},
+					{
+						"text": "GoogleAppsScript",
+						"indices": [
+							106,
+							123
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mhawksey",
+						"name": "Martin Hawksey #altc",
+						"id": 13046992,
+						"id_str": "13046992",
+						"indices": [
+							83,
+							92
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/3tze4uHtHQ",
+						"expanded_url": "https://pulse.appsscript.info/p/2020/01/google-apps-script-growth-analysis-based-on-stackoverflow-analysis/",
+						"display_url": "pulse.appsscript.info/p/2020/01/goog…",
+						"indices": [
+							124,
+							147
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1217221360574877700,
+						"id_str": "1217221360574877697",
+						"indices": [
+							148,
+							171
+						],
+						"media_url": "http://pbs.twimg.com/media/EORwYNoVUAEHi0V.png",
+						"media_url_https": "https://pbs.twimg.com/media/EORwYNoVUAEHi0V.png",
+						"url": "https://t.co/5b8K2yGC3F",
+						"display_url": "pic.twitter.com/5b8K2yGC3F",
+						"expanded_url": "https://twitter.com/AppsScriptInfo/status/1217221362118344704/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 600,
+								"h": 371,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 371,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 371,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1217221360574877700,
+						"id_str": "1217221360574877697",
+						"indices": [
+							148,
+							171
+						],
+						"media_url": "http://pbs.twimg.com/media/EORwYNoVUAEHi0V.png",
+						"media_url_https": "https://pbs.twimg.com/media/EORwYNoVUAEHi0V.png",
+						"url": "https://t.co/5b8K2yGC3F",
+						"display_url": "pic.twitter.com/5b8K2yGC3F",
+						"expanded_url": "https://twitter.com/AppsScriptInfo/status/1217221362118344704/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 600,
+								"h": 371,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 371,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 371,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 322526439,
+				"id_str": "322526439",
+				"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+				"screen_name": "AppsScriptInfo",
+				"location": "World",
+				"description": "A Google Apps Script Community account to support #GSuiteDevs. Curated by @mhawksey",
+				"url": "https://t.co/1OwN2T5Za9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1OwN2T5Za9",
+								"expanded_url": "http://tu.appsscript.info",
+								"display_url": "tu.appsscript.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 387,
+				"friends_count": 593,
+				"listed_count": 14,
+				"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+				"favourites_count": 206,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1417,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+				"profile_link_color": "4286F4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Interesting to see evidence in the growth of the #GoogleAppsScript user base #GSuiteDevs https://t.co/icoeIwedZO"
+	},
+	{
+		"created_at": "Tue Jan 14 17:39:51 +0000 2020",
+		"id": 1217139276456038400,
+		"id_str": "1217139276456038400",
+		"full_text": "@schoraria911 @AppsScriptInfo Surprising given how many app scripters there are in the Ed community. I'll have to dig some posts out ;)",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "schoraria911",
+					"name": "Sourabh Choraria",
+					"id": 1145333591867453400,
+					"id_str": "1145333591867453440",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "AppsScriptInfo",
+					"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+					"id": 322526439,
+					"id_str": "322526439",
+					"indices": [
+						14,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1217133911089696800,
+		"in_reply_to_status_id_str": "1217133911089696769",
+		"in_reply_to_user_id": 1145333591867453400,
+		"in_reply_to_user_id_str": "1145333591867453440",
+		"in_reply_to_screen_name": "schoraria911",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8494,
+			"friends_count": 2475,
+			"listed_count": 620,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@schoraria911 @AppsScriptInfo Surprising given how many app scripters there are in the Ed community. I'll have to dig some posts out ;)"
+	},
+	{
+		"created_at": "Tue Jan 14 13:22:36 +0000 2020",
+		"id": 1217069532390600700,
+		"id_str": "1217074535234666496",
+		"full_text": "This month, Members are discussing video editing software solutions, bitesize CPD, and mindful pedagogy for digital tools on the ALT Members list. Why not join ALT to get access to the most recent discussions? You can find out more here: https://t.co/UmXxI2Hpi6 #altc https://t.co/UTUjek5eVF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						262,
+						267
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UmXxI2Hpi6",
+					"expanded_url": "http://go.alt.ac.uk/ALTMembership",
+					"display_url": "go.alt.ac.uk/ALTMembership",
+					"indices": [
+						238,
+						261
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1217069530784112600,
+					"id_str": "1217069530784112642",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/EOPmSjlWoAIn_eT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOPmSjlWoAIn_eT.jpg",
+					"url": "https://t.co/UTUjek5eVF",
+					"display_url": "pic.twitter.com/UTUjek5eVF",
+					"expanded_url": "https://twitter.com/A_L_T/status/1217069532390600709/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 227,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217069530784112600,
+					"id_str": "1217069530784112642",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/EOPmSjlWoAIn_eT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOPmSjlWoAIn_eT.jpg",
+					"url": "https://t.co/UTUjek5eVF",
+					"display_url": "pic.twitter.com/UTUjek5eVF",
+					"expanded_url": "https://twitter.com/A_L_T/status/1217069532390600709/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 227,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12561,
+			"friends_count": 3717,
+			"listed_count": 571,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 7626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 20712,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1570791245",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This month, Members are discussing video editing software solutions, bitesize CPD, and mindful pedagogy for digital tools on the ALT Members list. Why not join ALT to get access to the most recent discussions? You can find out more here: https://t.co/UmXxI2Hpi6 #altc https://t.co/UTUjek5eVF"
+	},
+	{
+		"created_at": "Tue Jan 14 11:07:41 +0000 2020",
+		"id": 1217038792483274800,
+		"id_str": "1217040585284030464",
+		"full_text": "Join us next Wednesday 22 January for a webinar in - Copyright literacy and open practice. Find out more and register here: https://t.co/NKKt9ASqov #altc https://t.co/cqZLdOj4Ws",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						148,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NKKt9ASqov",
+					"expanded_url": "https://go.alt.ac.uk/2SLRJTf",
+					"display_url": "go.alt.ac.uk/2SLRJTf",
+					"indices": [
+						124,
+						147
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1217038791208251400,
+					"id_str": "1217038791208251393",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EOPKVRvWsAEWJJR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOPKVRvWsAEWJJR.jpg",
+					"url": "https://t.co/cqZLdOj4Ws",
+					"display_url": "pic.twitter.com/cqZLdOj4Ws",
+					"expanded_url": "https://twitter.com/A_L_T/status/1217038792483274753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 222,
+									"y": 402,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 539,
+									"y": 346,
+									"h": 111,
+									"w": 111
+								},
+								{
+									"x": 316,
+									"y": 174,
+									"h": 157,
+									"w": 157
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 222,
+									"y": 402,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 539,
+									"y": 346,
+									"h": 111,
+									"w": 111
+								},
+								{
+									"x": 316,
+									"y": 174,
+									"h": 157,
+									"w": 157
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 157,
+									"y": 284,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 381,
+									"y": 245,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 223,
+									"y": 123,
+									"h": 111,
+									"w": 111
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 222,
+									"y": 402,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 539,
+									"y": 346,
+									"h": 111,
+									"w": 111
+								},
+								{
+									"x": 316,
+									"y": 174,
+									"h": 157,
+									"w": 157
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217038791208251400,
+					"id_str": "1217038791208251393",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EOPKVRvWsAEWJJR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOPKVRvWsAEWJJR.jpg",
+					"url": "https://t.co/cqZLdOj4Ws",
+					"display_url": "pic.twitter.com/cqZLdOj4Ws",
+					"expanded_url": "https://twitter.com/A_L_T/status/1217038792483274753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 222,
+									"y": 402,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 539,
+									"y": 346,
+									"h": 111,
+									"w": 111
+								},
+								{
+									"x": 316,
+									"y": 174,
+									"h": 157,
+									"w": 157
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 222,
+									"y": 402,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 539,
+									"y": 346,
+									"h": 111,
+									"w": 111
+								},
+								{
+									"x": 316,
+									"y": 174,
+									"h": 157,
+									"w": 157
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 157,
+									"y": 284,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 381,
+									"y": 245,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 223,
+									"y": 123,
+									"h": 111,
+									"w": 111
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 222,
+									"y": 402,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 539,
+									"y": 346,
+									"h": 111,
+									"w": 111
+								},
+								{
+									"x": 316,
+									"y": 174,
+									"h": 157,
+									"w": 157
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12561,
+			"friends_count": 3717,
+			"listed_count": 571,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 7626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 20712,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1570791245",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join us next Wednesday 22 January for a webinar in - Copyright literacy and open practice. Find out more and register here: https://t.co/NKKt9ASqov #altc https://t.co/cqZLdOj4Ws"
+	},
+	{
+		"created_at": "Tue Jan 14 08:19:10 +0000 2020",
+		"id": 1216995730495352800,
+		"id_str": "1216998177385127936",
+		"full_text": "Looking forward to contributing an @A_L_T perspective to this event speaking together with @mhawksey in Edinburgh on 7 February - come along to find out more about the funding and projects #altc #edtech #research https://t.co/qkO3NCfGKN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						189,
+						194
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						195,
+						202
+					]
+				},
+				{
+					"text": "research",
+					"indices": [
+						203,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						35,
+						41
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey #altc",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						91,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qkO3NCfGKN",
+					"expanded_url": "https://twitter.com/a_l_t/status/1216781465423241216",
+					"display_url": "twitter.com/a_l_t/status/1…",
+					"indices": [
+						213,
+						236
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 323173367,
+			"id_str": "323173367",
+			"name": "Dr Maren Deepwell",
+			"screen_name": "MarenDeepwell",
+			"location": "United Kingdom",
+			"description": "CEO @A_L_T #altc Senior #CMALT, Anthropologist, Open Practitioner, leadership, policy & Learning Technology CPD, open governance & equality #femedtech she/her",
+			"url": "https://t.co/kMXdMTr9bt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kMXdMTr9bt",
+							"expanded_url": "http://marendeepwell.com",
+							"display_url": "marendeepwell.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3968,
+			"friends_count": 1819,
+			"listed_count": 195,
+			"created_at": "Fri Jun 24 11:30:35 +0000 2011",
+			"favourites_count": 19177,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1213925033690763273/JeGthJGa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213925033690763273/JeGthJGa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/323173367/1568223365",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1216781465423241200,
+		"quoted_status_id_str": "1216781465423241216",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qkO3NCfGKN",
+			"expanded": "https://twitter.com/a_l_t/status/1216781465423241216",
+			"display": "twitter.com/a_l_t/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 13 17:58:02 +0000 2020",
+			"id": 1216781465423241200,
+			"id_str": "1216781465423241216",
+			"full_text": "[ALT News] Human Data Interaction: The Future of Skills, Education and Training #altc https://t.co/jOrGyLHvwz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				109
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "altc",
+						"indices": [
+							80,
+							85
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jOrGyLHvwz",
+						"expanded_url": "https://go.alt.ac.uk/30jMpIt",
+						"display_url": "go.alt.ac.uk/30jMpIt",
+						"indices": [
+							86,
+							109
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41210876,
+				"id_str": "41210876",
+				"name": "ALT - alt.ac.uk",
+				"screen_name": "A_L_T",
+				"location": "UK",
+				"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+				"url": "http://t.co/d7hBNekdUq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/d7hBNekdUq",
+								"expanded_url": "http://www.alt.ac.uk/",
+								"display_url": "alt.ac.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12561,
+				"friends_count": 3717,
+				"listed_count": 571,
+				"created_at": "Tue May 19 21:06:36 +0000 2009",
+				"favourites_count": 7626,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 20712,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1570791245",
+				"profile_link_color": "079948",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looking forward to contributing an @A_L_T perspective to this event speaking together with @mhawksey in Edinburgh on 7 February - come along to find out more about the funding and projects #altc #edtech #research https://t.co/qkO3NCfGKN"
+	},
+	{
 		"created_at": "Mon Jan 13 22:30:17 +0000 2020",
 		"id": 1216849978120949800,
 		"id_str": "1216849978120949772",
