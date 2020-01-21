@@ -1,6 +1,441 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 20 20:37:21 +0000 2020",
+		"id": 1219358271523426300,
+		"id_str": "1219358271523426304",
+		"full_text": "@villaronrubia @MarenDeepwell @A_L_T @MiaZamoraPhD @time_motion @disrupt_learn The pleasure goes both ways :)",
+		"truncated": false,
+		"display_text_range": [
+			79,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "villaronrubia",
+					"name": "Daniel Villar-Onrubia",
+					"id": 41424326,
+					"id_str": "41424326",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						15,
+						29
+					]
+				},
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						30,
+						36
+					]
+				},
+				{
+					"screen_name": "MiaZamoraPhD",
+					"name": "Mia Zamora",
+					"id": 579873574,
+					"id_str": "579873574",
+					"indices": [
+						37,
+						50
+					]
+				},
+				{
+					"screen_name": "time_motion",
+					"name": "Jonathan Shaw",
+					"id": 66360983,
+					"id_str": "66360983",
+					"indices": [
+						51,
+						63
+					]
+				},
+				{
+					"screen_name": "disrupt_learn",
+					"name": "Disruptive Media Learning Lab",
+					"id": 2521466321,
+					"id_str": "2521466321",
+					"indices": [
+						64,
+						78
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1219222750671392800,
+		"in_reply_to_status_id_str": "1219222750671392770",
+		"in_reply_to_user_id": 41424326,
+		"in_reply_to_user_id_str": "41424326",
+		"in_reply_to_screen_name": "villaronrubia",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8504,
+			"friends_count": 2488,
+			"listed_count": 620,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29258,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@villaronrubia @MarenDeepwell @A_L_T @MiaZamoraPhD @time_motion @disrupt_learn The pleasure goes both ways :)"
+	},
+	{
+		"created_at": "Mon Jan 20 20:36:13 +0000 2020",
+		"id": 1219357986155585500,
+		"id_str": "1219357986155585536",
+		"full_text": "@dsottimano @benlcollins @erickoleda Rather than a library I usually array functions like .map .reduce .filter https://t.co/Lu1njwKhUC",
+		"truncated": false,
+		"display_text_range": [
+			37,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dsottimano",
+					"name": "David Sottimano",
+					"id": 147616003,
+					"id_str": "147616003",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "benlcollins",
+					"name": "Ben Collins",
+					"id": 19338407,
+					"id_str": "19338407",
+					"indices": [
+						12,
+						24
+					]
+				},
+				{
+					"screen_name": "erickoleda",
+					"name": "Eric Koleda",
+					"id": 191872042,
+					"id_str": "191872042",
+					"indices": [
+						25,
+						36
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Lu1njwKhUC",
+					"expanded_url": "http://ramblings.mcpher.com/Home/excelquirks/gooscript/arrayfunctions",
+					"display_url": "ramblings.mcpher.com/Home/excelquir…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1219335558041940000,
+		"in_reply_to_status_id_str": "1219335558041939968",
+		"in_reply_to_user_id": 147616003,
+		"in_reply_to_user_id_str": "147616003",
+		"in_reply_to_screen_name": "dsottimano",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8504,
+			"friends_count": 2488,
+			"listed_count": 620,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29258,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@dsottimano @benlcollins @erickoleda Rather than a library I usually array functions like .map .reduce .filter https://t.co/Lu1njwKhUC"
+	},
+	{
+		"created_at": "Mon Jan 20 20:26:14 +0000 2020",
+		"id": 1219355474908319700,
+		"id_str": "1219355474908319744",
+		"full_text": "@TweetinChar @douglevin @edri @cogdog Thanks both for sharing these - I'm delving in :)",
+		"truncated": false,
+		"display_text_range": [
+			38,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TweetinChar",
+					"name": "CharlotteS. EU❤UK",
+					"id": 2919723412,
+					"id_str": "2919723412",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "douglevin",
+					"name": "DOUG LEVIN",
+					"id": 15270027,
+					"id_str": "15270027",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "edri",
+					"name": "EDRi",
+					"id": 84873971,
+					"id_str": "84873971",
+					"indices": [
+						24,
+						29
+					]
+				},
+				{
+					"screen_name": "cogdog",
+					"name": "Alan Levine",
+					"id": 740343,
+					"id_str": "740343",
+					"indices": [
+						30,
+						37
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1219322515643863000,
+		"in_reply_to_status_id_str": "1219322515643863040",
+		"in_reply_to_user_id": 2919723412,
+		"in_reply_to_user_id_str": "2919723412",
+		"in_reply_to_screen_name": "TweetinChar",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8504,
+			"friends_count": 2488,
+			"listed_count": 620,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29258,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TweetinChar @douglevin @edri @cogdog Thanks both for sharing these - I'm delving in :)"
+	},
+	{
 		"created_at": "Sun Jan 19 22:16:12 +0000 2020",
 		"id": 1219020762000085000,
 		"id_str": "1219020762000084992",
