@@ -1,6 +1,540 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 22 11:47:50 +0000 2020",
+		"id": 1219949791515414500,
+		"id_str": "1219949791515414528",
+		"full_text": "If you missed my #Domains19 talk I revisited some thoughts around 'openness in the age of surveillance' in this recording/event hosted by @WikimediaDE https://t.co/usR4F2IZ28 #OER20 #altc https://t.co/wFIWtbKPUw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Domains19",
+					"indices": [
+						17,
+						27
+					]
+				},
+				{
+					"text": "OER20",
+					"indices": [
+						175,
+						181
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						182,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WikimediaDE",
+					"name": "WikimediaDeutschland",
+					"id": 47948264,
+					"id_str": "47948264",
+					"indices": [
+						138,
+						150
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/usR4F2IZ28",
+					"expanded_url": "https://www.youtube.com/watch?v=e_59GUY4qcY&feature=youtu.be&t=1870",
+					"display_url": "youtube.com/watch?v=e_59GU…",
+					"indices": [
+						151,
+						174
+					]
+				},
+				{
+					"url": "https://t.co/wFIWtbKPUw",
+					"expanded_url": "https://twitter.com/friedelitis/status/1219615329292365826",
+					"display_url": "twitter.com/friedelitis/st…",
+					"indices": [
+						188,
+						211
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8503,
+			"friends_count": 2487,
+			"listed_count": 620,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6336,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1219615329292365800,
+		"quoted_status_id_str": "1219615329292365826",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wFIWtbKPUw",
+			"expanded": "https://twitter.com/friedelitis/status/1219615329292365826",
+			"display": "twitter.com/friedelitis/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 21 13:38:48 +0000 2020",
+			"id": 1219615329292365800,
+			"id_str": "1219615329292365826",
+			"full_text": "Recordings of “Open for a cause” are now online! \n\nFind them on our blog: https://t.co/89LsF3EIhj \n\n#OER20 @A_L_T @WikimediaDE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				126
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OER20",
+						"indices": [
+							100,
+							106
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "A_L_T",
+						"name": "ALT - alt.ac.uk",
+						"id": 41210876,
+						"id_str": "41210876",
+						"indices": [
+							107,
+							113
+						]
+					},
+					{
+						"screen_name": "WikimediaDE",
+						"name": "WikimediaDeutschland",
+						"id": 47948264,
+						"id_str": "47948264",
+						"indices": [
+							114,
+							126
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/89LsF3EIhj",
+						"expanded_url": "https://blog.wikimedia.de/2019/11/07/open-for-a-cause-fostering-participation-in-society-and-education/",
+						"display_url": "blog.wikimedia.de/2019/11/07/ope…",
+						"indices": [
+							74,
+							97
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 512388879,
+				"id_str": "512388879",
+				"name": "Christian Friedrich",
+				"screen_name": "friedelitis",
+				"location": "Berlin, Deutschland",
+				"description": "@WikimediaDE I @VConnecting I @octofuchs Learning on the (open) Web I Organizational Change I Podcasting I he/his Profile Pic: Gesine Born",
+				"url": "https://t.co/apxrJmtHT1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/apxrJmtHT1",
+								"expanded_url": "http://christianfriedrich.org",
+								"display_url": "christianfriedrich.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1823,
+				"friends_count": 1879,
+				"listed_count": 103,
+				"created_at": "Fri Mar 02 19:53:37 +0000 2012",
+				"favourites_count": 8600,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5850,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1177848172028272640/dLx7Lttq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1177848172028272640/dLx7Lttq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/512388879/1567503559",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you missed my #Domains19 talk I revisited some thoughts around 'openness in the age of surveillance' in this recording/event hosted by @WikimediaDE https://t.co/usR4F2IZ28 #OER20 #altc https://t.co/wFIWtbKPUw"
+	},
+	{
+		"created_at": "Wed Jan 22 09:44:38 +0000 2020",
+		"id": 1219918563747778600,
+		"id_str": "1219918786234589185",
+		"full_text": "Still time to join us later today at 12:30GMT #altc https://t.co/QeGmNpzROI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						46,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QeGmNpzROI",
+					"expanded_url": "https://twitter.com/wagjuer/status/1219902586049921024",
+					"display_url": "twitter.com/wagjuer/status…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12591,
+			"friends_count": 3719,
+			"listed_count": 571,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 7662,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 20817,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1570791245",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1219902586049921000,
+		"quoted_status_id_str": "1219902586049921024",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QeGmNpzROI",
+			"expanded": "https://twitter.com/wagjuer/status/1219902586049921024",
+			"display": "twitter.com/wagjuer/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 22 08:40:15 +0000 2020",
+			"id": 1219902586049921000,
+			"id_str": "1219902586049921024",
+			"full_text": "Copyright literacy and open practice: an ALT webinar - Association for Learning Technology https://t.co/dwByEKHNgV via @nuzzel",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				126
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nuzzel",
+						"name": "Nuzzel",
+						"id": 106041193,
+						"id_str": "106041193",
+						"indices": [
+							119,
+							126
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/dwByEKHNgV",
+						"expanded_url": "https://nzzl.us/gjAbdWQ",
+						"display_url": "nzzl.us/gjAbdWQ",
+						"indices": [
+							91,
+							114
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 31678345,
+				"id_str": "31678345",
+				"name": "Juergen Wagner",
+				"screen_name": "wagjuer",
+				"location": "Saarbrücken",
+				"description": "language teacher and e-learning specialist",
+				"url": "http://t.co/6vj8mPSH4b",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/6vj8mPSH4b",
+								"expanded_url": "http://about.me/wagjuer",
+								"display_url": "about.me/wagjuer",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5219,
+				"friends_count": 1662,
+				"listed_count": 1044,
+				"created_at": "Thu Apr 16 07:02:38 +0000 2009",
+				"favourites_count": 141671,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 251082,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1155508643867058183/Y9iuwaH-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1155508643867058183/Y9iuwaH-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/31678345/1562309020",
+				"profile_link_color": "252850",
+				"profile_sidebar_border_color": "D3D2CF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Still time to join us later today at 12:30GMT #altc https://t.co/QeGmNpzROI"
+	},
+	{
 		"created_at": "Tue Jan 21 20:38:17 +0000 2020",
 		"id": 1219720895742324700,
 		"id_str": "1219720895742324742",
