@@ -1,6 +1,784 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 23 20:17:40 +0000 2020",
+		"id": 1220440481273995300,
+		"id_str": "1220440481273995265",
+		"full_text": "Thanks @TechandEco for featuring my #GoogleAppsScript bulk email solution for #GSuite :) https://t.co/HECMwF9emI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						36,
+						53
+					]
+				},
+				{
+					"text": "GSuite",
+					"indices": [
+						78,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TechandEco",
+					"name": "Ecoregeneration and Tech",
+					"id": 1102403074591666200,
+					"id_str": "1102403074591666176",
+					"indices": [
+						7,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HECMwF9emI",
+					"expanded_url": "https://twitter.com/GSuiteDevs/status/1220436042106445824",
+					"display_url": "twitter.com/GSuiteDevs/sta…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8509,
+			"friends_count": 2488,
+			"listed_count": 620,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29271,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1220436042106445800,
+		"quoted_status_id_str": "1220436042106445824",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HECMwF9emI",
+			"expanded": "https://twitter.com/GSuiteDevs/status/1220436042106445824",
+			"display": "twitter.com/GSuiteDevs/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 23 20:00:01 +0000 2020",
+			"id": 1220436042106445800,
+			"id_str": "1220436042106445824",
+			"full_text": "📧 Gmail and Google sheets are teaming up… 🗒\n \n...to help you send emails with customized content to multiple recipients! Find out how in this episode of Sheets to Apps!\n \nWatch here → https://t.co/9zYxX6cDv6 https://t.co/ZZZ3lpzIuc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				207
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9zYxX6cDv6",
+						"expanded_url": "https://goo.gle/2TQHJJa",
+						"display_url": "goo.gle/2TQHJJa",
+						"indices": [
+							184,
+							207
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1220436040487506000,
+						"id_str": "1220436040487505925",
+						"indices": [
+							208,
+							231
+						],
+						"media_url": "http://pbs.twimg.com/media/EO_cHNhXkAUofGo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EO_cHNhXkAUofGo.jpg",
+						"url": "https://t.co/ZZZ3lpzIuc",
+						"display_url": "pic.twitter.com/ZZZ3lpzIuc",
+						"expanded_url": "https://twitter.com/GSuiteDevs/status/1220436042106445824/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": [
+									{
+										"x": 695,
+										"y": 44,
+										"h": 141,
+										"w": 141
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 695,
+										"y": 44,
+										"h": 141,
+										"w": 141
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 695,
+										"y": 44,
+										"h": 141,
+										"w": 141
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 461,
+										"y": 29,
+										"h": 93,
+										"w": 93
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1220436040487506000,
+						"id_str": "1220436040487505925",
+						"indices": [
+							208,
+							231
+						],
+						"media_url": "http://pbs.twimg.com/media/EO_cHNhXkAUofGo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EO_cHNhXkAUofGo.jpg",
+						"url": "https://t.co/ZZZ3lpzIuc",
+						"display_url": "pic.twitter.com/ZZZ3lpzIuc",
+						"expanded_url": "https://twitter.com/GSuiteDevs/status/1220436042106445824/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": [
+									{
+										"x": 695,
+										"y": 44,
+										"h": 141,
+										"w": 141
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 695,
+										"y": 44,
+										"h": 141,
+										"w": 141
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 695,
+										"y": 44,
+										"h": 141,
+										"w": 141
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 461,
+										"y": 29,
+										"h": 93,
+										"w": 93
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 111197966,
+				"id_str": "111197966",
+				"name": "G Suite Developers",
+				"screen_name": "GSuiteDevs",
+				"location": "",
+				"description": "Official G Suite Developer feed.\n\nSubscribe to our monthly newsletter: \nhttps://t.co/vjpWf7hSnk",
+				"url": "https://t.co/GkUhgOjCaA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GkUhgOjCaA",
+								"expanded_url": "http://developers.google.com/gsuite",
+								"display_url": "developers.google.com/gsuite",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/vjpWf7hSnk",
+								"expanded_url": "https://developers.google.com/gsuite/newsletters/#subscribe",
+								"display_url": "developers.google.com/gsuite/newslet…",
+								"indices": [
+									72,
+									95
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 328729,
+				"friends_count": 41,
+				"listed_count": 2777,
+				"created_at": "Thu Feb 04 03:22:30 +0000 2010",
+				"favourites_count": 13,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 656,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/781544329416351744/1Phh0h2q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/781544329416351744/1Phh0h2q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/111197966/1558458191",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 34,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks @TechandEco for featuring my #GoogleAppsScript bulk email solution for #GSuite :) https://t.co/HECMwF9emI"
+	},
+	{
+		"created_at": "Thu Jan 23 19:07:24 +0000 2020",
+		"id": 1220422799946371000,
+		"id_str": "1220422799946371072",
+		"full_text": "Change These Facebook Settings to Protect Your Photos From Facial Recognition Software https://t.co/9hJfWlhLdy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9hJfWlhLdy",
+					"expanded_url": "https://lifehacker.com/change-these-facebook-settings-to-protect-your-photos-f-1841131425",
+					"display_url": "lifehacker.com/change-these-f…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8509,
+			"friends_count": 2488,
+			"listed_count": 620,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29271,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Change These Facebook Settings to Protect Your Photos From Facial Recognition Software https://t.co/9hJfWlhLdy"
+	},
+	{
+		"created_at": "Thu Jan 23 19:05:13 +0000 2020",
+		"id": 1220393018156433400,
+		"id_str": "1220422251050426371",
+		"full_text": "Google Apps Script snippet for Google Sheets to view json strings in a modal dialog by @rieln (contributed by @mhawksey) #GSuiteDevs #GoogleAppsScript https://t.co/0ll48hVvmJ https://t.co/szWVftIF19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						121,
+						132
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						133,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rieln",
+					"name": "Riël Notermans",
+					"id": 161309732,
+					"id_str": "161309732",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey #altc",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						110,
+						119
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0ll48hVvmJ",
+					"expanded_url": "https://pulse.appsscript.info/p/2020/01/google-apps-script-snippet-for-google-sheets-to-view-json-strings-in-a-modal-dialog/",
+					"display_url": "pulse.appsscript.info/p/2020/01/goog…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1220393015937622000,
+					"id_str": "1220393015937622017",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EO-0-2lUYAExr5F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EO-0-2lUYAExr5F.jpg",
+					"url": "https://t.co/szWVftIF19",
+					"display_url": "pic.twitter.com/szWVftIF19",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1220393018156433408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1571,
+							"h": 1166,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 505,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 891,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1220393015937622000,
+					"id_str": "1220393015937622017",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EO-0-2lUYAExr5F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EO-0-2lUYAExr5F.jpg",
+					"url": "https://t.co/szWVftIF19",
+					"display_url": "pic.twitter.com/szWVftIF19",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1220393018156433408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1571,
+							"h": 1166,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 505,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 891,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322526439,
+			"id_str": "322526439",
+			"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+			"screen_name": "AppsScriptInfo",
+			"location": "World",
+			"description": "A Google Apps Script Community account to support #GSuiteDevs. Curated by @mhawksey",
+			"url": "https://t.co/1OwN2T5Za9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1OwN2T5Za9",
+							"expanded_url": "http://tu.appsscript.info",
+							"display_url": "tu.appsscript.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 400,
+			"friends_count": 618,
+			"listed_count": 14,
+			"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+			"favourites_count": 218,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+			"profile_link_color": "4286F4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Google Apps Script snippet for Google Sheets to view json strings in a modal dialog by @rieln (contributed by @mhawksey) #GSuiteDevs #GoogleAppsScript https://t.co/0ll48hVvmJ https://t.co/szWVftIF19"
+	},
+	{
 		"created_at": "Wed Jan 22 11:47:50 +0000 2020",
 		"id": 1219949791515414500,
 		"id_str": "1219949791515414528",
