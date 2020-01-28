@@ -1,6 +1,2396 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 27 21:12:57 +0000 2020",
+		"id": 1221903947948089300,
+		"id_str": "1221903947948089345",
+		"full_text": "@Gr3m @mozart_34 @AppsScriptInfo ... but isn't G Suite part of Google Cloud https://t.co/CjrYoC1Edm",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Gr3m",
+					"name": "Jérémy Dessalines",
+					"id": 50463734,
+					"id_str": "50463734",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"screen_name": "mozart_34",
+					"name": "Mozart.34",
+					"id": 83852970,
+					"id_str": "83852970",
+					"indices": [
+						6,
+						16
+					]
+				},
+				{
+					"screen_name": "AppsScriptInfo",
+					"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+					"id": 322526439,
+					"id_str": "322526439",
+					"indices": [
+						17,
+						32
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1221903931678298000,
+					"id_str": "1221903931678298115",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/EPUTJuVWkAMBTpb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPUTJuVWkAMBTpb.jpg",
+					"url": "https://t.co/CjrYoC1Edm",
+					"display_url": "pic.twitter.com/CjrYoC1Edm",
+					"expanded_url": "https://twitter.com/mhawksey/status/1221903947948089345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 459,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 809,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1381,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1552,
+									"y": 1192,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 1696,
+									"y": 1200,
+									"h": 112,
+									"w": 112
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 515,
+									"y": 395,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 563,
+									"y": 398,
+									"h": 37,
+									"w": 37
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 909,
+									"y": 698,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 993,
+									"y": 703,
+									"h": 65,
+									"w": 65
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1552,
+									"y": 1192,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 1696,
+									"y": 1200,
+									"h": 112,
+									"w": 112
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1221903931678298000,
+					"id_str": "1221903931678298115",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/EPUTJuVWkAMBTpb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPUTJuVWkAMBTpb.jpg",
+					"url": "https://t.co/CjrYoC1Edm",
+					"display_url": "pic.twitter.com/CjrYoC1Edm",
+					"expanded_url": "https://twitter.com/mhawksey/status/1221903947948089345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 459,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 809,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1381,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1552,
+									"y": 1192,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 1696,
+									"y": 1200,
+									"h": 112,
+									"w": 112
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 515,
+									"y": 395,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 563,
+									"y": 398,
+									"h": 37,
+									"w": 37
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 909,
+									"y": 698,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 993,
+									"y": 703,
+									"h": 65,
+									"w": 65
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1552,
+									"y": 1192,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 1696,
+									"y": 1200,
+									"h": 112,
+									"w": 112
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1221892682513027000,
+		"in_reply_to_status_id_str": "1221892682513027075",
+		"in_reply_to_user_id": 50463734,
+		"in_reply_to_user_id_str": "50463734",
+		"in_reply_to_screen_name": "Gr3m",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8521,
+			"friends_count": 2493,
+			"listed_count": 619,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29291,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Gr3m @mozart_34 @AppsScriptInfo ... but isn't G Suite part of Google Cloud https://t.co/CjrYoC1Edm"
+	},
+	{
+		"created_at": "Mon Jan 27 19:50:10 +0000 2020",
+		"id": 1221883113137229800,
+		"id_str": "1221883113137229825",
+		"full_text": "This is how a popular free antivirus program sells your data - via @techreview https://t.co/y1onLCKElc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "techreview",
+					"name": "MIT Technology Review",
+					"id": 15808647,
+					"id_str": "15808647",
+					"indices": [
+						67,
+						78
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/y1onLCKElc",
+					"expanded_url": "https://www.technologyreview.com/f/615096/this-is-how-a-popular-free-antivirus-program-sells-your-data/",
+					"display_url": "technologyreview.com/f/615096/this-…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8521,
+			"friends_count": 2493,
+			"listed_count": 619,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29291,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is how a popular free antivirus program sells your data - via @techreview https://t.co/y1onLCKElc"
+	},
+	{
+		"created_at": "Mon Jan 27 19:20:21 +0000 2020",
+		"id": 1221875609309274000,
+		"id_str": "1221875609309274113",
+		"full_text": "I'm guessing the next #AppSheet office hours is going to be popular. Next Session: 9AM PT/5PM GMT, Tuesday, 28 January. https://t.co/JU3N41UlUF #GSuiteDevs #AppMaker #GoogleAppsScript https://t.co/YsweyoLtD9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AppSheet",
+					"indices": [
+						22,
+						31
+					]
+				},
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						144,
+						155
+					]
+				},
+				{
+					"text": "AppMaker",
+					"indices": [
+						156,
+						165
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						166,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JU3N41UlUF",
+					"expanded_url": "https://solutions.appsheet.com/webinars",
+					"display_url": "solutions.appsheet.com/webinars",
+					"indices": [
+						120,
+						143
+					]
+				},
+				{
+					"url": "https://t.co/YsweyoLtD9",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1221835983110406145",
+					"display_url": "twitter.com/AppsScriptInfo…",
+					"indices": [
+						184,
+						207
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8521,
+			"friends_count": 2493,
+			"listed_count": 619,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29291,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1221835983110406100,
+		"quoted_status_id_str": "1221835983110406145",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YsweyoLtD9",
+			"expanded": "https://twitter.com/AppsScriptInfo/status/1221835983110406145",
+			"display": "twitter.com/AppsScriptInfo…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 27 16:42:53 +0000 2020",
+			"id": 1221835983110406100,
+			"id_str": "1221835983110406145",
+			"full_text": "App Maker will be shut down on January 19, 2021 (contributed by @mhawksey) #GSuiteDevs #GoogleAppsScript #AppMaker https://t.co/DDKAamn3wc https://t.co/8hOWBYR4PM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				138
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GSuiteDevs",
+						"indices": [
+							75,
+							86
+						]
+					},
+					{
+						"text": "GoogleAppsScript",
+						"indices": [
+							87,
+							104
+						]
+					},
+					{
+						"text": "AppMaker",
+						"indices": [
+							105,
+							114
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mhawksey",
+						"name": "Martin Hawksey #altc",
+						"id": 13046992,
+						"id_str": "13046992",
+						"indices": [
+							64,
+							73
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/DDKAamn3wc",
+						"expanded_url": "https://pulse.appsscript.info/p/2020/01/app-maker-will-be-shut-down-on-january-19-2021/",
+						"display_url": "pulse.appsscript.info/p/2020/01/app-…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1221835901719982000,
+						"id_str": "1221835901719982081",
+						"indices": [
+							139,
+							162
+						],
+						"media_url": "http://pbs.twimg.com/media/EPTVR2_WsAE_Kef.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPTVR2_WsAE_Kef.jpg",
+						"url": "https://t.co/8hOWBYR4PM",
+						"display_url": "pic.twitter.com/8hOWBYR4PM",
+						"expanded_url": "https://twitter.com/AppsScriptInfo/status/1221835983110406145/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 435,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 614,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 614,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 344,
+										"y": 204,
+										"h": 39,
+										"w": 39
+									},
+									{
+										"x": 462,
+										"y": 135,
+										"h": 58,
+										"w": 58
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 486,
+										"y": 288,
+										"h": 56,
+										"w": 56
+									},
+									{
+										"x": 653,
+										"y": 191,
+										"h": 82,
+										"w": 82
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 486,
+										"y": 288,
+										"h": 56,
+										"w": 56
+									},
+									{
+										"x": 653,
+										"y": 191,
+										"h": 82,
+										"w": 82
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 486,
+										"y": 288,
+										"h": 56,
+										"w": 56
+									},
+									{
+										"x": 653,
+										"y": 191,
+										"h": 82,
+										"w": 82
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1221835901719982000,
+						"id_str": "1221835901719982081",
+						"indices": [
+							139,
+							162
+						],
+						"media_url": "http://pbs.twimg.com/media/EPTVR2_WsAE_Kef.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPTVR2_WsAE_Kef.jpg",
+						"url": "https://t.co/8hOWBYR4PM",
+						"display_url": "pic.twitter.com/8hOWBYR4PM",
+						"expanded_url": "https://twitter.com/AppsScriptInfo/status/1221835983110406145/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 435,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 614,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 614,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 344,
+										"y": 204,
+										"h": 39,
+										"w": 39
+									},
+									{
+										"x": 462,
+										"y": 135,
+										"h": 58,
+										"w": 58
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 486,
+										"y": 288,
+										"h": 56,
+										"w": 56
+									},
+									{
+										"x": 653,
+										"y": 191,
+										"h": 82,
+										"w": 82
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 486,
+										"y": 288,
+										"h": 56,
+										"w": 56
+									},
+									{
+										"x": 653,
+										"y": 191,
+										"h": 82,
+										"w": 82
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 486,
+										"y": 288,
+										"h": 56,
+										"w": 56
+									},
+									{
+										"x": 653,
+										"y": 191,
+										"h": 82,
+										"w": 82
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 322526439,
+				"id_str": "322526439",
+				"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+				"screen_name": "AppsScriptInfo",
+				"location": "World",
+				"description": "A Google Apps Script Community account to support #GSuiteDevs. Curated by @mhawksey",
+				"url": "https://t.co/pEqPAHFH4F",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pEqPAHFH4F",
+								"expanded_url": "https://pulse.appsscript.info",
+								"display_url": "pulse.appsscript.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 408,
+				"friends_count": 629,
+				"listed_count": 16,
+				"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+				"favourites_count": 225,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1451,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+				"profile_link_color": "4286F4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm guessing the next #AppSheet office hours is going to be popular. Next Session: 9AM PT/5PM GMT, Tuesday, 28 January. https://t.co/JU3N41UlUF #GSuiteDevs #AppMaker #GoogleAppsScript https://t.co/YsweyoLtD9"
+	},
+	{
+		"created_at": "Mon Jan 27 17:48:36 +0000 2020",
+		"id": 1221852521649578000,
+		"id_str": "1221852521649577985",
+		"full_text": "@mozart_34 @AppsScriptInfo I've the same question - given the purchase was only recently announced hopefully news on this particular aspect will follow",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mozart_34",
+					"name": "Mozart.34",
+					"id": 83852970,
+					"id_str": "83852970",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "AppsScriptInfo",
+					"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+					"id": 322526439,
+					"id_str": "322526439",
+					"indices": [
+						11,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1221844293826097200,
+		"in_reply_to_status_id_str": "1221844293826097157",
+		"in_reply_to_user_id": 83852970,
+		"in_reply_to_user_id_str": "83852970",
+		"in_reply_to_screen_name": "mozart_34",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8521,
+			"friends_count": 2493,
+			"listed_count": 619,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29291,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mozart_34 @AppsScriptInfo I've the same question - given the purchase was only recently announced hopefully news on this particular aspect will follow"
+	},
+	{
+		"created_at": "Mon Jan 27 16:54:16 +0000 2020",
+		"id": 1221838845815279600,
+		"id_str": "1221838845815279616",
+		"full_text": "@schoraria911 @TechandEco @gsuite I'm not sure what production software they use but DaVinci Resolve is very powerful and free!\n https://t.co/8VbLhgeobx",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "schoraria911",
+					"name": "Sourabh Choraria",
+					"id": 1145333591867453400,
+					"id_str": "1145333591867453440",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "TechandEco",
+					"name": "Ecoregeneration and Tech",
+					"id": 1102403074591666200,
+					"id_str": "1102403074591666176",
+					"indices": [
+						14,
+						25
+					]
+				},
+				{
+					"screen_name": "gsuite",
+					"name": "G Suite",
+					"id": 17003765,
+					"id_str": "17003765",
+					"indices": [
+						26,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8VbLhgeobx",
+					"expanded_url": "https://www.blackmagicdesign.com/uk/products/davinciresolve/",
+					"display_url": "blackmagicdesign.com/uk/products/da…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1221838251268264000,
+		"in_reply_to_status_id_str": "1221838251268263936",
+		"in_reply_to_user_id": 1145333591867453400,
+		"in_reply_to_user_id_str": "1145333591867453440",
+		"in_reply_to_screen_name": "schoraria911",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8521,
+			"friends_count": 2493,
+			"listed_count": 619,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29291,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@schoraria911 @TechandEco @gsuite I'm not sure what production software they use but DaVinci Resolve is very powerful and free!\n https://t.co/8VbLhgeobx"
+	},
+	{
+		"created_at": "Mon Jan 27 16:52:14 +0000 2020",
+		"id": 1221838337159372800,
+		"id_str": "1221838337159372800",
+		"full_text": "@no_substitute @AppsScriptInfo ...also the subject line in the App Maker google group announcing this news https://t.co/XD6zPlOcwY",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "no_substitute",
+					"name": "Kim Nilsson",
+					"id": 60000498,
+					"id_str": "60000498",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "AppsScriptInfo",
+					"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+					"id": 322526439,
+					"id_str": "322526439",
+					"indices": [
+						15,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XD6zPlOcwY",
+					"expanded_url": "https://groups.google.com/d/topic/appmaker-users/bzij47h8xHE/discussion",
+					"display_url": "groups.google.com/d/topic/appmak…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1221837939178688500,
+		"in_reply_to_status_id_str": "1221837939178688515",
+		"in_reply_to_user_id": 60000498,
+		"in_reply_to_user_id_str": "60000498",
+		"in_reply_to_screen_name": "no_substitute",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8521,
+			"friends_count": 2493,
+			"listed_count": 619,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29291,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@no_substitute @AppsScriptInfo ...also the subject line in the App Maker google group announcing this news https://t.co/XD6zPlOcwY"
+	},
+	{
+		"created_at": "Mon Jan 27 16:46:11 +0000 2020",
+		"id": 1221835983110406100,
+		"id_str": "1221836812756357121",
+		"full_text": "App Maker will be shut down on January 19, 2021 (contributed by @mhawksey) #GSuiteDevs #GoogleAppsScript #AppMaker https://t.co/DDKAamn3wc https://t.co/8hOWBYR4PM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						75,
+						86
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						87,
+						104
+					]
+				},
+				{
+					"text": "AppMaker",
+					"indices": [
+						105,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey #altc",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						64,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DDKAamn3wc",
+					"expanded_url": "https://pulse.appsscript.info/p/2020/01/app-maker-will-be-shut-down-on-january-19-2021/",
+					"display_url": "pulse.appsscript.info/p/2020/01/app-…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1221835901719982000,
+					"id_str": "1221835901719982081",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EPTVR2_WsAE_Kef.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPTVR2_WsAE_Kef.jpg",
+					"url": "https://t.co/8hOWBYR4PM",
+					"display_url": "pic.twitter.com/8hOWBYR4PM",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1221835983110406145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 435,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 614,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 614,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 344,
+									"y": 204,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 462,
+									"y": 135,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 486,
+									"y": 288,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 653,
+									"y": 191,
+									"h": 82,
+									"w": 82
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 486,
+									"y": 288,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 653,
+									"y": 191,
+									"h": 82,
+									"w": 82
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 486,
+									"y": 288,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 653,
+									"y": 191,
+									"h": 82,
+									"w": 82
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1221835901719982000,
+					"id_str": "1221835901719982081",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EPTVR2_WsAE_Kef.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPTVR2_WsAE_Kef.jpg",
+					"url": "https://t.co/8hOWBYR4PM",
+					"display_url": "pic.twitter.com/8hOWBYR4PM",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1221835983110406145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 435,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 614,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 614,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 344,
+									"y": 204,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 462,
+									"y": 135,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 486,
+									"y": 288,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 653,
+									"y": 191,
+									"h": 82,
+									"w": 82
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 486,
+									"y": 288,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 653,
+									"y": 191,
+									"h": 82,
+									"w": 82
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 486,
+									"y": 288,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 653,
+									"y": 191,
+									"h": 82,
+									"w": 82
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322526439,
+			"id_str": "322526439",
+			"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+			"screen_name": "AppsScriptInfo",
+			"location": "World",
+			"description": "A Google Apps Script Community account to support #GSuiteDevs. Curated by @mhawksey",
+			"url": "https://t.co/pEqPAHFH4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEqPAHFH4F",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 408,
+			"friends_count": 629,
+			"listed_count": 16,
+			"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+			"favourites_count": 225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1451,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+			"profile_link_color": "4286F4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "App Maker will be shut down on January 19, 2021 (contributed by @mhawksey) #GSuiteDevs #GoogleAppsScript #AppMaker https://t.co/DDKAamn3wc https://t.co/8hOWBYR4PM"
+	},
+	{
+		"created_at": "Mon Jan 27 16:40:49 +0000 2020",
+		"id": 1221835463029416000,
+		"id_str": "1221835463029415936",
+		"full_text": "@schoraria911 @TechandEco @gsuite Lots of kit and production crews! This is one of their studios https://t.co/x4GQHPvt6P",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "schoraria911",
+					"name": "Sourabh Choraria",
+					"id": 1145333591867453400,
+					"id_str": "1145333591867453440",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "TechandEco",
+					"name": "Ecoregeneration and Tech",
+					"id": 1102403074591666200,
+					"id_str": "1102403074591666176",
+					"indices": [
+						14,
+						25
+					]
+				},
+				{
+					"screen_name": "gsuite",
+					"name": "G Suite",
+					"id": 17003765,
+					"id_str": "17003765",
+					"indices": [
+						26,
+						33
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1221835441533542400,
+					"id_str": "1221835441533542400",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EPTU3EqW4AAzmfm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPTU3EqW4AAzmfm.jpg",
+					"url": "https://t.co/x4GQHPvt6P",
+					"display_url": "pic.twitter.com/x4GQHPvt6P",
+					"expanded_url": "https://twitter.com/mhawksey/status/1221835463029415936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 482,
+									"y": 336,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 1017,
+									"y": 350,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 192,
+									"y": 442,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 431,
+									"y": 358,
+									"h": 161,
+									"w": 161
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 824,
+									"y": 574,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 1736,
+									"y": 598,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 328,
+									"y": 756,
+									"h": 122,
+									"w": 122
+								},
+								{
+									"x": 736,
+									"y": 612,
+									"h": 276,
+									"w": 276
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 273,
+									"y": 190,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 576,
+									"y": 198,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 108,
+									"y": 251,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 244,
+									"y": 203,
+									"h": 91,
+									"w": 91
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 824,
+									"y": 574,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 1736,
+									"y": 598,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 328,
+									"y": 756,
+									"h": 122,
+									"w": 122
+								},
+								{
+									"x": 736,
+									"y": 612,
+									"h": 276,
+									"w": 276
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1221835441533542400,
+					"id_str": "1221835441533542400",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EPTU3EqW4AAzmfm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPTU3EqW4AAzmfm.jpg",
+					"url": "https://t.co/x4GQHPvt6P",
+					"display_url": "pic.twitter.com/x4GQHPvt6P",
+					"expanded_url": "https://twitter.com/mhawksey/status/1221835463029415936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 482,
+									"y": 336,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 1017,
+									"y": 350,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 192,
+									"y": 442,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 431,
+									"y": 358,
+									"h": 161,
+									"w": 161
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 824,
+									"y": 574,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 1736,
+									"y": 598,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 328,
+									"y": 756,
+									"h": 122,
+									"w": 122
+								},
+								{
+									"x": 736,
+									"y": 612,
+									"h": 276,
+									"w": 276
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 273,
+									"y": 190,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 576,
+									"y": 198,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 108,
+									"y": 251,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 244,
+									"y": 203,
+									"h": 91,
+									"w": 91
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 824,
+									"y": 574,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 1736,
+									"y": 598,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 328,
+									"y": 756,
+									"h": 122,
+									"w": 122
+								},
+								{
+									"x": 736,
+									"y": 612,
+									"h": 276,
+									"w": 276
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1221827915832148000,
+		"in_reply_to_status_id_str": "1221827915832147968",
+		"in_reply_to_user_id": 1145333591867453400,
+		"in_reply_to_user_id_str": "1145333591867453440",
+		"in_reply_to_screen_name": "schoraria911",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8521,
+			"friends_count": 2493,
+			"listed_count": 619,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29291,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@schoraria911 @TechandEco @gsuite Lots of kit and production crews! This is one of their studios https://t.co/x4GQHPvt6P"
+	},
+	{
+		"created_at": "Mon Jan 27 14:58:57 +0000 2020",
+		"id": 1221771412781834200,
+		"id_str": "1221809827585888257",
+		"full_text": "Create a mail merge using Gmail and Google Sheets | Sheets to Apps (contributed by @mhawksey) #GSuiteDevs #GoogleAppsScript https://t.co/C7xT7yDyRl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						94,
+						105
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						106,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey #altc",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						83,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/C7xT7yDyRl",
+					"expanded_url": "https://pulse.appsscript.info/p/2020/01/create-a-mail-merge-using-gmail-and-google-sheets-sheets-to-apps/",
+					"display_url": "pulse.appsscript.info/p/2020/01/crea…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322526439,
+			"id_str": "322526439",
+			"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+			"screen_name": "AppsScriptInfo",
+			"location": "World",
+			"description": "A Google Apps Script Community account to support #GSuiteDevs. Curated by @mhawksey",
+			"url": "https://t.co/pEqPAHFH4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEqPAHFH4F",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 408,
+			"friends_count": 629,
+			"listed_count": 16,
+			"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+			"favourites_count": 225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1451,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+			"profile_link_color": "4286F4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Create a mail merge using Gmail and Google Sheets | Sheets to Apps (contributed by @mhawksey) #GSuiteDevs #GoogleAppsScript https://t.co/C7xT7yDyRl"
+	},
+	{
+		"created_at": "Mon Jan 27 09:11:19 +0000 2020",
+		"id": 1220395695850578000,
+		"id_str": "1221722341719334912",
+		"full_text": "Scottish Open Data Unconference 2020 https://t.co/1wKFEDWOij Of interest to #OpenScot #OpenScotland?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OpenScot",
+					"indices": [
+						76,
+						85
+					]
+				},
+				{
+					"text": "OpenScotland",
+					"indices": [
+						86,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1wKFEDWOij",
+					"expanded_url": "https://codethecity.org/scottish-open-data-unconference-2020/",
+					"display_url": "codethecity.org/scottish-open-…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4016151,
+			"id_str": "4016151",
+			"name": "Lorna M. Campbell",
+			"screen_name": "LornaMCampbell",
+			"location": "Glasgow / Edinburgh / Lewis",
+			"description": "Open education technology, policy & practice @EdinburghUni. @A_L_T, & @WikimediaUK Trustee. #oer #openscot #femedtech #cmalt. She/her.",
+			"url": "https://t.co/9HmEQnxTzb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9HmEQnxTzb",
+							"expanded_url": "http://lornamcampbell.org",
+							"display_url": "lornamcampbell.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4360,
+			"friends_count": 2824,
+			"listed_count": 216,
+			"created_at": "Tue Apr 10 11:25:09 +0000 2007",
+			"favourites_count": 37732,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36661,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "AFD3F2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/768472775090638851/1bgBAlp7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/768472775090638851/1bgBAlp7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4016151/1445333850",
+			"profile_link_color": "1F59AB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Scottish Open Data Unconference 2020 https://t.co/1wKFEDWOij Of interest to #OpenScot #OpenScotland?"
+	},
+	{
 		"created_at": "Sun Jan 26 20:27:08 +0000 2020",
 		"id": 1221530028716036000,
 		"id_str": "1221530028716036097",
