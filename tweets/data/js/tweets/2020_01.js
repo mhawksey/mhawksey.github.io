@@ -1,6 +1,699 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 30 21:19:53 +0000 2020",
+		"id": 1222992856513753000,
+		"id_str": "1222992856513753107",
+		"full_text": "@philbarker's reflections on  Devolved Management of OER in Irish Higher Education #altc #OpenEdSIG #OER20\n https://t.co/DMTxdroMfY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "OpenEdSIG",
+					"indices": [
+						89,
+						99
+					]
+				},
+				{
+					"text": "OER20",
+					"indices": [
+						100,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "philbarker",
+					"name": "Phil Barker 🐝",
+					"id": 11143372,
+					"id_str": "11143372",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DMTxdroMfY",
+					"expanded_url": "https://blogs.pjjk.net/phil/devolved-management-of-oer-in-irish-higher-education/",
+					"display_url": "blogs.pjjk.net/phil/devolved-…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 11143372,
+		"in_reply_to_user_id_str": "11143372",
+		"in_reply_to_screen_name": "philbarker",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8524,
+			"friends_count": 2495,
+			"listed_count": 619,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6352,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29315,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@philbarker's reflections on  Devolved Management of OER in Irish Higher Education #altc #OpenEdSIG #OER20\n https://t.co/DMTxdroMfY"
+	},
+	{
+		"created_at": "Thu Jan 30 15:37:05 +0000 2020",
+		"id": 1222899832194392000,
+		"id_str": "1222906587825598469",
+		"full_text": "Learn how to automate tedious tasks in Google Sheets with the Automation with Apps Script course.\n\n▪️ connect #GoogleSheets to Gmail, Docs, Calendar\n▪️ connect to APIs 📡\n▪️ lifetime access to materials 👍\n▪️ and much, much more! 🤓\n\nhttps://t.co/deyaBaLUBr\n\n#AppsScript",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleSheets",
+					"indices": [
+						110,
+						123
+					]
+				},
+				{
+					"text": "AppsScript",
+					"indices": [
+						256,
+						267
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/deyaBaLUBr",
+					"expanded_url": "http://bit.ly/2XV0Q3r",
+					"display_url": "bit.ly/2XV0Q3r",
+					"indices": [
+						231,
+						254
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19338407,
+			"id_str": "19338407",
+			"name": "Ben Collins",
+			"screen_name": "benlcollins",
+			"location": "Harpers Ferry, WV",
+			"description": "I teach online courses. Google Developer Expert for G Suite, focussed on G Sheets/Data Studio/Apps Script.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4049,
+			"friends_count": 520,
+			"listed_count": 267,
+			"created_at": "Thu Jan 22 13:43:22 +0000 2009",
+			"favourites_count": 7866,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8311,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CFCFCF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/966495721598935040/y1KUcaEN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/966495721598935040/y1KUcaEN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19338407/1415055908",
+			"profile_link_color": "619DE6",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "ECFFD6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Learn how to automate tedious tasks in Google Sheets with the Automation with Apps Script course.\n\n▪️ connect #GoogleSheets to Gmail, Docs, Calendar\n▪️ connect to APIs 📡\n▪️ lifetime access to materials 👍\n▪️ and much, much more! 🤓\n\nhttps://t.co/deyaBaLUBr\n\n#AppsScript"
+	},
+	{
+		"created_at": "Thu Jan 30 15:37:00 +0000 2020",
+		"id": 1222903633362088000,
+		"id_str": "1222906567286280194",
+		"full_text": "Just found out about SpreadsheetApp.flush() and obviously, couldn't help myself 😛\n\n#GoogleAppsScript #GSuiteDevs #GoogleSheets #LowCode https://t.co/qZhq1MdQFc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						83,
+						100
+					]
+				},
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						101,
+						112
+					]
+				},
+				{
+					"text": "GoogleSheets",
+					"indices": [
+						113,
+						126
+					]
+				},
+				{
+					"text": "LowCode",
+					"indices": [
+						127,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1222903610133991400,
+					"id_str": "1222903610133991425",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EPigWqyUUAE5CQG.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EPigWqyUUAE5CQG.jpg",
+					"url": "https://t.co/qZhq1MdQFc",
+					"display_url": "pic.twitter.com/qZhq1MdQFc",
+					"expanded_url": "https://twitter.com/schoraria911/status/1222903633362087936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 431,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 710,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 710,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1222903610133991400,
+					"id_str": "1222903610133991425",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EPigWqyUUAE5CQG.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EPigWqyUUAE5CQG.jpg",
+					"url": "https://t.co/qZhq1MdQFc",
+					"display_url": "pic.twitter.com/qZhq1MdQFc",
+					"expanded_url": "https://twitter.com/schoraria911/status/1222903633362087936/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 431,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 710,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 710,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							71,
+							45
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EPigWqyUUAE5CQG.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1145333591867453400,
+			"id_str": "1145333591867453440",
+			"name": "Sourabh Choraria",
+			"screen_name": "schoraria911",
+			"location": "Bengaluru, India",
+			"description": "#GoogleAppsScript junkie ➡️; love pizzas, #automations, cycling, workarounds & documentation (not necessarily in that order)!",
+			"url": "https://t.co/5SWxwokMx8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5SWxwokMx8",
+							"expanded_url": "https://script.gs",
+							"display_url": "script.gs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 135,
+			"friends_count": 76,
+			"listed_count": 2,
+			"created_at": "Sun Jun 30 14:09:42 +0000 2019",
+			"favourites_count": 1566,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 591,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145333882851512320/Tyu8mj24_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145333882851512320/Tyu8mj24_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1145333591867453440/1561909439",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just found out about SpreadsheetApp.flush() and obviously, couldn't help myself 😛\n\n#GoogleAppsScript #GSuiteDevs #GoogleSheets #LowCode https://t.co/qZhq1MdQFc"
+	},
+	{
+		"created_at": "Thu Jan 30 14:10:18 +0000 2020",
+		"id": 1222882386716844000,
+		"id_str": "1222884747795484673",
+		"full_text": "ALT are inviting applications from individuals to become the next Chair of the Association. Applications close on 14 February. Find out more here - https://t.co/YJqdKINFjy #altc https://t.co/Zjmvv1cqSD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						172,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YJqdKINFjy",
+					"expanded_url": "https://go.alt.ac.uk/2O1xy0A",
+					"display_url": "go.alt.ac.uk/2O1xy0A",
+					"indices": [
+						148,
+						171
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1222882385240281000,
+					"id_str": "1222882385240281088",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EPiNDN5UUAA_sDW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPiNDN5UUAA_sDW.jpg",
+					"url": "https://t.co/Zjmvv1cqSD",
+					"display_url": "pic.twitter.com/Zjmvv1cqSD",
+					"expanded_url": "https://twitter.com/A_L_T/status/1222882386716844034/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 322,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 322,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 322,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1222882385240281000,
+					"id_str": "1222882385240281088",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EPiNDN5UUAA_sDW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPiNDN5UUAA_sDW.jpg",
+					"url": "https://t.co/Zjmvv1cqSD",
+					"display_url": "pic.twitter.com/Zjmvv1cqSD",
+					"expanded_url": "https://twitter.com/A_L_T/status/1222882386716844034/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 322,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 322,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 322,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12617,
+			"friends_count": 3721,
+			"listed_count": 572,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 7699,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 20882,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1579863460",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ALT are inviting applications from individuals to become the next Chair of the Association. Applications close on 14 February. Find out more here - https://t.co/YJqdKINFjy #altc https://t.co/Zjmvv1cqSD"
+	},
+	{
 		"created_at": "Wed Jan 29 22:00:22 +0000 2020",
 		"id": 1222640657082278000,
 		"id_str": "1222640657082277888",
