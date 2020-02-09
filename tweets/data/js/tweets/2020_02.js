@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 08 08:43:52 +0000 2020",
+		"id": 1226064088557670400,
+		"id_str": "1226064088557670401",
+		"full_text": "@seldo @schoraria911 @GSuiteDevs @v8js @AppsScriptInfo In case it helps console.log exists as a method but as it feeds into StackDriver needs some extra setup https://t.co/LFCd6JeYz2",
+		"truncated": false,
+		"display_text_range": [
+			55,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seldo",
+					"name": "Laurie Voss",
+					"id": 15453,
+					"id_str": "15453",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "schoraria911",
+					"name": "Sourabh Choraria",
+					"id": 1145333591867453400,
+					"id_str": "1145333591867453440",
+					"indices": [
+						7,
+						20
+					]
+				},
+				{
+					"screen_name": "GSuiteDevs",
+					"name": "G Suite Developers",
+					"id": 111197966,
+					"id_str": "111197966",
+					"indices": [
+						21,
+						32
+					]
+				},
+				{
+					"screen_name": "v8js",
+					"name": "V8",
+					"id": 881815625441718300,
+					"id_str": "881815625441718272",
+					"indices": [
+						33,
+						38
+					]
+				},
+				{
+					"screen_name": "AppsScriptInfo",
+					"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+					"id": 322526439,
+					"id_str": "322526439",
+					"indices": [
+						39,
+						54
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LFCd6JeYz2",
+					"expanded_url": "https://developers.google.com/apps-script/guides/logging",
+					"display_url": "developers.google.com/apps-script/gu…",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1225997092511867000,
+		"in_reply_to_status_id_str": "1225997092511866880",
+		"in_reply_to_user_id": 15453,
+		"in_reply_to_user_id_str": "15453",
+		"in_reply_to_screen_name": "seldo",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8533,
+			"friends_count": 2502,
+			"listed_count": 620,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29343,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@seldo @schoraria911 @GSuiteDevs @v8js @AppsScriptInfo In case it helps console.log exists as a method but as it feeds into StackDriver needs some extra setup https://t.co/LFCd6JeYz2"
+	},
+	{
 		"created_at": "Fri Feb 07 13:48:48 +0000 2020",
 		"id": 1225778440835600400,
 		"id_str": "1225778440835600386",
