@@ -1,6 +1,175 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 17 17:05:48 +0000 2020",
+		"id": 1229438374462648300,
+		"id_str": "1229451893728038912",
+		"full_text": "Save the Date:\n\nThis Friday February 21st from 11:30 am – 12:30 pm (EST), 4:30 pm – 5:30 pm (UST).\n\n@sundilu &amp; @Autumm livestream convo w/ @savasavasava &amp; @mhawksey around the #weaponizationofcare\n\nWatch #DigCiz #OER20 for livestream and tweet along\n\nhttps://t.co/M2GzKi79Zh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "weaponizationofcare",
+					"indices": [
+						184,
+						204
+					]
+				},
+				{
+					"text": "DigCiz",
+					"indices": [
+						212,
+						219
+					]
+				},
+				{
+					"text": "OER20",
+					"indices": [
+						220,
+						226
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sundilu",
+					"name": "Sundi Richard",
+					"id": 16592181,
+					"id_str": "16592181",
+					"indices": [
+						100,
+						108
+					]
+				},
+				{
+					"screen_name": "Autumm",
+					"name": "Autumm Caines is a Liminal Space",
+					"id": 6292182,
+					"id_str": "6292182",
+					"indices": [
+						115,
+						122
+					]
+				},
+				{
+					"screen_name": "savasavasava",
+					"name": "dr. savasavasava",
+					"id": 16699990,
+					"id_str": "16699990",
+					"indices": [
+						143,
+						156
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey #altc",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						163,
+						172
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/M2GzKi79Zh",
+					"expanded_url": "https://oer20.oerconf.org/news/2020/02/digciz-weaponization-of-care-by-autumm-caines-and-sundi-richard/",
+					"display_url": "oer20.oerconf.org/news/2020/02/d…",
+					"indices": [
+						259,
+						282
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6292182,
+			"id_str": "6292182",
+			"name": "Autumm Caines is a Liminal Space",
+			"screen_name": "Autumm",
+			"location": "Detroit, MI",
+			"description": "Critical Instructional Design @ U of M-Dearborn. I do learning experiences #DigPINS & #DigCiz. Co-director @VConnecting. #Privacy @surveillancesam Tweets My Own",
+			"url": "https://t.co/1nGErgRVdE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1nGErgRVdE",
+							"expanded_url": "http://autumm.org",
+							"display_url": "autumm.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3205,
+			"friends_count": 1670,
+			"listed_count": 188,
+			"created_at": "Thu May 24 17:35:54 +0000 2007",
+			"favourites_count": 27714,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21776,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "460D14",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205005979798114305/f7ukONUT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205005979798114305/f7ukONUT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6292182/1577400743",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "4A131B",
+			"profile_sidebar_fill_color": "4A131B",
+			"profile_text_color": "B36E32",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Save the Date:\n\nThis Friday February 21st from 11:30 am – 12:30 pm (EST), 4:30 pm – 5:30 pm (UST).\n\n@sundilu &amp; @Autumm livestream convo w/ @savasavasava &amp; @mhawksey around the #weaponizationofcare\n\nWatch #DigCiz #OER20 for livestream and tweet along\n\nhttps://t.co/M2GzKi79Zh"
+	},
+	{
 		"created_at": "Sun Feb 16 23:27:21 +0000 2020",
 		"id": 1229185528874094600,
 		"id_str": "1229185528874094592",
