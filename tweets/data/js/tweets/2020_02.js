@@ -1,6 +1,175 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 21 16:36:10 +0000 2020",
+		"id": 1230893884798111700,
+		"id_str": "1230893987671805952",
+		"full_text": "Here we go!\n\nLivestream here https://t.co/ZEfDa9nxbf\n\n#weaponizationofcare with @sundilu @savasavasava @mhawksey and @LibSkrat \n\n#DigCiz #OER20",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "weaponizationofcare",
+					"indices": [
+						54,
+						74
+					]
+				},
+				{
+					"text": "DigCiz",
+					"indices": [
+						129,
+						136
+					]
+				},
+				{
+					"text": "OER20",
+					"indices": [
+						137,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sundilu",
+					"name": "Sundi Richard",
+					"id": 16592181,
+					"id_str": "16592181",
+					"indices": [
+						80,
+						88
+					]
+				},
+				{
+					"screen_name": "savasavasava",
+					"name": "dr. savasavasava",
+					"id": 16699990,
+					"id_str": "16699990",
+					"indices": [
+						89,
+						102
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey #altc",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						103,
+						112
+					]
+				},
+				{
+					"screen_name": "LibSkrat",
+					"name": "Ondatra iSchoolicus",
+					"id": 47360004,
+					"id_str": "47360004",
+					"indices": [
+						117,
+						126
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZEfDa9nxbf",
+					"expanded_url": "http://www.youtube.com/watch?v=nbKwnDWlCX0",
+					"display_url": "youtube.com/watch?v=nbKwnD…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6292182,
+			"id_str": "6292182",
+			"name": "Autumm Caines is a Liminal Space",
+			"screen_name": "Autumm",
+			"location": "Detroit, MI",
+			"description": "Critical Instructional Design @ U of M-Dearborn. I do learning experiences #DigPINS & #DigCiz. Co-director @VConnecting. #Privacy @surveillancesam Tweets My Own",
+			"url": "https://t.co/1nGErgRVdE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1nGErgRVdE",
+							"expanded_url": "http://autumm.org",
+							"display_url": "autumm.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3217,
+			"friends_count": 1682,
+			"listed_count": 188,
+			"created_at": "Thu May 24 17:35:54 +0000 2007",
+			"favourites_count": 27764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21829,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "460D14",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205005979798114305/f7ukONUT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205005979798114305/f7ukONUT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6292182/1577400743",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "4A131B",
+			"profile_sidebar_fill_color": "4A131B",
+			"profile_text_color": "B36E32",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here we go!\n\nLivestream here https://t.co/ZEfDa9nxbf\n\n#weaponizationofcare with @sundilu @savasavasava @mhawksey and @LibSkrat \n\n#DigCiz #OER20"
+	},
+	{
 		"created_at": "Thu Feb 20 12:19:43 +0000 2020",
 		"id": 1230454181409898500,
 		"id_str": "1230467063937933312",
