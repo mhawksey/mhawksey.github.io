@@ -1,6 +1,384 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 25 16:42:57 +0000 2020",
+		"id": 1232345249110020000,
+		"id_str": "1232345249110020097",
+		"full_text": "@eBildungslabor Always lovely to see it being used and for a great event as well is an added bonus :)",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eBildungslabor",
+					"name": "Nele Hirsch",
+					"id": 2986115805,
+					"id_str": "2986115805",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1232338935231254500,
+		"in_reply_to_status_id_str": "1232338935231254528",
+		"in_reply_to_user_id": 2986115805,
+		"in_reply_to_user_id_str": "2986115805",
+		"in_reply_to_screen_name": "eBildungslabor",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8560,
+			"friends_count": 2513,
+			"listed_count": 620,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6433,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29403,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@eBildungslabor Always lovely to see it being used and for a great event as well is an added bonus :)"
+	},
+	{
+		"created_at": "Tue Feb 25 14:28:06 +0000 2020",
+		"id": 1232060371101458400,
+		"id_str": "1232311313331699713",
+		"full_text": "@Was_ist_OER Den #OERcamp Hashtag gibt es hier als interaktive Visualisierung:\nhttps://t.co/P7Z6rDd19N",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OERcamp",
+					"indices": [
+						17,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Was_ist_OER",
+					"name": "www.was-ist-oer.de",
+					"id": 953343474354524200,
+					"id_str": "953343474354524165",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/P7Z6rDd19N",
+					"expanded_url": "https://hawksey.info/tagsexplorer/?key=19wP1ZGmE61qAP0tzGv1h8ROI6K_jViVWdUWjTPMww0c&gid=400689247",
+					"display_url": "hawksey.info/tagsexplorer/?…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1231957717360824300,
+		"in_reply_to_status_id_str": "1231957717360824322",
+		"in_reply_to_user_id": 953343474354524200,
+		"in_reply_to_user_id_str": "953343474354524165",
+		"in_reply_to_screen_name": "Was_ist_OER",
+		"user": {
+			"id": 2986115805,
+			"id_str": "2986115805",
+			"name": "Nele Hirsch",
+			"screen_name": "eBildungslabor",
+			"location": "",
+			"description": "Ich konzipiere, berate und unterstütze für zeitgemäße Bildung. Meine Schwerpunkte sind Kollaboration, #OERde und digitale Mündigkeit\n👉 Abonniere meine #Edumail",
+			"url": "https://t.co/FwjZlTPSLz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FwjZlTPSLz",
+							"expanded_url": "http://www.ebildungslabor.de",
+							"display_url": "ebildungslabor.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3962,
+			"friends_count": 968,
+			"listed_count": 88,
+			"created_at": "Mon Jan 19 18:27:40 +0000 2015",
+			"favourites_count": 2360,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1893,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1195707034693447680/mRJ8bWDM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1195707034693447680/mRJ8bWDM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2986115805/1573921175",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "@Was_ist_OER Den #OERcamp Hashtag gibt es hier als interaktive Visualisierung:\nhttps://t.co/P7Z6rDd19N"
+	},
+	{
+		"created_at": "Tue Feb 25 11:00:56 +0000 2020",
+		"id": 1232259177558487000,
+		"id_str": "1232259177558487040",
+		"full_text": "@postman31 @dsottimano @benlcollins I think @andrewroberts6 admins the Apps Script slack channel https://t.co/MP30yeYff0",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "postman31",
+					"name": "Dmytro Bulakh",
+					"id": 9479152,
+					"id_str": "9479152",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "dsottimano",
+					"name": "David Sottimano",
+					"id": 147616003,
+					"id_str": "147616003",
+					"indices": [
+						11,
+						22
+					]
+				},
+				{
+					"screen_name": "benlcollins",
+					"name": "Ben Collins",
+					"id": 19338407,
+					"id_str": "19338407",
+					"indices": [
+						23,
+						35
+					]
+				},
+				{
+					"screen_name": "andrewroberts6",
+					"name": "Andrew Roberts",
+					"id": 51273924,
+					"id_str": "51273924",
+					"indices": [
+						44,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MP30yeYff0",
+					"expanded_url": "https://google-apps-script.slack.com",
+					"display_url": "google-apps-script.slack.com",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1232257434615341000,
+		"in_reply_to_status_id_str": "1232257434615341057",
+		"in_reply_to_user_id": 9479152,
+		"in_reply_to_user_id_str": "9479152",
+		"in_reply_to_screen_name": "postman31",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8560,
+			"friends_count": 2513,
+			"listed_count": 620,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6433,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29403,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@postman31 @dsottimano @benlcollins I think @andrewroberts6 admins the Apps Script slack channel https://t.co/MP30yeYff0"
+	},
+	{
 		"created_at": "Mon Feb 24 18:40:47 +0000 2020",
 		"id": 1232012511639154700,
 		"id_str": "1232012511639154692",
