@@ -1,6 +1,1498 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 26 17:04:24 +0000 2020",
+		"id": 1232713031760609300,
+		"id_str": "1232713031760609280",
+		"full_text": "@clssrmtechtools @bennettscience @J_Everhart383 @schoraria911 @AppsScriptInfo @latest with Dev mode it does require editor level access to the script - read-only users only get the selected version https://t.co/WoD579Gyq2",
+		"truncated": false,
+		"display_text_range": [
+			86,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "clssrmtechtools",
+					"name": "Classroom Tech Tools",
+					"id": 859694936140075000,
+					"id_str": "859694936140075008",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "bennettscience",
+					"name": "Brian E. Bennett",
+					"id": 270307546,
+					"id_str": "270307546",
+					"indices": [
+						17,
+						32
+					]
+				},
+				{
+					"screen_name": "J_Everhart383",
+					"name": "Jeff Everhart",
+					"id": 223246172,
+					"id_str": "223246172",
+					"indices": [
+						33,
+						47
+					]
+				},
+				{
+					"screen_name": "schoraria911",
+					"name": "Sourabh Choraria",
+					"id": 1145333591867453400,
+					"id_str": "1145333591867453440",
+					"indices": [
+						48,
+						61
+					]
+				},
+				{
+					"screen_name": "AppsScriptInfo",
+					"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+					"id": 322526439,
+					"id_str": "322526439",
+					"indices": [
+						62,
+						77
+					]
+				},
+				{
+					"screen_name": "latest",
+					"name": "latest",
+					"id": 2534941,
+					"id_str": "2534941",
+					"indices": [
+						78,
+						85
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WoD579Gyq2",
+					"expanded_url": "https://developers.google.com/apps-script/guides/libraries#testing_and_debugging_your_library",
+					"display_url": "developers.google.com/apps-script/gu…",
+					"indices": [
+						198,
+						221
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1232711383638130700,
+		"in_reply_to_status_id_str": "1232711383638130688",
+		"in_reply_to_user_id": 859694936140075000,
+		"in_reply_to_user_id_str": "859694936140075008",
+		"in_reply_to_screen_name": "clssrmtechtools",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8558,
+			"friends_count": 2513,
+			"listed_count": 620,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6438,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@clssrmtechtools @bennettscience @J_Everhart383 @schoraria911 @AppsScriptInfo @latest with Dev mode it does require editor level access to the script - read-only users only get the selected version https://t.co/WoD579Gyq2"
+	},
+	{
+		"created_at": "Wed Feb 26 16:26:59 +0000 2020",
+		"id": 1232703618781982700,
+		"id_str": "1232703618781982721",
+		"full_text": "@J_Everhart383 @schoraria911 @bennettscience @AppsScriptInfo Problem with libraries is when you update the code user needs to select the new version in the script editor in the container bound sheet",
+		"truncated": false,
+		"display_text_range": [
+			61,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "J_Everhart383",
+					"name": "Jeff Everhart",
+					"id": 223246172,
+					"id_str": "223246172",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "schoraria911",
+					"name": "Sourabh Choraria",
+					"id": 1145333591867453400,
+					"id_str": "1145333591867453440",
+					"indices": [
+						15,
+						28
+					]
+				},
+				{
+					"screen_name": "bennettscience",
+					"name": "Brian E. Bennett",
+					"id": 270307546,
+					"id_str": "270307546",
+					"indices": [
+						29,
+						44
+					]
+				},
+				{
+					"screen_name": "AppsScriptInfo",
+					"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+					"id": 322526439,
+					"id_str": "322526439",
+					"indices": [
+						45,
+						60
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1232702220463898600,
+		"in_reply_to_status_id_str": "1232702220463898629",
+		"in_reply_to_user_id": 223246172,
+		"in_reply_to_user_id_str": "223246172",
+		"in_reply_to_screen_name": "J_Everhart383",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8558,
+			"friends_count": 2513,
+			"listed_count": 620,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6438,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@J_Everhart383 @schoraria911 @bennettscience @AppsScriptInfo Problem with libraries is when you update the code user needs to select the new version in the script editor in the container bound sheet"
+	},
+	{
+		"created_at": "Wed Feb 26 16:00:02 +0000 2020",
+		"id": 1232693205507940400,
+		"id_str": "1232696835187314688",
+		"full_text": "Just finished a chat with @mhawksey prepping for his talk at the upcoming #SheetsCon2020 online conference 👉 https://t.co/4qbQF63GoG\n\nYou're in for a treat with this one! \n\nHow to control your #GoogleSheets via voice 📢🤯\n\nMartin is talking at 5pm EST on 3/11 👍 https://t.co/imyoKGOLGG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SheetsCon2020",
+					"indices": [
+						74,
+						88
+					]
+				},
+				{
+					"text": "GoogleSheets",
+					"indices": [
+						193,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey #altc",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						26,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4qbQF63GoG",
+					"expanded_url": "http://sheetscon.com",
+					"display_url": "sheetscon.com",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1232693201376620500,
+					"id_str": "1232693201376620546",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/ERtn74EXsAIMvM2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERtn74EXsAIMvM2.jpg",
+					"url": "https://t.co/imyoKGOLGG",
+					"display_url": "pic.twitter.com/imyoKGOLGG",
+					"expanded_url": "https://twitter.com/benlcollins/status/1232693205507940353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 130,
+							"h": 130,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 127,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 72,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1226,
+							"h": 130,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1232693201376620500,
+					"id_str": "1232693201376620546",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/ERtn74EXsAIMvM2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERtn74EXsAIMvM2.jpg",
+					"url": "https://t.co/imyoKGOLGG",
+					"display_url": "pic.twitter.com/imyoKGOLGG",
+					"expanded_url": "https://twitter.com/benlcollins/status/1232693205507940353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 130,
+							"h": 130,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 127,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 72,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1226,
+							"h": 130,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19338407,
+			"id_str": "19338407",
+			"name": "Ben Collins",
+			"screen_name": "benlcollins",
+			"location": "Harpers Ferry, WV",
+			"description": "Teach https://t.co/UXcar5Uxsr, creator of https://t.co/IMvxbynrzD, Google Developer Expert for GSuite. Sign up for Sheets tips: https://t.co/SV7xtnBj1G",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXcar5Uxsr",
+							"expanded_url": "http://courses.benlcollins.com",
+							"display_url": "courses.benlcollins.com",
+							"indices": [
+								6,
+								29
+							]
+						},
+						{
+							"url": "https://t.co/IMvxbynrzD",
+							"expanded_url": "http://sheetscon.com",
+							"display_url": "sheetscon.com",
+							"indices": [
+								42,
+								65
+							]
+						},
+						{
+							"url": "https://t.co/SV7xtnBj1G",
+							"expanded_url": "http://benlcollins.com/google-sheets-tips",
+							"display_url": "benlcollins.com/google-sheets-…",
+							"indices": [
+								128,
+								151
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4203,
+			"friends_count": 536,
+			"listed_count": 269,
+			"created_at": "Thu Jan 22 13:43:22 +0000 2009",
+			"favourites_count": 8227,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8550,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CFCFCF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/966495721598935040/y1KUcaEN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/966495721598935040/y1KUcaEN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19338407/1415055908",
+			"profile_link_color": "619DE6",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "ECFFD6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just finished a chat with @mhawksey prepping for his talk at the upcoming #SheetsCon2020 online conference 👉 https://t.co/4qbQF63GoG\n\nYou're in for a treat with this one! \n\nHow to control your #GoogleSheets via voice 📢🤯\n\nMartin is talking at 5pm EST on 3/11 👍 https://t.co/imyoKGOLGG"
+	},
+	{
+		"created_at": "Wed Feb 26 12:57:27 +0000 2020",
+		"id": 1232650886587043800,
+		"id_str": "1232650886587043845",
+		"full_text": "@bennettscience @schoraria911 Converting to an Add-on is probably the easiest way ... before add-ons there were some hacky ways like using UrlFetchApp to fetch the latest script as a txt file then execute the file by wrapping in eval()",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			235
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bennettscience",
+					"name": "Brian E. Bennett",
+					"id": 270307546,
+					"id_str": "270307546",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "schoraria911",
+					"name": "Sourabh Choraria",
+					"id": 1145333591867453400,
+					"id_str": "1145333591867453440",
+					"indices": [
+						16,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1232648425872732200,
+		"in_reply_to_status_id_str": "1232648425872732160",
+		"in_reply_to_user_id": 270307546,
+		"in_reply_to_user_id_str": "270307546",
+		"in_reply_to_screen_name": "bennettscience",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8558,
+			"friends_count": 2513,
+			"listed_count": 620,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6438,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bennettscience @schoraria911 Converting to an Add-on is probably the easiest way ... before add-ons there were some hacky ways like using UrlFetchApp to fetch the latest script as a txt file then execute the file by wrapping in eval()"
+	},
+	{
+		"created_at": "Wed Feb 26 12:53:15 +0000 2020",
+		"id": 1232641865658310700,
+		"id_str": "1232649830725541888",
+		"full_text": "#GSuiteDevs question: I have dozens of templated spreadsheets that each have a copy of a script that processes information. Is there a way to re-create the template so they all point to one master script that can be accessed by all?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270307546,
+			"id_str": "270307546",
+			"name": "Brian E. Bennett",
+			"screen_name": "bennettscience",
+			"location": "Indiana, United States",
+			"description": "Teacher.",
+			"url": "https://t.co/dgKVcwHHNn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dgKVcwHHNn",
+							"expanded_url": "http://www.ohheybrian.com",
+							"display_url": "ohheybrian.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6226,
+			"friends_count": 825,
+			"listed_count": 532,
+			"created_at": "Tue Mar 22 11:24:15 +0000 2011",
+			"favourites_count": 644,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51917,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000219594937/a67144d687c4cd68983b15e304aecdd2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000219594937/a67144d687c4cd68983b15e304aecdd2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270307546/1489799096",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "#GSuiteDevs question: I have dozens of templated spreadsheets that each have a copy of a script that processes information. Is there a way to re-create the template so they all point to one master script that can be accessed by all?"
+	},
+	{
+		"created_at": "Wed Feb 26 12:13:18 +0000 2020",
+		"id": 1232639450292904000,
+		"id_str": "1232639777402433536",
+		"full_text": "Work in #EdTech and want to find out how to influence and guide academics/lecturers? We'll be starting this session in ~20mins - you can jump straight in to the Blackboard Ultra webinar at https://t.co/npLNewpcVS #altc https://t.co/75VMR5ZXUq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EdTech",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						213,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/npLNewpcVS",
+					"expanded_url": "https://go.alt.ac.uk/2Tg7VuT",
+					"display_url": "go.alt.ac.uk/2Tg7VuT",
+					"indices": [
+						189,
+						212
+					]
+				},
+				{
+					"url": "https://t.co/75VMR5ZXUq",
+					"expanded_url": "https://twitter.com/soyunbotruso1/status/1232598685290291201",
+					"display_url": "twitter.com/soyunbotruso1/…",
+					"indices": [
+						219,
+						242
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12683,
+			"friends_count": 3735,
+			"listed_count": 571,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 7872,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 21102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1579863460",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1232598685290291200,
+		"quoted_status_id_str": "1232598685290291201",
+		"quoted_status_permalink": {
+			"url": "https://t.co/75VMR5ZXUq",
+			"expanded": "https://twitter.com/soyunbotruso1/status/1232598685290291201",
+			"display": "twitter.com/soyunbotruso1/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 26 09:30:01 +0000 2020",
+			"id": 1232598685290291200,
+			"id_str": "1232598685290291201",
+			"full_text": "@A_L_T @MarenDeepwell #ALT @LTA_HWU \nCome  along to our presentation at 12:30 'Leading teams in teaching and learning: an inspiring converation\", everybody welcome!\n #OER #OER20 \n\nhttps://t.co/QgFSWmWJ57",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				203
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ALT",
+						"indices": [
+							22,
+							26
+						]
+					},
+					{
+						"text": "OER",
+						"indices": [
+							166,
+							170
+						]
+					},
+					{
+						"text": "OER20",
+						"indices": [
+							171,
+							177
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "A_L_T",
+						"name": "ALT - alt.ac.uk",
+						"id": 41210876,
+						"id_str": "41210876",
+						"indices": [
+							0,
+							6
+						]
+					},
+					{
+						"screen_name": "MarenDeepwell",
+						"name": "Dr Maren Deepwell",
+						"id": 323173367,
+						"id_str": "323173367",
+						"indices": [
+							7,
+							21
+						]
+					},
+					{
+						"screen_name": "LTA_HWU",
+						"name": "HWU Learning & Teaching Academy",
+						"id": 1154336330446442500,
+						"id_str": "1154336330446442496",
+						"indices": [
+							27,
+							35
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/QgFSWmWJ57",
+						"expanded_url": "https://www.alt.ac.uk/civicrm/event/info?reset=1&id=473",
+						"display_url": "alt.ac.uk/civicrm/event/…",
+						"indices": [
+							180,
+							203
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 41210876,
+			"in_reply_to_user_id_str": "41210876",
+			"in_reply_to_screen_name": "A_L_T",
+			"user": {
+				"id": 1090201441782952000,
+				"id_str": "1090201441782951936",
+				"name": "Soy un bot ruso",
+				"screen_name": "soyunbotruso1",
+				"location": "Scotland",
+				"description": "Cuando me aburro, te sigo",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 30,
+				"friends_count": 143,
+				"listed_count": 0,
+				"created_at": "Tue Jan 29 10:54:13 +0000 2019",
+				"favourites_count": 550,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 494,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1158681559395909632/kLEdHr95_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1158681559395909632/kLEdHr95_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1090201441782951936/1548765088",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Work in #EdTech and want to find out how to influence and guide academics/lecturers? We'll be starting this session in ~20mins - you can jump straight in to the Blackboard Ultra webinar at https://t.co/npLNewpcVS #altc https://t.co/75VMR5ZXUq"
+	},
+	{
+		"created_at": "Wed Feb 26 09:45:29 +0000 2020",
+		"id": 1232345181250257000,
+		"id_str": "1232602576987791360",
+		"full_text": "My slides on Digital Games and Interaction Design from the #ALTEoE event last week are now available online. Didn't have time for Qs but happy to answer any: https://t.co/0v5sPAY3EZ #ALTC #activelearning #FHEMS_ARU #AngliaRuskin",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALTEoE",
+					"indices": [
+						59,
+						66
+					]
+				},
+				{
+					"text": "ALTC",
+					"indices": [
+						182,
+						187
+					]
+				},
+				{
+					"text": "activelearning",
+					"indices": [
+						188,
+						203
+					]
+				},
+				{
+					"text": "FHEMS_ARU",
+					"indices": [
+						204,
+						214
+					]
+				},
+				{
+					"text": "AngliaRuskin",
+					"indices": [
+						215,
+						228
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0v5sPAY3EZ",
+					"expanded_url": "https://drive.google.com/file/d/1V_bdUGC_tn2adyEJb2cBgve4mL7SBl4v/view",
+					"display_url": "drive.google.com/file/d/1V_bdUG…",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21322269,
+			"id_str": "21322269",
+			"name": "Paul Driver",
+			"screen_name": "Paul_Driver",
+			"location": "Cambridge Uk",
+			"description": "Learning designer, author, materials writer and illustrator. Interested in creativity, edtech, play, & embodiment in learning. All views my own.",
+			"url": "https://t.co/29MMQxbcIt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/29MMQxbcIt",
+							"expanded_url": "http://digitaldebris.info",
+							"display_url": "digitaldebris.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 674,
+			"friends_count": 374,
+			"listed_count": 32,
+			"created_at": "Thu Feb 19 18:05:15 +0000 2009",
+			"favourites_count": 800,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1299,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/930000152848461824/uLGeIWOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/930000152848461824/uLGeIWOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21322269/1510443896",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My slides on Digital Games and Interaction Design from the #ALTEoE event last week are now available online. Didn't have time for Qs but happy to answer any: https://t.co/0v5sPAY3EZ #ALTC #activelearning #FHEMS_ARU #AngliaRuskin"
+	},
+	{
+		"created_at": "Wed Feb 26 09:27:04 +0000 2020",
+		"id": 1232547296211943400,
+		"id_str": "1232597942265171968",
+		"full_text": "Watch fellow G-Suite GDEs and myself chat about G-Suite and Apps Script! #gsuite #appsscript https://t.co/32IIIeBzgC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "gsuite",
+					"indices": [
+						73,
+						80
+					]
+				},
+				{
+					"text": "appsscript",
+					"indices": [
+						81,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/32IIIeBzgC",
+					"expanded_url": "https://twitter.com/GSuiteDevs/status/1232462787101646848",
+					"display_url": "twitter.com/GSuiteDevs/sta…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1868737826,
+			"id_str": "1868737826",
+			"name": "Cleo",
+			"screen_name": "CinFourThirds",
+			"location": "Vancouver, BC",
+			"description": "Google Developer Expert for G-Suite / Google App Maker. Occasional photographer and traveler",
+			"url": "https://t.co/ORzaCoSMDA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ORzaCoSMDA",
+							"expanded_url": "http://cinfourthirds.com",
+							"display_url": "cinfourthirds.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 138,
+			"friends_count": 66,
+			"listed_count": 9,
+			"created_at": "Sun Sep 15 18:29:38 +0000 2013",
+			"favourites_count": 222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1155958863297822720/Phs4F9pi_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1155958863297822720/Phs4F9pi_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1868737826/1555286512",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1232462787101646800,
+		"quoted_status_id_str": "1232462787101646848",
+		"quoted_status_permalink": {
+			"url": "https://t.co/32IIIeBzgC",
+			"expanded": "https://twitter.com/GSuiteDevs/status/1232462787101646848",
+			"display": "twitter.com/GSuiteDevs/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 26 00:30:01 +0000 2020",
+			"id": 1232462787101646800,
+			"id_str": "1232462787101646848",
+			"full_text": "Word on the street is Apps Script is empowering businesses. ⚡️\n\nHear how Cleo Espiritu and her coworkers use Apps Script to improve and personalize tasks in a work environment.\n\nTune in now → https://t.co/JtJedoNDhT https://t.co/3yt3tqYTi3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				215
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JtJedoNDhT",
+						"expanded_url": "https://goo.gle/2Vka7nw",
+						"display_url": "goo.gle/2Vka7nw",
+						"indices": [
+							192,
+							215
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1232462785210146800,
+						"id_str": "1232462785210146817",
+						"indices": [
+							216,
+							239
+						],
+						"media_url": "http://pbs.twimg.com/media/ERqWX49W4AEwajM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ERqWX49W4AEwajM.jpg",
+						"url": "https://t.co/3yt3tqYTi3",
+						"display_url": "pic.twitter.com/3yt3tqYTi3",
+						"expanded_url": "https://twitter.com/GSuiteDevs/status/1232462787101646848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1232462785210146800,
+						"id_str": "1232462785210146817",
+						"indices": [
+							216,
+							239
+						],
+						"media_url": "http://pbs.twimg.com/media/ERqWX49W4AEwajM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ERqWX49W4AEwajM.jpg",
+						"url": "https://t.co/3yt3tqYTi3",
+						"display_url": "pic.twitter.com/3yt3tqYTi3",
+						"expanded_url": "https://twitter.com/GSuiteDevs/status/1232462787101646848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 111197966,
+				"id_str": "111197966",
+				"name": "G Suite Developers",
+				"screen_name": "GSuiteDevs",
+				"location": "",
+				"description": "Official G Suite Developer feed.\n\nSubscribe to our monthly newsletter: \nhttps://t.co/vjpWf7hSnk",
+				"url": "https://t.co/GkUhgOjCaA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GkUhgOjCaA",
+								"expanded_url": "http://developers.google.com/gsuite",
+								"display_url": "developers.google.com/gsuite",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/vjpWf7hSnk",
+								"expanded_url": "https://developers.google.com/gsuite/newsletters/#subscribe",
+								"display_url": "developers.google.com/gsuite/newslet…",
+								"indices": [
+									72,
+									95
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 328373,
+				"friends_count": 41,
+				"listed_count": 2772,
+				"created_at": "Thu Feb 04 03:22:30 +0000 2010",
+				"favourites_count": 13,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 659,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/781544329416351744/1Phh0h2q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/781544329416351744/1Phh0h2q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/111197966/1558458191",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 8,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Watch fellow G-Suite GDEs and myself chat about G-Suite and Apps Script! #gsuite #appsscript https://t.co/32IIIeBzgC"
+	},
+	{
 		"created_at": "Tue Feb 25 16:42:57 +0000 2020",
 		"id": 1232345249110020000,
 		"id_str": "1232345249110020097",
