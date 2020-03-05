@@ -1,6 +1,730 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 04 18:35:59 +0000 2020",
+		"id": 1235270273869414400,
+		"id_str": "1235272794893701120",
+		"full_text": "Google Apps Script is a great tool for exploring new ideas for well-seasoned and novice programmers alike. 👵👩‍🎓\n\nSee how Martin Hawksey first started with Apps Script so that you can, too!\n\nWatch here → https://t.co/gG9JNeraWY https://t.co/3BxBRW75Qa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gG9JNeraWY",
+					"expanded_url": "https://goo.gle/2TltZW0",
+					"display_url": "goo.gle/2TltZW0",
+					"indices": [
+						203,
+						226
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1235270271768187000,
+					"id_str": "1235270271768186880",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/ESSPxHZX0AAQCIn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESSPxHZX0AAQCIn.jpg",
+					"url": "https://t.co/3BxBRW75Qa",
+					"display_url": "pic.twitter.com/3BxBRW75Qa",
+					"expanded_url": "https://twitter.com/GSuiteDevs/status/1235270273869414400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1235270271768187000,
+					"id_str": "1235270271768186880",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/ESSPxHZX0AAQCIn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESSPxHZX0AAQCIn.jpg",
+					"url": "https://t.co/3BxBRW75Qa",
+					"display_url": "pic.twitter.com/3BxBRW75Qa",
+					"expanded_url": "https://twitter.com/GSuiteDevs/status/1235270273869414400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 111197966,
+			"id_str": "111197966",
+			"name": "G Suite Developers",
+			"screen_name": "GSuiteDevs",
+			"location": "",
+			"description": "Official G Suite Developer feed.\n\nSubscribe to our monthly newsletter: \nhttps://t.co/vjpWf7hSnk",
+			"url": "https://t.co/GkUhgOjCaA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GkUhgOjCaA",
+							"expanded_url": "http://developers.google.com/gsuite",
+							"display_url": "developers.google.com/gsuite",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vjpWf7hSnk",
+							"expanded_url": "https://developers.google.com/gsuite/newsletters/#subscribe",
+							"display_url": "developers.google.com/gsuite/newslet…",
+							"indices": [
+								72,
+								95
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 328237,
+			"friends_count": 41,
+			"listed_count": 2770,
+			"created_at": "Thu Feb 04 03:22:30 +0000 2010",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 660,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781544329416351744/1Phh0h2q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781544329416351744/1Phh0h2q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/111197966/1558458191",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Google Apps Script is a great tool for exploring new ideas for well-seasoned and novice programmers alike. 👵👩‍🎓\n\nSee how Martin Hawksey first started with Apps Script so that you can, too!\n\nWatch here → https://t.co/gG9JNeraWY https://t.co/3BxBRW75Qa"
+	},
+	{
+		"created_at": "Wed Mar 04 17:12:05 +0000 2020",
+		"id": 1235251431168450600,
+		"id_str": "1235251682356989953",
+		"full_text": "We have some more swag bags with these t-shirts and stickers for you to win during the #SheetsCon2020 event!\n\nDetails will be shared with all attendees on the day.\n\nhttps://t.co/4qbQF63GoG https://t.co/IN54MP5HRA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SheetsCon2020",
+					"indices": [
+						87,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4qbQF63GoG",
+					"expanded_url": "http://sheetscon.com",
+					"display_url": "sheetscon.com",
+					"indices": [
+						165,
+						188
+					]
+				},
+				{
+					"url": "https://t.co/IN54MP5HRA",
+					"expanded_url": "https://twitter.com/mhawksey/status/1235229678455205888",
+					"display_url": "twitter.com/mhawksey/statu…",
+					"indices": [
+						189,
+						212
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19338407,
+			"id_str": "19338407",
+			"name": "Ben Collins",
+			"screen_name": "benlcollins",
+			"location": "Harpers Ferry, WV",
+			"description": "Teach https://t.co/UXcar5Uxsr, creator of https://t.co/IMvxbynrzD, Google Developer Expert for GSuite. Sign up for Sheets tips: https://t.co/SV7xtnBj1G",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXcar5Uxsr",
+							"expanded_url": "http://courses.benlcollins.com",
+							"display_url": "courses.benlcollins.com",
+							"indices": [
+								6,
+								29
+							]
+						},
+						{
+							"url": "https://t.co/IMvxbynrzD",
+							"expanded_url": "http://sheetscon.com",
+							"display_url": "sheetscon.com",
+							"indices": [
+								42,
+								65
+							]
+						},
+						{
+							"url": "https://t.co/SV7xtnBj1G",
+							"expanded_url": "http://benlcollins.com/google-sheets-tips",
+							"display_url": "benlcollins.com/google-sheets-…",
+							"indices": [
+								128,
+								151
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4238,
+			"friends_count": 537,
+			"listed_count": 268,
+			"created_at": "Thu Jan 22 13:43:22 +0000 2009",
+			"favourites_count": 8311,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CFCFCF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/966495721598935040/y1KUcaEN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/966495721598935040/y1KUcaEN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19338407/1582908631",
+			"profile_link_color": "619DE6",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "ECFFD6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1235229678455206000,
+		"quoted_status_id_str": "1235229678455205888",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IN54MP5HRA",
+			"expanded": "https://twitter.com/mhawksey/status/1235229678455205888",
+			"display": "twitter.com/mhawksey/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 04 15:44:39 +0000 2020",
+			"id": 1235229678455206000,
+			"id_str": "1235229678455205888",
+			"full_text": "Received the perfect t-shirt from @benlcollins and some #SheetsCon2020 stickers 😊 https://t.co/E8mtkTXIgD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				81
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SheetsCon2020",
+						"indices": [
+							56,
+							70
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "benlcollins",
+						"name": "Ben Collins",
+						"id": 19338407,
+						"id_str": "19338407",
+						"indices": [
+							34,
+							46
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1235229662470688800,
+						"id_str": "1235229662470688768",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/ESRq1V-XUAAyn1K.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESRq1V-XUAAyn1K.jpg",
+						"url": "https://t.co/E8mtkTXIgD",
+						"display_url": "pic.twitter.com/E8mtkTXIgD",
+						"expanded_url": "https://twitter.com/mhawksey/status/1235229678455205888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1235229662470688800,
+						"id_str": "1235229662470688768",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/ESRq1V-XUAAyn1K.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESRq1V-XUAAyn1K.jpg",
+						"url": "https://t.co/E8mtkTXIgD",
+						"display_url": "pic.twitter.com/E8mtkTXIgD",
+						"expanded_url": "https://twitter.com/mhawksey/status/1235229678455205888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13046992,
+				"id_str": "13046992",
+				"name": "Martin Hawksey #altc",
+				"screen_name": "mhawksey",
+				"location": "Edinburgh, Scotland",
+				"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+				"url": "https://t.co/OwPc0EbVqg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OwPc0EbVqg",
+								"expanded_url": "https://mashe.hawksey.info",
+								"display_url": "mashe.hawksey.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8570,
+				"friends_count": 2515,
+				"listed_count": 620,
+				"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+				"favourites_count": 6448,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 29429,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F5F5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+				"profile_link_color": "4099FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D4D4D4",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We have some more swag bags with these t-shirts and stickers for you to win during the #SheetsCon2020 event!\n\nDetails will be shared with all attendees on the day.\n\nhttps://t.co/4qbQF63GoG https://t.co/IN54MP5HRA"
+	},
+	{
+		"created_at": "Wed Mar 04 15:44:39 +0000 2020",
+		"id": 1235229678455206000,
+		"id_str": "1235229678455205888",
+		"full_text": "Received the perfect t-shirt from @benlcollins and some #SheetsCon2020 stickers 😊 https://t.co/E8mtkTXIgD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SheetsCon2020",
+					"indices": [
+						56,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "benlcollins",
+					"name": "Ben Collins",
+					"id": 19338407,
+					"id_str": "19338407",
+					"indices": [
+						34,
+						46
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1235229662470688800,
+					"id_str": "1235229662470688768",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/ESRq1V-XUAAyn1K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESRq1V-XUAAyn1K.jpg",
+					"url": "https://t.co/E8mtkTXIgD",
+					"display_url": "pic.twitter.com/E8mtkTXIgD",
+					"expanded_url": "https://twitter.com/mhawksey/status/1235229678455205888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1235229662470688800,
+					"id_str": "1235229662470688768",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/ESRq1V-XUAAyn1K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESRq1V-XUAAyn1K.jpg",
+					"url": "https://t.co/E8mtkTXIgD",
+					"display_url": "pic.twitter.com/E8mtkTXIgD",
+					"expanded_url": "https://twitter.com/mhawksey/status/1235229678455205888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8570,
+			"friends_count": 2515,
+			"listed_count": 620,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Received the perfect t-shirt from @benlcollins and some #SheetsCon2020 stickers 😊 https://t.co/E8mtkTXIgD"
+	},
+	{
 		"created_at": "Tue Mar 03 14:22:21 +0000 2020",
 		"id": 1234846580391452700,
 		"id_str": "1234846580391452672",
