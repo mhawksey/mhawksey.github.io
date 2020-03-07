@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 06 21:44:51 +0000 2020",
+		"id": 1236045103363428400,
+		"id_str": "1236045103363428353",
+		"full_text": "@sacohen1 @StephenWilson Not used Airtable but guess it will be a case of finding an API service you can call for all three counts or call each service API individually",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sacohen1",
+					"name": "S A Cohen",
+					"id": 113053802,
+					"id_str": "113053802",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "StephenWilson",
+					"name": "Steve Wilson 🦮",
+					"id": 14388358,
+					"id_str": "14388358",
+					"indices": [
+						10,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1236010908205318100,
+		"in_reply_to_status_id_str": "1236010908205318144",
+		"in_reply_to_user_id": 113053802,
+		"in_reply_to_user_id_str": "113053802",
+		"in_reply_to_screen_name": "sacohen1",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8572,
+			"friends_count": 2513,
+			"listed_count": 621,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6457,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@sacohen1 @StephenWilson Not used Airtable but guess it will be a case of finding an API service you can call for all three counts or call each service API individually"
+	},
+	{
+		"created_at": "Fri Mar 06 11:48:15 +0000 2020",
+		"id": 1235568851393196000,
+		"id_str": "1235894961599664129",
+		"full_text": "Started refreshing some old blog posts on #GoogleAppsScript and adding some screencasts. Check out this new/old post: https://t.co/MZGLhHqoaN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						42,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MZGLhHqoaN",
+					"expanded_url": "https://jeffreyeverhart.com/2019/03/01/retrieve-rows-from-google-spreadsheet-with-google-apps-script/",
+					"display_url": "jeffreyeverhart.com/2019/03/01/ret…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 223246172,
+			"id_str": "223246172",
+			"name": "Jeff Everhart",
+			"screen_name": "J_Everhart383",
+			"location": "Virginia, USA",
+			"description": "Full stack dev, creative technologist, teacher. Tweets about #javascript, #GoogleAppsScript, #wordpress, #webdev, #edtech & cheap sunglasses.",
+			"url": "http://t.co/HvCax3rut4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/HvCax3rut4",
+							"expanded_url": "http://www.jeffreyeverhart.com",
+							"display_url": "jeffreyeverhart.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 281,
+			"friends_count": 517,
+			"listed_count": 65,
+			"created_at": "Sun Dec 05 20:49:54 +0000 2010",
+			"favourites_count": 489,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1423,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728282557830201344/TthIbrG7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728282557830201344/TthIbrG7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/223246172/1379610494",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Started refreshing some old blog posts on #GoogleAppsScript and adding some screencasts. Check out this new/old post: https://t.co/MZGLhHqoaN"
+	},
+	{
 		"created_at": "Thu Mar 05 09:54:54 +0000 2020",
 		"id": 1235504047186047000,
 		"id_str": "1235504047186046976",
