@@ -1,6 +1,650 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 15 09:05:12 +0000 2020",
+		"id": 1239115421728542700,
+		"id_str": "1239115421728542720",
+		"full_text": "Great tutorial from @techstreams for #GSuiteDevs using #GoogleAppsScript https://t.co/l7eIafysnB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						37,
+						48
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						55,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "techstreams",
+					"name": "Laura Taylor",
+					"id": 14328802,
+					"id_str": "14328802",
+					"indices": [
+						20,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/l7eIafysnB",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1238539587896496129",
+					"display_url": "twitter.com/AppsScriptInfo…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8618,
+			"friends_count": 2516,
+			"listed_count": 624,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6481,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29459,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1238539587896496000,
+		"quoted_status_id_str": "1238539587896496129",
+		"quoted_status_permalink": {
+			"url": "https://t.co/l7eIafysnB",
+			"expanded": "https://twitter.com/AppsScriptInfo/status/1238539587896496129",
+			"display": "twitter.com/AppsScriptInfo…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 13 18:57:03 +0000 2020",
+			"id": 1238539587896496000,
+			"id_str": "1238539587896496129",
+			"full_text": "G Suite Solutions —  Apps Script Powered Workflow Automation by @techstreams (contributed by @schoraria911) #GSuiteDevs #GoogleAppsScript https://t.co/tTtwFPZOtV https://t.co/Wxz7aO3PNu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				161
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GSuiteDevs",
+						"indices": [
+							108,
+							119
+						]
+					},
+					{
+						"text": "GoogleAppsScript",
+						"indices": [
+							120,
+							137
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "techstreams",
+						"name": "Laura Taylor",
+						"id": 14328802,
+						"id_str": "14328802",
+						"indices": [
+							64,
+							76
+						]
+					},
+					{
+						"screen_name": "schoraria911",
+						"name": "Sourabh Choraria",
+						"id": 1145333591867453400,
+						"id_str": "1145333591867453440",
+						"indices": [
+							93,
+							106
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/tTtwFPZOtV",
+						"expanded_url": "https://pulse.appsscript.info/p/2020/03/g-suite-solutions%e2%80%8a-%e2%80%8a-apps-script-powered-workflow-automation/",
+						"display_url": "pulse.appsscript.info/p/2020/03/g-su…",
+						"indices": [
+							138,
+							161
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1238539586332053500,
+						"id_str": "1238539586332053505",
+						"indices": [
+							162,
+							185
+						],
+						"media_url": "http://pbs.twimg.com/media/ETAtMROU0AE6kMO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETAtMROU0AE6kMO.jpg",
+						"url": "https://t.co/Wxz7aO3PNu",
+						"display_url": "pic.twitter.com/Wxz7aO3PNu",
+						"expanded_url": "https://twitter.com/AppsScriptInfo/status/1238539587896496129/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 736,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 736,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 417,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1238539586332053500,
+						"id_str": "1238539586332053505",
+						"indices": [
+							162,
+							185
+						],
+						"media_url": "http://pbs.twimg.com/media/ETAtMROU0AE6kMO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETAtMROU0AE6kMO.jpg",
+						"url": "https://t.co/Wxz7aO3PNu",
+						"display_url": "pic.twitter.com/Wxz7aO3PNu",
+						"expanded_url": "https://twitter.com/AppsScriptInfo/status/1238539587896496129/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 736,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 736,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 417,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 322526439,
+				"id_str": "322526439",
+				"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+				"screen_name": "AppsScriptInfo",
+				"location": "World",
+				"description": "A Google Apps Script Community account to support #GSuiteDevs. Curated by @mhawksey",
+				"url": "https://t.co/pEqPAHFH4F",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pEqPAHFH4F",
+								"expanded_url": "https://pulse.appsscript.info",
+								"display_url": "pulse.appsscript.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 498,
+				"friends_count": 711,
+				"listed_count": 16,
+				"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+				"favourites_count": 338,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1574,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+				"profile_link_color": "4286F4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great tutorial from @techstreams for #GSuiteDevs using #GoogleAppsScript https://t.co/l7eIafysnB"
+	},
+	{
+		"created_at": "Sun Mar 15 09:02:38 +0000 2020",
+		"id": 1239114776082514000,
+		"id_str": "1239114776082513926",
+		"full_text": "Some more support for #altc members looking to move courses online via @mweller https://t.co/iNLztV8txX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						22,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mweller",
+					"name": "Martin Weller",
+					"id": 7127162,
+					"id_str": "7127162",
+					"indices": [
+						71,
+						79
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iNLztV8txX",
+					"expanded_url": "https://twitter.com/gsiemens/status/1239027928937009153",
+					"display_url": "twitter.com/gsiemens/statu…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8618,
+			"friends_count": 2516,
+			"listed_count": 624,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6481,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29459,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1239027928937009200,
+		"quoted_status_id_str": "1239027928937009153",
+		"quoted_status_permalink": {
+			"url": "https://t.co/iNLztV8txX",
+			"expanded": "https://twitter.com/gsiemens/status/1239027928937009153",
+			"display": "twitter.com/gsiemens/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 15 03:17:32 +0000 2020",
+			"id": 1239027928937009200,
+			"id_str": "1239027928937009153",
+			"full_text": "Want a research-informed view of how to pivot to online teaching? Have we got the (free, open) course for you: https://t.co/wYwWxFSjsv #pivotonline @neginm @JTDellinger @grandeped @tjoosten",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				189
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "pivotonline",
+						"indices": [
+							135,
+							147
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "neginm",
+						"name": "Negin Mirriahi",
+						"id": 15184925,
+						"id_str": "15184925",
+						"indices": [
+							148,
+							155
+						]
+					},
+					{
+						"screen_name": "JTDellinger",
+						"name": "J. T. Dellinger",
+						"id": 340072344,
+						"id_str": "340072344",
+						"indices": [
+							156,
+							168
+						]
+					},
+					{
+						"screen_name": "grandeped",
+						"name": "Matt (squeaky cog in the Ed-Tech™ machine)",
+						"id": 4040641,
+						"id_str": "4040641",
+						"indices": [
+							169,
+							179
+						]
+					},
+					{
+						"screen_name": "tjoosten",
+						"name": "Tanya Joosten",
+						"id": 25520985,
+						"id_str": "25520985",
+						"indices": [
+							180,
+							189
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/wYwWxFSjsv",
+						"expanded_url": "https://www.edx.org/course/pivoting-to-online-teaching-research-and-practitioner-perspectives",
+						"display_url": "edx.org/course/pivotin…",
+						"indices": [
+							111,
+							134
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18613,
+				"id_str": "18613",
+				"name": "George Siemens",
+				"screen_name": "gsiemens",
+				"location": "Texas, Australia, Airports",
+				"description": "\"There's nothing so tragic as seeing a family pulled apart by something as simple as a pack of wolves.\"",
+				"url": "https://t.co/z1JC6WJSQI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/z1JC6WJSQI",
+								"expanded_url": "https://twitter.com/gsiemens",
+								"display_url": "twitter.com/gsiemens",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23186,
+				"friends_count": 1727,
+				"listed_count": 1664,
+				"created_at": "Thu Nov 23 18:45:36 +0000 2006",
+				"favourites_count": 935,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 239,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1203594600528498688/G94sVGeS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203594600528498688/G94sVGeS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18613/1575794290",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 40,
+			"favorite_count": 50,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some more support for #altc members looking to move courses online via @mweller https://t.co/iNLztV8txX"
+	},
+	{
 		"created_at": "Thu Mar 12 07:09:16 +0000 2020",
 		"id": 1237999080883785700,
 		"id_str": "1237999080883785728",
