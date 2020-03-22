@@ -1,6 +1,366 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 21 18:26:53 +0000 2020",
+		"id": 1241431100309807000,
+		"id_str": "1241431100309807104",
+		"full_text": "@schoraria911 Scratch that I found https://t.co/3NUUsOfAs5 :)",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "schoraria911",
+					"name": "Sourabh Choraria",
+					"id": 1145333591867453400,
+					"id_str": "1145333591867453440",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3NUUsOfAs5",
+					"expanded_url": "https://twitter.com/AppsScriptComm/status/1241375984114257921?s=19",
+					"display_url": "twitter.com/AppsScriptComm…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1241430849884762000,
+		"in_reply_to_status_id_str": "1241430849884762112",
+		"in_reply_to_user_id": 13046992,
+		"in_reply_to_user_id_str": "13046992",
+		"in_reply_to_screen_name": "mhawksey",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8633,
+			"friends_count": 2520,
+			"listed_count": 623,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6509,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29494,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1241375984114258000,
+		"quoted_status_id_str": "1241375984114257921",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3NUUsOfAs5",
+			"expanded": "https://twitter.com/AppsScriptComm/status/1241375984114257921?s=19",
+			"display": "twitter.com/AppsScriptComm…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 21 14:47:52 +0000 2020",
+			"id": 1241375984114258000,
+			"id_str": "1241375984114257921",
+			"full_text": "Here's the recorded session for whoever that couldn't make it -\nhttps://t.co/HEmwKE3qze\n\nSlides available here too -\nhttps://t.co/kmyzbunGOk https://t.co/LBaxq7oszw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				140
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HEmwKE3qze",
+						"expanded_url": "https://youtu.be/-En0wY2fWfg",
+						"display_url": "youtu.be/-En0wY2fWfg",
+						"indices": [
+							64,
+							87
+						]
+					},
+					{
+						"url": "https://t.co/kmyzbunGOk",
+						"expanded_url": "https://docs.google.com/presentation/d/1TduAy1JTT2ICbxP1wrBWlwejuYagVvlpHphp4DUrKvY/edit?usp=sharing",
+						"display_url": "docs.google.com/presentation/d…",
+						"indices": [
+							117,
+							140
+						]
+					},
+					{
+						"url": "https://t.co/LBaxq7oszw",
+						"expanded_url": "https://twitter.com/AppsScriptComm/status/1241289570626359297",
+						"display_url": "twitter.com/AppsScriptComm…",
+						"indices": [
+							141,
+							164
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1233997217754574800,
+				"id_str": "1233997217754574855",
+				"name": "Apps Script Community, Bangalore",
+				"screen_name": "AppsScriptComm",
+				"location": "Bangalore, India",
+				"description": "A community of folks interested to learn, share and contribute towards building with #GoogleAppsScript ➡️\n🎉 Tweets by @schoraria911",
+				"url": "https://t.co/fSH5W7k3N7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fSH5W7k3N7",
+								"expanded_url": "https://www.meetup.com/Apps-Script-Community-Bangalore",
+								"display_url": "meetup.com/Apps-Script-Co…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32,
+				"friends_count": 45,
+				"listed_count": 1,
+				"created_at": "Sun Mar 01 06:07:23 +0000 2020",
+				"favourites_count": 53,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1233997373728149507/0yz-uS63_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1233997373728149507/0yz-uS63_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1233997217754574855/1583045675",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1241289570626359300,
+			"quoted_status_id_str": "1241289570626359297",
+			"quoted_status_permalink": {
+				"url": "https://t.co/LBaxq7oszw",
+				"expanded": "https://twitter.com/AppsScriptComm/status/1241289570626359297",
+				"display": "twitter.com/AppsScriptComm…"
+			},
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@schoraria911 Scratch that I found https://t.co/3NUUsOfAs5 :)"
+	},
+	{
+		"created_at": "Sat Mar 21 18:25:53 +0000 2020",
+		"id": 1241430849884762000,
+		"id_str": "1241430849884762112",
+		"full_text": "@schoraria911 How did it go? Was there a recording?",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "schoraria911",
+					"name": "Sourabh Choraria",
+					"id": 1145333591867453400,
+					"id_str": "1145333591867453440",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1241221462993715200,
+		"in_reply_to_status_id_str": "1241221462993715201",
+		"in_reply_to_user_id": 1145333591867453400,
+		"in_reply_to_user_id_str": "1145333591867453440",
+		"in_reply_to_screen_name": "schoraria911",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8633,
+			"friends_count": 2520,
+			"listed_count": 623,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6509,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29494,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@schoraria911 How did it go? Was there a recording?"
+	},
+	{
 		"created_at": "Fri Mar 20 22:51:37 +0000 2020",
 		"id": 1241135335863652400,
 		"id_str": "1241135335863652360",
