@@ -1,6 +1,1524 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 22 17:31:52 +0000 2020",
+		"id": 1241779643914637300,
+		"id_str": "1241779643914637312",
+		"full_text": "@schoraria911 @udarakr @GSuiteDevs @AppsScriptInfo I think even with V8 custom functions have to return a value in 30 seconds https://t.co/VpqgTaJmyH https://t.co/0zmcdFphSu",
+		"truncated": false,
+		"display_text_range": [
+			51,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "schoraria911",
+					"name": "Sourabh Choraria",
+					"id": 1145333591867453400,
+					"id_str": "1145333591867453440",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "udarakr",
+					"name": "Udara KR",
+					"id": 33787284,
+					"id_str": "33787284",
+					"indices": [
+						14,
+						22
+					]
+				},
+				{
+					"screen_name": "GSuiteDevs",
+					"name": "G Suite Developers",
+					"id": 111197966,
+					"id_str": "111197966",
+					"indices": [
+						23,
+						34
+					]
+				},
+				{
+					"screen_name": "AppsScriptInfo",
+					"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+					"id": 322526439,
+					"id_str": "322526439",
+					"indices": [
+						35,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VpqgTaJmyH",
+					"expanded_url": "https://developers.google.com/apps-script/guides/sheets/functions",
+					"display_url": "developers.google.com/apps-script/gu…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1241779634116661200,
+					"id_str": "1241779634116661250",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/ETuv_3zWkAI2uBE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETuv_3zWkAI2uBE.jpg",
+					"url": "https://t.co/0zmcdFphSu",
+					"display_url": "pic.twitter.com/0zmcdFphSu",
+					"expanded_url": "https://twitter.com/mhawksey/status/1241779643914637312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 951,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 599,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 951,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1241779634116661200,
+					"id_str": "1241779634116661250",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/ETuv_3zWkAI2uBE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETuv_3zWkAI2uBE.jpg",
+					"url": "https://t.co/0zmcdFphSu",
+					"display_url": "pic.twitter.com/0zmcdFphSu",
+					"expanded_url": "https://twitter.com/mhawksey/status/1241779643914637312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 951,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 599,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 951,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1241766388043116500,
+		"in_reply_to_status_id_str": "1241766388043116546",
+		"in_reply_to_user_id": 1145333591867453400,
+		"in_reply_to_user_id_str": "1145333591867453440",
+		"in_reply_to_screen_name": "schoraria911",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8636,
+			"friends_count": 2520,
+			"listed_count": 623,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@schoraria911 @udarakr @GSuiteDevs @AppsScriptInfo I think even with V8 custom functions have to return a value in 30 seconds https://t.co/VpqgTaJmyH https://t.co/0zmcdFphSu"
+	},
+	{
+		"created_at": "Sun Mar 22 17:11:00 +0000 2020",
+		"id": 1241774389139583000,
+		"id_str": "1241774389139582979",
+		"full_text": "@techstreams Thanks Laura - inspired by my wife who was thrown into remote working last week 😉",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "techstreams",
+					"name": "Laura Taylor",
+					"id": 14328802,
+					"id_str": "14328802",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1241773490383900700,
+		"in_reply_to_status_id_str": "1241773490383900679",
+		"in_reply_to_user_id": 14328802,
+		"in_reply_to_user_id_str": "14328802",
+		"in_reply_to_screen_name": "techstreams",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8636,
+			"friends_count": 2520,
+			"listed_count": 623,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@techstreams Thanks Laura - inspired by my wife who was thrown into remote working last week 😉"
+	},
+	{
+		"created_at": "Sun Mar 22 17:04:27 +0000 2020",
+		"id": 1241772744213172200,
+		"id_str": "1241772744213172227",
+		"full_text": "HT to @LornaMCampbell @hopkinsdavid and @brumface (and of course @MarenDeepwell) for links and resources https://t.co/YtFa6ykAbf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LornaMCampbell",
+					"name": "Lorna M. Campbell",
+					"id": 4016151,
+					"id_str": "4016151",
+					"indices": [
+						6,
+						21
+					]
+				},
+				{
+					"screen_name": "hopkinsdavid",
+					"name": "David Hopkins",
+					"id": 19582633,
+					"id_str": "19582633",
+					"indices": [
+						22,
+						35
+					]
+				},
+				{
+					"screen_name": "brumface",
+					"name": "Lauren Brumfield",
+					"id": 60716903,
+					"id_str": "60716903",
+					"indices": [
+						40,
+						49
+					]
+				},
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						65,
+						79
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YtFa6ykAbf",
+					"expanded_url": "https://twitter.com/mhawksey/status/1241769343760941056",
+					"display_url": "twitter.com/mhawksey/statu…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8636,
+			"friends_count": 2520,
+			"listed_count": 623,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1241769343760941000,
+		"quoted_status_id_str": "1241769343760941056",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YtFa6ykAbf",
+			"expanded": "https://twitter.com/mhawksey/status/1241769343760941056",
+			"display": "twitter.com/mhawksey/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 22 16:50:57 +0000 2020",
+			"id": 1241769343760941000,
+			"id_str": "1241769343760941056",
+			"full_text": "By me - Virtual Teams: So you’ve just become a remote team leader … what next? Tips on adjusting https://t.co/UiaCmhG2Sd #altc https://t.co/WhyAwQemhE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				126
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "altc",
+						"indices": [
+							121,
+							126
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/UiaCmhG2Sd",
+						"expanded_url": "https://mashe.hawksey.info/2020/03/virtual-teams-so-youve-just-become-a-remote-team-leader-what-next-tips-on-adjusting/",
+						"display_url": "mashe.hawksey.info/2020/03/virtua…",
+						"indices": [
+							97,
+							120
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1241769093751062500,
+						"id_str": "1241769093751062529",
+						"indices": [
+							127,
+							150
+						],
+						"media_url": "http://pbs.twimg.com/media/ETumaV4XQAEwy1z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETumaV4XQAEwy1z.jpg",
+						"url": "https://t.co/WhyAwQemhE",
+						"display_url": "pic.twitter.com/WhyAwQemhE",
+						"expanded_url": "https://twitter.com/mhawksey/status/1241769343760941056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 452,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 797,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1241769093751062500,
+						"id_str": "1241769093751062529",
+						"indices": [
+							127,
+							150
+						],
+						"media_url": "http://pbs.twimg.com/media/ETumaV4XQAEwy1z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETumaV4XQAEwy1z.jpg",
+						"url": "https://t.co/WhyAwQemhE",
+						"display_url": "pic.twitter.com/WhyAwQemhE",
+						"expanded_url": "https://twitter.com/mhawksey/status/1241769343760941056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 452,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 797,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13046992,
+				"id_str": "13046992",
+				"name": "Martin Hawksey #altc",
+				"screen_name": "mhawksey",
+				"location": "Edinburgh, Scotland",
+				"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+				"url": "https://t.co/OwPc0EbVqg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OwPc0EbVqg",
+								"expanded_url": "https://mashe.hawksey.info",
+								"display_url": "mashe.hawksey.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8636,
+				"friends_count": 2520,
+				"listed_count": 623,
+				"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+				"favourites_count": 6519,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 29502,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F5F5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+				"profile_link_color": "4099FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D4D4D4",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 34,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "HT to @LornaMCampbell @hopkinsdavid and @brumface (and of course @MarenDeepwell) for links and resources https://t.co/YtFa6ykAbf"
+	},
+	{
+		"created_at": "Sun Mar 22 16:52:21 +0000 2020",
+		"id": 1241769696518643700,
+		"id_str": "1241769696518643713",
+		"full_text": "@techstreams funny you should ask. Just published this focused on tips for remote team leaders (the end of the post has links to tips shared for remote team members) https://t.co/YtFa6ykAbf",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "techstreams",
+					"name": "Laura Taylor",
+					"id": 14328802,
+					"id_str": "14328802",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YtFa6ykAbf",
+					"expanded_url": "https://twitter.com/mhawksey/status/1241769343760941056",
+					"display_url": "twitter.com/mhawksey/statu…",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1241754760174137300,
+		"in_reply_to_status_id_str": "1241754760174137344",
+		"in_reply_to_user_id": 14328802,
+		"in_reply_to_user_id_str": "14328802",
+		"in_reply_to_screen_name": "techstreams",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8636,
+			"friends_count": 2520,
+			"listed_count": 623,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1241769343760941000,
+		"quoted_status_id_str": "1241769343760941056",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YtFa6ykAbf",
+			"expanded": "https://twitter.com/mhawksey/status/1241769343760941056",
+			"display": "twitter.com/mhawksey/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 22 16:50:57 +0000 2020",
+			"id": 1241769343760941000,
+			"id_str": "1241769343760941056",
+			"full_text": "By me - Virtual Teams: So you’ve just become a remote team leader … what next? Tips on adjusting https://t.co/UiaCmhG2Sd #altc https://t.co/WhyAwQemhE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				126
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "altc",
+						"indices": [
+							121,
+							126
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/UiaCmhG2Sd",
+						"expanded_url": "https://mashe.hawksey.info/2020/03/virtual-teams-so-youve-just-become-a-remote-team-leader-what-next-tips-on-adjusting/",
+						"display_url": "mashe.hawksey.info/2020/03/virtua…",
+						"indices": [
+							97,
+							120
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1241769093751062500,
+						"id_str": "1241769093751062529",
+						"indices": [
+							127,
+							150
+						],
+						"media_url": "http://pbs.twimg.com/media/ETumaV4XQAEwy1z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETumaV4XQAEwy1z.jpg",
+						"url": "https://t.co/WhyAwQemhE",
+						"display_url": "pic.twitter.com/WhyAwQemhE",
+						"expanded_url": "https://twitter.com/mhawksey/status/1241769343760941056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 452,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 797,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1241769093751062500,
+						"id_str": "1241769093751062529",
+						"indices": [
+							127,
+							150
+						],
+						"media_url": "http://pbs.twimg.com/media/ETumaV4XQAEwy1z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETumaV4XQAEwy1z.jpg",
+						"url": "https://t.co/WhyAwQemhE",
+						"display_url": "pic.twitter.com/WhyAwQemhE",
+						"expanded_url": "https://twitter.com/mhawksey/status/1241769343760941056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 452,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 797,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13046992,
+				"id_str": "13046992",
+				"name": "Martin Hawksey #altc",
+				"screen_name": "mhawksey",
+				"location": "Edinburgh, Scotland",
+				"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+				"url": "https://t.co/OwPc0EbVqg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OwPc0EbVqg",
+								"expanded_url": "https://mashe.hawksey.info",
+								"display_url": "mashe.hawksey.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8636,
+				"friends_count": 2520,
+				"listed_count": 623,
+				"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+				"favourites_count": 6519,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 29502,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F5F5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+				"profile_link_color": "4099FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D4D4D4",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 34,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@techstreams funny you should ask. Just published this focused on tips for remote team leaders (the end of the post has links to tips shared for remote team members) https://t.co/YtFa6ykAbf"
+	},
+	{
+		"created_at": "Sun Mar 22 16:50:57 +0000 2020",
+		"id": 1241769343760941000,
+		"id_str": "1241769343760941056",
+		"full_text": "By me - Virtual Teams: So you’ve just become a remote team leader … what next? Tips on adjusting https://t.co/UiaCmhG2Sd #altc https://t.co/WhyAwQemhE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						121,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UiaCmhG2Sd",
+					"expanded_url": "https://mashe.hawksey.info/2020/03/virtual-teams-so-youve-just-become-a-remote-team-leader-what-next-tips-on-adjusting/",
+					"display_url": "mashe.hawksey.info/2020/03/virtua…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1241769093751062500,
+					"id_str": "1241769093751062529",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/ETumaV4XQAEwy1z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETumaV4XQAEwy1z.jpg",
+					"url": "https://t.co/WhyAwQemhE",
+					"display_url": "pic.twitter.com/WhyAwQemhE",
+					"expanded_url": "https://twitter.com/mhawksey/status/1241769343760941056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 797,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1241769093751062500,
+					"id_str": "1241769093751062529",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/ETumaV4XQAEwy1z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETumaV4XQAEwy1z.jpg",
+					"url": "https://t.co/WhyAwQemhE",
+					"display_url": "pic.twitter.com/WhyAwQemhE",
+					"expanded_url": "https://twitter.com/mhawksey/status/1241769343760941056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 797,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8636,
+			"friends_count": 2520,
+			"listed_count": 623,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "By me - Virtual Teams: So you’ve just become a remote team leader … what next? Tips on adjusting https://t.co/UiaCmhG2Sd #altc https://t.co/WhyAwQemhE"
+	},
+	{
+		"created_at": "Sun Mar 22 13:57:40 +0000 2020",
+		"id": 1241725737209659400,
+		"id_str": "1241725737209659394",
+		"full_text": "\"As part of our $50 million https://t.co/LDH6tIQilA COVID-19 response, we’re announcing a $10 million Distance Learning Fund to support orgs around the globe that help educators access the resources they need to provide high quality learning opportunities to children\" #altc https://t.co/awZl5s3NQG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						269,
+						274
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LDH6tIQilA",
+					"expanded_url": "http://Google.org",
+					"display_url": "Google.org",
+					"indices": [
+						28,
+						51
+					]
+				},
+				{
+					"url": "https://t.co/awZl5s3NQG",
+					"expanded_url": "https://twitter.com/sundarpichai/status/1241047612607696896",
+					"display_url": "twitter.com/sundarpichai/s…",
+					"indices": [
+						275,
+						298
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8636,
+			"friends_count": 2520,
+			"listed_count": 623,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1241047612607697000,
+		"quoted_status_id_str": "1241047612607696896",
+		"quoted_status_permalink": {
+			"url": "https://t.co/awZl5s3NQG",
+			"expanded": "https://twitter.com/sundarpichai/status/1241047612607696896",
+			"display": "twitter.com/sundarpichai/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 20 17:03:03 +0000 2020",
+			"id": 1241047612607697000,
+			"id_str": "1241047612607696896",
+			"full_text": "We’re rolling out Teach from Home, a tools &amp; resources hub to help teachers continue teaching during school closures. We’re also establishing a $10M Distance Learning fund to support orgs that help remove barriers for students learning remotely. #COVID19\nhttps://t.co/bM7fD4f4oU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				282
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "COVID19",
+						"indices": [
+							250,
+							258
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bM7fD4f4oU",
+						"expanded_url": "https://blog.google/outreach-initiatives/education/helping-educators-and-students-stay-connected",
+						"display_url": "blog.google/outreach-initi…",
+						"indices": [
+							259,
+							282
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14130366,
+				"id_str": "14130366",
+				"name": "Sundar Pichai",
+				"screen_name": "sundarpichai",
+				"location": "",
+				"description": "CEO,  Google and Alphabet",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2683939,
+				"friends_count": 339,
+				"listed_count": 0,
+				"created_at": "Wed Mar 12 05:51:53 +0000 2008",
+				"favourites_count": 808,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1344,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/864282616597405701/M-FEJMZ0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/864282616597405701/M-FEJMZ0_normal.jpg",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1934,
+			"favorite_count": 7344,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"As part of our $50 million https://t.co/LDH6tIQilA COVID-19 response, we’re announcing a $10 million Distance Learning Fund to support orgs around the globe that help educators access the resources they need to provide high quality learning opportunities to children\" #altc https://t.co/awZl5s3NQG"
+	},
+	{
+		"created_at": "Sun Mar 22 06:54:15 +0000 2020",
+		"id": 1241619180413161500,
+		"id_str": "1241619180413161473",
+		"full_text": "@schoraria911 Yeah that's a hard one to beat. For me the turning point was meeting someone in a bar in San Francisco during Google Next who said 'your that guy who does the videos' ... I'm sure you'll have your San Francisco moment",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			231
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "schoraria911",
+					"name": "Sourabh Choraria",
+					"id": 1145333591867453400,
+					"id_str": "1145333591867453440",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1241615996902768600,
+		"in_reply_to_status_id_str": "1241615996902768640",
+		"in_reply_to_user_id": 1145333591867453400,
+		"in_reply_to_user_id_str": "1145333591867453440",
+		"in_reply_to_screen_name": "schoraria911",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8636,
+			"friends_count": 2520,
+			"listed_count": 623,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@schoraria911 Yeah that's a hard one to beat. For me the turning point was meeting someone in a bar in San Francisco during Google Next who said 'your that guy who does the videos' ... I'm sure you'll have your San Francisco moment"
+	},
+	{
 		"created_at": "Sat Mar 21 18:26:53 +0000 2020",
 		"id": 1241431100309807000,
 		"id_str": "1241431100309807104",
