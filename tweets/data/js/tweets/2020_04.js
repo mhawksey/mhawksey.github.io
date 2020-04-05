@@ -1,6 +1,420 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 04 15:28:20 +0000 2020",
+		"id": 1246459595238899700,
+		"id_str": "1246459595238899712",
+		"full_text": "@mozart_34 @pfelipm @AppsScriptInfo ... also on the mobile side @labnol is exploring what I think is a really interesting model using Apps Script with MIT’s App Inventor https://t.co/Ch8xWa8vEH",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mozart_34",
+					"name": "Mozart.34",
+					"id": 83852970,
+					"id_str": "83852970",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "pfelipm",
+					"name": "Pablo Felip",
+					"id": 127973484,
+					"id_str": "127973484",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"screen_name": "AppsScriptInfo",
+					"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+					"id": 322526439,
+					"id_str": "322526439",
+					"indices": [
+						20,
+						35
+					]
+				},
+				{
+					"screen_name": "labnol",
+					"name": "Amit Agarwal",
+					"id": 724473,
+					"id_str": "724473",
+					"indices": [
+						64,
+						71
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ch8xWa8vEH",
+					"expanded_url": "https://www.labnol.org/send-sms-google-sheets-200402",
+					"display_url": "labnol.org/send-sms-googl…",
+					"indices": [
+						170,
+						193
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1246453150053052400,
+		"in_reply_to_status_id_str": "1246453150053052420",
+		"in_reply_to_user_id": 83852970,
+		"in_reply_to_user_id_str": "83852970",
+		"in_reply_to_screen_name": "mozart_34",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8681,
+			"friends_count": 2522,
+			"listed_count": 623,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29562,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@mozart_34 @pfelipm @AppsScriptInfo ... also on the mobile side @labnol is exploring what I think is a really interesting model using Apps Script with MIT’s App Inventor https://t.co/Ch8xWa8vEH"
+	},
+	{
+		"created_at": "Sat Apr 04 14:47:00 +0000 2020",
+		"id": 1246449192387653600,
+		"id_str": "1246449192387653632",
+		"full_text": "@mozart_34 @pfelipm @AppsScriptInfo Personally I think AppSheets makes sense if you are interested in mobile app dev and want to hook into the features of the phone (location, signature box, barcode scanning). I've personally found to many UI customisation limitations in AppSheets and coding our own is better",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			310
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mozart_34",
+					"name": "Mozart.34",
+					"id": 83852970,
+					"id_str": "83852970",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "pfelipm",
+					"name": "Pablo Felip",
+					"id": 127973484,
+					"id_str": "127973484",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"screen_name": "AppsScriptInfo",
+					"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+					"id": 322526439,
+					"id_str": "322526439",
+					"indices": [
+						20,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1246447802034450400,
+		"in_reply_to_status_id_str": "1246447802034450432",
+		"in_reply_to_user_id": 83852970,
+		"in_reply_to_user_id_str": "83852970",
+		"in_reply_to_screen_name": "mozart_34",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8681,
+			"friends_count": 2522,
+			"listed_count": 623,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29562,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mozart_34 @pfelipm @AppsScriptInfo Personally I think AppSheets makes sense if you are interested in mobile app dev and want to hook into the features of the phone (location, signature box, barcode scanning). I've personally found to many UI customisation limitations in AppSheets and coding our own is better"
+	},
+	{
+		"created_at": "Sat Apr 04 09:24:08 +0000 2020",
+		"id": 1246367940984868900,
+		"id_str": "1246367940984868866",
+		"full_text": "@villaronrubia @MiaZamoraPhD @time_motion You've captured so many wonderful memories. It was a pleasure to support you, Mia and Jonathan - you had a wonderful vision for the event and #OER20 will be remembered for all the right reasons. Hopefully you can look back on #OER20 and use it to get through the harder times",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			317
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OER20",
+					"indices": [
+						184,
+						190
+					]
+				},
+				{
+					"text": "OER20",
+					"indices": [
+						268,
+						274
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "villaronrubia",
+					"name": "Daniel Villar-Onrubia",
+					"id": 41424326,
+					"id_str": "41424326",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "MiaZamoraPhD",
+					"name": "Mia Zamora",
+					"id": 579873574,
+					"id_str": "579873574",
+					"indices": [
+						15,
+						28
+					]
+				},
+				{
+					"screen_name": "time_motion",
+					"name": "Jonathan Shaw",
+					"id": 66360983,
+					"id_str": "66360983",
+					"indices": [
+						29,
+						41
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1246142122991984600,
+		"in_reply_to_status_id_str": "1246142122991984643",
+		"in_reply_to_user_id": 41424326,
+		"in_reply_to_user_id_str": "41424326",
+		"in_reply_to_screen_name": "villaronrubia",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8681,
+			"friends_count": 2522,
+			"listed_count": 623,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29562,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@villaronrubia @MiaZamoraPhD @time_motion You've captured so many wonderful memories. It was a pleasure to support you, Mia and Jonathan - you had a wonderful vision for the event and #OER20 will be remembered for all the right reasons. Hopefully you can look back on #OER20 and use it to get through the harder times"
+	},
+	{
 		"created_at": "Thu Apr 02 20:16:13 +0000 2020",
 		"id": 1245807267297013800,
 		"id_str": "1245807267297013760",
