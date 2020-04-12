@@ -1,6 +1,553 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 11 15:25:43 +0000 2020",
+		"id": 1248924705035337700,
+		"id_str": "1248995652006227970",
+		"full_text": "The power of a simple #GoogleAppsSctipt . Nice one Andy! https://t.co/X2XreZr0rX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAppsSctipt",
+					"indices": [
+						22,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X2XreZr0rX",
+					"expanded_url": "https://twitter.com/arundquist/status/1248254606674743299",
+					"display_url": "twitter.com/arundquist/sta…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2346078620,
+			"id_str": "2346078620",
+			"name": "Yagisanatode",
+			"screen_name": "LifeOfSpy",
+			"location": "",
+			"description": "Part of the top-secret unicorn riding project.\nGoogle Apps Script fetishists.\nGoogle Sheet groupie.\nGoogle Suite Igor.\nCoding goat.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 171,
+			"friends_count": 436,
+			"listed_count": 9,
+			"created_at": "Sun Feb 16 02:31:08 +0000 2014",
+			"favourites_count": 3632,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1033213062164172800/hxM2sRZ1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1033213062164172800/hxM2sRZ1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2346078620/1535172648",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1248254606674743300,
+		"quoted_status_id_str": "1248254606674743299",
+		"quoted_status_permalink": {
+			"url": "https://t.co/X2XreZr0rX",
+			"expanded": "https://twitter.com/arundquist/status/1248254606674743299",
+			"display": "twitter.com/arundquist/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 09 14:21:04 +0000 2020",
+			"id": 1248254606674743300,
+			"id_str": "1248254606674743299",
+			"full_text": "Super useful when I'm not watching the clock working at home:\n  var today = new Date();\n  var events = CalendarApp.getDefaultCalendar().getEventsForDay(today);\n  events.forEach(e =&gt; e.addPopupReminder(5));\n\nAdds 5 minute popup notification for all of today's events",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				268
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18911795,
+				"id_str": "18911795",
+				"name": "Andy Rundquist",
+				"screen_name": "arundquist",
+				"location": "Saint Paul, MN",
+				"description": "college physics teacher, motto: higher, faster, louder.",
+				"url": "http://t.co/Hns46JdSLb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Hns46JdSLb",
+								"expanded_url": "http://arundquist.wordpress.com",
+								"display_url": "arundquist.wordpress.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2416,
+				"friends_count": 1131,
+				"listed_count": 149,
+				"created_at": "Mon Jan 12 19:29:07 +0000 2009",
+				"favourites_count": 1209,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16906,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1303510867/IMG_3029_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1303510867/IMG_3029_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The power of a simple #GoogleAppsSctipt . Nice one Andy! https://t.co/X2XreZr0rX"
+	},
+	{
+		"created_at": "Sat Apr 11 08:29:30 +0000 2020",
+		"id": 1248890908361273300,
+		"id_str": "1248890908361273349",
+		"full_text": "@AppsScriptInfo @hamletbatista @schoraria911 Great write up. Been meaning to write about Apps Script and Collab for a while and this is the perfect inspiration",
+		"truncated": false,
+		"display_text_range": [
+			45,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppsScriptInfo",
+					"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+					"id": 322526439,
+					"id_str": "322526439",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "hamletbatista",
+					"name": "Hamlet 🇩🇴 🇺🇸",
+					"id": 9941892,
+					"id_str": "9941892",
+					"indices": [
+						16,
+						30
+					]
+				},
+				{
+					"screen_name": "schoraria911",
+					"name": "Sourabh Choraria",
+					"id": 1145333591867453400,
+					"id_str": "1145333591867453440",
+					"indices": [
+						31,
+						44
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1248889697021149200,
+		"in_reply_to_status_id_str": "1248889697021149184",
+		"in_reply_to_user_id": 322526439,
+		"in_reply_to_user_id_str": "322526439",
+		"in_reply_to_screen_name": "AppsScriptInfo",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8706,
+			"friends_count": 2528,
+			"listed_count": 618,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6654,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AppsScriptInfo @hamletbatista @schoraria911 Great write up. Been meaning to write about Apps Script and Collab for a while and this is the perfect inspiration"
+	},
+	{
+		"created_at": "Sat Apr 11 08:17:49 +0000 2020",
+		"id": 1248652218053451800,
+		"id_str": "1248887968997277697",
+		"full_text": "Import Data from Google Sheets to Firestore using Google Apps Script by @nidhincold (contributed by @schoraria911) #GSuiteDevs #GoogleAppsScript https://t.co/tKew16NOrJ https://t.co/9CXIzojNnU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						115,
+						126
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						127,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nidhincold",
+					"name": "nidhinkumar",
+					"id": 386595908,
+					"id_str": "386595908",
+					"indices": [
+						72,
+						83
+					]
+				},
+				{
+					"screen_name": "schoraria911",
+					"name": "Sourabh Choraria",
+					"id": 1145333591867453400,
+					"id_str": "1145333591867453440",
+					"indices": [
+						100,
+						113
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tKew16NOrJ",
+					"expanded_url": "https://pulse.appsscript.info/p/2020/04/import-data-from-google-sheets-to-firestore-using-google-apps-script/",
+					"display_url": "pulse.appsscript.info/p/2020/04/impo…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1248652216358977500,
+					"id_str": "1248652216358977536",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EVQakzwUwAAmvcG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVQakzwUwAAmvcG.jpg",
+					"url": "https://t.co/9CXIzojNnU",
+					"display_url": "pic.twitter.com/9CXIzojNnU",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1248652218053451776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248652216358977500,
+					"id_str": "1248652216358977536",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EVQakzwUwAAmvcG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVQakzwUwAAmvcG.jpg",
+					"url": "https://t.co/9CXIzojNnU",
+					"display_url": "pic.twitter.com/9CXIzojNnU",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1248652218053451776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322526439,
+			"id_str": "322526439",
+			"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+			"screen_name": "AppsScriptInfo",
+			"location": "World",
+			"description": "A Google Apps Script Community account to support #GSuiteDevs. Curated by @mhawksey",
+			"url": "https://t.co/pEqPAHFH4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEqPAHFH4F",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 550,
+			"friends_count": 734,
+			"listed_count": 17,
+			"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+			"favourites_count": 382,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1622,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+			"profile_link_color": "4286F4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Import Data from Google Sheets to Firestore using Google Apps Script by @nidhincold (contributed by @schoraria911) #GSuiteDevs #GoogleAppsScript https://t.co/tKew16NOrJ https://t.co/9CXIzojNnU"
+	},
+	{
 		"created_at": "Fri Apr 10 16:07:12 +0000 2020",
 		"id": 1248643702488268800,
 		"id_str": "1248643702488268801",
