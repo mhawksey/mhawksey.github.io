@@ -1,6 +1,1010 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 14 21:39:41 +0000 2020",
+		"id": 1250176928310603800,
+		"id_str": "1250176928310603783",
+		"full_text": "By me: Tips for using Google Sheets for event programme planning https://t.co/XJuiW6zSnP #altc #GoogleSheets",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "GoogleSheets",
+					"indices": [
+						95,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XJuiW6zSnP",
+					"expanded_url": "https://mashe.hawksey.info/2020/04/tips-for-using-google-sheets-for-event-programme-planning/",
+					"display_url": "mashe.hawksey.info/2020/04/tips-f…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8709,
+			"friends_count": 2526,
+			"listed_count": 618,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6666,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29607,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "By me: Tips for using Google Sheets for event programme planning https://t.co/XJuiW6zSnP #altc #GoogleSheets"
+	},
+	{
+		"created_at": "Tue Apr 14 10:32:43 +0000 2020",
+		"id": 1250009080468590600,
+		"id_str": "1250009080468590592",
+		"full_text": "I've got a new friend 'ScreenToGif' https://t.co/X73FzRmJVI - great little screen to animated gif solution and open source #altc https://t.co/YXhlbhlpK6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						123,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X73FzRmJVI",
+					"expanded_url": "https://www.screentogif.com/",
+					"display_url": "screentogif.com",
+					"indices": [
+						36,
+						59
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1250008956598210600,
+					"id_str": "1250008956598210560",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EVjshfAX0AAg4l7.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EVjshfAX0AAg4l7.jpg",
+					"url": "https://t.co/YXhlbhlpK6",
+					"display_url": "pic.twitter.com/YXhlbhlpK6",
+					"expanded_url": "https://twitter.com/mhawksey/status/1250009080468590592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 366,
+							"h": 286,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 366,
+							"h": 286,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 366,
+							"h": 286,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250008956598210600,
+					"id_str": "1250008956598210560",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EVjshfAX0AAg4l7.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EVjshfAX0AAg4l7.jpg",
+					"url": "https://t.co/YXhlbhlpK6",
+					"display_url": "pic.twitter.com/YXhlbhlpK6",
+					"expanded_url": "https://twitter.com/mhawksey/status/1250009080468590592/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 366,
+							"h": 286,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 366,
+							"h": 286,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 366,
+							"h": 286,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							183,
+							143
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EVjshfAX0AAg4l7.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8709,
+			"friends_count": 2526,
+			"listed_count": 618,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6666,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29607,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I've got a new friend 'ScreenToGif' https://t.co/X73FzRmJVI - great little screen to animated gif solution and open source #altc https://t.co/YXhlbhlpK6"
+	},
+	{
+		"created_at": "Tue Apr 14 08:33:31 +0000 2020",
+		"id": 1249979084840542200,
+		"id_str": "1249979084840542213",
+		"full_text": "@DataChaz @AppsScriptInfo @schoraria911 @dsottimano @benlcollins @labnol @mozart_34 @timmermariette Sheetcaster: 3D in Apps Script is also pretty impressive https://t.co/GVxDln472H  ... I've a deck I use with a couple of other favourites https://t.co/G1hmhtpElG :) https://t.co/CoZHx0z7cX",
+		"truncated": false,
+		"display_text_range": [
+			100,
+			264
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DataChaz",
+					"name": "𝙲𝚑𝚊𝚛𝚕𝚢 𝚆𝚊𝚛𝚐𝚗𝚒𝚎𝚛",
+					"id": 19628766,
+					"id_str": "19628766",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "AppsScriptInfo",
+					"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+					"id": 322526439,
+					"id_str": "322526439",
+					"indices": [
+						10,
+						25
+					]
+				},
+				{
+					"screen_name": "schoraria911",
+					"name": "Sourabh Choraria",
+					"id": 1145333591867453400,
+					"id_str": "1145333591867453440",
+					"indices": [
+						26,
+						39
+					]
+				},
+				{
+					"screen_name": "dsottimano",
+					"name": "David Sottimano",
+					"id": 147616003,
+					"id_str": "147616003",
+					"indices": [
+						40,
+						51
+					]
+				},
+				{
+					"screen_name": "benlcollins",
+					"name": "Ben Collins",
+					"id": 19338407,
+					"id_str": "19338407",
+					"indices": [
+						52,
+						64
+					]
+				},
+				{
+					"screen_name": "labnol",
+					"name": "Amit Agarwal",
+					"id": 724473,
+					"id_str": "724473",
+					"indices": [
+						65,
+						72
+					]
+				},
+				{
+					"screen_name": "mozart_34",
+					"name": "Mozart.34",
+					"id": 83852970,
+					"id_str": "83852970",
+					"indices": [
+						73,
+						83
+					]
+				},
+				{
+					"screen_name": "timmermariette",
+					"name": "Mariette Timmer",
+					"id": 2473545853,
+					"id_str": "2473545853",
+					"indices": [
+						84,
+						99
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GVxDln472H",
+					"expanded_url": "https://gsuite-developers.googleblog.com/2012/03/sheetcaster-3d-in-apps-script.html",
+					"display_url": "gsuite-developers.googleblog.com/2012/03/sheetc…",
+					"indices": [
+						157,
+						180
+					]
+				},
+				{
+					"url": "https://t.co/G1hmhtpElG",
+					"expanded_url": "https://go.alt.ac.uk/make-it-snow",
+					"display_url": "go.alt.ac.uk/make-it-snow",
+					"indices": [
+						238,
+						261
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1249977275740758000,
+					"id_str": "1249977275740758018",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EVjPtanWoAI8poZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EVjPtanWoAI8poZ.jpg",
+					"url": "https://t.co/CoZHx0z7cX",
+					"display_url": "pic.twitter.com/CoZHx0z7cX",
+					"expanded_url": "https://twitter.com/mhawksey/status/1249979084840542213/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 840,
+							"h": 472,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 472,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249977275740758000,
+					"id_str": "1249977275740758018",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EVjPtanWoAI8poZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EVjPtanWoAI8poZ.jpg",
+					"url": "https://t.co/CoZHx0z7cX",
+					"display_url": "pic.twitter.com/CoZHx0z7cX",
+					"expanded_url": "https://twitter.com/mhawksey/status/1249979084840542213/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 840,
+							"h": 472,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 472,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							105,
+							59
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EVjPtanWoAI8poZ.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1249976112878411800,
+		"in_reply_to_status_id_str": "1249976112878411777",
+		"in_reply_to_user_id": 13046992,
+		"in_reply_to_user_id_str": "13046992",
+		"in_reply_to_screen_name": "mhawksey",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8709,
+			"friends_count": 2526,
+			"listed_count": 618,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6666,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29607,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@DataChaz @AppsScriptInfo @schoraria911 @dsottimano @benlcollins @labnol @mozart_34 @timmermariette Sheetcaster: 3D in Apps Script is also pretty impressive https://t.co/GVxDln472H  ... I've a deck I use with a couple of other favourites https://t.co/G1hmhtpElG :) https://t.co/CoZHx0z7cX"
+	},
+	{
+		"created_at": "Tue Apr 14 08:21:43 +0000 2020",
+		"id": 1249976112878411800,
+		"id_str": "1249976112878411777",
+		"full_text": "@DataChaz @AppsScriptInfo @schoraria911 @dsottimano @benlcollins That was a fab post! Recently it was great to see @labnol's post on MIT App Inventor and Apps Script caught @mozart_34's and @timmermariette's imagination \n\nhttps://t.co/CrVl95NQmk\n\nhttps://t.co/6tvmrukARF\n\nhttps://t.co/5uya9ksrJC",
+		"truncated": false,
+		"display_text_range": [
+			65,
+			295
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DataChaz",
+					"name": "𝙲𝚑𝚊𝚛𝚕𝚢 𝚆𝚊𝚛𝚐𝚗𝚒𝚎𝚛",
+					"id": 19628766,
+					"id_str": "19628766",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "AppsScriptInfo",
+					"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+					"id": 322526439,
+					"id_str": "322526439",
+					"indices": [
+						10,
+						25
+					]
+				},
+				{
+					"screen_name": "schoraria911",
+					"name": "Sourabh Choraria",
+					"id": 1145333591867453400,
+					"id_str": "1145333591867453440",
+					"indices": [
+						26,
+						39
+					]
+				},
+				{
+					"screen_name": "dsottimano",
+					"name": "David Sottimano",
+					"id": 147616003,
+					"id_str": "147616003",
+					"indices": [
+						40,
+						51
+					]
+				},
+				{
+					"screen_name": "benlcollins",
+					"name": "Ben Collins",
+					"id": 19338407,
+					"id_str": "19338407",
+					"indices": [
+						52,
+						64
+					]
+				},
+				{
+					"screen_name": "labnol",
+					"name": "Amit Agarwal",
+					"id": 724473,
+					"id_str": "724473",
+					"indices": [
+						115,
+						122
+					]
+				},
+				{
+					"screen_name": "mozart_34",
+					"name": "Mozart.34",
+					"id": 83852970,
+					"id_str": "83852970",
+					"indices": [
+						173,
+						183
+					]
+				},
+				{
+					"screen_name": "timmermariette",
+					"name": "Mariette Timmer",
+					"id": 2473545853,
+					"id_str": "2473545853",
+					"indices": [
+						190,
+						205
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CrVl95NQmk",
+					"expanded_url": "https://pulse.appsscript.info/p/2020/04/how-to-send-sms-messages-with-google-sheets-and-your-android-phone-digital-inspiration/",
+					"display_url": "pulse.appsscript.info/p/2020/04/how-…",
+					"indices": [
+						222,
+						245
+					]
+				},
+				{
+					"url": "https://t.co/6tvmrukARF",
+					"expanded_url": "https://twitter.com/mozart_34/status/1249048387699302402",
+					"display_url": "twitter.com/mozart_34/stat…",
+					"indices": [
+						247,
+						270
+					]
+				},
+				{
+					"url": "https://t.co/5uya9ksrJC",
+					"expanded_url": "https://twitter.com/timmermariette/status/1249310313985515520",
+					"display_url": "twitter.com/timmermariette…",
+					"indices": [
+						272,
+						295
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1249821028815196200,
+		"in_reply_to_status_id_str": "1249821028815196164",
+		"in_reply_to_user_id": 19628766,
+		"in_reply_to_user_id_str": "19628766",
+		"in_reply_to_screen_name": "DataChaz",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8709,
+			"friends_count": 2526,
+			"listed_count": 618,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6666,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29607,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1249310313985515500,
+		"quoted_status_id_str": "1249310313985515520",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5uya9ksrJC",
+			"expanded": "https://twitter.com/timmermariette/status/1249310313985515520",
+			"display": "twitter.com/timmermariette…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 12 12:16:04 +0000 2020",
+			"id": 1249310313985515500,
+			"id_str": "1249310313985515520",
+			"full_text": "Kind of inspired by @mozart_34 Used a scanner app ('Teacapps') to scan and exports  a text file with the barcode to a specific Drive Folder. Importing the barcode with #GoogleAppsScript into a sheet. https://t.co/vAEGyr5iZt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				199
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GoogleAppsScript",
+						"indices": [
+							168,
+							185
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mozart_34",
+						"name": "Mozart.34",
+						"id": 83852970,
+						"id_str": "83852970",
+						"indices": [
+							20,
+							30
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1249309159595618300,
+						"id_str": "1249309159595618310",
+						"indices": [
+							200,
+							223
+						],
+						"media_url": "http://pbs.twimg.com/media/EVZwD8BWsAY3BLB.png",
+						"media_url_https": "https://pbs.twimg.com/media/EVZwD8BWsAY3BLB.png",
+						"url": "https://t.co/vAEGyr5iZt",
+						"display_url": "pic.twitter.com/vAEGyr5iZt",
+						"expanded_url": "https://twitter.com/timmermariette/status/1249310313985515520/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 800,
+								"h": 443,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 377,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 443,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1249309159595618300,
+						"id_str": "1249309159595618310",
+						"indices": [
+							200,
+							223
+						],
+						"media_url": "http://pbs.twimg.com/media/EVZwD8BWsAY3BLB.png",
+						"media_url_https": "https://pbs.twimg.com/media/EVZwD8BWsAY3BLB.png",
+						"url": "https://t.co/vAEGyr5iZt",
+						"display_url": "pic.twitter.com/vAEGyr5iZt",
+						"expanded_url": "https://twitter.com/timmermariette/status/1249310313985515520/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 800,
+								"h": 443,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 377,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 443,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2473545853,
+				"id_str": "2473545853",
+				"name": "Mariette Timmer",
+				"screen_name": "timmermariette",
+				"location": "",
+				"description": "Schilderswijk 070",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 73,
+				"friends_count": 209,
+				"listed_count": 3,
+				"created_at": "Fri May 02 06:12:42 +0000 2014",
+				"favourites_count": 187,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1228,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1195271161761947648/KR0zo7D1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1195271161761947648/KR0zo7D1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2473545853/1574002962",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@DataChaz @AppsScriptInfo @schoraria911 @dsottimano @benlcollins That was a fab post! Recently it was great to see @labnol's post on MIT App Inventor and Apps Script caught @mozart_34's and @timmermariette's imagination \n\nhttps://t.co/CrVl95NQmk\n\nhttps://t.co/6tvmrukARF\n\nhttps://t.co/5uya9ksrJC"
+	},
+	{
 		"created_at": "Mon Apr 13 20:42:41 +0000 2020",
 		"id": 1249800195421978600,
 		"id_str": "1249800195421978630",
