@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 21 20:12:39 +0000 2020",
+		"id": 1252620823724281900,
+		"id_str": "1252691742677139459",
+		"full_text": "So. What if you need to open a new tab using #GoogleAppsScript? For #gas_sample you want to open a link or file for a user. #gas_snippets https://t.co/XGT0SGHWJL https://t.co/sk4tbEk8dx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						45,
+						62
+					]
+				},
+				{
+					"text": "gas_sample",
+					"indices": [
+						68,
+						79
+					]
+				},
+				{
+					"text": "gas_snippets",
+					"indices": [
+						124,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XGT0SGHWJL",
+					"expanded_url": "https://github.com/contributorpw/google-apps-script-snippets/tree/master/snippets/common_ui/open_url_in_browser",
+					"display_url": "github.com/contributorpw/…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1252616786157146000,
+					"id_str": "1252616786157146119",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1252616786157146119/pu/img/qxsIHEWrLKdFA96R.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1252616786157146119/pu/img/qxsIHEWrLKdFA96R.jpg",
+					"url": "https://t.co/sk4tbEk8dx",
+					"display_url": "pic.twitter.com/sk4tbEk8dx",
+					"expanded_url": "https://twitter.com/oshliaer/status/1252620823724281862/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1252616786157146000,
+					"id_str": "1252616786157146119",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1252616786157146119/pu/img/qxsIHEWrLKdFA96R.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1252616786157146119/pu/img/qxsIHEWrLKdFA96R.jpg",
+					"url": "https://t.co/sk4tbEk8dx",
+					"display_url": "pic.twitter.com/sk4tbEk8dx",
+					"expanded_url": "https://twitter.com/oshliaer/status/1252620823724281862/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							5,
+							4
+						],
+						"duration_millis": 15067,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1252616786157146119/pu/vid/900x720/lq0O1vwKrUzodK8z.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1252616786157146119/pu/pl/DEk1CN2_AbZRMKYb.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1252616786157146119/pu/vid/336x270/MZMlyB_Ngq6KhUsa.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1252616786157146119/pu/vid/450x360/VcUyloVmhPo2wkXB.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 329630284,
+			"id_str": "329630284",
+			"name": "Alexander Ivanov",
+			"screen_name": "oshliaer",
+			"location": "Москва",
+			"description": "",
+			"url": "https://t.co/Odxza1OaNj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Odxza1OaNj",
+							"expanded_url": "https://contributor.pw",
+							"display_url": "contributor.pw",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 469,
+			"friends_count": 110,
+			"listed_count": 7,
+			"created_at": "Tue Jul 05 11:42:37 +0000 2011",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1199,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/344513261567186966/c865768461e1fa5e2803e96351a5714b_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/344513261567186966/c865768461e1fa5e2803e96351a5714b_normal.jpeg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So. What if you need to open a new tab using #GoogleAppsScript? For #gas_sample you want to open a link or file for a user. #gas_snippets https://t.co/XGT0SGHWJL https://t.co/sk4tbEk8dx"
+	},
+	{
 		"created_at": "Mon Apr 20 21:18:33 +0000 2020",
 		"id": 1252345937277534200,
 		"id_str": "1252345937277534210",
