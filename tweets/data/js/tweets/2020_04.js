@@ -1,6 +1,773 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 28 18:08:40 +0000 2020",
+		"id": 1255197255411302400,
+		"id_str": "1255197255411302400",
+		"full_text": ".. I'd imagine the cognitive load of monitoring chat also adds to this #altc https://t.co/1OW7Cc7LXE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						71,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1OW7Cc7LXE",
+					"expanded_url": "https://twitter.com/mhawksey/status/1255193911582228483",
+					"display_url": "twitter.com/mhawksey/statu…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8749,
+			"friends_count": 2536,
+			"listed_count": 618,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6733,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29677,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1255193911582228500,
+		"quoted_status_id_str": "1255193911582228483",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1OW7Cc7LXE",
+			"expanded": "https://twitter.com/mhawksey/status/1255193911582228483",
+			"display": "twitter.com/mhawksey/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 28 17:55:23 +0000 2020",
+			"id": 1255193911582228500,
+			"id_str": "1255193911582228483",
+			"full_text": "Why is video conferencing so exhausting? https://t.co/fUojEWvBnV #altc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				70
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "altc",
+						"indices": [
+							65,
+							70
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fUojEWvBnV",
+						"expanded_url": "https://www.engadget.com/online-conferencing-video-chat-fatigue-172357939.html",
+						"display_url": "engadget.com/online-confere…",
+						"indices": [
+							41,
+							64
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13046992,
+				"id_str": "13046992",
+				"name": "Martin Hawksey #altc",
+				"screen_name": "mhawksey",
+				"location": "Edinburgh, Scotland",
+				"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+				"url": "https://t.co/OwPc0EbVqg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OwPc0EbVqg",
+								"expanded_url": "https://mashe.hawksey.info",
+								"display_url": "mashe.hawksey.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8749,
+				"friends_count": 2536,
+				"listed_count": 618,
+				"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+				"favourites_count": 6733,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 29677,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F5F5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+				"profile_link_color": "4099FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D4D4D4",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".. I'd imagine the cognitive load of monitoring chat also adds to this #altc https://t.co/1OW7Cc7LXE"
+	},
+	{
+		"created_at": "Tue Apr 28 17:55:23 +0000 2020",
+		"id": 1255193911582228500,
+		"id_str": "1255193911582228483",
+		"full_text": "Why is video conferencing so exhausting? https://t.co/fUojEWvBnV #altc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						65,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fUojEWvBnV",
+					"expanded_url": "https://www.engadget.com/online-conferencing-video-chat-fatigue-172357939.html",
+					"display_url": "engadget.com/online-confere…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8749,
+			"friends_count": 2536,
+			"listed_count": 618,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6733,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29677,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why is video conferencing so exhausting? https://t.co/fUojEWvBnV #altc"
+	},
+	{
+		"created_at": "Tue Apr 28 11:53:41 +0000 2020",
+		"id": 1255099838196338700,
+		"id_str": "1255102888256380928",
+		"full_text": "Integrate Google sign-in using Firebase authentication on your Google Apps Script web app by @schoraria911 (contributed by @mhawksey) #GSuiteDevs #GoogleAppsScript https://t.co/U0riB53G57",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						134,
+						145
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						146,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "schoraria911",
+					"name": "Sourabh Choraria",
+					"id": 1145333591867453400,
+					"id_str": "1145333591867453440",
+					"indices": [
+						93,
+						106
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey #altc",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						123,
+						132
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/U0riB53G57",
+					"expanded_url": "https://pulse.appsscript.info/p/2020/04/integrate-google-sign-in-using-firebase-authentication-on-your-google-apps-script-web-app/",
+					"display_url": "pulse.appsscript.info/p/2020/04/inte…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322526439,
+			"id_str": "322526439",
+			"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+			"screen_name": "AppsScriptInfo",
+			"location": "World",
+			"description": "A Google Apps Script Community account to support #GSuiteDevs. Curated by @mhawksey",
+			"url": "https://t.co/pEqPAHFH4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEqPAHFH4F",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 603,
+			"friends_count": 771,
+			"listed_count": 18,
+			"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+			"favourites_count": 406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1670,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+			"profile_link_color": "4286F4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Integrate Google sign-in using Firebase authentication on your Google Apps Script web app by @schoraria911 (contributed by @mhawksey) #GSuiteDevs #GoogleAppsScript https://t.co/U0riB53G57"
+	},
+	{
+		"created_at": "Tue Apr 28 11:46:36 +0000 2020",
+		"id": 1254806750945034200,
+		"id_str": "1255101105547235329",
+		"full_text": "If you're in the #VoiceFirst community, don't forget that the first episode of #VoiceTalks is this Tuesday! Register to \"attend\".\n\nAnd if you're a developer, we can talk about what we've learned and what we can do in my Office Hours on Wednesday at 6am and pm ET (1000&amp;2200 GMT). https://t.co/8IejU9Hcl1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VoiceFirst",
+					"indices": [
+						17,
+						28
+					]
+				},
+				{
+					"text": "VoiceTalks",
+					"indices": [
+						79,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8IejU9Hcl1",
+					"expanded_url": "https://twitter.com/bernsteind/status/1254776897826721792",
+					"display_url": "twitter.com/bernsteind/sta…",
+					"indices": [
+						284,
+						307
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 304116738,
+			"id_str": "304116738",
+			"name": "Allen \"Prisoner\" Firstenberg",
+			"screen_name": "afirstenberg",
+			"location": "",
+			"description": "Earthling\nParent\nAddventurer\nLearner/Teacher/Helper\nDeveloper\nHe/him\nSinglular they - always ok.\n@multivocal\n@vododrive",
+			"url": "https://t.co/znGZkXyZGH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/znGZkXyZGH",
+							"expanded_url": "https://prisoner.com/",
+							"display_url": "prisoner.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 610,
+			"friends_count": 347,
+			"listed_count": 28,
+			"created_at": "Mon May 23 23:39:49 +0000 2011",
+			"favourites_count": 3416,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3031,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1370902720/1606591533290_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1370902720/1606591533290_normal.jpg",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1254776897826721800,
+		"quoted_status_id_str": "1254776897826721792",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8IejU9Hcl1",
+			"expanded": "https://twitter.com/bernsteind/status/1254776897826721792",
+			"display": "twitter.com/bernsteind/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 27 14:18:19 +0000 2020",
+			"id": 1254776897826721800,
+			"id_str": "1254776897826721792",
+			"full_text": "Hey #VoiceFirst. Tune in tomorrow for a new format from @VoiceSummitAI. The first episode includes an interview with @mbronstein (responsible for the Google Assistant consumer product / partner platform). Thank you &amp; can't wait to hear your feedback! https://t.co/jX0P8ChUbo https://t.co/VY5KAbOxVk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "VoiceFirst",
+						"indices": [
+							4,
+							15
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "VoiceSummitAI",
+						"name": "VOICE",
+						"id": 975463310496641000,
+						"id_str": "975463310496641024",
+						"indices": [
+							56,
+							70
+						]
+					},
+					{
+						"screen_name": "mbronstein",
+						"name": "Manuel Bronstein",
+						"id": 14736309,
+						"id_str": "14736309",
+						"indices": [
+							117,
+							128
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/jX0P8ChUbo",
+						"expanded_url": "http://voicesummit.ai/talks",
+						"display_url": "voicesummit.ai/talks",
+						"indices": [
+							255,
+							278
+						]
+					},
+					{
+						"url": "https://t.co/VY5KAbOxVk",
+						"expanded_url": "https://twitter.com/mbronstein/status/1254587717049937920",
+						"display_url": "twitter.com/mbronstein/sta…",
+						"indices": [
+							279,
+							302
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14917179,
+				"id_str": "14917179",
+				"name": "Danny Bernstein",
+				"screen_name": "bernsteind",
+				"location": "Mountain View, CA",
+				"description": "Managing Director of SW partnerships for @Google Assistant & AI. \nSan Francisco native. Passion for consumer products: #voicefirst. Web 2.0 alum.",
+				"url": "https://t.co/EzHJxgiVBK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EzHJxgiVBK",
+								"expanded_url": "http://www.linkedin.com/in/dannybernstein/",
+								"display_url": "linkedin.com/in/dannybernst…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1312,
+				"friends_count": 644,
+				"listed_count": 43,
+				"created_at": "Tue May 27 05:08:13 +0000 2008",
+				"favourites_count": 2946,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3454,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "617476",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1191152721107095553/Ux1qhpbG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191152721107095553/Ux1qhpbG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14917179/1572370489",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1254587717049938000,
+			"quoted_status_id_str": "1254587717049937920",
+			"quoted_status_permalink": {
+				"url": "https://t.co/VY5KAbOxVk",
+				"expanded": "https://twitter.com/mbronstein/status/1254587717049937920",
+				"display": "twitter.com/mbronstein/sta…"
+			},
+			"retweet_count": 6,
+			"favorite_count": 31,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you're in the #VoiceFirst community, don't forget that the first episode of #VoiceTalks is this Tuesday! Register to \"attend\".\n\nAnd if you're a developer, we can talk about what we've learned and what we can do in my Office Hours on Wednesday at 6am and pm ET (1000&amp;2200 GMT). https://t.co/8IejU9Hcl1"
+	},
+	{
 		"created_at": "Mon Apr 27 21:51:38 +0000 2020",
 		"id": 1254890976025489400,
 		"id_str": "1254890976025489408",
