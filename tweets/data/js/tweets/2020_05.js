@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 06 17:20:12 +0000 2020",
+		"id": 1258084158292791300,
+		"id_str": "1258084158292791298",
+		"full_text": "@jesskeim Hard to say without seeing the sheet :)",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jesskeim",
+					"name": "Jessica Keimowitz",
+					"id": 26777986,
+					"id_str": "26777986",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1258073657081041000,
+		"in_reply_to_status_id_str": "1258073657081040896",
+		"in_reply_to_user_id": 26777986,
+		"in_reply_to_user_id_str": "26777986",
+		"in_reply_to_screen_name": "jesskeim",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8778,
+			"friends_count": 2540,
+			"listed_count": 616,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6783,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jesskeim Hard to say without seeing the sheet :)"
+	},
+	{
+		"created_at": "Wed May 06 12:59:32 +0000 2020",
+		"id": 1258009113629515800,
+		"id_str": "1258018562754707456",
+		"full_text": "Give back to your community, help lead &amp; develop our community. Learn loads and hang out with some awesome people. @A_L_T call for Trustee nominations is open https://t.co/7ui1r8orHt #altc https://t.co/T94ab4uTOR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						187,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						119,
+						125
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7ui1r8orHt",
+					"expanded_url": "https://bit.ly/2zZ4GSo",
+					"display_url": "bit.ly/2zZ4GSo",
+					"indices": [
+						163,
+						186
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1258008984075636700,
+					"id_str": "1258008984075636736",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/EXVYgXwUEAAIfU3.png",
+					"media_url_https": "https://pbs.twimg.com/media/EXVYgXwUEAAIfU3.png",
+					"url": "https://t.co/T94ab4uTOR",
+					"display_url": "pic.twitter.com/T94ab4uTOR",
+					"expanded_url": "https://twitter.com/mattlingard/status/1258009113629515778/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258008984075636700,
+					"id_str": "1258008984075636736",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/EXVYgXwUEAAIfU3.png",
+					"media_url_https": "https://pbs.twimg.com/media/EXVYgXwUEAAIfU3.png",
+					"url": "https://t.co/T94ab4uTOR",
+					"display_url": "pic.twitter.com/T94ab4uTOR",
+					"expanded_url": "https://twitter.com/mattlingard/status/1258009113629515778/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14434363,
+			"id_str": "14434363",
+			"name": "Matt Lingard",
+			"screen_name": "mattlingard",
+			"location": "London",
+			"description": "Digital Learning Director @LCCLondon (@UAL) | #altc | Co-Chair @A_L_T Conference 2020 | @ManCity @drfc_official fan",
+			"url": "https://t.co/FZXFQHOejk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FZXFQHOejk",
+							"expanded_url": "http://mattlingard.com",
+							"display_url": "mattlingard.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3916,
+			"friends_count": 1517,
+			"listed_count": 235,
+			"created_at": "Fri Apr 18 15:45:08 +0000 2008",
+			"favourites_count": 1889,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027202215616884736/-bzfVyXr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027202215616884736/-bzfVyXr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14434363/1550091586",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "CCCCCC",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Give back to your community, help lead &amp; develop our community. Learn loads and hang out with some awesome people. @A_L_T call for Trustee nominations is open https://t.co/7ui1r8orHt #altc https://t.co/T94ab4uTOR"
+	},
+	{
 		"created_at": "Tue May 05 09:27:40 +0000 2020",
 		"id": 1257602854686204000,
 		"id_str": "1257602854686203904",
