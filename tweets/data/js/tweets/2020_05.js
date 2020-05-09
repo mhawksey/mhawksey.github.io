@@ -1,6 +1,353 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 08 16:13:12 +0000 2020",
+		"id": 1258791781119873000,
+		"id_str": "1258792074062835716",
+		"full_text": "Proof of concept of how to get namespaces (sorta) in Google Apps Scripts libraries by @clssrmtechtools (contributed by @mhawksey) #GSuiteDevs #GoogleAppsScript https://t.co/zOM6EDJBtz https://t.co/vX8KALWxle",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						130,
+						141
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						142,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "clssrmtechtools",
+					"name": "Classroom Tech Tools",
+					"id": 859694936140075000,
+					"id_str": "859694936140075008",
+					"indices": [
+						86,
+						102
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey #altc",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						119,
+						128
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zOM6EDJBtz",
+					"expanded_url": "https://pulse.appsscript.info/p/2020/05/proof-of-concept-of-how-to-get-namespaces-sorta-in-google-apps-scripts-libraries/",
+					"display_url": "pulse.appsscript.info/p/2020/05/proo…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1258791779429572600,
+					"id_str": "1258791779429572613",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EXggdDsU4AU4JET.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXggdDsU4AU4JET.jpg",
+					"url": "https://t.co/vX8KALWxle",
+					"display_url": "pic.twitter.com/vX8KALWxle",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1258791781119873025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 349,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1306,
+							"h": 380,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 198,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258791779429572600,
+					"id_str": "1258791779429572613",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EXggdDsU4AU4JET.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXggdDsU4AU4JET.jpg",
+					"url": "https://t.co/vX8KALWxle",
+					"display_url": "pic.twitter.com/vX8KALWxle",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1258791781119873025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 349,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1306,
+							"h": 380,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 198,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322526439,
+			"id_str": "322526439",
+			"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+			"screen_name": "AppsScriptInfo",
+			"location": "World",
+			"description": "A Google Apps Script Community account to support #GSuiteDevs. Curated by @mhawksey",
+			"url": "https://t.co/pEqPAHFH4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEqPAHFH4F",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 626,
+			"friends_count": 782,
+			"listed_count": 20,
+			"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+			"favourites_count": 432,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1695,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+			"profile_link_color": "4286F4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Proof of concept of how to get namespaces (sorta) in Google Apps Scripts libraries by @clssrmtechtools (contributed by @mhawksey) #GSuiteDevs #GoogleAppsScript https://t.co/zOM6EDJBtz https://t.co/vX8KALWxle"
+	},
+	{
+		"created_at": "Fri May 08 13:54:38 +0000 2020",
+		"id": 1258757205001670700,
+		"id_str": "1258757205001670658",
+		"full_text": "@clssrmtechtools @brucemcpherson ...I'm guessing they have access to an extended definitions file not accessible to mortals. There is a cool Google APIs library generator for apps script for making libraries for other Google services which could benefit from this approach https://t.co/0FwifHxZTL",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			296
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "clssrmtechtools",
+					"name": "Classroom Tech Tools",
+					"id": 859694936140075000,
+					"id_str": "859694936140075008",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "brucemcpherson",
+					"name": "Bruce McPherson 🇪🇺🇫🇷🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+					"id": 17517365,
+					"id_str": "17517365",
+					"indices": [
+						17,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0FwifHxZTL",
+					"expanded_url": "https://github.com/Spencer-Easton/Apps-Script-GoogleApis-Libraries/tree/master/Generator-SRC",
+					"display_url": "github.com/Spencer-Easton…",
+					"indices": [
+						273,
+						296
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1258755699875516400,
+		"in_reply_to_status_id_str": "1258755699875516416",
+		"in_reply_to_user_id": 859694936140075000,
+		"in_reply_to_user_id_str": "859694936140075008",
+		"in_reply_to_screen_name": "clssrmtechtools",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8781,
+			"friends_count": 2549,
+			"listed_count": 612,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29734,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@clssrmtechtools @brucemcpherson ...I'm guessing they have access to an extended definitions file not accessible to mortals. There is a cool Google APIs library generator for apps script for making libraries for other Google services which could benefit from this approach https://t.co/0FwifHxZTL"
+	},
+	{
 		"created_at": "Thu May 07 18:59:22 +0000 2020",
 		"id": 1258471504041435100,
 		"id_str": "1258471504041435136",
