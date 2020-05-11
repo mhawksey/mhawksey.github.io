@@ -1,6 +1,555 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 10 13:13:01 +0000 2020",
+		"id": 1258651781338329000,
+		"id_str": "1259471506586959873",
+		"full_text": "I wonder if any #GSuiteDevs out there scripting for Google Docs ever take advantage of revisionId? \n\nIt doesn’t appear to be exposed via DocumentApp but potentially useful for caching, increasing scalability. https://t.co/IenBr2WCmY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						16,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1258650462250623000,
+					"id_str": "1258650462250622976",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EXef7ULUYAAPXc5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXef7ULUYAAPXc5.jpg",
+					"url": "https://t.co/IenBr2WCmY",
+					"display_url": "pic.twitter.com/IenBr2WCmY",
+					"expanded_url": "https://twitter.com/clssrmtechtools/status/1258651781338329089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 254,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1351,
+							"h": 505,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 449,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258650462250623000,
+					"id_str": "1258650462250622976",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EXef7ULUYAAPXc5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXef7ULUYAAPXc5.jpg",
+					"url": "https://t.co/IenBr2WCmY",
+					"display_url": "pic.twitter.com/IenBr2WCmY",
+					"expanded_url": "https://twitter.com/clssrmtechtools/status/1258651781338329089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 254,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1351,
+							"h": 505,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 449,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 859694936140075000,
+			"id_str": "859694936140075008",
+			"name": "Classroom Tech Tools",
+			"screen_name": "clssrmtechtools",
+			"location": "Kuala Lumpur City",
+			"description": "Adam Morris: ICT Coordinator, Pythonista, Teacher, Open Source, GSuite. My code is my qualifications.",
+			"url": "https://t.co/NhOIIcDVcj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NhOIIcDVcj",
+							"expanded_url": "http://classroomtechtools.com",
+							"display_url": "classroomtechtools.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 164,
+			"friends_count": 138,
+			"listed_count": 2,
+			"created_at": "Wed May 03 09:03:39 +0000 2017",
+			"favourites_count": 443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 852,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1036851316864167941/rBAi-KPu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1036851316864167941/rBAi-KPu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/859694936140075008/1493803400",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I wonder if any #GSuiteDevs out there scripting for Google Docs ever take advantage of revisionId? \n\nIt doesn’t appear to be exposed via DocumentApp but potentially useful for caching, increasing scalability. https://t.co/IenBr2WCmY"
+	},
+	{
+		"created_at": "Sun May 10 13:11:02 +0000 2020",
+		"id": 1259471006722412500,
+		"id_str": "1259471006722412547",
+		"full_text": "Really nice write up of a #GoogleAppsScript webapp client/sever pattern by @J_Everhart383 #GSuiteDevs https://t.co/XsNRl38pL4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						26,
+						43
+					]
+				},
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						90,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "J_Everhart383",
+					"name": "Jeff Everhart",
+					"id": 223246172,
+					"id_str": "223246172",
+					"indices": [
+						75,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XsNRl38pL4",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1259199593629184001",
+					"display_url": "twitter.com/AppsScriptInfo…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8780,
+			"friends_count": 2549,
+			"listed_count": 608,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6794,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29737,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1259199593629184000,
+		"quoted_status_id_str": "1259199593629184001",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XsNRl38pL4",
+			"expanded": "https://twitter.com/AppsScriptInfo/status/1259199593629184001",
+			"display": "twitter.com/AppsScriptInfo…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 09 19:12:32 +0000 2020",
+			"id": 1259199593629184000,
+			"id_str": "1259199593629184001",
+			"full_text": "Delegating Client-Side Requests with https://t.co/ebEuckPG5h in Google Apps Script – Jeff Everhart by @j_everhart383 (contributed by @schoraria911) #GSuiteDevs #GoogleAppsScript https://t.co/wJRrdATU0E https://t.co/eq2T5PHesy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				201
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GSuiteDevs",
+						"indices": [
+							148,
+							159
+						]
+					},
+					{
+						"text": "GoogleAppsScript",
+						"indices": [
+							160,
+							177
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "J_Everhart383",
+						"name": "Jeff Everhart",
+						"id": 223246172,
+						"id_str": "223246172",
+						"indices": [
+							102,
+							116
+						]
+					},
+					{
+						"screen_name": "schoraria911",
+						"name": "Sourabh Choraria",
+						"id": 1145333591867453400,
+						"id_str": "1145333591867453440",
+						"indices": [
+							133,
+							146
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ebEuckPG5h",
+						"expanded_url": "http://google.script.run",
+						"display_url": "google.script.run",
+						"indices": [
+							37,
+							60
+						]
+					},
+					{
+						"url": "https://t.co/wJRrdATU0E",
+						"expanded_url": "https://pulse.appsscript.info/p/2020/05/delegating-client-side-requests-with-google-script-run-in-google-apps-script-jeff-everhart/",
+						"display_url": "pulse.appsscript.info/p/2020/05/dele…",
+						"indices": [
+							178,
+							201
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1259199591917826000,
+						"id_str": "1259199591917826048",
+						"indices": [
+							202,
+							225
+						],
+						"media_url": "http://pbs.twimg.com/media/EXmTW3mUMAABZCQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EXmTW3mUMAABZCQ.jpg",
+						"url": "https://t.co/eq2T5PHesy",
+						"display_url": "pic.twitter.com/eq2T5PHesy",
+						"expanded_url": "https://twitter.com/AppsScriptInfo/status/1259199593629184001/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 433,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 433,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 288,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1259199591917826000,
+						"id_str": "1259199591917826048",
+						"indices": [
+							202,
+							225
+						],
+						"media_url": "http://pbs.twimg.com/media/EXmTW3mUMAABZCQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EXmTW3mUMAABZCQ.jpg",
+						"url": "https://t.co/eq2T5PHesy",
+						"display_url": "pic.twitter.com/eq2T5PHesy",
+						"expanded_url": "https://twitter.com/AppsScriptInfo/status/1259199593629184001/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 433,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 433,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 288,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 322526439,
+				"id_str": "322526439",
+				"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+				"screen_name": "AppsScriptInfo",
+				"location": "World",
+				"description": "A Google Apps Script Community account to support #GSuiteDevs. Curated by @mhawksey",
+				"url": "https://t.co/pEqPAHFH4F",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pEqPAHFH4F",
+								"expanded_url": "https://pulse.appsscript.info",
+								"display_url": "pulse.appsscript.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 634,
+				"friends_count": 787,
+				"listed_count": 20,
+				"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+				"favourites_count": 435,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1699,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+				"profile_link_color": "4286F4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Really nice write up of a #GoogleAppsScript webapp client/sever pattern by @J_Everhart383 #GSuiteDevs https://t.co/XsNRl38pL4"
+	},
+	{
 		"created_at": "Fri May 08 16:13:12 +0000 2020",
 		"id": 1258791781119873000,
 		"id_str": "1258792074062835716",
