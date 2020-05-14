@@ -1,6 +1,465 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 13 18:40:29 +0000 2020",
+		"id": 1260603126664458200,
+		"id_str": "1260641078912450561",
+		"full_text": "Fun fact: Almost half the time I learn new keyboard shortcuts by mistyping a shortcut or guessing. I accidentally learned CTRL+; in Google Docs iterates through all typos in your Doc!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 184626074,
+			"id_str": "184626074",
+			"name": "Grant Timmerman🦁",
+			"screen_name": "granttimmerman",
+			"location": "Earth",
+			"description": "Googler working on Cloud https://t.co/J6EYkX0Z6N",
+			"url": "https://t.co/QI2hOUXagn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QI2hOUXagn",
+							"expanded_url": "http://grant.cm",
+							"display_url": "grant.cm",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/J6EYkX0Z6N",
+							"expanded_url": "http://github.com/grant",
+							"display_url": "github.com/grant",
+							"indices": [
+								25,
+								48
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 737,
+			"friends_count": 763,
+			"listed_count": 29,
+			"created_at": "Mon Aug 30 01:57:54 +0000 2010",
+			"favourites_count": 1924,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1219,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3434900432/97654009458b9c877fa45e4aa25f61cf_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3434900432/97654009458b9c877fa45e4aa25f61cf_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/184626074/1403410379",
+			"profile_link_color": "EBA417",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Fun fact: Almost half the time I learn new keyboard shortcuts by mistyping a shortcut or guessing. I accidentally learned CTRL+; in Google Docs iterates through all typos in your Doc!"
+	},
+	{
+		"created_at": "Wed May 13 18:39:57 +0000 2020",
+		"id": 1260640944778510300,
+		"id_str": "1260640944778510336",
+		"full_text": "Great writeup of updating grades in Google Classroom from a Google Sheet #GoogleEDU #gsuiteedu #GoogleEI https://t.co/K6YbPcfpoo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleEDU",
+					"indices": [
+						73,
+						83
+					]
+				},
+				{
+					"text": "gsuiteedu",
+					"indices": [
+						84,
+						94
+					]
+				},
+				{
+					"text": "GoogleEI",
+					"indices": [
+						95,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K6YbPcfpoo",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1260560316456263680",
+					"display_url": "twitter.com/AppsScriptInfo…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8794,
+			"friends_count": 2549,
+			"listed_count": 601,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6798,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29746,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1260560316456263700,
+		"quoted_status_id_str": "1260560316456263680",
+		"quoted_status_permalink": {
+			"url": "https://t.co/K6YbPcfpoo",
+			"expanded": "https://twitter.com/AppsScriptInfo/status/1260560316456263680",
+			"display": "twitter.com/AppsScriptInfo…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 13 13:19:34 +0000 2020",
+			"id": 1260560316456263700,
+			"id_str": "1260560316456263680",
+			"full_text": "Google Apps Script: Upload grades into a Google Classroom Coursework Assignment – Yagisanatode by @LifeOfSpy (contributed by @schoraria911) #GSuiteDevs #GoogleAppsScript https://t.co/mupbt6cWY4 https://t.co/upXhsR7qCC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				193
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GSuiteDevs",
+						"indices": [
+							140,
+							151
+						]
+					},
+					{
+						"text": "GoogleAppsScript",
+						"indices": [
+							152,
+							169
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LifeOfSpy",
+						"name": "Yagisanatode",
+						"id": 2346078620,
+						"id_str": "2346078620",
+						"indices": [
+							98,
+							108
+						]
+					},
+					{
+						"screen_name": "schoraria911",
+						"name": "Sourabh Choraria",
+						"id": 1145333591867453400,
+						"id_str": "1145333591867453440",
+						"indices": [
+							125,
+							138
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/mupbt6cWY4",
+						"expanded_url": "https://pulse.appsscript.info/p/2020/05/google-apps-script-upload-grades-into-a-google-classroom-coursework-assignment-yagisanatode/",
+						"display_url": "pulse.appsscript.info/p/2020/05/goog…",
+						"indices": [
+							170,
+							193
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1260560314447220700,
+						"id_str": "1260560314447220737",
+						"indices": [
+							194,
+							217
+						],
+						"media_url": "http://pbs.twimg.com/media/EX5o7WCU0AESjMr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EX5o7WCU0AESjMr.jpg",
+						"url": "https://t.co/upXhsR7qCC",
+						"display_url": "pic.twitter.com/upXhsR7qCC",
+						"expanded_url": "https://twitter.com/AppsScriptInfo/status/1260560316456263680/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 450,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 793,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1290,
+								"h": 853,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1260560314447220700,
+						"id_str": "1260560314447220737",
+						"indices": [
+							194,
+							217
+						],
+						"media_url": "http://pbs.twimg.com/media/EX5o7WCU0AESjMr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EX5o7WCU0AESjMr.jpg",
+						"url": "https://t.co/upXhsR7qCC",
+						"display_url": "pic.twitter.com/upXhsR7qCC",
+						"expanded_url": "https://twitter.com/AppsScriptInfo/status/1260560316456263680/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 450,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 793,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1290,
+								"h": 853,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 322526439,
+				"id_str": "322526439",
+				"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+				"screen_name": "AppsScriptInfo",
+				"location": "World",
+				"description": "A Google Apps Script Community account to support #GSuiteDevs. Curated by @mhawksey",
+				"url": "https://t.co/pEqPAHFH4F",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pEqPAHFH4F",
+								"expanded_url": "https://pulse.appsscript.info",
+								"display_url": "pulse.appsscript.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 647,
+				"friends_count": 790,
+				"listed_count": 21,
+				"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+				"favourites_count": 445,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1710,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+				"profile_link_color": "4286F4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great writeup of updating grades in Google Classroom from a Google Sheet #GoogleEDU #gsuiteedu #GoogleEI https://t.co/K6YbPcfpoo"
+	},
+	{
 		"created_at": "Tue May 12 20:46:03 +0000 2020",
 		"id": 1260152623929290800,
 		"id_str": "1260310289125388288",
