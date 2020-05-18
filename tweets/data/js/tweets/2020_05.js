@@ -1,6 +1,485 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 17 19:05:16 +0000 2020",
+		"id": 1262090675924934700,
+		"id_str": "1262096866516307969",
+		"full_text": "There are many creative ways to track your events online.\n\nIn this #DevFest talk titled “The Google Analytics of things” @GoogleDevExpert @mhawksey brings awareness to the many things you can do using Google Analytics. \n\nCheck it out now → https://t.co/fb8O3xRSAJ https://t.co/MAEuYqDvlR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DevFest",
+					"indices": [
+						67,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GoogleDevExpert",
+					"name": "@GoogleDevExpert",
+					"id": 3003834689,
+					"id_str": "3003834689",
+					"indices": [
+						121,
+						137
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey #altc",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						138,
+						147
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fb8O3xRSAJ",
+					"expanded_url": "https://goo.gle/2yXUtFU",
+					"display_url": "goo.gle/2yXUtFU",
+					"indices": [
+						240,
+						263
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1262090652533371000,
+					"id_str": "1262090652533370885",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EYPYwvqXsAUAt30.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EYPYwvqXsAUAt30.jpg",
+					"url": "https://t.co/MAEuYqDvlR",
+					"display_url": "pic.twitter.com/MAEuYqDvlR",
+					"expanded_url": "https://twitter.com/gdg/status/1262090675924934656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 520,
+							"h": 292,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 520,
+							"h": 292,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 520,
+							"h": 292,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1262090652533371000,
+					"id_str": "1262090652533370885",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EYPYwvqXsAUAt30.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EYPYwvqXsAUAt30.jpg",
+					"url": "https://t.co/MAEuYqDvlR",
+					"display_url": "pic.twitter.com/MAEuYqDvlR",
+					"expanded_url": "https://twitter.com/gdg/status/1262090675924934656/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 520,
+							"h": 292,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 520,
+							"h": 292,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 520,
+							"h": 292,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							130,
+							73
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EYPYwvqXsAUAt30.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 443290756,
+			"id_str": "443290756",
+			"name": "Google Developer Groups",
+			"screen_name": "gdg",
+			"location": "Everywhere",
+			"description": "GDGs (Google Developer Groups) are local meetups for developers interested in Google's developer technologies.",
+			"url": "https://t.co/4snT25Bd04",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4snT25Bd04",
+							"expanded_url": "https://developers.google.com/community/gdg",
+							"display_url": "developers.google.com/community/gdg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40938,
+			"friends_count": 585,
+			"listed_count": 241,
+			"created_at": "Thu Dec 22 01:26:01 +0000 2011",
+			"favourites_count": 3713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1426,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "6B5847",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111678689228582913/t2k7QK3r_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111678689228582913/t2k7QK3r_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/443290756/1561131707",
+			"profile_link_color": "26283D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C9944E",
+			"profile_text_color": "B7203F",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 18,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There are many creative ways to track your events online.\n\nIn this #DevFest talk titled “The Google Analytics of things” @GoogleDevExpert @mhawksey brings awareness to the many things you can do using Google Analytics. \n\nCheck it out now → https://t.co/fb8O3xRSAJ https://t.co/MAEuYqDvlR"
+	},
+	{
+		"created_at": "Sun May 17 07:07:19 +0000 2020",
+		"id": 1261916188810064000,
+		"id_str": "1261916188810063872",
+		"full_text": "@KavuBob @Aileen_Wilson Great post by @twitthaus highlighting the need to consider all aspects of student engagementn when moving online including social and emotional https://t.co/LhHQfEMvTf",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KavuBob",
+					"name": "JohnRobertson",
+					"id": 8927752,
+					"id_str": "8927752",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "Aileen_Wilson",
+					"name": "Aileen Wilson",
+					"id": 22759459,
+					"id_str": "22759459",
+					"indices": [
+						9,
+						23
+					]
+				},
+				{
+					"screen_name": "twitthaus",
+					"name": "Gabi Witthaus",
+					"id": 12140572,
+					"id_str": "12140572",
+					"indices": [
+						38,
+						48
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LhHQfEMvTf",
+					"expanded_url": "https://altc.alt.ac.uk/blog/2020/03/when-the-vle-becomes-your-campus-some-thoughts-on-engaging-learners-online/",
+					"display_url": "altc.alt.ac.uk/blog/2020/03/w…",
+					"indices": [
+						168,
+						191
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1261790871030083600,
+		"in_reply_to_status_id_str": "1261790871030083585",
+		"in_reply_to_user_id": 8927752,
+		"in_reply_to_user_id_str": "8927752",
+		"in_reply_to_screen_name": "KavuBob",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8799,
+			"friends_count": 2550,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@KavuBob @Aileen_Wilson Great post by @twitthaus highlighting the need to consider all aspects of student engagementn when moving online including social and emotional https://t.co/LhHQfEMvTf"
+	},
+	{
+		"created_at": "Sun May 17 07:04:19 +0000 2020",
+		"id": 1261915434271506400,
+		"id_str": "1261915434271506433",
+		"full_text": "@IMTheNachoMan @AppsScriptInfo ... I sometimes concatenate multiple formula output in one cell, usually for aggregate and count display e.g. =ROUND(AVERAGE(A1:A5) ,1)&amp;\" (n.\"&amp;COUNTA(A1:A5)&amp;\")\"",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IMTheNachoMan",
+					"name": "IMTheNachoMan",
+					"id": 14258013,
+					"id_str": "14258013",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "AppsScriptInfo",
+					"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+					"id": 322526439,
+					"id_str": "322526439",
+					"indices": [
+						15,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1261386678205177900,
+		"in_reply_to_status_id_str": "1261386678205177857",
+		"in_reply_to_user_id": 14258013,
+		"in_reply_to_user_id_str": "14258013",
+		"in_reply_to_screen_name": "IMTheNachoMan",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8799,
+			"friends_count": 2550,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@IMTheNachoMan @AppsScriptInfo ... I sometimes concatenate multiple formula output in one cell, usually for aggregate and count display e.g. =ROUND(AVERAGE(A1:A5) ,1)&amp;\" (n.\"&amp;COUNTA(A1:A5)&amp;\")\""
+	},
+	{
 		"created_at": "Sat May 16 20:03:44 +0000 2020",
 		"id": 1261749194546700300,
 		"id_str": "1261749194546700288",
