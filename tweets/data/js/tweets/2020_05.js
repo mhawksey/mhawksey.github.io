@@ -1,6 +1,564 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 20 18:01:12 +0000 2020",
+		"id": 1263167908735324200,
+		"id_str": "1263167908735324173",
+		"full_text": "@schoraria911 @casey__allen @jbohlinger Updating Gmail signature with Apps Script was something I picked up from @knollmatt  https://t.co/RTdGlCdT15 😊",
+		"truncated": false,
+		"display_text_range": [
+			40,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "schoraria911",
+					"name": "Sourabh Choraria",
+					"id": 1145333591867453400,
+					"id_str": "1145333591867453440",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "casey__allen",
+					"name": "casey allen",
+					"id": 39304086,
+					"id_str": "39304086",
+					"indices": [
+						14,
+						27
+					]
+				},
+				{
+					"screen_name": "jbohlinger",
+					"name": "Jon Bohlinger",
+					"id": 2985,
+					"id_str": "2985",
+					"indices": [
+						28,
+						39
+					]
+				},
+				{
+					"screen_name": "knollmatt",
+					"name": "Matt Knoll",
+					"id": 2494320229,
+					"id_str": "2494320229",
+					"indices": [
+						113,
+						123
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RTdGlCdT15",
+					"expanded_url": "https://knoll.tech/2017/01/24/automatically-include-your-latest-tweet-in-your-gmail-signature/",
+					"display_url": "knoll.tech/2017/01/24/aut…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1263166051103256600,
+		"in_reply_to_status_id_str": "1263166051103256577",
+		"in_reply_to_user_id": 1145333591867453400,
+		"in_reply_to_user_id_str": "1145333591867453440",
+		"in_reply_to_screen_name": "schoraria911",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8812,
+			"friends_count": 2554,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29778,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@schoraria911 @casey__allen @jbohlinger Updating Gmail signature with Apps Script was something I picked up from @knollmatt  https://t.co/RTdGlCdT15 😊"
+	},
+	{
+		"created_at": "Wed May 20 16:16:02 +0000 2020",
+		"id": 1263141443180343300,
+		"id_str": "1263141443180343296",
+		"full_text": "These sessions are really, really, really, really, really, really good (brilliant) if you are dealing with #EdTech content/copyright issues. Next webinar 11am BST Friday #altc https://t.co/YOcRQwmFXz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EdTech",
+					"indices": [
+						107,
+						114
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						170,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YOcRQwmFXz",
+					"expanded_url": "https://twitter.com/jsecker/status/1263089500974170112",
+					"display_url": "twitter.com/jsecker/status…",
+					"indices": [
+						176,
+						199
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8812,
+			"friends_count": 2554,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29778,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1263089500974170000,
+		"quoted_status_id_str": "1263089500974170112",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YOcRQwmFXz",
+			"expanded": "https://twitter.com/jsecker/status/1263089500974170112",
+			"display": "twitter.com/jsecker/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 20 12:49:38 +0000 2020",
+			"id": 1263089500974170000,
+			"id_str": "1263089500974170112",
+			"full_text": "Really looking forward to this Friday's webinar, co-facilitated with @cbowiemorrison, hosted by @A_L_T and we're being joined by @Brigitte_Vezina to talk @creativecommons https://t.co/R513mpXeKT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				194
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cbowiemorrison",
+						"name": "Chris Morrison ©️🤓",
+						"id": 14920483,
+						"id_str": "14920483",
+						"indices": [
+							69,
+							84
+						]
+					},
+					{
+						"screen_name": "A_L_T",
+						"name": "ALT - alt.ac.uk",
+						"id": 41210876,
+						"id_str": "41210876",
+						"indices": [
+							96,
+							102
+						]
+					},
+					{
+						"screen_name": "Brigitte_Vezina",
+						"name": "Brigitte Vézina",
+						"id": 824364572131856400,
+						"id_str": "824364572131856385",
+						"indices": [
+							129,
+							145
+						]
+					},
+					{
+						"screen_name": "creativecommons",
+						"name": "Creative Commons",
+						"id": 17462723,
+						"id_str": "17462723",
+						"indices": [
+							154,
+							170
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/R513mpXeKT",
+						"expanded_url": "https://copyrightliteracy.org/2020/05/18/upcoming-webinar-on-creative-commons-this-friday/",
+						"display_url": "copyrightliteracy.org/2020/05/18/upc…",
+						"indices": [
+							171,
+							194
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20975165,
+				"id_str": "20975165",
+				"name": "Dr Jane Secker",
+				"screen_name": "jsecker",
+				"location": "London",
+				"description": "Senior Lecturer in Educational Development. SFHEA. Interested in information & digital literacy, copyright education. Chair of CILIP Information Literacy Group.",
+				"url": "https://t.co/zjkM1hPT3G",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zjkM1hPT3G",
+								"expanded_url": "http://janesecker.wordpress.com/",
+								"display_url": "janesecker.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5101,
+				"friends_count": 1754,
+				"listed_count": 282,
+				"created_at": "Mon Feb 16 10:21:36 +0000 2009",
+				"favourites_count": 14501,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20196,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/908824528847036416/9RfPeAFF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/908824528847036416/9RfPeAFF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20975165/1588597535",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "These sessions are really, really, really, really, really, really good (brilliant) if you are dealing with #EdTech content/copyright issues. Next webinar 11am BST Friday #altc https://t.co/YOcRQwmFXz"
+	},
+	{
+		"created_at": "Wed May 20 12:18:58 +0000 2020",
+		"id": 1263081783836455000,
+		"id_str": "1263081783836454912",
+		"full_text": "@ChanelGreco @schoraria911 @GoogleDevExpert As someone who mainly uses the online script editor the only tweak I use is the Github assistant https://t.co/YwrFWB28y2 ... after that it's lots of 'googling' for code snippets :)",
+		"truncated": false,
+		"display_text_range": [
+			44,
+			224
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChanelGreco",
+					"name": "Chanel Greco",
+					"id": 1710909806,
+					"id_str": "1710909806",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "schoraria911",
+					"name": "Sourabh Choraria",
+					"id": 1145333591867453400,
+					"id_str": "1145333591867453440",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"screen_name": "GoogleDevExpert",
+					"name": "@GoogleDevExpert",
+					"id": 3003834689,
+					"id_str": "3003834689",
+					"indices": [
+						27,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YwrFWB28y2",
+					"expanded_url": "https://chrome.google.com/webstore/detail/google-apps-script-github/lfjcgcmkmjjlieihflfhjopckgpelofo?hl=en",
+					"display_url": "chrome.google.com/webstore/detai…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1263068969109520400,
+		"in_reply_to_status_id_str": "1263068969109520385",
+		"in_reply_to_user_id": 1710909806,
+		"in_reply_to_user_id_str": "1710909806",
+		"in_reply_to_screen_name": "ChanelGreco",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8812,
+			"friends_count": 2554,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29778,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ChanelGreco @schoraria911 @GoogleDevExpert As someone who mainly uses the online script editor the only tweak I use is the Github assistant https://t.co/YwrFWB28y2 ... after that it's lots of 'googling' for code snippets :)"
+	},
+	{
 		"created_at": "Tue May 19 11:08:39 +0000 2020",
 		"id": 1262701059337867300,
 		"id_str": "1262701699715813376",
