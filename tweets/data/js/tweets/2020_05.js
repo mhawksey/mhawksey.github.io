@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 23 16:44:26 +0000 2020",
+		"id": 1264235754781376500,
+		"id_str": "1264235754781376512",
+		"full_text": "@gmacscotland Looks interesting. Recently I've been using @VoyantTools to look at hashtag evolution and linked terms by exporting an account timeline then extracting hashtags from tweets and dropping into Voyant https://t.co/fzFDCNGyAC https://t.co/pEGZDV65W7",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			235
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gmacscotland",
+					"name": "Dr Graham Mackenzie🇪🇺",
+					"id": 1206145507,
+					"id_str": "1206145507",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "VoyantTools",
+					"name": "Voyant Tools",
+					"id": 602254044,
+					"id_str": "602254044",
+					"indices": [
+						58,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fzFDCNGyAC",
+					"expanded_url": "https://voyant-tools.org/?corpus=41a0651d4c9d5e3c62ba4db830e39992&panels=cirrus,collocatesgraph,streamgraph,summary,mandala",
+					"display_url": "voyant-tools.org/?corpus=41a065…",
+					"indices": [
+						212,
+						235
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1264235748632469500,
+					"id_str": "1264235748632469505",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/EYt3txWWoAE81aJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYt3txWWoAE81aJ.jpg",
+					"url": "https://t.co/pEGZDV65W7",
+					"display_url": "pic.twitter.com/pEGZDV65W7",
+					"expanded_url": "https://twitter.com/mhawksey/status/1264235754781376512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 456,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 778,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 258,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1264235748632469500,
+					"id_str": "1264235748632469505",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/EYt3txWWoAE81aJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYt3txWWoAE81aJ.jpg",
+					"url": "https://t.co/pEGZDV65W7",
+					"display_url": "pic.twitter.com/pEGZDV65W7",
+					"expanded_url": "https://twitter.com/mhawksey/status/1264235754781376512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 456,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 778,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 258,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1264232596277510100,
+		"in_reply_to_status_id_str": "1264232596277510147",
+		"in_reply_to_user_id": 1206145507,
+		"in_reply_to_user_id_str": "1206145507",
+		"in_reply_to_screen_name": "gmacscotland",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8822,
+			"friends_count": 2568,
+			"listed_count": 603,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6822,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29788,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@gmacscotland Looks interesting. Recently I've been using @VoyantTools to look at hashtag evolution and linked terms by exporting an account timeline then extracting hashtags from tweets and dropping into Voyant https://t.co/fzFDCNGyAC https://t.co/pEGZDV65W7"
+	},
+	{
 		"created_at": "Fri May 22 17:54:32 +0000 2020",
 		"id": 1263891005268529200,
 		"id_str": "1263891005268529152",
