@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 27 08:47:05 +0000 2020",
+		"id": 1265565175291302000,
+		"id_str": "1265565175291301889",
+		"full_text": "@Brigitte_Vezina @A_L_T a pleasure to host - great session :) Feel free to drop in to future sessions - not a copyright expert myself but I find them great to hear about the copyright issues/solutions from the sector  https://t.co/VWZMldQwJs",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Brigitte_Vezina",
+					"name": "Brigitte Vézina",
+					"id": 824364572131856400,
+					"id_str": "824364572131856385",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						17,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VWZMldQwJs",
+					"expanded_url": "https://copyrightliteracy.org/upcoming-events/webinars-copyright-and-online-learning/",
+					"display_url": "copyrightliteracy.org/upcoming-event…",
+					"indices": [
+						218,
+						241
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1263851022226796500,
+		"in_reply_to_status_id_str": "1263851022226796544",
+		"in_reply_to_user_id": 824364572131856400,
+		"in_reply_to_user_id_str": "824364572131856385",
+		"in_reply_to_screen_name": "Brigitte_Vezina",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8826,
+			"friends_count": 2568,
+			"listed_count": 603,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6830,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Brigitte_Vezina @A_L_T a pleasure to host - great session :) Feel free to drop in to future sessions - not a copyright expert myself but I find them great to hear about the copyright issues/solutions from the sector  https://t.co/VWZMldQwJs"
+	},
+	{
 		"created_at": "Tue May 26 13:25:57 +0000 2020",
 		"id": 1265272964921979000,
 		"id_str": "1265272964921978880",
