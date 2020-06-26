@@ -1,6 +1,633 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 25 20:49:25 +0000 2020",
+		"id": 1276256203354538000,
+		"id_str": "1276256203354537984",
+		"full_text": "@jsecker @cbowiemorrison Not to the seaside yet but I got my wheels back so maybe something this weekend https://t.co/yMuUIexixD",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jsecker",
+					"name": "Dr Jane Secker",
+					"id": 20975165,
+					"id_str": "20975165",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "cbowiemorrison",
+					"name": "Chris Morrison ©️🤓",
+					"id": 14920483,
+					"id_str": "14920483",
+					"indices": [
+						9,
+						24
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1276256188750016500,
+					"id_str": "1276256188750016512",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/EbYsPeTWsAAk1MV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbYsPeTWsAAk1MV.jpg",
+					"url": "https://t.co/yMuUIexixD",
+					"display_url": "pic.twitter.com/yMuUIexixD",
+					"expanded_url": "https://twitter.com/mhawksey/status/1276256203354537984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1276256188750016500,
+					"id_str": "1276256188750016512",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/EbYsPeTWsAAk1MV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbYsPeTWsAAk1MV.jpg",
+					"url": "https://t.co/yMuUIexixD",
+					"display_url": "pic.twitter.com/yMuUIexixD",
+					"expanded_url": "https://twitter.com/mhawksey/status/1276256203354537984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1276219790579978200,
+		"in_reply_to_status_id_str": "1276219790579978240",
+		"in_reply_to_user_id": 20975165,
+		"in_reply_to_user_id_str": "20975165",
+		"in_reply_to_screen_name": "jsecker",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8833,
+			"friends_count": 2570,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@jsecker @cbowiemorrison Not to the seaside yet but I got my wheels back so maybe something this weekend https://t.co/yMuUIexixD"
+	},
+	{
+		"created_at": "Thu Jun 25 11:36:30 +0000 2020",
+		"id": 1276117060544848000,
+		"id_str": "1276117060544847872",
+		"full_text": "@HowardScott75 @dajbelshaw @Bali_Maha @AnneHole @WarwickLanguage @neilmosley5 @JM_Rhodes @Pontifex @carolak @mdkorosec @BobHarrisonEdu @JohnPP The Indian jugaad culture is interesting to look at",
+		"truncated": false,
+		"display_text_range": [
+			143,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HowardScott75",
+					"name": "Howard Scott",
+					"id": 2471453544,
+					"id_str": "2471453544",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "dajbelshaw",
+					"name": "˗ˏˋ Doug Belshaw ˎˊ˗ 🇪🇺☠️✊",
+					"id": 764365,
+					"id_str": "764365",
+					"indices": [
+						15,
+						26
+					]
+				},
+				{
+					"screen_name": "Bali_Maha",
+					"name": "ℳąhą Bąℓi, PhD مها بالي 🌵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"screen_name": "AnneHole",
+					"name": "Anne Hole",
+					"id": 20687622,
+					"id_str": "20687622",
+					"indices": [
+						38,
+						47
+					]
+				},
+				{
+					"screen_name": "WarwickLanguage",
+					"name": "Teresa MacKinnon",
+					"id": 81817497,
+					"id_str": "81817497",
+					"indices": [
+						48,
+						64
+					]
+				},
+				{
+					"screen_name": "neilmosley5",
+					"name": "Neil Mosley",
+					"id": 859745605505175600,
+					"id_str": "859745605505175552",
+					"indices": [
+						65,
+						77
+					]
+				},
+				{
+					"screen_name": "JM_Rhodes",
+					"name": "Jonathan Rhodes",
+					"id": 1264689198,
+					"id_str": "1264689198",
+					"indices": [
+						78,
+						88
+					]
+				},
+				{
+					"screen_name": "Pontifex",
+					"name": "Pope Francis",
+					"id": 500704345,
+					"id_str": "500704345",
+					"indices": [
+						89,
+						98
+					]
+				},
+				{
+					"screen_name": "carolak",
+					"name": "✿Caroline Kühn H✿",
+					"id": 19557144,
+					"id_str": "19557144",
+					"indices": [
+						99,
+						107
+					]
+				},
+				{
+					"screen_name": "mdkorosec",
+					"name": "Dr Margaret Korosec",
+					"id": 218209249,
+					"id_str": "218209249",
+					"indices": [
+						108,
+						118
+					]
+				},
+				{
+					"screen_name": "BobHarrisonEdu",
+					"name": "Bob Harrison",
+					"id": 911696520696795100,
+					"id_str": "911696520696795137",
+					"indices": [
+						119,
+						134
+					]
+				},
+				{
+					"screen_name": "JohnPP",
+					"name": "John Potter",
+					"id": 6362922,
+					"id_str": "6362922",
+					"indices": [
+						135,
+						142
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1276115582740553700,
+		"in_reply_to_status_id_str": "1276115582740553732",
+		"in_reply_to_user_id": 2471453544,
+		"in_reply_to_user_id_str": "2471453544",
+		"in_reply_to_screen_name": "HowardScott75",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8833,
+			"friends_count": 2570,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@HowardScott75 @dajbelshaw @Bali_Maha @AnneHole @WarwickLanguage @neilmosley5 @JM_Rhodes @Pontifex @carolak @mdkorosec @BobHarrisonEdu @JohnPP The Indian jugaad culture is interesting to look at"
+	},
+	{
+		"created_at": "Thu Jun 25 11:25:17 +0000 2020",
+		"id": 1276114235991482400,
+		"id_str": "1276114235991482370",
+		"full_text": "@HowardScott75 @dajbelshaw @Bali_Maha @AnneHole @WarwickLanguage @neilmosley5 @JM_Rhodes @Pontifex @carolak @mdkorosec @BobHarrisonEdu @JohnPP The tablet has been revised many times in different materials...",
+		"truncated": false,
+		"display_text_range": [
+			143,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HowardScott75",
+					"name": "Howard Scott",
+					"id": 2471453544,
+					"id_str": "2471453544",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "dajbelshaw",
+					"name": "˗ˏˋ Doug Belshaw ˎˊ˗ 🇪🇺☠️✊",
+					"id": 764365,
+					"id_str": "764365",
+					"indices": [
+						15,
+						26
+					]
+				},
+				{
+					"screen_name": "Bali_Maha",
+					"name": "ℳąhą Bąℓi, PhD مها بالي 🌵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"screen_name": "AnneHole",
+					"name": "Anne Hole",
+					"id": 20687622,
+					"id_str": "20687622",
+					"indices": [
+						38,
+						47
+					]
+				},
+				{
+					"screen_name": "WarwickLanguage",
+					"name": "Teresa MacKinnon",
+					"id": 81817497,
+					"id_str": "81817497",
+					"indices": [
+						48,
+						64
+					]
+				},
+				{
+					"screen_name": "neilmosley5",
+					"name": "Neil Mosley",
+					"id": 859745605505175600,
+					"id_str": "859745605505175552",
+					"indices": [
+						65,
+						77
+					]
+				},
+				{
+					"screen_name": "JM_Rhodes",
+					"name": "Jonathan Rhodes",
+					"id": 1264689198,
+					"id_str": "1264689198",
+					"indices": [
+						78,
+						88
+					]
+				},
+				{
+					"screen_name": "Pontifex",
+					"name": "Pope Francis",
+					"id": 500704345,
+					"id_str": "500704345",
+					"indices": [
+						89,
+						98
+					]
+				},
+				{
+					"screen_name": "carolak",
+					"name": "✿Caroline Kühn H✿",
+					"id": 19557144,
+					"id_str": "19557144",
+					"indices": [
+						99,
+						107
+					]
+				},
+				{
+					"screen_name": "mdkorosec",
+					"name": "Dr Margaret Korosec",
+					"id": 218209249,
+					"id_str": "218209249",
+					"indices": [
+						108,
+						118
+					]
+				},
+				{
+					"screen_name": "BobHarrisonEdu",
+					"name": "Bob Harrison",
+					"id": 911696520696795100,
+					"id_str": "911696520696795137",
+					"indices": [
+						119,
+						134
+					]
+				},
+				{
+					"screen_name": "JohnPP",
+					"name": "John Potter",
+					"id": 6362922,
+					"id_str": "6362922",
+					"indices": [
+						135,
+						142
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1276112654063603700,
+		"in_reply_to_status_id_str": "1276112654063603712",
+		"in_reply_to_user_id": 2471453544,
+		"in_reply_to_user_id_str": "2471453544",
+		"in_reply_to_screen_name": "HowardScott75",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Com & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8833,
+			"friends_count": 2570,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@HowardScott75 @dajbelshaw @Bali_Maha @AnneHole @WarwickLanguage @neilmosley5 @JM_Rhodes @Pontifex @carolak @mdkorosec @BobHarrisonEdu @JohnPP The tablet has been revised many times in different materials..."
+	},
+	{
 		"created_at": "Wed Jun 24 19:52:17 +0000 2020",
 		"id": 1275879440095023000,
 		"id_str": "1275879440095023106",
