@@ -1,6 +1,977 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 07 21:29:12 +0000 2020",
+		"id": 1280614868954026000,
+		"id_str": "1280614868954025984",
+		"full_text": "@pfelipm @noahlearner .. something similar is used for localisation of Chrome Extensions https://t.co/8ZE8zJLFpC ... came across this when I ported a Chrome Extension to Google Apps Script https://t.co/xQQWYBDTXx",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pfelipm",
+					"name": "Pablo Felip",
+					"id": 127973484,
+					"id_str": "127973484",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "noahlearner",
+					"name": "Noah Learner",
+					"id": 113089988,
+					"id_str": "113089988",
+					"indices": [
+						9,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8ZE8zJLFpC",
+					"expanded_url": "https://developer.chrome.com/extensions/i18n",
+					"display_url": "developer.chrome.com/extensions/i18n",
+					"indices": [
+						89,
+						112
+					]
+				},
+				{
+					"url": "https://t.co/xQQWYBDTXx",
+					"expanded_url": "https://mashe.hawksey.info/2017/10/a-google-calendar-widget-for-google-sites-created-with-google-apps-script/",
+					"display_url": "mashe.hawksey.info/2017/10/a-goog…",
+					"indices": [
+						189,
+						212
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1280607663915765800,
+		"in_reply_to_status_id_str": "1280607663915765761",
+		"in_reply_to_user_id": 127973484,
+		"in_reply_to_user_id_str": "127973484",
+		"in_reply_to_screen_name": "pfelipm",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8859,
+			"friends_count": 2629,
+			"listed_count": 605,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6905,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@pfelipm @noahlearner .. something similar is used for localisation of Chrome Extensions https://t.co/8ZE8zJLFpC ... came across this when I ported a Chrome Extension to Google Apps Script https://t.co/xQQWYBDTXx"
+	},
+	{
+		"created_at": "Tue Jul 07 20:00:59 +0000 2020",
+		"id": 1280592672038756400,
+		"id_str": "1280592672038756358",
+		"full_text": "@chasmaxson ... very handy feature when we've had to audit data 😉",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chasmaxson",
+					"name": "Charles Maxson",
+					"id": 993937566029115400,
+					"id_str": "993937566029115393",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1280329693523144700,
+		"in_reply_to_status_id_str": "1280329693523144704",
+		"in_reply_to_user_id": 993937566029115400,
+		"in_reply_to_user_id_str": "993937566029115393",
+		"in_reply_to_screen_name": "chasmaxson",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8859,
+			"friends_count": 2629,
+			"listed_count": 605,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6905,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@chasmaxson ... very handy feature when we've had to audit data 😉"
+	},
+	{
+		"created_at": "Tue Jul 07 19:59:31 +0000 2020",
+		"id": 1280592302583488500,
+		"id_str": "1280592302583488512",
+		"full_text": "@juliedavisEDU @ajpodchaski this is the issue with blackbox algorithms, you never quite know what it is ... even looking at the twitter's own search Julie is missing https://t.co/kWPcP5xSYZ also trying from your account comes back with nothing for me https://t.co/ZjpDockVYp",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "juliedavisEDU",
+					"name": "𝕁𝕦𝕝𝕚𝕖 𝔻𝕒𝕟𝕚𝕖𝕝 𝔻𝕒𝕧𝕚𝕤, CETL",
+					"id": 194683440,
+					"id_str": "194683440",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "ajpodchaski",
+					"name": "Alex Podchaski, CETL",
+					"id": 216766010,
+					"id_str": "216766010",
+					"indices": [
+						15,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kWPcP5xSYZ",
+					"expanded_url": "https://twitter.com/search?q=%23edtechchat&src=typed_query&f=live",
+					"display_url": "twitter.com/search?q=%23ed…",
+					"indices": [
+						166,
+						189
+					]
+				},
+				{
+					"url": "https://t.co/ZjpDockVYp",
+					"expanded_url": "https://twitter.com/search?q=from%3AjuliedavisEDU&src=typed_query&f=live",
+					"display_url": "twitter.com/search?q=from%…",
+					"indices": [
+						251,
+						274
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1280495556956246000,
+		"in_reply_to_status_id_str": "1280495556956246017",
+		"in_reply_to_user_id": 194683440,
+		"in_reply_to_user_id_str": "194683440",
+		"in_reply_to_screen_name": "juliedavisEDU",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8859,
+			"friends_count": 2629,
+			"listed_count": 605,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6905,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@juliedavisEDU @ajpodchaski this is the issue with blackbox algorithms, you never quite know what it is ... even looking at the twitter's own search Julie is missing https://t.co/kWPcP5xSYZ also trying from your account comes back with nothing for me https://t.co/ZjpDockVYp"
+	},
+	{
+		"created_at": "Tue Jul 07 19:52:19 +0000 2020",
+		"id": 1280590490300186600,
+		"id_str": "1280590490300186626",
+		"full_text": "@noahlearner @pfelipm Long time ago I think @romain_vialard crowd sourced translations to one of his apps script projects using Google Sheets, each column a different language of a menu term. The data was then read by his project using the user locale",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "noahlearner",
+					"name": "Noah Learner",
+					"id": 113089988,
+					"id_str": "113089988",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "pfelipm",
+					"name": "Pablo Felip",
+					"id": 127973484,
+					"id_str": "127973484",
+					"indices": [
+						13,
+						21
+					]
+				},
+				{
+					"screen_name": "romain_vialard",
+					"name": "Romain Vialard",
+					"id": 915472590118035500,
+					"id_str": "915472590118035456",
+					"indices": [
+						44,
+						59
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1280589225713381400,
+		"in_reply_to_status_id_str": "1280589225713381379",
+		"in_reply_to_user_id": 13046992,
+		"in_reply_to_user_id_str": "13046992",
+		"in_reply_to_screen_name": "mhawksey",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8859,
+			"friends_count": 2629,
+			"listed_count": 605,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6905,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@noahlearner @pfelipm Long time ago I think @romain_vialard crowd sourced translations to one of his apps script projects using Google Sheets, each column a different language of a menu term. The data was then read by his project using the user locale"
+	},
+	{
+		"created_at": "Tue Jul 07 19:47:18 +0000 2020",
+		"id": 1280589225713381400,
+		"id_str": "1280589225713381379",
+		"full_text": "@noahlearner if you get a chance I'm sure a number of others in the community would appreciate you sharing your discoveries ... looking at github very few hits for the property https://t.co/k2V6Y2Rw2h . I wonder if @pfelipm has done any multilingual add-ons?",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "noahlearner",
+					"name": "Noah Learner",
+					"id": 113089988,
+					"id_str": "113089988",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "pfelipm",
+					"name": "Pablo Felip",
+					"id": 127973484,
+					"id_str": "127973484",
+					"indices": [
+						215,
+						223
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/k2V6Y2Rw2h",
+					"expanded_url": "https://github.com/search?q=useLocaleFromApp&type=Code",
+					"display_url": "github.com/search?q=useLo…",
+					"indices": [
+						177,
+						200
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1280586413969297400,
+		"in_reply_to_status_id_str": "1280586413969297408",
+		"in_reply_to_user_id": 113089988,
+		"in_reply_to_user_id_str": "113089988",
+		"in_reply_to_screen_name": "noahlearner",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8859,
+			"friends_count": 2629,
+			"listed_count": 605,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6905,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@noahlearner if you get a chance I'm sure a number of others in the community would appreciate you sharing your discoveries ... looking at github very few hits for the property https://t.co/k2V6Y2Rw2h . I wonder if @pfelipm has done any multilingual add-ons?"
+	},
+	{
+		"created_at": "Tue Jul 07 19:27:51 +0000 2020",
+		"id": 1280584331522605000,
+		"id_str": "1280584331522605056",
+		"full_text": "@AndyRalph I think that is a YAMM add-on limit and you should be able to get the rolling 100 on your gmail account",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AndyRalph",
+					"name": "Andy Ralph",
+					"id": 30533530,
+					"id_str": "30533530",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1280544339274449000,
+		"in_reply_to_status_id_str": "1280544339274448896",
+		"in_reply_to_user_id": 30533530,
+		"in_reply_to_user_id_str": "30533530",
+		"in_reply_to_screen_name": "AndyRalph",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8859,
+			"friends_count": 2629,
+			"listed_count": 605,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6905,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AndyRalph I think that is a YAMM add-on limit and you should be able to get the rolling 100 on your gmail account"
+	},
+	{
+		"created_at": "Tue Jul 07 19:26:38 +0000 2020",
+		"id": 1280584025095241700,
+		"id_str": "1280584025095241728",
+		"full_text": "@noahlearner not seen much on add-on internationalization from the community but detecting locale is possible if configured in your manifest https://t.co/S8RvKOFQCl",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "noahlearner",
+					"name": "Noah Learner",
+					"id": 113089988,
+					"id_str": "113089988",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/S8RvKOFQCl",
+					"expanded_url": "https://developers.google.com/gsuite/add-ons/how-tos/access-user-locale",
+					"display_url": "developers.google.com/gsuite/add-ons…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1280557835382710300,
+		"in_reply_to_status_id_str": "1280557835382710273",
+		"in_reply_to_user_id": 113089988,
+		"in_reply_to_user_id_str": "113089988",
+		"in_reply_to_screen_name": "noahlearner",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8859,
+			"friends_count": 2629,
+			"listed_count": 605,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6905,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@noahlearner not seen much on add-on internationalization from the community but detecting locale is possible if configured in your manifest https://t.co/S8RvKOFQCl"
+	},
+	{
+		"created_at": "Tue Jul 07 07:36:20 +0000 2020",
+		"id": 1280405272574529500,
+		"id_str": "1280405272574529536",
+		"full_text": "@AndyRalph Hi Andy - unfortunately limits per day are applied over a rolling 24-hour period, not a set time of day. The YAMM add-on page, which uses the same service as the mail merge solution, has a great overview https://t.co/S7RKHUwbGQ",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AndyRalph",
+					"name": "Andy Ralph",
+					"id": 30533530,
+					"id_str": "30533530",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/S7RKHUwbGQ",
+					"expanded_url": "https://sites.google.com/site/scriptsexamples/available-web-apps/mail-merge/documentation/send-messages/sending-limits",
+					"display_url": "sites.google.com/site/scriptsex…",
+					"indices": [
+						215,
+						238
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1280391892224684000,
+		"in_reply_to_status_id_str": "1280391892224684035",
+		"in_reply_to_user_id": 30533530,
+		"in_reply_to_user_id_str": "30533530",
+		"in_reply_to_screen_name": "AndyRalph",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8859,
+			"friends_count": 2629,
+			"listed_count": 605,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6905,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@AndyRalph Hi Andy - unfortunately limits per day are applied over a rolling 24-hour period, not a set time of day. The YAMM add-on page, which uses the same service as the mail merge solution, has a great overview https://t.co/S7RKHUwbGQ"
+	},
+	{
 		"created_at": "Mon Jul 06 21:33:34 +0000 2020",
 		"id": 1280239860402405400,
 		"id_str": "1280253581900341251",
