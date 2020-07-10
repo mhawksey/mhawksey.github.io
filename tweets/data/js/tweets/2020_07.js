@@ -1,6 +1,1335 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 09 19:58:12 +0000 2020",
+		"id": 1281316747019260000,
+		"id_str": "1281316747019259908",
+		"full_text": "@johnjohnston ... seems like Microsoft have a long requirements list - big monitor, central location, web cam position. In a recent joint post @MarenDeepwell highlighted meeting around a document and other forms of communication can often be more effective https://t.co/x6WeVztUVh https://t.co/ZshBfHIiP5",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "johnjohnston",
+					"name": "john johnston",
+					"id": 7484192,
+					"id_str": "7484192",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						143,
+						157
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/x6WeVztUVh",
+					"expanded_url": "https://mashe.hawksey.info/2020/05/how-we-survived-a-pandemic-part-1-no-kind-of-normal/",
+					"display_url": "mashe.hawksey.info/2020/05/how-we…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1281316663829414000,
+					"id_str": "1281316663829413890",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecgmt5BXQAIMz5v.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ecgmt5BXQAIMz5v.png",
+					"url": "https://t.co/ZshBfHIiP5",
+					"display_url": "pic.twitter.com/ZshBfHIiP5",
+					"expanded_url": "https://twitter.com/mhawksey/status/1281316747019259908/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 674,
+							"h": 299,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 674,
+							"h": 299,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 674,
+							"h": 299,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1281316663829414000,
+					"id_str": "1281316663829413890",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecgmt5BXQAIMz5v.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ecgmt5BXQAIMz5v.png",
+					"url": "https://t.co/ZshBfHIiP5",
+					"display_url": "pic.twitter.com/ZshBfHIiP5",
+					"expanded_url": "https://twitter.com/mhawksey/status/1281316747019259908/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 674,
+							"h": 299,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 674,
+							"h": 299,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 674,
+							"h": 299,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1281303617413296000,
+		"in_reply_to_status_id_str": "1281303617413296134",
+		"in_reply_to_user_id": 7484192,
+		"in_reply_to_user_id_str": "7484192",
+		"in_reply_to_screen_name": "johnjohnston",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8861,
+			"friends_count": 2631,
+			"listed_count": 605,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29917,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@johnjohnston ... seems like Microsoft have a long requirements list - big monitor, central location, web cam position. In a recent joint post @MarenDeepwell highlighted meeting around a document and other forms of communication can often be more effective https://t.co/x6WeVztUVh https://t.co/ZshBfHIiP5"
+	},
+	{
+		"created_at": "Thu Jul 09 18:31:14 +0000 2020",
+		"id": 1281294860776071200,
+		"id_str": "1281294860776071168",
+		"full_text": "... and also \"Microsoft’s solution to Zoom fatigue is to trick your brain - \nWill sitting in a fixed virtual setting make videoconferencing better?\" #altc https://t.co/i9mExlB84n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						149,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i9mExlB84n",
+					"expanded_url": "https://www.technologyreview.com/2020/07/09/1004948/microsoft-together-mode-solution-to-zoom-fatigue/",
+					"display_url": "technologyreview.com/2020/07/09/100…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1281292049220862000,
+		"in_reply_to_status_id_str": "1281292049220861952",
+		"in_reply_to_user_id": 13046992,
+		"in_reply_to_user_id_str": "13046992",
+		"in_reply_to_screen_name": "mhawksey",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8861,
+			"friends_count": 2631,
+			"listed_count": 605,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29917,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "... and also \"Microsoft’s solution to Zoom fatigue is to trick your brain - \nWill sitting in a fixed virtual setting make videoconferencing better?\" #altc https://t.co/i9mExlB84n"
+	},
+	{
+		"created_at": "Thu Jul 09 18:20:04 +0000 2020",
+		"id": 1281292049220862000,
+		"id_str": "1281292049220861952",
+		"full_text": "Microsoft Teams’ new Together Mode is designed for pandemic-era meetings https://t.co/rkH6RbA5p2 #altc https://t.co/1q0D6PYHao",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						97,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rkH6RbA5p2",
+					"expanded_url": "https://www.theverge.com/2020/7/8/21317526/microsoft-teams-together-mode-dynamic-view-new-features",
+					"display_url": "theverge.com/2020/7/8/21317…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1281292014844350500,
+					"id_str": "1281292014844350481",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EcgQTIZXkBEIX-h.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EcgQTIZXkBEIX-h.jpg",
+					"url": "https://t.co/1q0D6PYHao",
+					"display_url": "pic.twitter.com/1q0D6PYHao",
+					"expanded_url": "https://twitter.com/mhawksey/status/1281292049220861952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 449,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 594,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 594,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1281292014844350500,
+					"id_str": "1281292014844350481",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EcgQTIZXkBEIX-h.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EcgQTIZXkBEIX-h.jpg",
+					"url": "https://t.co/1q0D6PYHao",
+					"display_url": "pic.twitter.com/1q0D6PYHao",
+					"expanded_url": "https://twitter.com/mhawksey/status/1281292049220861952/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 449,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 594,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 594,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							50,
+							33
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EcgQTIZXkBEIX-h.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8861,
+			"friends_count": 2631,
+			"listed_count": 605,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29917,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Microsoft Teams’ new Together Mode is designed for pandemic-era meetings https://t.co/rkH6RbA5p2 #altc https://t.co/1q0D6PYHao"
+	},
+	{
+		"created_at": "Thu Jul 09 18:03:00 +0000 2020",
+		"id": 1281281975618121700,
+		"id_str": "1281287754706497542",
+		"full_text": "Google Sheets Sidebar with Materialize CSS &amp; jQuery – Andrew Roberts by @andrewroberts6 (contributed by @mhawksey) #GSuiteDevs #GoogleAppsScript https://t.co/o2FLaKxuJh https://t.co/W9GtdngZPT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						119,
+						130
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						131,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "andrewroberts6",
+					"name": "Andrew Roberts",
+					"id": 51273924,
+					"id_str": "51273924",
+					"indices": [
+						76,
+						91
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey #altc",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						108,
+						117
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/o2FLaKxuJh",
+					"expanded_url": "https://pulse.appsscript.info/p/2020/07/google-sheets-sidebar-with-materialize-css-jquery-andrew-roberts/",
+					"display_url": "pulse.appsscript.info/p/2020/07/goog…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1281281973713924000,
+					"id_str": "1281281973713924096",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EcgHKqRUcAAEhr6.png",
+					"media_url_https": "https://pbs.twimg.com/media/EcgHKqRUcAAEhr6.png",
+					"url": "https://t.co/W9GtdngZPT",
+					"display_url": "pic.twitter.com/W9GtdngZPT",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1281281975618121728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 364,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1095,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 642,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1281281973713924000,
+					"id_str": "1281281973713924096",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EcgHKqRUcAAEhr6.png",
+					"media_url_https": "https://pbs.twimg.com/media/EcgHKqRUcAAEhr6.png",
+					"url": "https://t.co/W9GtdngZPT",
+					"display_url": "pic.twitter.com/W9GtdngZPT",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1281281975618121728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 364,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1095,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 642,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322526439,
+			"id_str": "322526439",
+			"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+			"screen_name": "AppsScriptInfo",
+			"location": "World",
+			"description": "A Google Apps Script Community account to support #GSuiteDevs. Curated by @mhawksey",
+			"url": "https://t.co/pEqPAHFH4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEqPAHFH4F",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 751,
+			"friends_count": 880,
+			"listed_count": 21,
+			"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+			"favourites_count": 502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+			"profile_link_color": "4286F4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Google Sheets Sidebar with Materialize CSS &amp; jQuery – Andrew Roberts by @andrewroberts6 (contributed by @mhawksey) #GSuiteDevs #GoogleAppsScript https://t.co/o2FLaKxuJh https://t.co/W9GtdngZPT"
+	},
+	{
+		"created_at": "Thu Jul 09 13:53:48 +0000 2020",
+		"id": 1281225041351520300,
+		"id_str": "1281225041351520268",
+		"full_text": "writing some PHP after a long time ... missing ; are killing me ;)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8861,
+			"friends_count": 2631,
+			"listed_count": 605,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29917,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "writing some PHP after a long time ... missing ; are killing me ;)"
+	},
+	{
+		"created_at": "Thu Jul 09 08:55:34 +0000 2020",
+		"id": 1281149989293625300,
+		"id_str": "1281149989293625345",
+		"full_text": "@manzini_livia @A_L_T @AAALinks @__BAAL I think Microsoft Immersive Reader will do this. If you click on 'Join Webinar' you can see the session recording from @Dale_Munday's session 'Inclusive Tools for Language Learning Development' at the Online Winter Confernece https://t.co/Urj0HSgnHe   #Linguistics #altc",
+		"truncated": false,
+		"display_text_range": [
+			40,
+			310
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Linguistics",
+					"indices": [
+						292,
+						304
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						305,
+						310
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "manzini_livia",
+					"name": "LiviaManzini",
+					"id": 1281141947227426800,
+					"id_str": "1281141947227426816",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						15,
+						21
+					]
+				},
+				{
+					"screen_name": "AAALinks",
+					"name": "Applied Linguistics",
+					"id": 234845680,
+					"id_str": "234845680",
+					"indices": [
+						22,
+						31
+					]
+				},
+				{
+					"screen_name": "__BAAL",
+					"name": "BAAL: British Association for Applied Linguistics",
+					"id": 625891381,
+					"id_str": "625891381",
+					"indices": [
+						32,
+						39
+					]
+				},
+				{
+					"screen_name": "Dale_Munday",
+					"name": "Dale Munday",
+					"id": 425731247,
+					"id_str": "425731247",
+					"indices": [
+						159,
+						171
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Urj0HSgnHe",
+					"expanded_url": "https://altc.alt.ac.uk/online2018/sessions/inclusive-tools-for-language-learning-development-174/",
+					"display_url": "altc.alt.ac.uk/online2018/ses…",
+					"indices": [
+						266,
+						289
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1281148493915177000,
+		"in_reply_to_status_id_str": "1281148493915176961",
+		"in_reply_to_user_id": 1281141947227426800,
+		"in_reply_to_user_id_str": "1281141947227426816",
+		"in_reply_to_screen_name": "manzini_livia",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8861,
+			"friends_count": 2631,
+			"listed_count": 605,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29917,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@manzini_livia @A_L_T @AAALinks @__BAAL I think Microsoft Immersive Reader will do this. If you click on 'Join Webinar' you can see the session recording from @Dale_Munday's session 'Inclusive Tools for Language Learning Development' at the Online Winter Confernece https://t.co/Urj0HSgnHe   #Linguistics #altc"
+	},
+	{
+		"created_at": "Thu Jul 09 08:12:36 +0000 2020",
+		"id": 1281139173618040800,
+		"id_str": "1281139173618040833",
+		"full_text": "@KavuBob it's working for me. Institutional firewall?",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KavuBob",
+					"name": "JohnRobertson",
+					"id": 8927752,
+					"id_str": "8927752",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1281057667071410200,
+		"in_reply_to_status_id_str": "1281057667071410176",
+		"in_reply_to_user_id": 8927752,
+		"in_reply_to_user_id_str": "8927752",
+		"in_reply_to_screen_name": "KavuBob",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8861,
+			"friends_count": 2631,
+			"listed_count": 605,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29917,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KavuBob it's working for me. Institutional firewall?"
+	},
+	{
+		"created_at": "Thu Jul 09 08:01:51 +0000 2020",
+		"id": 1281136241757638700,
+		"id_str": "1281136472196866051",
+		"full_text": "Earlier this year, Lizzie Seymour from the Royal Zoological Society of Scotland @rzss shared her experience of winning a Learning Technologist of the Year Award! Read her full blog post here: https://t.co/ED4IdjkTnC Award entries are open until 2 Sep https://t.co/eYWydO30Q8 #altc https://t.co/XODcOEgKkf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						275,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rzss",
+					"name": "Royal Zoological Society of Scotland",
+					"id": 2827514410,
+					"id_str": "2827514410",
+					"indices": [
+						80,
+						85
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ED4IdjkTnC",
+					"expanded_url": "https://go.alt.ac.uk/2Dg0W0s",
+					"display_url": "go.alt.ac.uk/2Dg0W0s",
+					"indices": [
+						192,
+						215
+					]
+				},
+				{
+					"url": "https://t.co/eYWydO30Q8",
+					"expanded_url": "http://go.alt.ac.uk/2020altcAwards",
+					"display_url": "go.alt.ac.uk/2020altcAwards",
+					"indices": [
+						251,
+						274
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1281136240553799700,
+					"id_str": "1281136240553799680",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EceCn38WsAA9pxv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EceCn38WsAA9pxv.jpg",
+					"url": "https://t.co/XODcOEgKkf",
+					"display_url": "pic.twitter.com/XODcOEgKkf",
+					"expanded_url": "https://twitter.com/A_L_T/status/1281136241757638657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1281136240553799700,
+					"id_str": "1281136240553799680",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EceCn38WsAA9pxv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EceCn38WsAA9pxv.jpg",
+					"url": "https://t.co/XODcOEgKkf",
+					"display_url": "pic.twitter.com/XODcOEgKkf",
+					"expanded_url": "https://twitter.com/A_L_T/status/1281136241757638657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13188,
+			"friends_count": 3833,
+			"listed_count": 565,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 8783,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 22321,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1582896564",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Earlier this year, Lizzie Seymour from the Royal Zoological Society of Scotland @rzss shared her experience of winning a Learning Technologist of the Year Award! Read her full blog post here: https://t.co/ED4IdjkTnC Award entries are open until 2 Sep https://t.co/eYWydO30Q8 #altc https://t.co/XODcOEgKkf"
+	},
+	{
 		"created_at": "Wed Jul 08 20:11:24 +0000 2020",
 		"id": 1280955748277719000,
 		"id_str": "1280957679750590469",
