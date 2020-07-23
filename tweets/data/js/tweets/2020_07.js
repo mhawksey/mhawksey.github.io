@@ -1,6 +1,606 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 22 13:24:48 +0000 2020",
+		"id": 1285928786983301000,
+		"id_str": "1285928786983301120",
+		"full_text": "@ChrisAldrich hoping to attend Chris :)",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChrisAldrich",
+					"name": "Chris Aldrich",
+					"id": 13645402,
+					"id_str": "13645402",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1282069497914912800,
+		"in_reply_to_status_id_str": "1282069497914912768",
+		"in_reply_to_user_id": 13645402,
+		"in_reply_to_user_id_str": "13645402",
+		"in_reply_to_screen_name": "ChrisAldrich",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8874,
+			"friends_count": 2630,
+			"listed_count": 599,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6926,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29926,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ChrisAldrich hoping to attend Chris :)"
+	},
+	{
+		"created_at": "Wed Jul 22 12:37:46 +0000 2020",
+		"id": 1285891814608838700,
+		"id_str": "1285916950523269121",
+		"full_text": "Really looking forward to the opening plenary for the #altc #altcSummit 'Learning Technology in times of Crisis, Care and Complexity – the Strategic view' chaired by @osullihelen with @osamasmkhan @HoneybHighton @digisim and the CEO of @ucisa - https://t.co/OF7wcItXnd https://t.co/VvDdazdIRO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						54,
+						59
+					]
+				},
+				{
+					"text": "altcSummit",
+					"indices": [
+						60,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "osullihelen",
+					"name": "Helen O'Sullivan",
+					"id": 2366861130,
+					"id_str": "2366861130",
+					"indices": [
+						166,
+						178
+					]
+				},
+				{
+					"screen_name": "osamasmkhan",
+					"name": "Professor Osama Khan",
+					"id": 35869909,
+					"id_str": "35869909",
+					"indices": [
+						184,
+						196
+					]
+				},
+				{
+					"screen_name": "HoneybHighton",
+					"name": "Melissa",
+					"id": 2382712322,
+					"id_str": "2382712322",
+					"indices": [
+						197,
+						211
+					]
+				},
+				{
+					"screen_name": "digisim",
+					"name": "Simon Thomson",
+					"id": 294516600,
+					"id_str": "294516600",
+					"indices": [
+						212,
+						220
+					]
+				},
+				{
+					"screen_name": "ucisa",
+					"name": "ucisa",
+					"id": 43862188,
+					"id_str": "43862188",
+					"indices": [
+						236,
+						242
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OF7wcItXnd",
+					"expanded_url": "https://altc.alt.ac.uk/summit2020/programme/",
+					"display_url": "altc.alt.ac.uk/summit2020/pro…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1285891044387717000,
+					"id_str": "1285891044387717120",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EdhnF4iWAAAB1v4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdhnF4iWAAAB1v4.jpg",
+					"url": "https://t.co/VvDdazdIRO",
+					"display_url": "pic.twitter.com/VvDdazdIRO",
+					"expanded_url": "https://twitter.com/MarenDeepwell/status/1285891814608838658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1285891044387717000,
+					"id_str": "1285891044387717120",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EdhnF4iWAAAB1v4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdhnF4iWAAAB1v4.jpg",
+					"url": "https://t.co/VvDdazdIRO",
+					"display_url": "pic.twitter.com/VvDdazdIRO",
+					"expanded_url": "https://twitter.com/MarenDeepwell/status/1285891814608838658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 323173367,
+			"id_str": "323173367",
+			"name": "Dr Maren Deepwell",
+			"screen_name": "MarenDeepwell",
+			"location": "Cardiff, Wales",
+			"description": "CEO @A_L_T #altc, expert in open leadership of virtual teams & orgs, policy & Learning Technology CPD, Senior #CMALT, equality #femedtech she/her",
+			"url": "https://t.co/kMXdMTr9bt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kMXdMTr9bt",
+							"expanded_url": "http://marendeepwell.com",
+							"display_url": "marendeepwell.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4354,
+			"friends_count": 1889,
+			"listed_count": 193,
+			"created_at": "Fri Jun 24 11:30:35 +0000 2011",
+			"favourites_count": 22595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11996,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1213925033690763273/JeGthJGa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213925033690763273/JeGthJGa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/323173367/1594036676",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Really looking forward to the opening plenary for the #altc #altcSummit 'Learning Technology in times of Crisis, Care and Complexity – the Strategic view' chaired by @osullihelen with @osamasmkhan @HoneybHighton @digisim and the CEO of @ucisa - https://t.co/OF7wcItXnd https://t.co/VvDdazdIRO"
+	},
+	{
+		"created_at": "Wed Jul 22 10:17:13 +0000 2020",
+		"id": 1285860630076051500,
+		"id_str": "1285881577579347969",
+		"full_text": "Join us at our next #DigitalSkills webinar on Thu 30 July, 2:00pm. We will introduce our new online #learning #guide for #heritage organisations, produced by The Association for Learning Technology @A_L_T.\n \nBook a free place: https://t.co/pILkMQDVrm @MarenDeepwell @josiefraser https://t.co/mhpLlTgUnN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DigitalSkills",
+					"indices": [
+						20,
+						34
+					]
+				},
+				{
+					"text": "learning",
+					"indices": [
+						100,
+						109
+					]
+				},
+				{
+					"text": "guide",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"text": "heritage",
+					"indices": [
+						121,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						198,
+						204
+					]
+				},
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						251,
+						265
+					]
+				},
+				{
+					"screen_name": "josiefraser",
+					"name": "Josie Fraser",
+					"id": 746923,
+					"id_str": "746923",
+					"indices": [
+						266,
+						278
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pILkMQDVrm",
+					"expanded_url": "https://www.ticketsource.co.uk/national-lottery-heritage-fund/t-lokqyp",
+					"display_url": "ticketsource.co.uk/national-lotte…",
+					"indices": [
+						227,
+						250
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1285859439216599000,
+					"id_str": "1285859439216599040",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EdhKWOGWoAAxpaR.png",
+					"media_url_https": "https://pbs.twimg.com/media/EdhKWOGWoAAxpaR.png",
+					"url": "https://t.co/mhpLlTgUnN",
+					"display_url": "pic.twitter.com/mhpLlTgUnN",
+					"expanded_url": "https://twitter.com/HeritageFundUK/status/1285860630076051456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 929,
+							"h": 808,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 591,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 929,
+							"h": 808,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1285859439216599000,
+					"id_str": "1285859439216599040",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EdhKWOGWoAAxpaR.png",
+					"media_url_https": "https://pbs.twimg.com/media/EdhKWOGWoAAxpaR.png",
+					"url": "https://t.co/mhpLlTgUnN",
+					"display_url": "pic.twitter.com/mhpLlTgUnN",
+					"expanded_url": "https://twitter.com/HeritageFundUK/status/1285860630076051456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 929,
+							"h": 808,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 591,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 929,
+							"h": 808,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 155576163,
+			"id_str": "155576163",
+			"name": "National Lottery Heritage Fund",
+			"screen_name": "HeritageFundUK",
+			"location": "",
+			"description": "We are the #NationalLotteryHeritageFund. Using National Lottery funding we inspire, lead & resource the UK’s heritage.",
+			"url": "https://t.co/xtLrPeQyi3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xtLrPeQyi3",
+							"expanded_url": "http://www.heritagefund.org.uk",
+							"display_url": "heritagefund.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42583,
+			"friends_count": 3222,
+			"listed_count": 0,
+			"created_at": "Mon Jun 14 14:26:41 +0000 2010",
+			"favourites_count": 66936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "143D8D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176436400515928065/hQlQFvbT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176436400515928065/hQlQFvbT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/155576163/1592476281",
+			"profile_link_color": "8F62A7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join us at our next #DigitalSkills webinar on Thu 30 July, 2:00pm. We will introduce our new online #learning #guide for #heritage organisations, produced by The Association for Learning Technology @A_L_T.\n \nBook a free place: https://t.co/pILkMQDVrm @MarenDeepwell @josiefraser https://t.co/mhpLlTgUnN"
+	},
+	{
 		"created_at": "Tue Jul 21 07:32:04 +0000 2020",
 		"id": 1285477628653297700,
 		"id_str": "1285477628653297664",
