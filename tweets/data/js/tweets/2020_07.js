@@ -1,6 +1,1323 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 27 21:34:46 +0000 2020",
+		"id": 1287864029327716400,
+		"id_str": "1287864029327716352",
+		"full_text": "In case you missed it @chasmaxson premiered the first look at the new Google Apps Script IDE as part of #GoogleCloudDevTalks last week - a quick post with a link to the recording and some other resources #GSuiteDevs #GoogleAppsScript  https://t.co/8TjhGG1clR https://t.co/aTdiTA3jOz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleCloudDevTalks",
+					"indices": [
+						104,
+						124
+					]
+				},
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						204,
+						215
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						216,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chasmaxson",
+					"name": "Charles Maxson",
+					"id": 993937566029115400,
+					"id_str": "993937566029115393",
+					"indices": [
+						22,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8TjhGG1clR",
+					"expanded_url": "https://mashe.hawksey.info/2020/07/first-look-at-the-new-google-apps-script-integrated-development-environment-ide-script-editor/",
+					"display_url": "mashe.hawksey.info/2020/07/first-…",
+					"indices": [
+						235,
+						258
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1287863284381687800,
+					"id_str": "1287863284381687811",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/Ed9o1XDWoAMfmuz.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ed9o1XDWoAMfmuz.png",
+					"url": "https://t.co/aTdiTA3jOz",
+					"display_url": "pic.twitter.com/aTdiTA3jOz",
+					"expanded_url": "https://twitter.com/mhawksey/status/1287864029327716352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 773,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 773,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1287863284381687800,
+					"id_str": "1287863284381687811",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/Ed9o1XDWoAMfmuz.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ed9o1XDWoAMfmuz.png",
+					"url": "https://t.co/aTdiTA3jOz",
+					"display_url": "pic.twitter.com/aTdiTA3jOz",
+					"expanded_url": "https://twitter.com/mhawksey/status/1287864029327716352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 773,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 773,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8882,
+			"friends_count": 2631,
+			"listed_count": 600,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6932,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29938,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In case you missed it @chasmaxson premiered the first look at the new Google Apps Script IDE as part of #GoogleCloudDevTalks last week - a quick post with a link to the recording and some other resources #GSuiteDevs #GoogleAppsScript  https://t.co/8TjhGG1clR https://t.co/aTdiTA3jOz"
+	},
+	{
+		"created_at": "Mon Jul 27 21:31:36 +0000 2020",
+		"id": 1287852396719136800,
+		"id_str": "1287863231323598848",
+		"full_text": "Goa v8 changes and enhancements for OAuth2 and Google Apps Script by @brucemcpherson (contributed by @mhawksey) #GSuiteDevs #GoogleAppsScript https://t.co/H1kVj8xmmt https://t.co/R8gDokAGDe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						112,
+						123
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						124,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brucemcpherson",
+					"name": "Bruce McPherson 🇪🇺🇫🇷🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+					"id": 17517365,
+					"id_str": "17517365",
+					"indices": [
+						69,
+						84
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey #altc",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						101,
+						110
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/H1kVj8xmmt",
+					"expanded_url": "https://pulse.appsscript.info/p/2020/07/goa-v8-changes-and-enhancements-for-oauth2-and-google-apps-script/",
+					"display_url": "pulse.appsscript.info/p/2020/07/goa-…",
+					"indices": [
+						142,
+						165
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1287852395305635800,
+					"id_str": "1287852395305635840",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/Ed9e7iFUEAAlsVF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ed9e7iFUEAAlsVF.jpg",
+					"url": "https://t.co/R8gDokAGDe",
+					"display_url": "pic.twitter.com/R8gDokAGDe",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1287852396719136769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 432,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 432,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1287852395305635800,
+					"id_str": "1287852395305635840",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/Ed9e7iFUEAAlsVF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ed9e7iFUEAAlsVF.jpg",
+					"url": "https://t.co/R8gDokAGDe",
+					"display_url": "pic.twitter.com/R8gDokAGDe",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1287852396719136769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 432,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 432,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322526439,
+			"id_str": "322526439",
+			"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+			"screen_name": "AppsScriptInfo",
+			"location": "World",
+			"description": "A Google Apps Script Community account to support #GSuiteDevs. Curated by @mhawksey",
+			"url": "https://t.co/pEqPAHFH4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEqPAHFH4F",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 773,
+			"friends_count": 882,
+			"listed_count": 22,
+			"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+			"favourites_count": 506,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1809,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+			"profile_link_color": "4286F4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Goa v8 changes and enhancements for OAuth2 and Google Apps Script by @brucemcpherson (contributed by @mhawksey) #GSuiteDevs #GoogleAppsScript https://t.co/H1kVj8xmmt https://t.co/R8gDokAGDe"
+	},
+	{
+		"created_at": "Mon Jul 27 17:44:13 +0000 2020",
+		"id": 1287806010292347000,
+		"id_str": "1287806010292346880",
+		"full_text": "Study: Magicians’ priming techniques are effective at influencing choice https://t.co/QRu9bMyzjC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QRu9bMyzjC",
+					"expanded_url": "https://arstechnica.com/science/2020/07/magic-or-science-subtle-verbal-and-visual-cues-can-influence-card-choices/",
+					"display_url": "arstechnica.com/science/2020/0…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8882,
+			"friends_count": 2631,
+			"listed_count": 600,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6932,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29938,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Study: Magicians’ priming techniques are effective at influencing choice https://t.co/QRu9bMyzjC"
+	},
+	{
+		"created_at": "Mon Jul 27 17:42:57 +0000 2020",
+		"id": 1287805689692332000,
+		"id_str": "1287805689692332033",
+		"full_text": "\"WPCampus 2020 Online is a three-day online conference. It will cover a variety of topics, all focused on the growth of Higher Education, Accessibility, WordPress, and its people.\" #altc https://t.co/eejiRQN3FA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						181,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eejiRQN3FA",
+					"expanded_url": "https://www.wpcampus.org/blog/2020/03/wpcampus-2020-to-go-online/",
+					"display_url": "wpcampus.org/blog/2020/03/w…",
+					"indices": [
+						187,
+						210
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8882,
+			"friends_count": 2631,
+			"listed_count": 600,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6932,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29938,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"WPCampus 2020 Online is a three-day online conference. It will cover a variety of topics, all focused on the growth of Higher Education, Accessibility, WordPress, and its people.\" #altc https://t.co/eejiRQN3FA"
+	},
+	{
+		"created_at": "Mon Jul 27 16:01:40 +0000 2020",
+		"id": 1287766796267815000,
+		"id_str": "1287780201489932288",
+		"full_text": "#edtech leadership in pandemic times... @mhawksey and I are still blogging and sharing openly our approach to leading a virtual team #altc https://t.co/baWLAituXl https://t.co/GzkCEb69IA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edtech",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						133,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey #altc",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						40,
+						49
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/baWLAituXl",
+					"expanded_url": "https://marendeepwell.com/?p=2715",
+					"display_url": "marendeepwell.com/?p=2715",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1287766787149516800,
+					"id_str": "1287766787149516803",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ed8REe2X0AMFW7u.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ed8REe2X0AMFW7u.jpg",
+					"url": "https://t.co/GzkCEb69IA",
+					"display_url": "pic.twitter.com/GzkCEb69IA",
+					"expanded_url": "https://twitter.com/MarenDeepwell/status/1287766796267814912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1287766787149516800,
+					"id_str": "1287766787149516803",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ed8REe2X0AMFW7u.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ed8REe2X0AMFW7u.jpg",
+					"url": "https://t.co/GzkCEb69IA",
+					"display_url": "pic.twitter.com/GzkCEb69IA",
+					"expanded_url": "https://twitter.com/MarenDeepwell/status/1287766796267814912/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							300,
+							169
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Ed8REe2X0AMFW7u.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 323173367,
+			"id_str": "323173367",
+			"name": "Dr Maren Deepwell",
+			"screen_name": "MarenDeepwell",
+			"location": "Cardiff, Wales",
+			"description": "CEO @A_L_T #altc, expert in open leadership of virtual teams & orgs, policy & Learning Technology CPD, Senior #CMALT, equality #femedtech she/her",
+			"url": "https://t.co/kMXdMTr9bt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kMXdMTr9bt",
+							"expanded_url": "http://marendeepwell.com",
+							"display_url": "marendeepwell.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4363,
+			"friends_count": 1894,
+			"listed_count": 193,
+			"created_at": "Fri Jun 24 11:30:35 +0000 2011",
+			"favourites_count": 22733,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12032,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1287098546831990786/_JVI5ja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1287098546831990786/_JVI5ja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/323173367/1594036676",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#edtech leadership in pandemic times... @mhawksey and I are still blogging and sharing openly our approach to leading a virtual team #altc https://t.co/baWLAituXl https://t.co/GzkCEb69IA"
+	},
+	{
+		"created_at": "Mon Jul 27 10:18:17 +0000 2020",
+		"id": 1287693787960090600,
+		"id_str": "1287693787960090624",
+		"full_text": "@PReflect_UK Not come across that issue. When creating the draft message are you copy/pasting from another source?",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PReflect_UK",
+					"name": "PReflect",
+					"id": 1095863562688495600,
+					"id_str": "1095863562688495616",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1286372653218095000,
+		"in_reply_to_status_id_str": "1286372653218095104",
+		"in_reply_to_user_id": 1095863562688495600,
+		"in_reply_to_user_id_str": "1095863562688495616",
+		"in_reply_to_screen_name": "PReflect_UK",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8882,
+			"friends_count": 2631,
+			"listed_count": 600,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6932,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29938,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PReflect_UK Not come across that issue. When creating the draft message are you copy/pasting from another source?"
+	},
+	{
+		"created_at": "Mon Jul 27 10:16:41 +0000 2020",
+		"id": 1286589988734410800,
+		"id_str": "1287693382064766977",
+		"full_text": "NEW Communities of Practice - a sector audit report from @A_L_T funded by @UfiTrust has now been published, thanks to @EmmaProcterLegg @mhawksey and Nick Lambert, download the executive summary, full report &amp; audit data https://t.co/N0Hipekm9B https://t.co/p0JDJxSxjA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						57,
+						63
+					]
+				},
+				{
+					"screen_name": "UfiTrust",
+					"name": "Ufi VocTech Trust",
+					"id": 385361078,
+					"id_str": "385361078",
+					"indices": [
+						74,
+						83
+					]
+				},
+				{
+					"screen_name": "EmmaProcterLegg",
+					"name": "Emma Procter-Legg",
+					"id": 549313955,
+					"id_str": "549313955",
+					"indices": [
+						118,
+						134
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey #altc",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						135,
+						144
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/N0Hipekm9B",
+					"expanded_url": "https://www.alt.ac.uk/CoPProject",
+					"display_url": "alt.ac.uk/CoPProject",
+					"indices": [
+						224,
+						247
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1286589168668283000,
+					"id_str": "1286589168668282881",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/EdriCEJWkAEXidc.png",
+					"media_url_https": "https://pbs.twimg.com/media/EdriCEJWkAEXidc.png",
+					"url": "https://t.co/p0JDJxSxjA",
+					"display_url": "pic.twitter.com/p0JDJxSxjA",
+					"expanded_url": "https://twitter.com/MarenDeepwell/status/1286589988734410752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 580,
+							"h": 465,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 580,
+							"h": 465,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 580,
+							"h": 465,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1286589168668283000,
+					"id_str": "1286589168668282881",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/EdriCEJWkAEXidc.png",
+					"media_url_https": "https://pbs.twimg.com/media/EdriCEJWkAEXidc.png",
+					"url": "https://t.co/p0JDJxSxjA",
+					"display_url": "pic.twitter.com/p0JDJxSxjA",
+					"expanded_url": "https://twitter.com/MarenDeepwell/status/1286589988734410752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 580,
+							"h": 465,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 580,
+							"h": 465,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 580,
+							"h": 465,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 323173367,
+			"id_str": "323173367",
+			"name": "Dr Maren Deepwell",
+			"screen_name": "MarenDeepwell",
+			"location": "Cardiff, Wales",
+			"description": "CEO @A_L_T #altc, expert in open leadership of virtual teams & orgs, policy & Learning Technology CPD, Senior #CMALT, equality #femedtech she/her",
+			"url": "https://t.co/kMXdMTr9bt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kMXdMTr9bt",
+							"expanded_url": "http://marendeepwell.com",
+							"display_url": "marendeepwell.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4363,
+			"friends_count": 1894,
+			"listed_count": 193,
+			"created_at": "Fri Jun 24 11:30:35 +0000 2011",
+			"favourites_count": 22733,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12032,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1287098546831990786/_JVI5ja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1287098546831990786/_JVI5ja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/323173367/1594036676",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW Communities of Practice - a sector audit report from @A_L_T funded by @UfiTrust has now been published, thanks to @EmmaProcterLegg @mhawksey and Nick Lambert, download the executive summary, full report &amp; audit data https://t.co/N0Hipekm9B https://t.co/p0JDJxSxjA"
+	},
+	{
+		"created_at": "Mon Jul 27 10:15:37 +0000 2020",
+		"id": 1287693116615647200,
+		"id_str": "1287693116615647233",
+		"full_text": "@daniellynds .. should still be working",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "daniellynds",
+					"name": "Black Lives Matter",
+					"id": 12069412,
+					"id_str": "12069412",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1287043104835600400,
+		"in_reply_to_status_id_str": "1287043104835600389",
+		"in_reply_to_user_id": 12069412,
+		"in_reply_to_user_id_str": "12069412",
+		"in_reply_to_screen_name": "daniellynds",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8882,
+			"friends_count": 2631,
+			"listed_count": 600,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6932,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29938,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@daniellynds .. should still be working"
+	},
+	{
 		"created_at": "Thu Jul 23 17:29:15 +0000 2020",
 		"id": 1286352689945813000,
 		"id_str": "1286352689945812995",
