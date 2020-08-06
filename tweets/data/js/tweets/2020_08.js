@@ -1,6 +1,153 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 05 08:11:41 +0000 2020",
+		"id": 1288990392507961300,
+		"id_str": "1290923418435694592",
+		"full_text": "Apps Script IDE will be using the Monaco Editor that powers VS Code. Very nice indeed 😉. If there is any way to integrate with GitHub, it would be a powerful coding platform for teachers and students 😊💻 with so many possibilities 💯#GoogleAppsScript \nhttps://t.co/aqO5SLH93W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						231,
+						248
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aqO5SLH93W",
+					"expanded_url": "https://mashe.hawksey.info/2020/07/first-look-at-the-new-google-apps-script-integrated-development-environment-ide-script-editor/amp/",
+					"display_url": "mashe.hawksey.info/2020/07/first-…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 173513816,
+			"id_str": "173513816",
+			"name": "Tim Sampson",
+			"screen_name": "fullstackpanic",
+			"location": "Taipei",
+			"description": "HS APCS Teacher, coach, husband, dad and lifelong learner. Google Certified Educator.🏃‍♂️he/him",
+			"url": "https://t.co/PQYohLbPzw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PQYohLbPzw",
+							"expanded_url": "https://github.com/timsampson",
+							"display_url": "github.com/timsampson",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 420,
+			"friends_count": 4996,
+			"listed_count": 5,
+			"created_at": "Sun Aug 01 17:43:14 +0000 2010",
+			"favourites_count": 4285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 371,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1286583730371362817/yb_7H2rV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1286583730371362817/yb_7H2rV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/173513816/1591261995",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00180402799fed03",
+			"url": "https://api.twitter.com/1.1/geo/id/00180402799fed03.json",
+			"place_type": "city",
+			"name": "Taipei City",
+			"full_name": "Taipei City, Taiwan",
+			"country_code": "TW",
+			"country": "Taiwan",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							121.457132,
+							24.960508
+						],
+						[
+							121.66582,
+							24.960508
+						],
+						[
+							121.66582,
+							25.211004
+						],
+						[
+							121.457132,
+							25.211004
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Apps Script IDE will be using the Monaco Editor that powers VS Code. Very nice indeed 😉. If there is any way to integrate with GitHub, it would be a powerful coding platform for teachers and students 😊💻 with so many possibilities 💯#GoogleAppsScript \nhttps://t.co/aqO5SLH93W"
+	},
+	{
 		"created_at": "Tue Aug 04 21:06:44 +0000 2020",
 		"id": 1290754893540597800,
 		"id_str": "1290756076519010304",
