@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sun Aug 09 10:30:20 +0000 2020",
+		"id": 1292388659748954000,
+		"id_str": "1292407859666354177",
+		"full_text": "Cropping Images in Google Slides using Google Apps Script (contributed by @mhawksey) #GSuiteDevs #GoogleAppsScript https://t.co/9MfLzOkkL8 https://t.co/QPOMP113mT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						85,
+						96
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						97,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey #altc",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						74,
+						83
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9MfLzOkkL8",
+					"expanded_url": "https://pulse.appsscript.info/p/2020/08/cropping-images-in-google-slides-using-google-apps-script/",
+					"display_url": "pulse.appsscript.info/p/2020/08/crop…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1292388658251628500,
+					"id_str": "1292388658251628546",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ee98oybVAAILWSZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ee98oybVAAILWSZ.jpg",
+					"url": "https://t.co/QPOMP113mT",
+					"display_url": "pic.twitter.com/QPOMP113mT",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1292388659748954117/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 430,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 430,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 430,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292388658251628500,
+					"id_str": "1292388658251628546",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ee98oybVAAILWSZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ee98oybVAAILWSZ.jpg",
+					"url": "https://t.co/QPOMP113mT",
+					"display_url": "pic.twitter.com/QPOMP113mT",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1292388659748954117/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 430,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 430,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 430,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							64,
+							43
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Ee98oybVAAILWSZ.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322526439,
+			"id_str": "322526439",
+			"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+			"screen_name": "AppsScriptInfo",
+			"location": "World",
+			"description": "A Google Apps Script Community account to support #GSuiteDevs. Curated by @mhawksey",
+			"url": "https://t.co/pEqPAHFH4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEqPAHFH4F",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 796,
+			"friends_count": 905,
+			"listed_count": 22,
+			"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+			"favourites_count": 514,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1831,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+			"profile_link_color": "4286F4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Cropping Images in Google Slides using Google Apps Script (contributed by @mhawksey) #GSuiteDevs #GoogleAppsScript https://t.co/9MfLzOkkL8 https://t.co/QPOMP113mT"
+	},
+	{
 		"created_at": "Sat Aug 08 10:50:06 +0000 2020",
 		"id": 1292025892382707700,
 		"id_str": "1292050449319829504",
