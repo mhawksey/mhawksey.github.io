@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 13 08:46:51 +0000 2020",
+		"id": 1293754160093868000,
+		"id_str": "1293831370330923009",
+		"full_text": "Some great topics and session formats in this CFP - well worth a look. \n\nAlso, can't help but notice this shout-out: \n\"The conference team would like to acknowledge the organizers of OER20, from which we drew inspiration and best practices.\"\n\nNo bad model to follow. #ALT #OER20 https://t.co/hmsKeQbNZB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALT",
+					"indices": [
+						267,
+						271
+					]
+				},
+				{
+					"text": "OER20",
+					"indices": [
+						272,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hmsKeQbNZB",
+					"expanded_url": "https://twitter.com/HeyOpenEd/status/1288542084614561803",
+					"display_url": "twitter.com/HeyOpenEd/stat…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22673907,
+			"id_str": "22673907",
+			"name": "Anne-Marie Scott",
+			"screen_name": "ammienoot",
+			"location": "This place called Canada",
+			"description": "Edtech lady leader. Deputy Provost @Athabascau | Formerly @EdinburghUni | @Apereo Board Chair | #femedtech Art, books, rural life, piffle. Views mine. she/her",
+			"url": "https://t.co/QNuHpiivHG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QNuHpiivHG",
+							"expanded_url": "http://ammienoot.com",
+							"display_url": "ammienoot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3031,
+			"friends_count": 3693,
+			"listed_count": 140,
+			"created_at": "Tue Mar 03 20:30:51 +0000 2009",
+			"favourites_count": 25032,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21446,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1155504356277571585/X4U4iZiA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1155504356277571585/X4U4iZiA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22673907/1493487259",
+			"profile_link_color": "8F9E70",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1288542084614561800,
+		"quoted_status_id_str": "1288542084614561803",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hmsKeQbNZB",
+			"expanded": "https://twitter.com/HeyOpenEd/status/1288542084614561803",
+			"display": "twitter.com/HeyOpenEd/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 29 18:29:07 +0000 2020",
+			"id": 1288542084614561800,
+			"id_str": "1288542084614561803",
+			"full_text": "Save the date! #OpenEd20 will be held November 9-13 as a virtual event. Call for proposals will be out soon. Sign up for updates here: https://t.co/USV368A7Eg #OpenEducation #OER #OEP #GoOpen #EdTech #textbookbroke",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				214
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OpenEd20",
+						"indices": [
+							15,
+							24
+						]
+					},
+					{
+						"text": "OpenEducation",
+						"indices": [
+							159,
+							173
+						]
+					},
+					{
+						"text": "OER",
+						"indices": [
+							174,
+							178
+						]
+					},
+					{
+						"text": "OEP",
+						"indices": [
+							179,
+							183
+						]
+					},
+					{
+						"text": "GoOpen",
+						"indices": [
+							184,
+							191
+						]
+					},
+					{
+						"text": "EdTech",
+						"indices": [
+							192,
+							199
+						]
+					},
+					{
+						"text": "textbookbroke",
+						"indices": [
+							200,
+							214
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/USV368A7Eg",
+						"expanded_url": "https://openeducationconference.org/news/opened20-is-november-9-13-online",
+						"display_url": "openeducationconference.org/news/opened20-…",
+						"indices": [
+							135,
+							158
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1280936769282805800,
+				"id_str": "1280936769282805767",
+				"name": "Open Education Conference",
+				"screen_name": "HeyOpenEd",
+				"location": "",
+				"description": "#OpenEd20 will take place November 9-13, 2020 as a virtual event. Call for proposals deadline September 1.",
+				"url": "https://t.co/13jqDsYC0k",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/13jqDsYC0k",
+								"expanded_url": "https://form.openeducationconference.org/sign-up",
+								"display_url": "form.openeducationconference.org/sign-up",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 277,
+				"friends_count": 5,
+				"listed_count": 1,
+				"created_at": "Wed Jul 08 18:49:03 +0000 2020",
+				"favourites_count": 3,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1288507892862263297/fLtxXgwH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1288507892862263297/fLtxXgwH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1280936769282805767/1596041529",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 92,
+			"favorite_count": 96,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some great topics and session formats in this CFP - well worth a look. \n\nAlso, can't help but notice this shout-out: \n\"The conference team would like to acknowledge the organizers of OER20, from which we drew inspiration and best practices.\"\n\nNo bad model to follow. #ALT #OER20 https://t.co/hmsKeQbNZB"
+	},
+	{
 		"created_at": "Wed Aug 12 17:26:28 +0000 2020",
 		"id": 1293599747719278600,
 		"id_str": "1293599747719278594",
