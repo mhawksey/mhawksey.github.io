@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Fri Aug 14 05:38:42 +0000 2020",
+		"id": 1294146407960641500,
+		"id_str": "1294146407960641537",
+		"full_text": "@techstreams @schoraria911 @dsottimano @hamletbatista @Twitter @defaced @johnmurch @threader_app @clssrmtechtools @pfelipm This sounds like the type of projects Twitter is encouraging 3rd party Devs to make with their new API. Dialogflow would be the way to go. I've written up something date based for Google Chat bots which has agent you could extend  https://t.co/KtgNb43MKe",
+		"truncated": false,
+		"display_text_range": [
+			123,
+			377
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "techstreams",
+					"name": "Laura Taylor",
+					"id": 14328802,
+					"id_str": "14328802",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "schoraria911",
+					"name": "Sourabh Choraria",
+					"id": 1145333591867453400,
+					"id_str": "1145333591867453440",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"screen_name": "dsottimano",
+					"name": "Dave Sottimano",
+					"id": 147616003,
+					"id_str": "147616003",
+					"indices": [
+						27,
+						38
+					]
+				},
+				{
+					"screen_name": "hamletbatista",
+					"name": "Hamlet Batista",
+					"id": 9941892,
+					"id_str": "9941892",
+					"indices": [
+						39,
+						53
+					]
+				},
+				{
+					"screen_name": "Twitter",
+					"name": "Twitter",
+					"id": 783214,
+					"id_str": "783214",
+					"indices": [
+						54,
+						62
+					]
+				},
+				{
+					"screen_name": "defaced",
+					"name": "Chris Johnson",
+					"id": 15780299,
+					"id_str": "15780299",
+					"indices": [
+						63,
+						71
+					]
+				},
+				{
+					"screen_name": "johnmurch",
+					"name": "John Murch",
+					"id": 62303,
+					"id_str": "62303",
+					"indices": [
+						72,
+						82
+					]
+				},
+				{
+					"screen_name": "threader_app",
+					"name": "Threader",
+					"id": 900271822465380400,
+					"id_str": "900271822465380352",
+					"indices": [
+						83,
+						96
+					]
+				},
+				{
+					"screen_name": "clssrmtechtools",
+					"name": "Classroom Tech Tools",
+					"id": 859694936140075000,
+					"id_str": "859694936140075008",
+					"indices": [
+						97,
+						113
+					]
+				},
+				{
+					"screen_name": "pfelipm",
+					"name": "Pablo Felip",
+					"id": 127973484,
+					"id_str": "127973484",
+					"indices": [
+						114,
+						122
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KtgNb43MKe",
+					"expanded_url": "https://mashe.hawksey.info/2018/10/introduction-to-building-conversational-interfaces-with-dialogflow-in-google-apps-script-powered-google-hangouts-chat-bots/",
+					"display_url": "mashe.hawksey.info/2018/10/introd…",
+					"indices": [
+						354,
+						377
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1294126337893060600,
+		"in_reply_to_status_id_str": "1294126337893060609",
+		"in_reply_to_user_id": 14328802,
+		"in_reply_to_user_id_str": "14328802",
+		"in_reply_to_screen_name": "techstreams",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8898,
+			"friends_count": 2637,
+			"listed_count": 598,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6960,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29979,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@techstreams @schoraria911 @dsottimano @hamletbatista @Twitter @defaced @johnmurch @threader_app @clssrmtechtools @pfelipm This sounds like the type of projects Twitter is encouraging 3rd party Devs to make with their new API. Dialogflow would be the way to go. I've written up something date based for Google Chat bots which has agent you could extend  https://t.co/KtgNb43MKe"
+	},
+	{
 		"created_at": "Thu Aug 13 08:46:51 +0000 2020",
 		"id": 1293754160093868000,
 		"id_str": "1293831370330923009",
