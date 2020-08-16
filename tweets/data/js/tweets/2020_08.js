@@ -1,6 +1,293 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 15 12:36:08 +0000 2020",
+		"id": 1294613845089161200,
+		"id_str": "1294613845089161220",
+		"full_text": "Whilst this video might be more for low/ #nocoder's as an Apps Script Dev I always find it useful to have a look at the code to see how it is done as more often than not there will be a technique or method I’ve not come across - Ty @TechandEco. #GSuiteDevs #GoogleAppsScript https://t.co/3AwatxPdtI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "nocoder",
+					"indices": [
+						41,
+						49
+					]
+				},
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						245,
+						256
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						257,
+						274
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TechandEco",
+					"name": "Sustainability and Tech",
+					"id": 1102403074591666200,
+					"id_str": "1102403074591666176",
+					"indices": [
+						232,
+						243
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3AwatxPdtI",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1294562106067447809",
+					"display_url": "twitter.com/AppsScriptInfo…",
+					"indices": [
+						275,
+						298
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8896,
+			"friends_count": 2638,
+			"listed_count": 599,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6960,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1294562106067447800,
+		"quoted_status_id_str": "1294562106067447809",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3AwatxPdtI",
+			"expanded": "https://twitter.com/AppsScriptInfo/status/1294562106067447809",
+			"display": "twitter.com/AppsScriptInfo…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Aug 15 09:10:32 +0000 2020",
+			"id": 1294562106067447800,
+			"id_str": "1294562106067447809",
+			"full_text": "How to build a Google Analytics Dashboard with Apps Script and Google Sites – Sheets to Apps by @TechandEco (contributed by @mhawksey) #GSuiteDevs #GoogleAppsScript https://t.co/ey90tWjv3w",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				188
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GSuiteDevs",
+						"indices": [
+							135,
+							146
+						]
+					},
+					{
+						"text": "GoogleAppsScript",
+						"indices": [
+							147,
+							164
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TechandEco",
+						"name": "Sustainability and Tech",
+						"id": 1102403074591666200,
+						"id_str": "1102403074591666176",
+						"indices": [
+							96,
+							107
+						]
+					},
+					{
+						"screen_name": "mhawksey",
+						"name": "Martin Hawksey #altc",
+						"id": 13046992,
+						"id_str": "13046992",
+						"indices": [
+							124,
+							133
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ey90tWjv3w",
+						"expanded_url": "https://pulse.appsscript.info/p/2020/08/how-to-build-a-google-analytics-dashboard-with-apps-script-and-google-sites-sheets-to-apps/",
+						"display_url": "pulse.appsscript.info/p/2020/08/how-…",
+						"indices": [
+							165,
+							188
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 322526439,
+				"id_str": "322526439",
+				"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+				"screen_name": "AppsScriptInfo",
+				"location": "World",
+				"description": "A Google Apps Script Community account to support #GSuiteDevs. Curated by @mhawksey",
+				"url": "https://t.co/pEqPAHFH4F",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pEqPAHFH4F",
+								"expanded_url": "https://pulse.appsscript.info",
+								"display_url": "pulse.appsscript.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 808,
+				"friends_count": 919,
+				"listed_count": 23,
+				"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+				"favourites_count": 516,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1842,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+				"profile_link_color": "4286F4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Whilst this video might be more for low/ #nocoder's as an Apps Script Dev I always find it useful to have a look at the code to see how it is done as more often than not there will be a technique or method I’ve not come across - Ty @TechandEco. #GSuiteDevs #GoogleAppsScript https://t.co/3AwatxPdtI"
+	},
+	{
 		"created_at": "Fri Aug 14 05:38:42 +0000 2020",
 		"id": 1294146407960641500,
 		"id_str": "1294146407960641537",
