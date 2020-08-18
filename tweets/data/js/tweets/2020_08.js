@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 17 21:00:46 +0000 2020",
+		"id": 1295465617592660000,
+		"id_str": "1295465617592659973",
+		"full_text": "\"Minglr, open-source software that anyone can download and use to meet with people who indicate they’re free to chat\" #altc https://t.co/pDsQe0yFU0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						118,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pDsQe0yFU0",
+					"expanded_url": "https://www.technologyreview.com/2020/08/17/1006604/remote-workers-want-to-recreate-those-watercooler-moments-virtually/",
+					"display_url": "technologyreview.com/2020/08/17/100…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8901,
+			"friends_count": 2640,
+			"listed_count": 603,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6968,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29987,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Minglr, open-source software that anyone can download and use to meet with people who indicate they’re free to chat\" #altc https://t.co/pDsQe0yFU0"
+	},
+	{
+		"created_at": "Mon Aug 17 09:07:15 +0000 2020",
+		"id": 1295286056724693000,
+		"id_str": "1295286056724692992",
+		"full_text": "Some interesting research exploring the use of VR as an interface for Google Sheets on small display screens... #GSuite #GoogleSheets #GoogleEDU #GoogleEI https://t.co/17tC7Zertz #GSuiteDevs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSuite",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "GoogleSheets",
+					"indices": [
+						120,
+						133
+					]
+				},
+				{
+					"text": "GoogleEDU",
+					"indices": [
+						134,
+						144
+					]
+				},
+				{
+					"text": "GoogleEI",
+					"indices": [
+						145,
+						154
+					]
+				},
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						179,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/17tC7Zertz",
+					"expanded_url": "https://pulse.appsscript.info/p/2020/08/pen-based-interaction-with-google-sheets-in-mobile-virtual-reality/",
+					"display_url": "pulse.appsscript.info/p/2020/08/pen-…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8901,
+			"friends_count": 2640,
+			"listed_count": 603,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6968,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29987,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some interesting research exploring the use of VR as an interface for Google Sheets on small display screens... #GSuite #GoogleSheets #GoogleEDU #GoogleEI https://t.co/17tC7Zertz #GSuiteDevs"
+	},
+	{
 		"created_at": "Sun Aug 16 22:06:53 +0000 2020",
 		"id": 1295119868744937500,
 		"id_str": "1295119868744937472",
