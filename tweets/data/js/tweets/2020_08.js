@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 20 17:10:18 +0000 2020",
+		"id": 1296475338965426200,
+		"id_str": "1296494783435767813",
+		"full_text": "Google Maps Formulas for Google Sheets – Digital Inspiration by @labnol (contributed by @mhawksey) #GSuiteDevs #GoogleAppsScript https://t.co/p2jX4hZPoO https://t.co/zfs3RZHRYz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						99,
+						110
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						111,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "labnol",
+					"name": "Amit Agarwal",
+					"id": 724473,
+					"id_str": "724473",
+					"indices": [
+						64,
+						71
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey #altc",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						88,
+						97
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/p2jX4hZPoO",
+					"expanded_url": "https://pulse.appsscript.info/p/2020/08/google-maps-formulas-for-google-sheets-digital-inspiration/",
+					"display_url": "pulse.appsscript.info/p/2020/08/goog…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1296475335047778300,
+					"id_str": "1296475335047778304",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ef4Bcr2UEAA1MuT.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ef4Bcr2UEAA1MuT.jpg",
+					"url": "https://t.co/zfs3RZHRYz",
+					"display_url": "pic.twitter.com/zfs3RZHRYz",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1296475338965426178/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1296475335047778300,
+					"id_str": "1296475335047778304",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ef4Bcr2UEAA1MuT.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ef4Bcr2UEAA1MuT.jpg",
+					"url": "https://t.co/zfs3RZHRYz",
+					"display_url": "pic.twitter.com/zfs3RZHRYz",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1296475338965426178/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Ef4Bcr2UEAA1MuT.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322526439,
+			"id_str": "322526439",
+			"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+			"screen_name": "AppsScriptInfo",
+			"location": "World",
+			"description": "A Google Apps Script Community account to support #GSuiteDevs. Curated by @mhawksey",
+			"url": "https://t.co/pEqPAHFH4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEqPAHFH4F",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 822,
+			"friends_count": 925,
+			"listed_count": 23,
+			"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+			"favourites_count": 521,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+			"profile_link_color": "4286F4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Google Maps Formulas for Google Sheets – Digital Inspiration by @labnol (contributed by @mhawksey) #GSuiteDevs #GoogleAppsScript https://t.co/p2jX4hZPoO https://t.co/zfs3RZHRYz"
+	},
+	{
 		"created_at": "Wed Aug 19 19:22:29 +0000 2020",
 		"id": 1296165661228621800,
 		"id_str": "1296165661228621824",
