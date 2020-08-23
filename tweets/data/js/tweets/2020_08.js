@@ -1,6 +1,646 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 22 20:24:02 +0000 2020",
+		"id": 1297268313257582600,
+		"id_str": "1297268313257582595",
+		"full_text": "@ammienoot @Bali_Maha @johannafunk1 @SarahLambertOz @gamerlearner @cherybrown @Czernie @TaskeenAdam @leohavemann @jatenas @jar @timbocop @MiaZamoraPhD @sukainaw @vivforssman @sbayne It's really interesting to revisit words I wrote long ago from \"Tapping the rhizomes of open learning with FeedWordPress, (your personal analytical de-cloaking device)\" which inc h/t to @jimgroom \"credit goes to University of Edinburgh’s ,#EDCMOOC for breaking this norm\"",
+		"truncated": false,
+		"display_text_range": [
+			182,
+			453
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EDCMOOC",
+					"indices": [
+						421,
+						429
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ammienoot",
+					"name": "Anne-Marie Scott",
+					"id": 22673907,
+					"id_str": "22673907",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Bali_Maha",
+					"name": "ℳąhą Bąℓi, PhD مها بالي 🌵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "johannafunk1",
+					"name": "Dr Johanna Funk",
+					"id": 1363543626,
+					"id_str": "1363543626",
+					"indices": [
+						22,
+						35
+					]
+				},
+				{
+					"screen_name": "SarahLambertOz",
+					"name": "Dr. Sarah R Lambert",
+					"id": 827373219296391200,
+					"id_str": "827373219296391168",
+					"indices": [
+						36,
+						51
+					]
+				},
+				{
+					"screen_name": "gamerlearner",
+					"name": "Colin Simpson",
+					"id": 239649193,
+					"id_str": "239649193",
+					"indices": [
+						52,
+						65
+					]
+				},
+				{
+					"screen_name": "cherybrown",
+					"name": "Cheryl Brown",
+					"id": 54487942,
+					"id_str": "54487942",
+					"indices": [
+						66,
+						77
+					]
+				},
+				{
+					"screen_name": "Czernie",
+					"name": "Laura Czerniewicz",
+					"id": 55540675,
+					"id_str": "55540675",
+					"indices": [
+						78,
+						86
+					]
+				},
+				{
+					"screen_name": "TaskeenAdam",
+					"name": "Taskeen Adam",
+					"id": 61805358,
+					"id_str": "61805358",
+					"indices": [
+						87,
+						99
+					]
+				},
+				{
+					"screen_name": "leohavemann",
+					"name": "Leo Havemann",
+					"id": 14788950,
+					"id_str": "14788950",
+					"indices": [
+						100,
+						112
+					]
+				},
+				{
+					"screen_name": "jatenas",
+					"name": "Javiera Atenas",
+					"id": 88178223,
+					"id_str": "88178223",
+					"indices": [
+						113,
+						121
+					]
+				},
+				{
+					"screen_name": "jar",
+					"name": "Jen Ross",
+					"id": 1350231,
+					"id_str": "1350231",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"screen_name": "timbocop",
+					"name": "Tim Fawns",
+					"id": 12120062,
+					"id_str": "12120062",
+					"indices": [
+						127,
+						136
+					]
+				},
+				{
+					"screen_name": "MiaZamoraPhD",
+					"name": "Mia Zamora",
+					"id": 579873574,
+					"id_str": "579873574",
+					"indices": [
+						137,
+						150
+					]
+				},
+				{
+					"screen_name": "sukainaw",
+					"name": "Sukaina Walji",
+					"id": 139627261,
+					"id_str": "139627261",
+					"indices": [
+						151,
+						160
+					]
+				},
+				{
+					"screen_name": "vivforssman",
+					"name": "Vivian Forssman",
+					"id": 257351755,
+					"id_str": "257351755",
+					"indices": [
+						161,
+						173
+					]
+				},
+				{
+					"screen_name": "sbayne",
+					"name": "Sian Bayne",
+					"id": 1504951,
+					"id_str": "1504951",
+					"indices": [
+						174,
+						181
+					]
+				},
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						368,
+						377
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1297177629699657700,
+		"in_reply_to_status_id_str": "1297177629699657728",
+		"in_reply_to_user_id": 22673907,
+		"in_reply_to_user_id_str": "22673907",
+		"in_reply_to_screen_name": "ammienoot",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8900,
+			"friends_count": 2639,
+			"listed_count": 600,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6977,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ammienoot @Bali_Maha @johannafunk1 @SarahLambertOz @gamerlearner @cherybrown @Czernie @TaskeenAdam @leohavemann @jatenas @jar @timbocop @MiaZamoraPhD @sukainaw @vivforssman @sbayne It's really interesting to revisit words I wrote long ago from \"Tapping the rhizomes of open learning with FeedWordPress, (your personal analytical de-cloaking device)\" which inc h/t to @jimgroom \"credit goes to University of Edinburgh’s ,#EDCMOOC for breaking this norm\""
+	},
+	{
+		"created_at": "Sat Aug 22 13:38:49 +0000 2020",
+		"id": 1297166338486657000,
+		"id_str": "1297166338486657033",
+		"full_text": "@MarenDeepwell @SFaulknerPandO @Chri5rowell @A_L_T @alexgspiers @davidwebster The 'school run' might get in the way for me ;)",
+		"truncated": false,
+		"display_text_range": [
+			78,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "SFaulknerPandO",
+					"name": "Suzanne Faulkner 👻📱🛴",
+					"id": 859771153321259000,
+					"id_str": "859771153321259009",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"screen_name": "Chri5rowell",
+					"name": "Chris Rowell🌴",
+					"id": 182762965,
+					"id_str": "182762965",
+					"indices": [
+						31,
+						43
+					]
+				},
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						44,
+						50
+					]
+				},
+				{
+					"screen_name": "alexgspiers",
+					"name": "Alex Spiers #HE",
+					"id": 1056578767,
+					"id_str": "1056578767",
+					"indices": [
+						51,
+						63
+					]
+				},
+				{
+					"screen_name": "davidwebster",
+					"name": "davidwebster",
+					"id": 15734898,
+					"id_str": "15734898",
+					"indices": [
+						64,
+						77
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1297141774184583200,
+		"in_reply_to_status_id_str": "1297141774184583168",
+		"in_reply_to_user_id": 323173367,
+		"in_reply_to_user_id_str": "323173367",
+		"in_reply_to_screen_name": "MarenDeepwell",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8900,
+			"friends_count": 2639,
+			"listed_count": 600,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6977,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MarenDeepwell @SFaulknerPandO @Chri5rowell @A_L_T @alexgspiers @davidwebster The 'school run' might get in the way for me ;)"
+	},
+	{
+		"created_at": "Sat Aug 22 13:36:27 +0000 2020",
+		"id": 1297079043632881700,
+		"id_str": "1297165741100236800",
+		"full_text": "Blogged... Virtual hugs and no conference chicken - preparing for @A_L_T’s first virtual Summit #altc #altcSummit https://t.co/HVzIBAv57Y https://t.co/Wzh8QLoe0m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "altcSummit",
+					"indices": [
+						102,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						66,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HVzIBAv57Y",
+					"expanded_url": "https://marendeepwell.com/?p=2753",
+					"display_url": "marendeepwell.com/?p=2753",
+					"indices": [
+						114,
+						137
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1297079039337943000,
+					"id_str": "1297079039337943041",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EgAmg5lX0AE3sa-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgAmg5lX0AE3sa-.jpg",
+					"url": "https://t.co/Wzh8QLoe0m",
+					"display_url": "pic.twitter.com/Wzh8QLoe0m",
+					"expanded_url": "https://twitter.com/MarenDeepwell/status/1297079043632881664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 828,
+							"h": 927,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 607,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 927,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1297079039337943000,
+					"id_str": "1297079039337943041",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EgAmg5lX0AE3sa-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgAmg5lX0AE3sa-.jpg",
+					"url": "https://t.co/Wzh8QLoe0m",
+					"display_url": "pic.twitter.com/Wzh8QLoe0m",
+					"expanded_url": "https://twitter.com/MarenDeepwell/status/1297079043632881664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 828,
+							"h": 927,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 607,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 927,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 323173367,
+			"id_str": "323173367",
+			"name": "Dr Maren Deepwell",
+			"screen_name": "MarenDeepwell",
+			"location": "Cardiff, Wales",
+			"description": "Charity CEO @A_L_T in EdTech. Ethical, open leadership. Leading virtual teams. Feminist. She/her",
+			"url": "https://t.co/kMXdMTr9bt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kMXdMTr9bt",
+							"expanded_url": "http://marendeepwell.com",
+							"display_url": "marendeepwell.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4398,
+			"friends_count": 1907,
+			"listed_count": 196,
+			"created_at": "Fri Jun 24 11:30:35 +0000 2011",
+			"favourites_count": 23132,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12135,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1287098546831990786/_JVI5ja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1287098546831990786/_JVI5ja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/323173367/1597500245",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Blogged... Virtual hugs and no conference chicken - preparing for @A_L_T’s first virtual Summit #altc #altcSummit https://t.co/HVzIBAv57Y https://t.co/Wzh8QLoe0m"
+	},
+	{
 		"created_at": "Fri Aug 21 18:38:36 +0000 2020",
 		"id": 1296850763923292200,
 		"id_str": "1296879393634164737",
