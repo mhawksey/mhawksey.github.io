@@ -1,6 +1,1129 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 24 19:27:12 +0000 2020",
+		"id": 1297978787926335500,
+		"id_str": "1297978787926335488",
+		"full_text": "@LTHEchat A3: With a 12yo back at school in Scotland I would say for LT normal service has resumed but social bridges via WhatApps have been established and aint going away. #LTHEchat #altc #altcSummit",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						174,
+						183
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						184,
+						189
+					]
+				},
+				{
+					"text": "altcSummit",
+					"indices": [
+						190,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1297977106693988400,
+		"in_reply_to_status_id_str": "1297977106693988353",
+		"in_reply_to_user_id": 2659221798,
+		"in_reply_to_user_id_str": "2659221798",
+		"in_reply_to_screen_name": "LTHEchat",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8900,
+			"friends_count": 2638,
+			"listed_count": 601,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6983,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30011,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LTHEchat A3: With a 12yo back at school in Scotland I would say for LT normal service has resumed but social bridges via WhatApps have been established and aint going away. #LTHEchat #altc #altcSummit"
+	},
+	{
+		"created_at": "Mon Aug 24 19:23:37 +0000 2020",
+		"id": 1297977884645228500,
+		"id_str": "1297977884645228544",
+		"full_text": "...they now look forward to Zoom outages https://t.co/YROz1NJWjU ;)\n\n#LTHEchat #altc #altcSummit https://t.co/dWjLdDShyC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						69,
+						78
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "altcSummit",
+					"indices": [
+						85,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YROz1NJWjU",
+					"expanded_url": "https://www.nytimes.com/2020/08/24/business/zoom-down.html",
+					"display_url": "nytimes.com/2020/08/24/bus…",
+					"indices": [
+						41,
+						64
+					]
+				},
+				{
+					"url": "https://t.co/dWjLdDShyC",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1297977106693988353",
+					"display_url": "twitter.com/LTHEchat/statu…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8900,
+			"friends_count": 2638,
+			"listed_count": 601,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6983,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30011,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1297977106693988400,
+		"quoted_status_id_str": "1297977106693988353",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dWjLdDShyC",
+			"expanded": "https://twitter.com/LTHEchat/status/1297977106693988353",
+			"display": "twitter.com/LTHEchat/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 24 19:20:32 +0000 2020",
+			"id": 1297977106693988400,
+			"id_str": "1297977106693988353",
+			"full_text": "Q3 How do you think students’ attitudes towards Learning Technology are changing? #LTHEchat #altc #altcSummit",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				109
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LTHEchat",
+						"indices": [
+							82,
+							91
+						]
+					},
+					{
+						"text": "altc",
+						"indices": [
+							92,
+							97
+						]
+					},
+					{
+						"text": "altcSummit",
+						"indices": [
+							98,
+							109
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2659221798,
+				"id_str": "2659221798",
+				"name": "LTHE Tweetchat",
+				"screen_name": "LTHEchat",
+				"location": "",
+				"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+				"url": "https://t.co/IprE39BVnA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IprE39BVnA",
+								"expanded_url": "http://lthechat.com",
+								"display_url": "lthechat.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7641,
+				"friends_count": 3323,
+				"listed_count": 157,
+				"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+				"favourites_count": 3606,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8808,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+				"profile_link_color": "7ECAE6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "...they now look forward to Zoom outages https://t.co/YROz1NJWjU ;)\n\n#LTHEchat #altc #altcSummit https://t.co/dWjLdDShyC"
+	},
+	{
+		"created_at": "Mon Aug 24 19:20:46 +0000 2020",
+		"id": 1297977165288530000,
+		"id_str": "1297977165288529921",
+		"full_text": "@dsottimano ... if not seen I think you will like this one... \n\n#SEO https://t.co/wQfZn8u4QU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SEO",
+					"indices": [
+						64,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dsottimano",
+					"name": "Dave Sottimano",
+					"id": 147616003,
+					"id_str": "147616003",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wQfZn8u4QU",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1297976482023669760",
+					"display_url": "twitter.com/AppsScriptInfo…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 147616003,
+		"in_reply_to_user_id_str": "147616003",
+		"in_reply_to_screen_name": "dsottimano",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8900,
+			"friends_count": 2638,
+			"listed_count": 601,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6983,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30011,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1297976482023669800,
+		"quoted_status_id_str": "1297976482023669760",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wQfZn8u4QU",
+			"expanded": "https://twitter.com/AppsScriptInfo/status/1297976482023669760",
+			"display": "twitter.com/AppsScriptInfo…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 24 19:18:03 +0000 2020",
+			"id": 1297976482023669800,
+			"id_str": "1297976482023669760",
+			"full_text": "Measure Core Web Vitals of your Websites with Google Sheets – Digital Inspiration by @labnol (contributed by @mhawksey) #GSuiteDevs #GoogleAppsScript https://t.co/dKfPD1gnyr https://t.co/pbJqPbYhu9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				173
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GSuiteDevs",
+						"indices": [
+							120,
+							131
+						]
+					},
+					{
+						"text": "GoogleAppsScript",
+						"indices": [
+							132,
+							149
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "labnol",
+						"name": "Amit Agarwal",
+						"id": 724473,
+						"id_str": "724473",
+						"indices": [
+							85,
+							92
+						]
+					},
+					{
+						"screen_name": "mhawksey",
+						"name": "Martin Hawksey #altc",
+						"id": 13046992,
+						"id_str": "13046992",
+						"indices": [
+							109,
+							118
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/dKfPD1gnyr",
+						"expanded_url": "https://pulse.appsscript.info/p/2020/08/measure-core-web-vitals-of-your-websites-with-google-sheets-digital-inspiration/",
+						"display_url": "pulse.appsscript.info/p/2020/08/meas…",
+						"indices": [
+							150,
+							173
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1297976480475963400,
+						"id_str": "1297976480475963392",
+						"indices": [
+							174,
+							197
+						],
+						"media_url": "http://pbs.twimg.com/media/EgNWu2WU4AAGR3W.png",
+						"media_url_https": "https://pbs.twimg.com/media/EgNWu2WU4AAGR3W.png",
+						"url": "https://t.co/pbJqPbYhu9",
+						"display_url": "pic.twitter.com/pbJqPbYhu9",
+						"expanded_url": "https://twitter.com/AppsScriptInfo/status/1297976482023669760/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 720,
+								"h": 494,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 467,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 494,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1297976480475963400,
+						"id_str": "1297976480475963392",
+						"indices": [
+							174,
+							197
+						],
+						"media_url": "http://pbs.twimg.com/media/EgNWu2WU4AAGR3W.png",
+						"media_url_https": "https://pbs.twimg.com/media/EgNWu2WU4AAGR3W.png",
+						"url": "https://t.co/pbJqPbYhu9",
+						"display_url": "pic.twitter.com/pbJqPbYhu9",
+						"expanded_url": "https://twitter.com/AppsScriptInfo/status/1297976482023669760/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 720,
+								"h": 494,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 467,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 494,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 322526439,
+				"id_str": "322526439",
+				"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+				"screen_name": "AppsScriptInfo",
+				"location": "World",
+				"description": "A Google Apps Script Community account to support #GSuiteDevs. Curated by @mhawksey",
+				"url": "https://t.co/pEqPAHFH4F",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pEqPAHFH4F",
+								"expanded_url": "https://pulse.appsscript.info",
+								"display_url": "pulse.appsscript.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 842,
+				"friends_count": 925,
+				"listed_count": 23,
+				"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+				"favourites_count": 525,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1859,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+				"profile_link_color": "4286F4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 40,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@dsottimano ... if not seen I think you will like this one... \n\n#SEO https://t.co/wQfZn8u4QU"
+	},
+	{
+		"created_at": "Mon Aug 24 19:15:38 +0000 2020",
+		"id": 1297975874227187700,
+		"id_str": "1297975874227187724",
+		"full_text": "@LTHEchat A2 perhaps not LT specifically but with knowledge comes responsibility #LTHEchat #altc #altcSummit",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						81,
+						90
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "altcSummit",
+					"indices": [
+						97,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1297974529764073500,
+		"in_reply_to_status_id_str": "1297974529764073478",
+		"in_reply_to_user_id": 2659221798,
+		"in_reply_to_user_id_str": "2659221798",
+		"in_reply_to_screen_name": "LTHEchat",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8900,
+			"friends_count": 2638,
+			"listed_count": 601,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6983,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30011,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LTHEchat A2 perhaps not LT specifically but with knowledge comes responsibility #LTHEchat #altc #altcSummit"
+	},
+	{
+		"created_at": "Mon Aug 24 19:10:38 +0000 2020",
+		"id": 1297974617148133400,
+		"id_str": "1297974617148133382",
+		"full_text": "@RacePhil lots of music here as well ... and noise cancelling headphones (the home office has never been so busy ;) #LTHEchat #altc #altcSummit",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						116,
+						125
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "altcSummit",
+					"indices": [
+						132,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RacePhil",
+					"name": "Phil Race",
+					"id": 1350065268,
+					"id_str": "1350065268",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1297973951889576000,
+		"in_reply_to_status_id_str": "1297973951889575937",
+		"in_reply_to_user_id": 1350065268,
+		"in_reply_to_user_id_str": "1350065268",
+		"in_reply_to_screen_name": "RacePhil",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8900,
+			"friends_count": 2638,
+			"listed_count": 601,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6983,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30011,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RacePhil lots of music here as well ... and noise cancelling headphones (the home office has never been so busy ;) #LTHEchat #altc #altcSummit"
+	},
+	{
+		"created_at": "Mon Aug 24 19:07:10 +0000 2020",
+		"id": 1297973745173188600,
+		"id_str": "1297973745173188608",
+		"full_text": "@LTHEchat A1: Been a TOUGH ol' time but at the same time INSPIRATIONAL seeing colleagues share their expertise and CARE #LTHEchat #altc #altcSummit",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						120,
+						129
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "altcSummit",
+					"indices": [
+						136,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1297972056739532800,
+		"in_reply_to_status_id_str": "1297972056739532801",
+		"in_reply_to_user_id": 2659221798,
+		"in_reply_to_user_id_str": "2659221798",
+		"in_reply_to_screen_name": "LTHEchat",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8900,
+			"friends_count": 2638,
+			"listed_count": 601,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6983,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30011,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LTHEchat A1: Been a TOUGH ol' time but at the same time INSPIRATIONAL seeing colleagues share their expertise and CARE #LTHEchat #altc #altcSummit"
+	},
+	{
 		"created_at": "Sat Aug 22 20:24:02 +0000 2020",
 		"id": 1297268313257582600,
 		"id_str": "1297268313257582595",
