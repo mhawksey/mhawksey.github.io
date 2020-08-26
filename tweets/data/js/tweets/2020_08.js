@@ -1,6 +1,1283 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Tue Aug 25 21:43:25 +0000 2020",
+		"id": 1298375453611307000,
+		"id_str": "1298375453611307010",
+		"full_text": "@pmaher not come across that error before - my guess is a blank column or the header row not in row 1. If you are able to share a screen shot of your sheet I might be able to spot something",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pmaher",
+					"name": "Paul Maher",
+					"id": 14426343,
+					"id_str": "14426343",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1298291730396196900,
+		"in_reply_to_status_id_str": "1298291730396196864",
+		"in_reply_to_user_id": 14426343,
+		"in_reply_to_user_id_str": "14426343",
+		"in_reply_to_screen_name": "pmaher",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8900,
+			"friends_count": 2640,
+			"listed_count": 601,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6990,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30018,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@pmaher not come across that error before - my guess is a blank column or the header row not in row 1. If you are able to share a screen shot of your sheet I might be able to spot something"
+	},
+	{
+		"created_at": "Tue Aug 25 18:44:23 +0000 2020",
+		"id": 1298330400197156900,
+		"id_str": "1298330400197156867",
+		"full_text": "Loving @PhilippaMcDona3 #altc together on @thursnight radio  ... and the streams cross into #ds106radio https://t.co/RRD3YQIvTb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						24,
+						29
+					]
+				},
+				{
+					"text": "ds106radio",
+					"indices": [
+						92,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PhilippaMcDona3",
+					"name": "Pip ™",
+					"id": 1088021307365695500,
+					"id_str": "1088021307365695488",
+					"indices": [
+						7,
+						23
+					]
+				},
+				{
+					"screen_name": "thursnight",
+					"name": "Thursday Night Show",
+					"id": 762522066,
+					"id_str": "762522066",
+					"indices": [
+						42,
+						53
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RRD3YQIvTb",
+					"expanded_url": "https://twitter.com/PhilippaMcDona3/status/1298323122974859267",
+					"display_url": "twitter.com/PhilippaMcDona…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8900,
+			"friends_count": 2640,
+			"listed_count": 601,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6990,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30018,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1298323122974859300,
+		"quoted_status_id_str": "1298323122974859267",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RRD3YQIvTb",
+			"expanded": "https://twitter.com/PhilippaMcDona3/status/1298323122974859267",
+			"display": "twitter.com/PhilippaMcDona…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 25 18:15:28 +0000 2020",
+			"id": 1298323122974859300,
+			"id_str": "1298323122974859267",
+			"full_text": "Live on @thursnight 19:30-20:00 for #ALTC @A_L_T Playing your #Quarantunes Thoroughly enjoyed the set from @ammienoot https://t.co/swELzFOIaP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				117
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ALTC",
+						"indices": [
+							36,
+							41
+						]
+					},
+					{
+						"text": "Quarantunes",
+						"indices": [
+							62,
+							74
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "thursnight",
+						"name": "Thursday Night Show",
+						"id": 762522066,
+						"id_str": "762522066",
+						"indices": [
+							8,
+							19
+						]
+					},
+					{
+						"screen_name": "A_L_T",
+						"name": "ALT - alt.ac.uk",
+						"id": 41210876,
+						"id_str": "41210876",
+						"indices": [
+							42,
+							48
+						]
+					},
+					{
+						"screen_name": "ammienoot",
+						"name": "Anne-Marie Scott",
+						"id": 22673907,
+						"id_str": "22673907",
+						"indices": [
+							107,
+							117
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1298323115664117800,
+						"id_str": "1298323115664117763",
+						"indices": [
+							118,
+							141
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EgSR_rDWkAMEv6g.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EgSR_rDWkAMEv6g.jpg",
+						"url": "https://t.co/swELzFOIaP",
+						"display_url": "pic.twitter.com/swELzFOIaP",
+						"expanded_url": "https://twitter.com/PhilippaMcDona3/status/1298323122974859267/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 498,
+								"h": 242,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 498,
+								"h": 242,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 498,
+								"h": 242,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1298323115664117800,
+						"id_str": "1298323115664117763",
+						"indices": [
+							118,
+							141
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EgSR_rDWkAMEv6g.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EgSR_rDWkAMEv6g.jpg",
+						"url": "https://t.co/swELzFOIaP",
+						"display_url": "pic.twitter.com/swELzFOIaP",
+						"expanded_url": "https://twitter.com/PhilippaMcDona3/status/1298323122974859267/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 498,
+								"h": 242,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 498,
+								"h": 242,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 498,
+								"h": 242,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								249,
+								121
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EgSR_rDWkAMEv6g.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1088021307365695500,
+				"id_str": "1088021307365695488",
+				"name": "Pip ™",
+				"screen_name": "PhilippaMcDona3",
+				"location": "London",
+				"description": "Learning Technologist @RoyalAgUni. Creator TEL Tale audio drama, Pipcast Podcast Pivot FM Pop Up Radio Station #MIEExpert 19/20 20/21 @Apple Teacher ( ͡° ͜ʖ ͡°)",
+				"url": "https://t.co/xk1D3y9wdO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xk1D3y9wdO",
+								"expanded_url": "https://apple.co/34yUsT1",
+								"display_url": "apple.co/34yUsT1",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 294,
+				"friends_count": 679,
+				"listed_count": 9,
+				"created_at": "Wed Jan 23 10:31:08 +0000 2019",
+				"favourites_count": 3399,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 517,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1276961606572953603/RAP4BYMR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276961606572953603/RAP4BYMR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1088021307365695488/1594722169",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Loving @PhilippaMcDona3 #altc together on @thursnight radio  ... and the streams cross into #ds106radio https://t.co/RRD3YQIvTb"
+	},
+	{
+		"created_at": "Tue Aug 25 18:13:32 +0000 2020",
+		"id": 1298322635114389500,
+		"id_str": "1298322635114389505",
+		"full_text": "@scottfarrow88 not missing having to share my suitcase with kit, cables and clothes. Nice to see folks I would have seen at conf. pop up in my steam",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "scottfarrow88",
+					"name": "Scott Farrow",
+					"id": 222578817,
+					"id_str": "222578817",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1298253578289569800,
+		"in_reply_to_status_id_str": "1298253578289569796",
+		"in_reply_to_user_id": 222578817,
+		"in_reply_to_user_id_str": "222578817",
+		"in_reply_to_screen_name": "scottfarrow88",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8900,
+			"friends_count": 2640,
+			"listed_count": 601,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6990,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30018,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@scottfarrow88 not missing having to share my suitcase with kit, cables and clothes. Nice to see folks I would have seen at conf. pop up in my steam"
+	},
+	{
+		"created_at": "Tue Aug 25 18:10:30 +0000 2020",
+		"id": 1298321873399361500,
+		"id_str": "1298321873399361537",
+		"full_text": "@ammienoot is dropping the tunes hard ! Thank you @thursnight for hosting #altc #altcSummit https://t.co/nWMnWu59ML https://t.co/TYYp14glFE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "altcSummit",
+					"indices": [
+						80,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ammienoot",
+					"name": "Anne-Marie Scott",
+					"id": 22673907,
+					"id_str": "22673907",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "thursnight",
+					"name": "Thursday Night Show",
+					"id": 762522066,
+					"id_str": "762522066",
+					"indices": [
+						50,
+						61
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nWMnWu59ML",
+					"expanded_url": "https://www.thethursdaynightshow.com/",
+					"display_url": "thethursdaynightshow.com",
+					"indices": [
+						92,
+						115
+					]
+				},
+				{
+					"url": "https://t.co/TYYp14glFE",
+					"expanded_url": "https://twitter.com/ammienoot/status/1298320433897406464",
+					"display_url": "twitter.com/ammienoot/stat…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 22673907,
+		"in_reply_to_user_id_str": "22673907",
+		"in_reply_to_screen_name": "ammienoot",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8900,
+			"friends_count": 2640,
+			"listed_count": 601,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6990,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30018,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1298320433897406500,
+		"quoted_status_id_str": "1298320433897406464",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TYYp14glFE",
+			"expanded": "https://twitter.com/ammienoot/status/1298320433897406464",
+			"display": "twitter.com/ammienoot/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 25 18:04:47 +0000 2020",
+			"id": 1298320433897406500,
+			"id_str": "1298320433897406464",
+			"full_text": "Spending 30 minutes of my lunchbreak here in Canada hanging out with my #ALTC friends on the radio. Thanks to @dompates and TTNS for allowing me to indulge myself in some 90s big beats. I'm not sorry at all... https://t.co/pH6wK6cf3P",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				209
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ALTC",
+						"indices": [
+							72,
+							77
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dompates",
+						"name": "Dom Pates",
+						"id": 17968281,
+						"id_str": "17968281",
+						"indices": [
+							110,
+							119
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1298320422233047000,
+						"id_str": "1298320422233047042",
+						"indices": [
+							210,
+							233
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EgSPi5PWAAIKltT.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EgSPi5PWAAIKltT.jpg",
+						"url": "https://t.co/pH6wK6cf3P",
+						"display_url": "pic.twitter.com/pH6wK6cf3P",
+						"expanded_url": "https://twitter.com/ammienoot/status/1298320433897406464/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 300,
+								"h": 224,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 300,
+								"h": 224,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 300,
+								"h": 224,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1298320422233047000,
+						"id_str": "1298320422233047042",
+						"indices": [
+							210,
+							233
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EgSPi5PWAAIKltT.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EgSPi5PWAAIKltT.jpg",
+						"url": "https://t.co/pH6wK6cf3P",
+						"display_url": "pic.twitter.com/pH6wK6cf3P",
+						"expanded_url": "https://twitter.com/ammienoot/status/1298320433897406464/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 300,
+								"h": 224,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 300,
+								"h": 224,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 300,
+								"h": 224,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								75,
+								56
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EgSPi5PWAAIKltT.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22673907,
+				"id_str": "22673907",
+				"name": "Anne-Marie Scott",
+				"screen_name": "ammienoot",
+				"location": "This place called Canada",
+				"description": "Edtech lady leader. Deputy Provost @Athabascau | Formerly @EdinburghUni | @Apereo Board Chair | #femedtech Art, books, rural life, piffle. Views mine. she/her",
+				"url": "https://t.co/QNuHpiivHG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QNuHpiivHG",
+								"expanded_url": "http://ammienoot.com",
+								"display_url": "ammienoot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3047,
+				"friends_count": 3710,
+				"listed_count": 140,
+				"created_at": "Tue Mar 03 20:30:51 +0000 2009",
+				"favourites_count": 25392,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 21770,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1155504356277571585/X4U4iZiA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1155504356277571585/X4U4iZiA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22673907/1493487259",
+				"profile_link_color": "8F9E70",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ammienoot is dropping the tunes hard ! Thank you @thursnight for hosting #altc #altcSummit https://t.co/nWMnWu59ML https://t.co/TYYp14glFE"
+	},
+	{
+		"created_at": "Tue Aug 25 14:09:24 +0000 2020",
+		"id": 1298261198735958000,
+		"id_str": "1298261198735958018",
+		"full_text": "@bennettscience just a little camcorder for HDMI input",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bennettscience",
+					"name": "Brian E. Bennett",
+					"id": 270307546,
+					"id_str": "270307546",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1298250074871472000,
+		"in_reply_to_status_id_str": "1298250074871472129",
+		"in_reply_to_user_id": 270307546,
+		"in_reply_to_user_id_str": "270307546",
+		"in_reply_to_screen_name": "bennettscience",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8900,
+			"friends_count": 2640,
+			"listed_count": 601,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6990,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30018,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bennettscience just a little camcorder for HDMI input"
+	},
+	{
+		"created_at": "Tue Aug 25 14:07:59 +0000 2020",
+		"id": 1298260839326027800,
+		"id_str": "1298260839326027777",
+		"full_text": "@jamesclay @hopkinsdavid @SFaulknerPandO @sheilmcn 8 of you include the 'green screen'  ;) https://t.co/L3pQN6DpLx",
+		"truncated": false,
+		"display_text_range": [
+			51,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jamesclay",
+					"name": "James Clay",
+					"id": 2272841,
+					"id_str": "2272841",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "hopkinsdavid",
+					"name": "David Hopkins",
+					"id": 19582633,
+					"id_str": "19582633",
+					"indices": [
+						11,
+						24
+					]
+				},
+				{
+					"screen_name": "SFaulknerPandO",
+					"name": "Suzanne Faulkner 👻📱🛴",
+					"id": 859771153321259000,
+					"id_str": "859771153321259009",
+					"indices": [
+						25,
+						40
+					]
+				},
+				{
+					"screen_name": "sheilmcn",
+					"name": "Sheila MacNeill",
+					"id": 4013641,
+					"id_str": "4013641",
+					"indices": [
+						41,
+						50
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1298260835677003800,
+					"id_str": "1298260835677003783",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EgRZWgBUYAcWRD8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgRZWgBUYAcWRD8.jpg",
+					"url": "https://t.co/L3pQN6DpLx",
+					"display_url": "pic.twitter.com/L3pQN6DpLx",
+					"expanded_url": "https://twitter.com/mhawksey/status/1298260839326027777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1298260835677003800,
+					"id_str": "1298260835677003783",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EgRZWgBUYAcWRD8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgRZWgBUYAcWRD8.jpg",
+					"url": "https://t.co/L3pQN6DpLx",
+					"display_url": "pic.twitter.com/L3pQN6DpLx",
+					"expanded_url": "https://twitter.com/mhawksey/status/1298260839326027777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1298251605993820200,
+		"in_reply_to_status_id_str": "1298251605993820160",
+		"in_reply_to_user_id": 2272841,
+		"in_reply_to_user_id_str": "2272841",
+		"in_reply_to_screen_name": "jamesclay",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8900,
+			"friends_count": 2640,
+			"listed_count": 601,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 6990,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30018,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@jamesclay @hopkinsdavid @SFaulknerPandO @sheilmcn 8 of you include the 'green screen'  ;) https://t.co/L3pQN6DpLx"
+	},
+	{
 		"created_at": "Mon Aug 24 19:27:12 +0000 2020",
 		"id": 1297978787926335500,
 		"id_str": "1297978787926335488",
