@@ -1,6 +1,1665 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 27 16:57:21 +0000 2020",
+		"id": 1299028240066138000,
+		"id_str": "1299028240066138112",
+		"full_text": "@jimgroom @CosmoCat more than happy to be an enabler :)",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "CosmoCat",
+					"name": "Chahira Nouira",
+					"id": 20323362,
+					"id_str": "20323362",
+					"indices": [
+						10,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1299014262870990800,
+		"in_reply_to_status_id_str": "1299014262870990848",
+		"in_reply_to_user_id": 3362981,
+		"in_reply_to_user_id_str": "3362981",
+		"in_reply_to_screen_name": "jimgroom",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8908,
+			"friends_count": 2640,
+			"listed_count": 601,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7009,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jimgroom @CosmoCat more than happy to be an enabler :)"
+	},
+	{
+		"created_at": "Thu Aug 27 16:53:52 +0000 2020",
+		"id": 1299027363498426400,
+		"id_str": "1299027363498426368",
+		"full_text": "I got some #altc #altcSummit mail - thanks @sheilmcn 😊 https://t.co/4lP1WPaXCP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "altcSummit",
+					"indices": [
+						17,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sheilmcn",
+					"name": "Sheila MacNeill",
+					"id": 4013641,
+					"id_str": "4013641",
+					"indices": [
+						43,
+						52
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1299027360029839400,
+					"id_str": "1299027360029839360",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/EgcSgFwXkAA4Xld.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgcSgFwXkAA4Xld.jpg",
+					"url": "https://t.co/4lP1WPaXCP",
+					"display_url": "pic.twitter.com/4lP1WPaXCP",
+					"expanded_url": "https://twitter.com/mhawksey/status/1299027363498426368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1299027360029839400,
+					"id_str": "1299027360029839360",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/EgcSgFwXkAA4Xld.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgcSgFwXkAA4Xld.jpg",
+					"url": "https://t.co/4lP1WPaXCP",
+					"display_url": "pic.twitter.com/4lP1WPaXCP",
+					"expanded_url": "https://twitter.com/mhawksey/status/1299027363498426368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8908,
+			"friends_count": 2640,
+			"listed_count": 601,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7009,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I got some #altc #altcSummit mail - thanks @sheilmcn 😊 https://t.co/4lP1WPaXCP"
+	},
+	{
+		"created_at": "Thu Aug 27 15:38:19 +0000 2020",
+		"id": 1299008349862854700,
+		"id_str": "1299008349862854657",
+		"full_text": "@ammienoot ...not helped I imagine by the number of those working or from the scottish sector at the summit",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ammienoot",
+					"name": "Anne-Marie Scott",
+					"id": 22673907,
+					"id_str": "22673907",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1298981843178422300,
+		"in_reply_to_status_id_str": "1298981843178422272",
+		"in_reply_to_user_id": 22673907,
+		"in_reply_to_user_id_str": "22673907",
+		"in_reply_to_screen_name": "ammienoot",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8908,
+			"friends_count": 2640,
+			"listed_count": 601,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7009,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ammienoot ...not helped I imagine by the number of those working or from the scottish sector at the summit"
+	},
+	{
+		"created_at": "Thu Aug 27 15:13:30 +0000 2020",
+		"id": 1299002105080844300,
+		"id_str": "1299002105080844288",
+		"full_text": "Personal thank you to @CosmoCat and @jimgroom for all their effort making this work - you can read about the setup on Jim's blog https://t.co/S6zXLiiyxR #altc #altcSummit https://t.co/y9UmI2EV5f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "altcSummit",
+					"indices": [
+						159,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CosmoCat",
+					"name": "Chahira Nouira",
+					"id": 20323362,
+					"id_str": "20323362",
+					"indices": [
+						22,
+						31
+					]
+				},
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						36,
+						45
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/S6zXLiiyxR",
+					"expanded_url": "https://bavatuesdays.com/tag/karaoke/",
+					"display_url": "bavatuesdays.com/tag/karaoke/",
+					"indices": [
+						129,
+						152
+					]
+				},
+				{
+					"url": "https://t.co/y9UmI2EV5f",
+					"expanded_url": "https://twitter.com/A_L_T/status/1299000023699488769",
+					"display_url": "twitter.com/A_L_T/status/1…",
+					"indices": [
+						171,
+						194
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8908,
+			"friends_count": 2640,
+			"listed_count": 601,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7009,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1299000023699488800,
+		"quoted_status_id_str": "1299000023699488769",
+		"quoted_status_permalink": {
+			"url": "https://t.co/y9UmI2EV5f",
+			"expanded": "https://twitter.com/A_L_T/status/1299000023699488769",
+			"display": "twitter.com/A_L_T/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 27 15:05:14 +0000 2020",
+			"id": 1299000023699488800,
+			"id_str": "1299000023699488769",
+			"full_text": "A BIG #karaOERke thank you to the inimitable @CosmoCat and @jimgroom for hosting the return of Karaoke from @OERConf to the #altcSummit https://t.co/MhtUQYJsep",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				135
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "karaOERke",
+						"indices": [
+							6,
+							16
+						]
+					},
+					{
+						"text": "altcSummit",
+						"indices": [
+							124,
+							135
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CosmoCat",
+						"name": "Chahira Nouira",
+						"id": 20323362,
+						"id_str": "20323362",
+						"indices": [
+							45,
+							54
+						]
+					},
+					{
+						"screen_name": "jimgroom",
+						"name": "Jim Groom",
+						"id": 3362981,
+						"id_str": "3362981",
+						"indices": [
+							59,
+							68
+						]
+					},
+					{
+						"screen_name": "OERConf",
+						"name": "OER Open Education Conference #OER20",
+						"id": 2695133612,
+						"id_str": "2695133612",
+						"indices": [
+							108,
+							116
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1299000022470742000,
+						"id_str": "1299000022470742017",
+						"indices": [
+							136,
+							159
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/Egb5o1aX0AEkSCJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Egb5o1aX0AEkSCJ.jpg",
+						"url": "https://t.co/MhtUQYJsep",
+						"display_url": "pic.twitter.com/MhtUQYJsep",
+						"expanded_url": "https://twitter.com/A_L_T/status/1299000023699488769/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1068,
+								"h": 660,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 420,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1068,
+								"h": 660,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1299000022470742000,
+						"id_str": "1299000022470742017",
+						"indices": [
+							136,
+							159
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/Egb5o1aX0AEkSCJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Egb5o1aX0AEkSCJ.jpg",
+						"url": "https://t.co/MhtUQYJsep",
+						"display_url": "pic.twitter.com/MhtUQYJsep",
+						"expanded_url": "https://twitter.com/A_L_T/status/1299000023699488769/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 1068,
+								"h": 660,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 420,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1068,
+								"h": 660,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								89,
+								55
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/Egb5o1aX0AEkSCJ.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41210876,
+				"id_str": "41210876",
+				"name": "ALT - alt.ac.uk",
+				"screen_name": "A_L_T",
+				"location": "UK",
+				"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+				"url": "http://t.co/d7hBNekdUq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/d7hBNekdUq",
+								"expanded_url": "http://www.alt.ac.uk/",
+								"display_url": "alt.ac.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13405,
+				"friends_count": 3875,
+				"listed_count": 564,
+				"created_at": "Tue May 19 21:06:36 +0000 2009",
+				"favourites_count": 9089,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 22740,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1582896564",
+				"profile_link_color": "079948",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Personal thank you to @CosmoCat and @jimgroom for all their effort making this work - you can read about the setup on Jim's blog https://t.co/S6zXLiiyxR #altc #altcSummit https://t.co/y9UmI2EV5f"
+	},
+	{
+		"created_at": "Thu Aug 27 15:11:11 +0000 2020",
+		"id": 1299000023699488800,
+		"id_str": "1299001521707728897",
+		"full_text": "A BIG #karaOERke thank you to the inimitable @CosmoCat and @jimgroom for hosting the return of Karaoke from @OERConf to the #altcSummit https://t.co/MhtUQYJsep",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "karaOERke",
+					"indices": [
+						6,
+						16
+					]
+				},
+				{
+					"text": "altcSummit",
+					"indices": [
+						124,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CosmoCat",
+					"name": "Chahira Nouira",
+					"id": 20323362,
+					"id_str": "20323362",
+					"indices": [
+						45,
+						54
+					]
+				},
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						59,
+						68
+					]
+				},
+				{
+					"screen_name": "OERConf",
+					"name": "OER Open Education Conference #OER20",
+					"id": 2695133612,
+					"id_str": "2695133612",
+					"indices": [
+						108,
+						116
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1299000022470742000,
+					"id_str": "1299000022470742017",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Egb5o1aX0AEkSCJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Egb5o1aX0AEkSCJ.jpg",
+					"url": "https://t.co/MhtUQYJsep",
+					"display_url": "pic.twitter.com/MhtUQYJsep",
+					"expanded_url": "https://twitter.com/A_L_T/status/1299000023699488769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1068,
+							"h": 660,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1068,
+							"h": 660,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1299000022470742000,
+					"id_str": "1299000022470742017",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Egb5o1aX0AEkSCJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Egb5o1aX0AEkSCJ.jpg",
+					"url": "https://t.co/MhtUQYJsep",
+					"display_url": "pic.twitter.com/MhtUQYJsep",
+					"expanded_url": "https://twitter.com/A_L_T/status/1299000023699488769/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 1068,
+							"h": 660,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1068,
+							"h": 660,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							89,
+							55
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Egb5o1aX0AEkSCJ.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13405,
+			"friends_count": 3875,
+			"listed_count": 564,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 9089,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 22740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1582896564",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A BIG #karaOERke thank you to the inimitable @CosmoCat and @jimgroom for hosting the return of Karaoke from @OERConf to the #altcSummit https://t.co/MhtUQYJsep"
+	},
+	{
+		"created_at": "Thu Aug 27 15:10:03 +0000 2020",
+		"id": 1299001234343387100,
+		"id_str": "1299001234343387143",
+		"full_text": "@dresdeb that's correct #altc #altcSummit website will be openly shared in Sept. where all these wonderful sessions will be available (speakers might also share content personally before then) https://t.co/wlI0aGY03c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						24,
+						29
+					]
+				},
+				{
+					"text": "altcSummit",
+					"indices": [
+						30,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dresdeb",
+					"name": "Beccy Dresden",
+					"id": 25527231,
+					"id_str": "25527231",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wlI0aGY03c",
+					"expanded_url": "https://twitter.com/dresdeb/status/1298995202678378497",
+					"display_url": "twitter.com/dresdeb/status…",
+					"indices": [
+						193,
+						216
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 25527231,
+		"in_reply_to_user_id_str": "25527231",
+		"in_reply_to_screen_name": "dresdeb",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8908,
+			"friends_count": 2640,
+			"listed_count": 601,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7009,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1298995202678378500,
+		"quoted_status_id_str": "1298995202678378497",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wlI0aGY03c",
+			"expanded": "https://twitter.com/dresdeb/status/1298995202678378497",
+			"display": "twitter.com/dresdeb/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 27 14:46:05 +0000 2020",
+			"id": 1298995202678378500,
+			"id_str": "1298995202678378497",
+			"full_text": "The #altc #altcsummit keynotes today (from @otheragent this morning and from @bonstewart &amp; @davecormier this afternoon) have been amazing - so informative and thought provoking. I think they'll be made widely available in a few weeks (is that right @mhawksey?) so check them out!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				283
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "altc",
+						"indices": [
+							4,
+							9
+						]
+					},
+					{
+						"text": "altcsummit",
+						"indices": [
+							10,
+							21
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "otheragent",
+						"name": "Dr Charlotte Webb",
+						"id": 345883923,
+						"id_str": "345883923",
+						"indices": [
+							43,
+							54
+						]
+					},
+					{
+						"screen_name": "bonstewart",
+						"name": "Bonnie Stewart",
+						"id": 6532522,
+						"id_str": "6532522",
+						"indices": [
+							77,
+							88
+						]
+					},
+					{
+						"screen_name": "davecormier",
+						"name": "dave cormier",
+						"id": 789991,
+						"id_str": "789991",
+						"indices": [
+							95,
+							107
+						]
+					},
+					{
+						"screen_name": "mhawksey",
+						"name": "Martin Hawksey #altc",
+						"id": 13046992,
+						"id_str": "13046992",
+						"indices": [
+							253,
+							262
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25527231,
+				"id_str": "25527231",
+				"name": "Beccy Dresden",
+				"screen_name": "dresdeb",
+				"location": "Milton Keynes",
+				"description": "Freelance learning designer (formerly part of @OU_LD_Team). Aspiring artist. Remainer. Proud Milton Keynes dweller. Bird lover (esp. crows). Smiles at dogs.",
+				"url": "https://t.co/zlkGikK8yz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zlkGikK8yz",
+								"expanded_url": "http://instagram.com/beccydresden",
+								"display_url": "instagram.com/beccydresden",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1144,
+				"friends_count": 1344,
+				"listed_count": 44,
+				"created_at": "Fri Mar 20 16:10:41 +0000 2009",
+				"favourites_count": 14049,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10662,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/830215502932934657/afwPq0gu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/830215502932934657/afwPq0gu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25527231/1401653661",
+				"profile_link_color": "5E0485",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@dresdeb that's correct #altc #altcSummit website will be openly shared in Sept. where all these wonderful sessions will be available (speakers might also share content personally before then) https://t.co/wlI0aGY03c"
+	},
+	{
+		"created_at": "Thu Aug 27 09:45:12 +0000 2020",
+		"id": 1298919485248868400,
+		"id_str": "1298919485248868352",
+		"full_text": "@jimgroom @CosmoCat @timmmmyboy @MarenDeepwell loved hanging out with you all - I'll book myself in for some singing lessons for next time ;)",
+		"truncated": false,
+		"display_text_range": [
+			47,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "CosmoCat",
+					"name": "Chahira Nouira",
+					"id": 20323362,
+					"id_str": "20323362",
+					"indices": [
+						10,
+						19
+					]
+				},
+				{
+					"screen_name": "timmmmyboy",
+					"name": "timmmmyboy",
+					"id": 1025923491495903200,
+					"id_str": "1025923491495903232",
+					"indices": [
+						20,
+						31
+					]
+				},
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						32,
+						46
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1298738689032454100,
+		"in_reply_to_status_id_str": "1298738689032454146",
+		"in_reply_to_user_id": 3362981,
+		"in_reply_to_user_id_str": "3362981",
+		"in_reply_to_screen_name": "jimgroom",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8908,
+			"friends_count": 2640,
+			"listed_count": 601,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7009,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jimgroom @CosmoCat @timmmmyboy @MarenDeepwell loved hanging out with you all - I'll book myself in for some singing lessons for next time ;)"
+	},
+	{
+		"created_at": "Thu Aug 27 08:19:22 +0000 2020",
+		"id": 1298897881785606100,
+		"id_str": "1298897881785606144",
+		"full_text": "The (School) #altcRun before #altcSummit https://t.co/pvJSJdrvGN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altcRun",
+					"indices": [
+						13,
+						21
+					]
+				},
+				{
+					"text": "altcSummit",
+					"indices": [
+						29,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1298897878648336400,
+					"id_str": "1298897878648336385",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/EgacvSBXsAEVaP5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgacvSBXsAEVaP5.jpg",
+					"url": "https://t.co/pvJSJdrvGN",
+					"display_url": "pic.twitter.com/pvJSJdrvGN",
+					"expanded_url": "https://twitter.com/mhawksey/status/1298897881785606144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1298897878648336400,
+					"id_str": "1298897878648336385",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/EgacvSBXsAEVaP5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgacvSBXsAEVaP5.jpg",
+					"url": "https://t.co/pvJSJdrvGN",
+					"display_url": "pic.twitter.com/pvJSJdrvGN",
+					"expanded_url": "https://twitter.com/mhawksey/status/1298897881785606144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8908,
+			"friends_count": 2640,
+			"listed_count": 601,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7009,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The (School) #altcRun before #altcSummit https://t.co/pvJSJdrvGN"
+	},
+	{
 		"created_at": "Wed Aug 26 23:03:31 +0000 2020",
 		"id": 1298758000602210300,
 		"id_str": "1298758000602210305",
