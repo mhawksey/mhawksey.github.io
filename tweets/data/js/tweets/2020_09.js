@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 07 12:25:26 +0000 2020",
+		"id": 1302945041586028500,
+		"id_str": "1302946073531555841",
+		"full_text": "New #altc blog post on our virtual team with @mhawksey ... How we survived a pandemic: Part 4 - Virtual pizza nights and other distributed team social activities https://t.co/xVcF5BXKaq https://t.co/MEtSgopH6D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						4,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey #altc",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						45,
+						54
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xVcF5BXKaq",
+					"expanded_url": "https://marendeepwell.com/?p=2760",
+					"display_url": "marendeepwell.com/?p=2760",
+					"indices": [
+						162,
+						185
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1302944970391912400,
+					"id_str": "1302944970391912448",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/EhT9jBoXgAA-hXy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhT9jBoXgAA-hXy.jpg",
+					"url": "https://t.co/MEtSgopH6D",
+					"display_url": "pic.twitter.com/MEtSgopH6D",
+					"expanded_url": "https://twitter.com/MarenDeepwell/status/1302945041586028546/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1302944970391912400,
+					"id_str": "1302944970391912448",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/EhT9jBoXgAA-hXy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhT9jBoXgAA-hXy.jpg",
+					"url": "https://t.co/MEtSgopH6D",
+					"display_url": "pic.twitter.com/MEtSgopH6D",
+					"expanded_url": "https://twitter.com/MarenDeepwell/status/1302945041586028546/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 323173367,
+			"id_str": "323173367",
+			"name": "Dr Maren Deepwell",
+			"screen_name": "MarenDeepwell",
+			"location": "Cardiff, Wales",
+			"description": "Charity CEO @A_L_T in EdTech. Ethical, open leadership. Leading virtual teams. Feminist. She/her",
+			"url": "https://t.co/kMXdMTr9bt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kMXdMTr9bt",
+							"expanded_url": "http://marendeepwell.com",
+							"display_url": "marendeepwell.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4425,
+			"friends_count": 1911,
+			"listed_count": 196,
+			"created_at": "Fri Jun 24 11:30:35 +0000 2011",
+			"favourites_count": 23845,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12372,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1287098546831990786/_JVI5ja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1287098546831990786/_JVI5ja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/323173367/1597500245",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New #altc blog post on our virtual team with @mhawksey ... How we survived a pandemic: Part 4 - Virtual pizza nights and other distributed team social activities https://t.co/xVcF5BXKaq https://t.co/MEtSgopH6D"
+	},
+	{
+		"created_at": "Mon Sep 07 09:51:18 +0000 2020",
+		"id": 1302907287003111400,
+		"id_str": "1302907287003111424",
+		"full_text": "How Ars Technica’s tech-savvy staffers conduct happy hours in locked-down 2020 #altc https://t.co/4DlnJc0E8o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						79,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4DlnJc0E8o",
+					"expanded_url": "https://arstechnica.com/?p=1703877",
+					"display_url": "arstechnica.com/?p=1703877",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8915,
+			"friends_count": 2636,
+			"listed_count": 600,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30053,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How Ars Technica’s tech-savvy staffers conduct happy hours in locked-down 2020 #altc https://t.co/4DlnJc0E8o"
+	},
+	{
 		"created_at": "Sun Sep 06 21:11:15 +0000 2020",
 		"id": 1302716012463259600,
 		"id_str": "1302716012463259648",
