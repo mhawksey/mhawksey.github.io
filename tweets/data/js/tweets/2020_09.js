@@ -1,6 +1,450 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 21 21:29:15 +0000 2020",
+		"id": 1308156359372923000,
+		"id_str": "1308156359372922889",
+		"full_text": "By me: Adding some AutoFill magic to your Google Sheets  projects \n\n#GoogleAppsScript @GSuiteDevs/#GSuiteDevs #NoCode https://t.co/kfOnF8Ty9P https://t.co/7D6cT3Q6Lj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						68,
+						85
+					]
+				},
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						98,
+						109
+					]
+				},
+				{
+					"text": "NoCode",
+					"indices": [
+						110,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GSuiteDevs",
+					"name": "G Suite Developers",
+					"id": 111197966,
+					"id_str": "111197966",
+					"indices": [
+						86,
+						97
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kfOnF8Ty9P",
+					"expanded_url": "https://mashe.hawksey.info/2020/09/adding-some-autofill-magic-to-your-google-sheets-apps-script-projects/",
+					"display_url": "mashe.hawksey.info/2020/09/adding…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1308156083710636000,
+					"id_str": "1308156083710636032",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EieBBvhWsAANkUT.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EieBBvhWsAANkUT.jpg",
+					"url": "https://t.co/7D6cT3Q6Lj",
+					"display_url": "pic.twitter.com/7D6cT3Q6Lj",
+					"expanded_url": "https://twitter.com/mhawksey/status/1308156359372922889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 808,
+							"h": 614,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 808,
+							"h": 614,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 517,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1308156083710636000,
+					"id_str": "1308156083710636032",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EieBBvhWsAANkUT.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EieBBvhWsAANkUT.jpg",
+					"url": "https://t.co/7D6cT3Q6Lj",
+					"display_url": "pic.twitter.com/7D6cT3Q6Lj",
+					"expanded_url": "https://twitter.com/mhawksey/status/1308156359372922889/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 808,
+							"h": 614,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 808,
+							"h": 614,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 517,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							404,
+							307
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EieBBvhWsAANkUT.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8928,
+			"friends_count": 2636,
+			"listed_count": 599,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7053,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "By me: Adding some AutoFill magic to your Google Sheets  projects \n\n#GoogleAppsScript @GSuiteDevs/#GSuiteDevs #NoCode https://t.co/kfOnF8Ty9P https://t.co/7D6cT3Q6Lj"
+	},
+	{
+		"created_at": "Mon Sep 21 14:41:42 +0000 2020",
+		"id": 1306517315626963000,
+		"id_str": "1308053798351405057",
+		"full_text": "Over 1 million of us have downloaded the free Protect Scotland app. But the more of us that use it, the better it works.    \n🔹 It’s free\n🔹 Anonymous\n🔹 Uses minimal data\nDownload it today to help protect your friends, family and community from coronavirus.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 46650770,
+			"id_str": "46650770",
+			"name": "Scottish Government",
+			"screen_name": "scotgov",
+			"location": "Scotland",
+			"description": "Updates from the devolved government for Scotland. Please note we're unable to answer questions here, find out how to get in touch at https://t.co/vQi2uzuciy",
+			"url": "https://t.co/2qWgJuk57B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2qWgJuk57B",
+							"expanded_url": "http://www.gov.scot",
+							"display_url": "gov.scot",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vQi2uzuciy",
+							"expanded_url": "http://gov.scot/contact",
+							"display_url": "gov.scot/contact",
+							"indices": [
+								134,
+								157
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 304785,
+			"friends_count": 1058,
+			"listed_count": 1477,
+			"created_at": "Fri Jun 12 13:29:52 +0000 2009",
+			"favourites_count": 654,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15689,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2D5091",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194173757100875776/pFA5ZEJz_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194173757100875776/pFA5ZEJz_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/46650770/1592558139",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 320,
+		"favorite_count": 423,
+		"favorited": false,
+		"retweeted": true,
+		"scopes": {
+			"followers": false
+		},
+		"lang": "en",
+		"text": "Over 1 million of us have downloaded the free Protect Scotland app. But the more of us that use it, the better it works.    \n🔹 It’s free\n🔹 Anonymous\n🔹 Uses minimal data\nDownload it today to help protect your friends, family and community from coronavirus."
+	},
+	{
+		"created_at": "Mon Sep 21 10:06:05 +0000 2020",
+		"id": 1307984435753758700,
+		"id_str": "1307984435753758721",
+		"full_text": "@Ghizzi_d Going my the pic/description that looks spot on. Going to have to dig out more jam jars from the garage ☺️",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ghizzi_d",
+					"name": "(•⊙ ¡‿¡ ⊙•) \"Low skilled child of queue jumper\"🌏",
+					"id": 104329090,
+					"id_str": "104329090",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1307822105862590500,
+		"in_reply_to_status_id_str": "1307822105862590464",
+		"in_reply_to_user_id": 104329090,
+		"in_reply_to_user_id_str": "104329090",
+		"in_reply_to_screen_name": "Ghizzi_d",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8928,
+			"friends_count": 2636,
+			"listed_count": 599,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7053,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Ghizzi_d Going my the pic/description that looks spot on. Going to have to dig out more jam jars from the garage ☺️"
+	},
+	{
 		"created_at": "Sun Sep 20 20:22:48 +0000 2020",
 		"id": 1307777250679554000,
 		"id_str": "1307777250679554048",
