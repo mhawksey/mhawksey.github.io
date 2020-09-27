@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sat Sep 26 08:23:49 +0000 2020",
+		"id": 1309770638450724900,
+		"id_str": "1309770638450724864",
+		"full_text": "@toddmckinnon Some impressive numbers around just Excel ... I also often reference this great post on spreadsheet addiction https://t.co/L4mpLmdTJz 🥴 https://t.co/r3fxSCITuE https://t.co/Pt1jj6rke2",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "toddmckinnon",
+					"name": "Todd McKinnon",
+					"id": 22338536,
+					"id_str": "22338536",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/L4mpLmdTJz",
+					"expanded_url": "https://www.burns-stat.com/documents/tutorials/spreadsheet-addiction/",
+					"display_url": "burns-stat.com/documents/tuto…",
+					"indices": [
+						124,
+						147
+					]
+				},
+				{
+					"url": "https://t.co/r3fxSCITuE",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1309770421097594880/photo/1",
+					"display_url": "pic.twitter.com/r3fxSCITuE",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1309770636038996000,
+					"id_str": "1309770636038995969",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei09dDpXgAEpaW3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ei09dDpXgAEpaW3.jpg",
+					"url": "https://t.co/Pt1jj6rke2",
+					"display_url": "pic.twitter.com/Pt1jj6rke2",
+					"expanded_url": "https://twitter.com/mhawksey/status/1309770638450724864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 687,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1172,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 389,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1309770636038996000,
+					"id_str": "1309770636038995969",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei09dDpXgAEpaW3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ei09dDpXgAEpaW3.jpg",
+					"url": "https://t.co/Pt1jj6rke2",
+					"display_url": "pic.twitter.com/Pt1jj6rke2",
+					"expanded_url": "https://twitter.com/mhawksey/status/1309770638450724864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 687,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1172,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 389,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1309373279195422700,
+		"in_reply_to_status_id_str": "1309373279195422721",
+		"in_reply_to_user_id": 22338536,
+		"in_reply_to_user_id_str": "22338536",
+		"in_reply_to_screen_name": "toddmckinnon",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8931,
+			"friends_count": 2636,
+			"listed_count": 601,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30130,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@toddmckinnon Some impressive numbers around just Excel ... I also often reference this great post on spreadsheet addiction https://t.co/L4mpLmdTJz 🥴 https://t.co/r3fxSCITuE https://t.co/Pt1jj6rke2"
+	},
+	{
 		"created_at": "Fri Sep 25 09:56:29 +0000 2020",
 		"id": 1309431232321683500,
 		"id_str": "1309431572458876929",
