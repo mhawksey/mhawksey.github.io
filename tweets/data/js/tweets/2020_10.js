@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sun Oct 11 08:50:15 +0000 2020",
+		"id": 1314977505690882000,
+		"id_str": "1315213107938164737",
+		"full_text": "DEV: How to Use Google Sheets as a Database (Responsibly) by @hacubu (contributed by @mhawksey) #GSuiteDevs #GoogleAppsScript https://t.co/ps4aj9SwnJ https://t.co/2dV7VMJhwE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSuiteDevs",
+					"indices": [
+						96,
+						107
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						108,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hacubu",
+					"name": "Jacob Lee",
+					"id": 951957900,
+					"id_str": "951957900",
+					"indices": [
+						61,
+						68
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey #altc",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						85,
+						94
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ps4aj9SwnJ",
+					"expanded_url": "https://pulse.appsscript.info/p/2020/10/dev-how-to-use-google-sheets-as-a-database-responsibly/",
+					"display_url": "pulse.appsscript.info/p/2020/10/dev-…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1314977504164110300,
+					"id_str": "1314977504164110336",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej-9Eq9U4AAXFHp.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ej-9Eq9U4AAXFHp.png",
+					"url": "https://t.co/2dV7VMJhwE",
+					"display_url": "pic.twitter.com/2dV7VMJhwE",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1314977505690882048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 371,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 371,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 371,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314977504164110300,
+					"id_str": "1314977504164110336",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej-9Eq9U4AAXFHp.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ej-9Eq9U4AAXFHp.png",
+					"url": "https://t.co/2dV7VMJhwE",
+					"display_url": "pic.twitter.com/2dV7VMJhwE",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1314977505690882048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 371,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 371,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 371,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322526439,
+			"id_str": "322526439",
+			"name": "AppsScriptInfo (supporting #GSuiteDevs)",
+			"screen_name": "AppsScriptInfo",
+			"location": "World",
+			"description": "A Google Apps Script Community account to support #GSuiteDevs. Curated by @mhawksey",
+			"url": "https://t.co/pEqPAHFH4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEqPAHFH4F",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 929,
+			"friends_count": 1025,
+			"listed_count": 26,
+			"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+			"favourites_count": 543,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+			"profile_link_color": "4286F4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "DEV: How to Use Google Sheets as a Database (Responsibly) by @hacubu (contributed by @mhawksey) #GSuiteDevs #GoogleAppsScript https://t.co/ps4aj9SwnJ https://t.co/2dV7VMJhwE"
+	},
+	{
 		"created_at": "Sat Oct 10 15:45:25 +0000 2020",
 		"id": 1314955202940805000,
 		"id_str": "1314955202940805121",
