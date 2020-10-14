@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 13 20:18:02 +0000 2020",
+		"id": 1316110971073687600,
+		"id_str": "1316110971073687553",
+		"full_text": "@billwolffsju Hi Bill, yeah unfortunately Google made a change a while back that means @gmail.com users have to go past this screen https://t.co/WBWNBuSBCe",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "billwolffsju",
+					"name": "Bill Wolff",
+					"id": 812473797743878100,
+					"id_str": "812473797743878144",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "gmail",
+					"name": "Gmail",
+					"id": 38679388,
+					"id_str": "38679388",
+					"indices": [
+						87,
+						93
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1316110968385138700,
+					"id_str": "1316110968385138690",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EkPD8-OXcAISS0a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkPD8-OXcAISS0a.jpg",
+					"url": "https://t.co/WBWNBuSBCe",
+					"display_url": "pic.twitter.com/WBWNBuSBCe",
+					"expanded_url": "https://twitter.com/mhawksey/status/1316110971073687553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316110968385138700,
+					"id_str": "1316110968385138690",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EkPD8-OXcAISS0a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkPD8-OXcAISS0a.jpg",
+					"url": "https://t.co/WBWNBuSBCe",
+					"display_url": "pic.twitter.com/WBWNBuSBCe",
+					"expanded_url": "https://twitter.com/mhawksey/status/1316110971073687553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1316002882953642000,
+		"in_reply_to_status_id_str": "1316002882953641984",
+		"in_reply_to_user_id": 812473797743878100,
+		"in_reply_to_user_id_str": "812473797743878144",
+		"in_reply_to_screen_name": "billwolffsju",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8957,
+			"friends_count": 2645,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7098,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@billwolffsju Hi Bill, yeah unfortunately Google made a change a while back that means @gmail.com users have to go past this screen https://t.co/WBWNBuSBCe"
+	},
+	{
+		"created_at": "Tue Oct 13 12:11:33 +0000 2020",
+		"id": 1315988543802691600,
+		"id_str": "1315988543802691585",
+		"full_text": "@Andy_Tattersall @themella It is fairly reliable .. problem is having it setup in advance for collection, so needs planning or precognition ;)",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Andy_Tattersall",
+					"name": "Andy Tattersall",
+					"id": 263182459,
+					"id_str": "263182459",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "themella",
+					"name": "Pete Mella",
+					"id": 20247622,
+					"id_str": "20247622",
+					"indices": [
+						17,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1315960061144031200,
+		"in_reply_to_status_id_str": "1315960061144031239",
+		"in_reply_to_user_id": 263182459,
+		"in_reply_to_user_id_str": "263182459",
+		"in_reply_to_screen_name": "Andy_Tattersall",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8957,
+			"friends_count": 2645,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7098,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Andy_Tattersall @themella It is fairly reliable .. problem is having it setup in advance for collection, so needs planning or precognition ;)"
+	},
+	{
 		"created_at": "Mon Oct 12 18:01:23 +0000 2020",
 		"id": 1315645097627746300,
 		"id_str": "1315714193253961728",
