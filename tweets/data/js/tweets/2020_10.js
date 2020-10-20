@@ -1,6 +1,342 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 19 19:06:52 +0000 2020",
+		"id": 1318267389381836800,
+		"id_str": "1318267389381836801",
+		"full_text": "@felipenmoura ... in case you are still interested final write-up on collecting ratings/satisfaction in Google Analytics :) https://t.co/UoCDdO8FIv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "felipenmoura",
+					"name": "Felipe Nascimento",
+					"id": 37043393,
+					"id_str": "37043393",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UoCDdO8FIv",
+					"expanded_url": "https://twitter.com/googleanalytics/status/1315809729185280005?s=09",
+					"display_url": "twitter.com/googleanalytic…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 37043393,
+		"in_reply_to_user_id_str": "37043393",
+		"in_reply_to_screen_name": "felipenmoura",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8969,
+			"friends_count": 2644,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30198,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1315809729185280000,
+		"quoted_status_id_str": "1315809729185280005",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UoCDdO8FIv",
+			"expanded": "https://twitter.com/googleanalytics/status/1315809729185280005?s=09",
+			"display": "twitter.com/googleanalytic…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 13 00:21:00 +0000 2020",
+			"id": 1315809729185280000,
+			"id_str": "1315809729185280005",
+			"full_text": "\"The basic recipe this post will cover is using a custom event listener in Google Tag Manager to track user interactions with a set of ratings buttons.\"\n\nQuick article ratings using Google Tag Manager and Google Analytics https://t.co/4ZQMye0rhq /by @mhawksey #measure https://t.co/Op1OYmfJGm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				268
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "measure",
+						"indices": [
+							260,
+							268
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mhawksey",
+						"name": "Martin Hawksey #altc",
+						"id": 13046992,
+						"id_str": "13046992",
+						"indices": [
+							250,
+							259
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/4ZQMye0rhq",
+						"expanded_url": "https://bit.ly/2GZiVtQ",
+						"display_url": "bit.ly/2GZiVtQ",
+						"indices": [
+							222,
+							245
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1315809727788601300,
+						"id_str": "1315809727788601344",
+						"indices": [
+							269,
+							292
+						],
+						"media_url": "http://pbs.twimg.com/media/EkKx-djX0AABIUX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EkKx-djX0AABIUX.jpg",
+						"url": "https://t.co/Op1OYmfJGm",
+						"display_url": "pic.twitter.com/Op1OYmfJGm",
+						"expanded_url": "https://twitter.com/googleanalytics/status/1315809729185280005/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 381,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 270,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 381,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1315809727788601300,
+						"id_str": "1315809727788601344",
+						"indices": [
+							269,
+							292
+						],
+						"media_url": "http://pbs.twimg.com/media/EkKx-djX0AABIUX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EkKx-djX0AABIUX.jpg",
+						"url": "https://t.co/Op1OYmfJGm",
+						"display_url": "pic.twitter.com/Op1OYmfJGm",
+						"expanded_url": "https://twitter.com/googleanalytics/status/1315809729185280005/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 381,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 270,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 381,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 51263711,
+				"id_str": "51263711",
+				"name": "Google Analytics",
+				"screen_name": "googleanalytics",
+				"location": "Most places",
+				"description": "Get the latest news and product updates on Google Analytics, Data Studio, Optimize, Surveys, and Tag Manager. Learn more at https://t.co/d577dT0OeA",
+				"url": "https://t.co/d577dT0OeA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/d577dT0OeA",
+								"expanded_url": "http://g.co/marketingplatform",
+								"display_url": "g.co/marketingplatf…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/d577dT0OeA",
+								"expanded_url": "http://g.co/marketingplatform",
+								"display_url": "g.co/marketingplatf…",
+								"indices": [
+									124,
+									147
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1136047,
+				"friends_count": 404,
+				"listed_count": 18651,
+				"created_at": "Fri Jun 26 22:55:52 +0000 2009",
+				"favourites_count": 6307,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 11423,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DEDEDE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1021848775885651968/cU74ahCn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1021848775885651968/cU74ahCn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/51263711/1532462694",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 51,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@felipenmoura ... in case you are still interested final write-up on collecting ratings/satisfaction in Google Analytics :) https://t.co/UoCDdO8FIv"
+	},
+	{
 		"created_at": "Sat Oct 17 10:54:01 +0000 2020",
 		"id": 1317418583459246000,
 		"id_str": "1317418583459246082",
