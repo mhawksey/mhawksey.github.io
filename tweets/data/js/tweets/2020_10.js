@@ -1,6 +1,536 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 23 17:58:13 +0000 2020",
+		"id": 1319699664040562700,
+		"id_str": "1319699664040562688",
+		"full_text": "An edtech specialist spoke out about remote testing software — and now he’s being sued #altc https://t.co/M8kIs3j3LT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						87,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M8kIs3j3LT",
+					"expanded_url": "https://www.theverge.com/2020/10/22/21526792/proctorio-online-test-proctoring-lawsuit-universities-students-coronavirus",
+					"display_url": "theverge.com/2020/10/22/215…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8979,
+			"friends_count": 2644,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30211,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "An edtech specialist spoke out about remote testing software — and now he’s being sued #altc https://t.co/M8kIs3j3LT"
+	},
+	{
+		"created_at": "Fri Oct 23 17:51:11 +0000 2020",
+		"id": 1319697894421811200,
+		"id_str": "1319697894421811201",
+		"full_text": "@JeremiahOsGo I suspect this is a volume issue",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JeremiahOsGo",
+					"name": "Jeremiah Osborne-Gowey --maybe a (masked) werewolf",
+					"id": 43940052,
+					"id_str": "43940052",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1319664544743067600,
+		"in_reply_to_status_id_str": "1319664544743067648",
+		"in_reply_to_user_id": 43940052,
+		"in_reply_to_user_id_str": "43940052",
+		"in_reply_to_screen_name": "JeremiahOsGo",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8979,
+			"friends_count": 2644,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30211,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JeremiahOsGo I suspect this is a volume issue"
+	},
+	{
+		"created_at": "Fri Oct 23 07:06:25 +0000 2020",
+		"id": 1319077541798264800,
+		"id_str": "1319535633795342340",
+		"full_text": "Woot! Workspace add-ons for Editors are available now! https://t.co/QYWCTcc85e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QYWCTcc85e",
+					"expanded_url": "https://workspaceupdates.googleblog.com/2020/10/google-workspace-add-ons-now-generally.html?m=1",
+					"display_url": "workspaceupdates.googleblog.com/2020/10/google…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 993937566029115400,
+			"id_str": "993937566029115393",
+			"name": "Charles Maxson",
+			"screen_name": "chasmaxson",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 125,
+			"friends_count": 54,
+			"listed_count": 5,
+			"created_at": "Tue May 08 19:35:57 +0000 2018",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1124366285477777408/L4X8o9VF_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124366285477777408/L4X8o9VF_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/993937566029115393/1573837916",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Woot! Workspace add-ons for Editors are available now! https://t.co/QYWCTcc85e"
+	},
+	{
+		"created_at": "Fri Oct 23 07:04:33 +0000 2020",
+		"id": 1319245085402345500,
+		"id_str": "1319535163072778242",
+		"full_text": "For @A_L_T's upcoming winter conference we are offering scholarship places: 2 days of #edtech #CPD in an expert community, with access to our jobs board, event resources &amp; a full academic and social programme #altc - apply now and please RT https://t.co/r2WwPzQe3O https://t.co/ULGskI1RTg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edtech",
+					"indices": [
+						86,
+						93
+					]
+				},
+				{
+					"text": "CPD",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						213,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						4,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/r2WwPzQe3O",
+					"expanded_url": "https://altc.alt.ac.uk/online2020/scholarship-places/",
+					"display_url": "altc.alt.ac.uk/online2020/sch…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1319244923015729200,
+					"id_str": "1319244923015729152",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/Ek7mRJAXEAAHRdM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ek7mRJAXEAAHRdM.jpg",
+					"url": "https://t.co/ULGskI1RTg",
+					"display_url": "pic.twitter.com/ULGskI1RTg",
+					"expanded_url": "https://twitter.com/MarenDeepwell/status/1319245085402345472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1064,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1064,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 128,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1319244923015729200,
+					"id_str": "1319244923015729152",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/Ek7mRJAXEAAHRdM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ek7mRJAXEAAHRdM.jpg",
+					"url": "https://t.co/ULGskI1RTg",
+					"display_url": "pic.twitter.com/ULGskI1RTg",
+					"expanded_url": "https://twitter.com/MarenDeepwell/status/1319245085402345472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1064,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1064,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 128,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 323173367,
+			"id_str": "323173367",
+			"name": "Dr Maren Deepwell",
+			"screen_name": "MarenDeepwell",
+			"location": "Cardiff, Wales",
+			"description": "Charity CEO @A_L_T in EdTech. Ethical, open leadership. Leading virtual teams. Feminist. She/her",
+			"url": "https://t.co/kMXdMTr9bt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kMXdMTr9bt",
+							"expanded_url": "http://marendeepwell.com",
+							"display_url": "marendeepwell.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4472,
+			"friends_count": 1924,
+			"listed_count": 195,
+			"created_at": "Fri Jun 24 11:30:35 +0000 2011",
+			"favourites_count": 24367,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12556,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1287098546831990786/_JVI5ja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1287098546831990786/_JVI5ja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/323173367/1597500245",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For @A_L_T's upcoming winter conference we are offering scholarship places: 2 days of #edtech #CPD in an expert community, with access to our jobs board, event resources &amp; a full academic and social programme #altc - apply now and please RT https://t.co/r2WwPzQe3O https://t.co/ULGskI1RTg"
+	},
+	{
 		"created_at": "Thu Oct 22 11:07:07 +0000 2020",
 		"id": 1319220585478508500,
 		"id_str": "1319233821607383041",
