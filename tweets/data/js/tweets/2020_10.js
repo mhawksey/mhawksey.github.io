@@ -1,6 +1,1123 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 27 20:00:04 +0000 2020",
+		"id": 1321084939161477000,
+		"id_str": "1321179880999034880",
+		"full_text": "Working from home? Where's your nearest witch? https://t.co/78STCXf0qb #wikidata #wiccadata #maps",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "wikidata",
+					"indices": [
+						71,
+						80
+					]
+				},
+				{
+					"text": "wiccadata",
+					"indices": [
+						81,
+						91
+					]
+				},
+				{
+					"text": "maps",
+					"indices": [
+						92,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/78STCXf0qb",
+					"expanded_url": "https://witches.is.ed.ac.uk/",
+					"display_url": "witches.is.ed.ac.uk",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2382712322,
+			"id_str": "2382712322",
+			"name": "Melissa",
+			"screen_name": "HoneybHighton",
+			"location": "University of Edinburgh/Oxford",
+			"description": "Edtech blogger, IT Director, maven and occasional keynote. Interested in all things digital in higher education. SCMALT FHEA FCLIP",
+			"url": "https://t.co/ZkIRHSRTNv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZkIRHSRTNv",
+							"expanded_url": "http://thinking.is.ed.ac.uk/melissa/",
+							"display_url": "thinking.is.ed.ac.uk/melissa/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2188,
+			"friends_count": 1110,
+			"listed_count": 146,
+			"created_at": "Mon Mar 10 21:36:05 +0000 2014",
+			"favourites_count": 1667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1142797011147776001/4yX5oI1D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1142797011147776001/4yX5oI1D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2382712322/1474024963",
+			"profile_link_color": "B3B300",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Working from home? Where's your nearest witch? https://t.co/78STCXf0qb #wikidata #wiccadata #maps"
+	},
+	{
+		"created_at": "Tue Oct 27 16:25:18 +0000 2020",
+		"id": 1321119096369459200,
+		"id_str": "1321125831356329985",
+		"full_text": "Industry News is pleased to announce a new co-production in partnership with @A_L_T exploring the benefits of technology to assist learning, training and development. #TheFutureofLearning will launch at ALT's National Conference in September 2021. https://t.co/BezPwAq7h0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheFutureofLearning",
+					"indices": [
+						167,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						77,
+						83
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BezPwAq7h0",
+					"expanded_url": "https://twitter.com/MarenDeepwell/status/1321101020060147712",
+					"display_url": "twitter.com/MarenDeepwell/…",
+					"indices": [
+						248,
+						271
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 543363650,
+			"id_str": "543363650",
+			"name": "ITN Productions",
+			"screen_name": "ITNProductions",
+			"location": "London",
+			"description": "Creative division of ITN, building big audiences and producing bespoke programming and content for broadcasters, publishers, brands, agencies and businesses.",
+			"url": "http://t.co/SSx8niBCzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/SSx8niBCzC",
+							"expanded_url": "http://itnproductions.co.uk",
+							"display_url": "itnproductions.co.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6084,
+			"friends_count": 1962,
+			"listed_count": 118,
+			"created_at": "Mon Apr 02 12:13:27 +0000 2012",
+			"favourites_count": 3488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194602686890553344/IrH9WJEK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194602686890553344/IrH9WJEK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/543363650/1560526192",
+			"profile_link_color": "010101",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFEACA",
+			"profile_text_color": "E3D0AF",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1321101020060147700,
+		"quoted_status_id_str": "1321101020060147712",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BezPwAq7h0",
+			"expanded": "https://twitter.com/MarenDeepwell/status/1321101020060147712",
+			"display": "twitter.com/MarenDeepwell/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 27 14:46:42 +0000 2020",
+			"id": 1321101020060147700,
+			"id_str": "1321101020060147712",
+			"full_text": "Excited to share news that @ITNProductions Industry News and @A_L_T are co-producing #TheFutureofLearning exploring the benefits of technology to assist learning, training and development - find out more https://t.co/qApJVhD8Q1 https://t.co/bIaZUXG7cJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				227
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TheFutureofLearning",
+						"indices": [
+							85,
+							105
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ITNProductions",
+						"name": "ITN Productions",
+						"id": 543363650,
+						"id_str": "543363650",
+						"indices": [
+							27,
+							42
+						]
+					},
+					{
+						"screen_name": "A_L_T",
+						"name": "ALT - alt.ac.uk",
+						"id": 41210876,
+						"id_str": "41210876",
+						"indices": [
+							61,
+							67
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/qApJVhD8Q1",
+						"expanded_url": "https://www.alt.ac.uk/news/media_releases/itn-productions-industry-news-announce-new-programme-collaboration-association",
+						"display_url": "alt.ac.uk/news/media_rel…",
+						"indices": [
+							204,
+							227
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1321100928590794800,
+						"id_str": "1321100928590794754",
+						"indices": [
+							228,
+							251
+						],
+						"media_url": "http://pbs.twimg.com/media/ElV-S4kX0AIPmkF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ElV-S4kX0AIPmkF.jpg",
+						"url": "https://t.co/bIaZUXG7cJ",
+						"display_url": "pic.twitter.com/bIaZUXG7cJ",
+						"expanded_url": "https://twitter.com/MarenDeepwell/status/1321101020060147712/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 220,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 332,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 332,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1321100928590794800,
+						"id_str": "1321100928590794754",
+						"indices": [
+							228,
+							251
+						],
+						"media_url": "http://pbs.twimg.com/media/ElV-S4kX0AIPmkF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ElV-S4kX0AIPmkF.jpg",
+						"url": "https://t.co/bIaZUXG7cJ",
+						"display_url": "pic.twitter.com/bIaZUXG7cJ",
+						"expanded_url": "https://twitter.com/MarenDeepwell/status/1321101020060147712/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 220,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 332,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 332,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 323173367,
+				"id_str": "323173367",
+				"name": "Dr Maren Deepwell",
+				"screen_name": "MarenDeepwell",
+				"location": "Cardiff, Wales",
+				"description": "Charity CEO @A_L_T in EdTech. Ethical, open leadership. Leading virtual teams. Feminist. She/her",
+				"url": "https://t.co/kMXdMTr9bt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kMXdMTr9bt",
+								"expanded_url": "http://marendeepwell.com",
+								"display_url": "marendeepwell.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4473,
+				"friends_count": 1925,
+				"listed_count": 195,
+				"created_at": "Fri Jun 24 11:30:35 +0000 2011",
+				"favourites_count": 24357,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12563,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1287098546831990786/_JVI5ja3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1287098546831990786/_JVI5ja3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/323173367/1597500245",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 25,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Industry News is pleased to announce a new co-production in partnership with @A_L_T exploring the benefits of technology to assist learning, training and development. #TheFutureofLearning will launch at ALT's National Conference in September 2021. https://t.co/BezPwAq7h0"
+	},
+	{
+		"created_at": "Tue Oct 27 11:18:17 +0000 2020",
+		"id": 1321035698221260800,
+		"id_str": "1321048568984145921",
+		"full_text": "You can find all of @benlcollins' courses here https://t.co/Yaf0EuuXA7 #GoogleAppsScript #GoogleSheets @workspacedevs https://t.co/UHHofqfAQL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						71,
+						88
+					]
+				},
+				{
+					"text": "GoogleSheets",
+					"indices": [
+						89,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "benlcollins",
+					"name": "Ben Collins",
+					"id": 19338407,
+					"id_str": "19338407",
+					"indices": [
+						20,
+						32
+					]
+				},
+				{
+					"screen_name": "workspacedevs",
+					"name": "Google Workspace Developers",
+					"id": 111197966,
+					"id_str": "111197966",
+					"indices": [
+						103,
+						117
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Yaf0EuuXA7",
+					"expanded_url": "https://courses.benlcollins.com/",
+					"display_url": "courses.benlcollins.com",
+					"indices": [
+						47,
+						70
+					]
+				},
+				{
+					"url": "https://t.co/UHHofqfAQL",
+					"expanded_url": "https://twitter.com/benlcollins/status/1319344591745798144",
+					"display_url": "twitter.com/benlcollins/st…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322526439,
+			"id_str": "322526439",
+			"name": "AppsScriptInfo",
+			"screen_name": "AppsScriptInfo",
+			"location": "World",
+			"description": "A Google Apps Script Community account to support Google Workspace Devs. Curated by @mhawksey",
+			"url": "https://t.co/pEqPAHFH4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEqPAHFH4F",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 955,
+			"friends_count": 1043,
+			"listed_count": 26,
+			"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+			"favourites_count": 556,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1942,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+			"profile_link_color": "4286F4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1319344591745798100,
+		"quoted_status_id_str": "1319344591745798144",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UHHofqfAQL",
+			"expanded": "https://twitter.com/benlcollins/status/1319344591745798144",
+			"display": "twitter.com/benlcollins/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 22 18:27:17 +0000 2020",
+			"id": 1319344591745798100,
+			"id_str": "1319344591745798144",
+			"full_text": "Holy moly! I've had a lot of students sign up for #GoogleSheets and #AppsScript courses this year 🤯\n\nThank y'all for the support 🙏\n\nSo much more to come in 2021. https://t.co/Cc4HMrrGME",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				161
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GoogleSheets",
+						"indices": [
+							50,
+							63
+						]
+					},
+					{
+						"text": "AppsScript",
+						"indices": [
+							68,
+							79
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1319344269388296200,
+						"id_str": "1319344269388296192",
+						"indices": [
+							162,
+							185
+						],
+						"media_url": "http://pbs.twimg.com/media/Ek9An3FWMAAM9V_.png",
+						"media_url_https": "https://pbs.twimg.com/media/Ek9An3FWMAAM9V_.png",
+						"url": "https://t.co/Cc4HMrrGME",
+						"display_url": "pic.twitter.com/Cc4HMrrGME",
+						"expanded_url": "https://twitter.com/benlcollins/status/1319344591745798144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 638,
+								"h": 228,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 638,
+								"h": 228,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 638,
+								"h": 228,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1319344269388296200,
+						"id_str": "1319344269388296192",
+						"indices": [
+							162,
+							185
+						],
+						"media_url": "http://pbs.twimg.com/media/Ek9An3FWMAAM9V_.png",
+						"media_url_https": "https://pbs.twimg.com/media/Ek9An3FWMAAM9V_.png",
+						"url": "https://t.co/Cc4HMrrGME",
+						"display_url": "pic.twitter.com/Cc4HMrrGME",
+						"expanded_url": "https://twitter.com/benlcollins/status/1319344591745798144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 638,
+								"h": 228,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 638,
+								"h": 228,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 638,
+								"h": 228,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19338407,
+				"id_str": "19338407",
+				"name": "Ben Collins",
+				"screen_name": "benlcollins",
+				"location": "East Coast, USA",
+				"description": "Teach at https://t.co/UXcar5Uxsr\n\nCreator of https://t.co/IMvxbynrzD\n\nGoogle Sheets tips: https://t.co/hZRxGnPcjf\n\nAlways learning!",
+				"url": "https://t.co/o6jYXCCEFq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/o6jYXCCEFq",
+								"expanded_url": "http://benlcollins.com",
+								"display_url": "benlcollins.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/UXcar5Uxsr",
+								"expanded_url": "http://courses.benlcollins.com",
+								"display_url": "courses.benlcollins.com",
+								"indices": [
+									9,
+									32
+								]
+							},
+							{
+								"url": "https://t.co/IMvxbynrzD",
+								"expanded_url": "http://sheetscon.com",
+								"display_url": "sheetscon.com",
+								"indices": [
+									45,
+									68
+								]
+							},
+							{
+								"url": "https://t.co/hZRxGnPcjf",
+								"expanded_url": "https://www.benlcollins.com/google-sheets-tips/",
+								"display_url": "benlcollins.com/google-sheets-…",
+								"indices": [
+									90,
+									113
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5382,
+				"friends_count": 725,
+				"listed_count": 300,
+				"created_at": "Thu Jan 22 13:43:22 +0000 2009",
+				"favourites_count": 10641,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9616,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CFCFCF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1255877792140595200/dUHFH2uJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1255877792140595200/dUHFH2uJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19338407/1582908631",
+				"profile_link_color": "619DE6",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "ECFFD6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 77,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You can find all of @benlcollins' courses here https://t.co/Yaf0EuuXA7 #GoogleAppsScript #GoogleSheets @workspacedevs https://t.co/UHHofqfAQL"
+	},
+	{
+		"created_at": "Tue Oct 27 09:15:42 +0000 2020",
+		"id": 1321017718351581200,
+		"id_str": "1321017718351581184",
+		"full_text": "Submissions for #Mozfest (7days starting 8 March 2021) are now open - very diverse set of spaces you can make proposals for 👇\n\nhttps://t.co/YkMDr6aPH4 #altc https://t.co/zJHt8HF1Ly",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Mozfest",
+					"indices": [
+						16,
+						24
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						151,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YkMDr6aPH4",
+					"expanded_url": "https://www.mozillafestival.org/en/get-involved/proposals/",
+					"display_url": "mozillafestival.org/en/get-involve…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1321017583047450600,
+					"id_str": "1321017583047450629",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/ElUyfiOWoAUTNkA.png",
+					"media_url_https": "https://pbs.twimg.com/media/ElUyfiOWoAUTNkA.png",
+					"url": "https://t.co/zJHt8HF1Ly",
+					"display_url": "pic.twitter.com/zJHt8HF1Ly",
+					"expanded_url": "https://twitter.com/mhawksey/status/1321017718351581184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 783,
+							"h": 870,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 612,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 783,
+							"h": 870,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1321017583047450600,
+					"id_str": "1321017583047450629",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/ElUyfiOWoAUTNkA.png",
+					"media_url_https": "https://pbs.twimg.com/media/ElUyfiOWoAUTNkA.png",
+					"url": "https://t.co/zJHt8HF1Ly",
+					"display_url": "pic.twitter.com/zJHt8HF1Ly",
+					"expanded_url": "https://twitter.com/mhawksey/status/1321017718351581184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 783,
+							"h": 870,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 612,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 783,
+							"h": 870,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1321017629541367800,
+					"id_str": "1321017629541367808",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/ElUyiPbXgAAIabH.png",
+					"media_url_https": "https://pbs.twimg.com/media/ElUyiPbXgAAIabH.png",
+					"url": "https://t.co/zJHt8HF1Ly",
+					"display_url": "pic.twitter.com/zJHt8HF1Ly",
+					"expanded_url": "https://twitter.com/mhawksey/status/1321017718351581184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 594,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 783,
+							"h": 896,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 783,
+							"h": 896,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1321017654853906400,
+					"id_str": "1321017654853906432",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/ElUyjtuWMAATWse.png",
+					"media_url_https": "https://pbs.twimg.com/media/ElUyjtuWMAATWse.png",
+					"url": "https://t.co/zJHt8HF1Ly",
+					"display_url": "pic.twitter.com/zJHt8HF1Ly",
+					"expanded_url": "https://twitter.com/mhawksey/status/1321017718351581184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 786,
+							"h": 726,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 786,
+							"h": 726,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 628,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert #GoogleAppsScript/#GSuiteDevs | Interests: Open Education, EdTech, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8985,
+			"friends_count": 2646,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Submissions for #Mozfest (7days starting 8 March 2021) are now open - very diverse set of spaces you can make proposals for 👇\n\nhttps://t.co/YkMDr6aPH4 #altc https://t.co/zJHt8HF1Ly"
+	},
+	{
 		"created_at": "Sun Oct 25 19:45:39 +0000 2020",
 		"id": 1320451474753790000,
 		"id_str": "1320451474753789952",
