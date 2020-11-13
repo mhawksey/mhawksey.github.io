@@ -1,6 +1,559 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 12 12:47:45 +0000 2020",
+		"id": 1326869288557420500,
+		"id_str": "1326869288557420544",
+		"full_text": "@LornaMCampbell @A_L_T https://t.co/VBpwnayjL9+ 🥴",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LornaMCampbell",
+					"name": "Lorna M. Campbell",
+					"id": 4016151,
+					"id_str": "4016151",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						16,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VBpwnayjL9",
+					"expanded_url": "https://www.replacedbyrobot.info/search?q=chief+innovation%2C+community+and+technology+officer",
+					"display_url": "replacedbyrobot.info/search?q=chief…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1326860082144047000,
+		"in_reply_to_status_id_str": "1326860082144047106",
+		"in_reply_to_user_id": 4016151,
+		"in_reply_to_user_id_str": "4016151",
+		"in_reply_to_screen_name": "LornaMCampbell",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert in #GoogleAppsScript | Interests: EdTech Explorer, Open Education, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9000,
+			"friends_count": 2646,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7198,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30311,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@LornaMCampbell @A_L_T https://t.co/VBpwnayjL9+ 🥴"
+	},
+	{
+		"created_at": "Thu Nov 12 07:46:44 +0000 2020",
+		"id": 1326793535396450300,
+		"id_str": "1326793535396450305",
+		"full_text": "@pfelipm @LifeOfSpy @erickoleda ... or @clssrmtechtools can beat everyone to it 😉  https://t.co/6yhRBobhaH",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pfelipm",
+					"name": "Pablo Felip",
+					"id": 127973484,
+					"id_str": "127973484",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "LifeOfSpy",
+					"name": "Yagisanatode",
+					"id": 2346078620,
+					"id_str": "2346078620",
+					"indices": [
+						9,
+						19
+					]
+				},
+				{
+					"screen_name": "erickoleda",
+					"name": "Eric Koleda",
+					"id": 191872042,
+					"id_str": "191872042",
+					"indices": [
+						20,
+						31
+					]
+				},
+				{
+					"screen_name": "clssrmtechtools",
+					"name": "Classroom Tech Tools",
+					"id": 859694936140075000,
+					"id_str": "859694936140075008",
+					"indices": [
+						39,
+						55
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6yhRBobhaH",
+					"expanded_url": "https://twitter.com/clssrmtechtools/status/1326792930724548614?s=19",
+					"display_url": "twitter.com/clssrmtechtool…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1326793031039803400,
+		"in_reply_to_status_id_str": "1326793031039803394",
+		"in_reply_to_user_id": 13046992,
+		"in_reply_to_user_id_str": "13046992",
+		"in_reply_to_screen_name": "mhawksey",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert in #GoogleAppsScript | Interests: EdTech Explorer, Open Education, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9000,
+			"friends_count": 2646,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7198,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30311,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1326792930724548600,
+		"quoted_status_id_str": "1326792930724548614",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6yhRBobhaH",
+			"expanded": "https://twitter.com/clssrmtechtools/status/1326792930724548614?s=19",
+			"display": "twitter.com/clssrmtechtool…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 12 07:44:19 +0000 2020",
+			"id": 1326792930724548600,
+			"id_str": "1326792930724548614",
+			"full_text": "@pfelipm @LifeOfSpy @mhawksey @erickoleda Fetchall also only has a run tune of about a minute when I tried (many moons ago)\n\nhttps://t.co/dr2A0WTGqw",
+			"truncated": false,
+			"display_text_range": [
+				42,
+				148
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "pfelipm",
+						"name": "Pablo Felip",
+						"id": 127973484,
+						"id_str": "127973484",
+						"indices": [
+							0,
+							8
+						]
+					},
+					{
+						"screen_name": "LifeOfSpy",
+						"name": "Yagisanatode",
+						"id": 2346078620,
+						"id_str": "2346078620",
+						"indices": [
+							9,
+							19
+						]
+					},
+					{
+						"screen_name": "mhawksey",
+						"name": "Martin Hawksey #altc",
+						"id": 13046992,
+						"id_str": "13046992",
+						"indices": [
+							20,
+							29
+						]
+					},
+					{
+						"screen_name": "erickoleda",
+						"name": "Eric Koleda",
+						"id": 191872042,
+						"id_str": "191872042",
+						"indices": [
+							30,
+							41
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/dr2A0WTGqw",
+						"expanded_url": "https://gist.github.com/brainysmurf/97bcc305830bca4cff166b2938671839",
+						"display_url": "gist.github.com/brainysmurf/97…",
+						"indices": [
+							125,
+							148
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1326791036669145000,
+			"in_reply_to_status_id_str": "1326791036669145090",
+			"in_reply_to_user_id": 127973484,
+			"in_reply_to_user_id_str": "127973484",
+			"in_reply_to_screen_name": "pfelipm",
+			"user": {
+				"id": 859694936140075000,
+				"id_str": "859694936140075008",
+				"name": "Classroom Tech Tools",
+				"screen_name": "clssrmtechtools",
+				"location": "Kuala Lumpur City",
+				"description": "Adam Morris: ICT Coordinator, Pythonista, Teacher, Open Source,  GSuite #GoogleDeveloperExpert",
+				"url": "https://t.co/NhOIIcDVcj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NhOIIcDVcj",
+								"expanded_url": "http://classroomtechtools.com",
+								"display_url": "classroomtechtools.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 256,
+				"friends_count": 167,
+				"listed_count": 8,
+				"created_at": "Wed May 03 09:03:39 +0000 2017",
+				"favourites_count": 765,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1309,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1036851316864167941/rBAi-KPu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1036851316864167941/rBAi-KPu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/859694936140075008/1493803400",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@pfelipm @LifeOfSpy @erickoleda ... or @clssrmtechtools can beat everyone to it 😉  https://t.co/6yhRBobhaH"
+	},
+	{
+		"created_at": "Thu Nov 12 07:44:43 +0000 2020",
+		"id": 1326793031039803400,
+		"id_str": "1326793031039803394",
+		"full_text": "@pfelipm @LifeOfSpy @erickoleda Did you post your findings anywhere? Could be a nice reference post for StackOverflow Q's and general 'have you read this' moments",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pfelipm",
+					"name": "Pablo Felip",
+					"id": 127973484,
+					"id_str": "127973484",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "LifeOfSpy",
+					"name": "Yagisanatode",
+					"id": 2346078620,
+					"id_str": "2346078620",
+					"indices": [
+						9,
+						19
+					]
+				},
+				{
+					"screen_name": "erickoleda",
+					"name": "Eric Koleda",
+					"id": 191872042,
+					"id_str": "191872042",
+					"indices": [
+						20,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1326791036669145000,
+		"in_reply_to_status_id_str": "1326791036669145090",
+		"in_reply_to_user_id": 127973484,
+		"in_reply_to_user_id_str": "127973484",
+		"in_reply_to_screen_name": "pfelipm",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert in #GoogleAppsScript | Interests: EdTech Explorer, Open Education, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9000,
+			"friends_count": 2646,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7198,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30311,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@pfelipm @LifeOfSpy @erickoleda Did you post your findings anywhere? Could be a nice reference post for StackOverflow Q's and general 'have you read this' moments"
+	},
+	{
 		"created_at": "Wed Nov 11 21:20:50 +0000 2020",
 		"id": 1326636023196086300,
 		"id_str": "1326636023196086278",
