@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 19 13:14:47 +0000 2020",
+		"id": 1329412810489680000,
+		"id_str": "1329412810489679874",
+		"full_text": "@AprilJoyMacada1 @myBRAIN_isOPEN @neilmosley5 @Anda19 @olicav @Jessifer @digisim @OU_LD_Team @wrubens @tmiket @A_L_T looks like Cool Timeline Pro plugin for wordpress https://t.co/WGJ8ly77Px",
+		"truncated": false,
+		"display_text_range": [
+			117,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AprilJoyMacada1",
+					"name": "April Joy Macadangdang-Perez",
+					"id": 1161619371560599600,
+					"id_str": "1161619371560599552",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "myBRAIN_isOPEN",
+					"name": "myBRAIN_isOPEN",
+					"id": 1308752287,
+					"id_str": "1308752287",
+					"indices": [
+						17,
+						32
+					]
+				},
+				{
+					"screen_name": "neilmosley5",
+					"name": "Neil Mosley",
+					"id": 859745605505175600,
+					"id_str": "859745605505175552",
+					"indices": [
+						33,
+						45
+					]
+				},
+				{
+					"screen_name": "Anda19",
+					"name": "Alexandra Mihai",
+					"id": 19291197,
+					"id_str": "19291197",
+					"indices": [
+						46,
+						53
+					]
+				},
+				{
+					"screen_name": "olicav",
+					"name": "oliver caviglioli",
+					"id": 571989515,
+					"id_str": "571989515",
+					"indices": [
+						54,
+						61
+					]
+				},
+				{
+					"screen_name": "Jessifer",
+					"name": "Jesse Stommel",
+					"id": 11702102,
+					"id_str": "11702102",
+					"indices": [
+						62,
+						71
+					]
+				},
+				{
+					"screen_name": "digisim",
+					"name": "Simon Thomson",
+					"id": 294516600,
+					"id_str": "294516600",
+					"indices": [
+						72,
+						80
+					]
+				},
+				{
+					"screen_name": "OU_LD_Team",
+					"name": "Learning Design",
+					"id": 715475873013440500,
+					"id_str": "715475873013440512",
+					"indices": [
+						81,
+						92
+					]
+				},
+				{
+					"screen_name": "wrubens",
+					"name": "Wilfred Rubens",
+					"id": 803912,
+					"id_str": "803912",
+					"indices": [
+						93,
+						101
+					]
+				},
+				{
+					"screen_name": "tmiket",
+					"name": "Mike Taylor",
+					"id": 450953,
+					"id_str": "450953",
+					"indices": [
+						102,
+						109
+					]
+				},
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						110,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WGJ8ly77Px",
+					"expanded_url": "https://en-gb.wordpress.org/plugins/cool-timeline/",
+					"display_url": "en-gb.wordpress.org/plugins/cool-t…",
+					"indices": [
+						167,
+						190
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1329407136615501800,
+		"in_reply_to_status_id_str": "1329407136615501825",
+		"in_reply_to_user_id": 1161619371560599600,
+		"in_reply_to_user_id_str": "1161619371560599552",
+		"in_reply_to_screen_name": "AprilJoyMacada1",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert in #GoogleAppsScript | Interests: EdTech Explorer, Open Education, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9000,
+			"friends_count": 2646,
+			"listed_count": 600,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30336,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@AprilJoyMacada1 @myBRAIN_isOPEN @neilmosley5 @Anda19 @olicav @Jessifer @digisim @OU_LD_Team @wrubens @tmiket @A_L_T looks like Cool Timeline Pro plugin for wordpress https://t.co/WGJ8ly77Px"
+	},
+	{
 		"created_at": "Wed Nov 18 21:19:33 +0000 2020",
 		"id": 1329172415197433900,
 		"id_str": "1329172415197433857",
