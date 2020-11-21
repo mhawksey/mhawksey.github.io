@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 20 14:44:47 +0000 2020",
+		"id": 1329769481384693800,
+		"id_str": "1329797844568600578",
+		"full_text": "Interested in building Apps on top of Google Architecture without using code?\n\nLatest episode of Totally Unscripted with the founder of AppSheet, @mhawksey, @chasmaxson, @SteveWebster22 and @cschalk  is a must watch 👇👇\n\nhttps://t.co/pZjTwQzGAU\n\n#AppSheet #GoogleSheets #NoCode",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AppSheet",
+					"indices": [
+						245,
+						254
+					]
+				},
+				{
+					"text": "GoogleSheets",
+					"indices": [
+						255,
+						268
+					]
+				},
+				{
+					"text": "NoCode",
+					"indices": [
+						269,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey #altc",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						146,
+						155
+					]
+				},
+				{
+					"screen_name": "chasmaxson",
+					"name": "Charles Maxson",
+					"id": 993937566029115400,
+					"id_str": "993937566029115393",
+					"indices": [
+						157,
+						168
+					]
+				},
+				{
+					"screen_name": "SteveWebster22",
+					"name": "Steve Webster",
+					"id": 3431975507,
+					"id_str": "3431975507",
+					"indices": [
+						170,
+						185
+					]
+				},
+				{
+					"screen_name": "cschalk",
+					"name": "Chris Schalk",
+					"id": 14138023,
+					"id_str": "14138023",
+					"indices": [
+						190,
+						198
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pZjTwQzGAU",
+					"expanded_url": "https://www.youtube.com/watch?v=_ifu1fFpMMo",
+					"display_url": "youtube.com/watch?v=_ifu1f…",
+					"indices": [
+						220,
+						243
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19338407,
+			"id_str": "19338407",
+			"name": "Ben Collins",
+			"screen_name": "benlcollins",
+			"location": "East Coast, USA",
+			"description": "Teach at https://t.co/UXcar5Uxsr\n\nCreator of https://t.co/IMvxbynrzD\n\nGoogle Sheets tips: https://t.co/hZRxGnPcjf\n\nAlways learning!",
+			"url": "https://t.co/o6jYXCCEFq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o6jYXCCEFq",
+							"expanded_url": "http://benlcollins.com",
+							"display_url": "benlcollins.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXcar5Uxsr",
+							"expanded_url": "http://courses.benlcollins.com",
+							"display_url": "courses.benlcollins.com",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/IMvxbynrzD",
+							"expanded_url": "http://sheetscon.com",
+							"display_url": "sheetscon.com",
+							"indices": [
+								45,
+								68
+							]
+						},
+						{
+							"url": "https://t.co/hZRxGnPcjf",
+							"expanded_url": "https://www.benlcollins.com/google-sheets-tips/",
+							"display_url": "benlcollins.com/google-sheets-…",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5472,
+			"friends_count": 737,
+			"listed_count": 301,
+			"created_at": "Thu Jan 22 13:43:22 +0000 2009",
+			"favourites_count": 10863,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CFCFCF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1255877792140595200/dUHFH2uJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1255877792140595200/dUHFH2uJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19338407/1582908631",
+			"profile_link_color": "619DE6",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "ECFFD6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 19,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Interested in building Apps on top of Google Architecture without using code?\n\nLatest episode of Totally Unscripted with the founder of AppSheet, @mhawksey, @chasmaxson, @SteveWebster22 and @cschalk  is a must watch 👇👇\n\nhttps://t.co/pZjTwQzGAU\n\n#AppSheet #GoogleSheets #NoCode"
+	},
+	{
 		"created_at": "Thu Nov 19 13:14:47 +0000 2020",
 		"id": 1329412810489680000,
 		"id_str": "1329412810489679874",
