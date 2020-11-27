@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 26 22:14:33 +0000 2020",
+		"id": 1331638286004093000,
+		"id_str": "1332085361510637570",
+		"full_text": "Alexa Rank Tracker built in Google Sheets with formulas and Google Apps Script – https://t.co/ckczKbOIB9 by @benlcollins (contributed by @mhawksey) #GoogleWorkspace @WorkspaceDevs #GoogleAppsScript #AppsScript https://t.co/Z0WoVcAKV0 https://t.co/rz9sZdSKEG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleWorkspace",
+					"indices": [
+						148,
+						164
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						180,
+						197
+					]
+				},
+				{
+					"text": "AppsScript",
+					"indices": [
+						198,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "benlcollins",
+					"name": "Ben Collins",
+					"id": 19338407,
+					"id_str": "19338407",
+					"indices": [
+						108,
+						120
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey #altc",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						137,
+						146
+					]
+				},
+				{
+					"screen_name": "workspacedevs",
+					"name": "Google Workspace Developers",
+					"id": 111197966,
+					"id_str": "111197966",
+					"indices": [
+						165,
+						179
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ckczKbOIB9",
+					"expanded_url": "http://bencollins.com",
+					"display_url": "bencollins.com",
+					"indices": [
+						81,
+						104
+					]
+				},
+				{
+					"url": "https://t.co/Z0WoVcAKV0",
+					"expanded_url": "https://pulse.appsscript.info/p/2020/11/alexa-rank-tracker-built-in-google-sheets-with-formulas-and-google-apps-script-bencollins-com/",
+					"display_url": "pulse.appsscript.info/p/2020/11/alex…",
+					"indices": [
+						210,
+						233
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1331638284468904000,
+					"id_str": "1331638284468903936",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/Enrt9uMUYAAxo43.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Enrt9uMUYAAxo43.jpg",
+					"url": "https://t.co/rz9sZdSKEG",
+					"display_url": "pic.twitter.com/rz9sZdSKEG",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1331638286004092928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 290,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 436,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 436,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1331638284468904000,
+					"id_str": "1331638284468903936",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/Enrt9uMUYAAxo43.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Enrt9uMUYAAxo43.jpg",
+					"url": "https://t.co/rz9sZdSKEG",
+					"display_url": "pic.twitter.com/rz9sZdSKEG",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1331638286004092928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 290,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 436,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 436,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322526439,
+			"id_str": "322526439",
+			"name": "AppsScriptInfo",
+			"screen_name": "AppsScriptInfo",
+			"location": "World",
+			"description": "A Google Apps Script Community account to support Google Workspace Devs. Curated by @mhawksey",
+			"url": "https://t.co/pEqPAHFH4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEqPAHFH4F",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1003,
+			"friends_count": 1082,
+			"listed_count": 27,
+			"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+			"favourites_count": 592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2019,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+			"profile_link_color": "4286F4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Alexa Rank Tracker built in Google Sheets with formulas and Google Apps Script – https://t.co/ckczKbOIB9 by @benlcollins (contributed by @mhawksey) #GoogleWorkspace @WorkspaceDevs #GoogleAppsScript #AppsScript https://t.co/Z0WoVcAKV0 https://t.co/rz9sZdSKEG"
+	},
+	{
 		"created_at": "Wed Nov 25 16:47:53 +0000 2020",
 		"id": 1331640765081116700,
 		"id_str": "1331640765081116672",
