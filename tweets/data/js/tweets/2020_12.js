@@ -1,6 +1,629 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 09 21:41:11 +0000 2020",
+		"id": 1336788003562401800,
+		"id_str": "1336788003562401795",
+		"full_text": "This is a nice solution for #GoogleAppsScript/#GoogleSheet users https://t.co/vZVJkiFsQM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						28,
+						45
+					]
+				},
+				{
+					"text": "GoogleSheet",
+					"indices": [
+						46,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vZVJkiFsQM",
+					"expanded_url": "https://twitter.com/duizendstra/status/1336704506961276930",
+					"display_url": "twitter.com/duizendstra/st…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert in #GoogleAppsScript | Interests: EdTech Explorer, Open Education, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9035,
+			"friends_count": 2657,
+			"listed_count": 601,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1336704506961277000,
+		"quoted_status_id_str": "1336704506961276930",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vZVJkiFsQM",
+			"expanded": "https://twitter.com/duizendstra/status/1336704506961276930",
+			"display": "twitter.com/duizendstra/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 09 16:09:23 +0000 2020",
+			"id": 1336704506961277000,
+			"id_str": "1336704506961276930",
+			"full_text": "I just published How to write a custom function library for Google Sheets https://t.co/yCsvm4ZQGK \n#AppsScript",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				110
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AppsScript",
+						"indices": [
+							99,
+							110
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/yCsvm4ZQGK",
+						"expanded_url": "https://link.medium.com/xUhzl4n14bb",
+						"display_url": "link.medium.com/xUhzl4n14bb",
+						"indices": [
+							74,
+							97
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 11434912,
+				"id_str": "11434912",
+				"name": "Duizendstra",
+				"screen_name": "duizendstra",
+				"location": "Netherlands",
+				"description": "Freelance Google Cloud Architect | G Suite Google Developer Expert",
+				"url": "http://t.co/Q4p39XFRm6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Q4p39XFRm6",
+								"expanded_url": "http://www.duizendstra.com",
+								"display_url": "duizendstra.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 149,
+				"friends_count": 192,
+				"listed_count": 9,
+				"created_at": "Sat Dec 22 16:32:55 +0000 2007",
+				"favourites_count": 194,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 123,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/922059498897969152/vS7m8Ixb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/922059498897969152/vS7m8Ixb_normal.jpg",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is a nice solution for #GoogleAppsScript/#GoogleSheet users https://t.co/vZVJkiFsQM"
+	},
+	{
+		"created_at": "Wed Dec 09 15:23:31 +0000 2020",
+		"id": 1336692960759603200,
+		"id_str": "1336692960759603200",
+		"full_text": "@jar @anwstirling @amcollier @Pgogy @UoE_EFI Congrats on getting this our there under such challenging circumstances &lt;big tick&gt; :)",
+		"truncated": false,
+		"display_text_range": [
+			45,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jar",
+					"name": "Jen Ross",
+					"id": 1350231,
+					"id_str": "1350231",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"screen_name": "anwstirling",
+					"name": "Anna Wilson",
+					"id": 2421954108,
+					"id_str": "2421954108",
+					"indices": [
+						5,
+						17
+					]
+				},
+				{
+					"screen_name": "amcollier",
+					"name": "Anne of Green Mountains",
+					"id": 17300374,
+					"id_str": "17300374",
+					"indices": [
+						18,
+						28
+					]
+				},
+				{
+					"screen_name": "Pgogy",
+					"name": "Pgogy WebStuff",
+					"id": 291323178,
+					"id_str": "291323178",
+					"indices": [
+						29,
+						35
+					]
+				},
+				{
+					"screen_name": "UoE_EFI",
+					"name": "Edinburgh Futures Institute",
+					"id": 865613814733176800,
+					"id_str": "865613814733176834",
+					"indices": [
+						36,
+						44
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1336684380559978500,
+		"in_reply_to_status_id_str": "1336684380559978496",
+		"in_reply_to_user_id": 1350231,
+		"in_reply_to_user_id_str": "1350231",
+		"in_reply_to_screen_name": "jar",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert in #GoogleAppsScript | Interests: EdTech Explorer, Open Education, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9035,
+			"friends_count": 2657,
+			"listed_count": 601,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jar @anwstirling @amcollier @Pgogy @UoE_EFI Congrats on getting this our there under such challenging circumstances &lt;big tick&gt; :)"
+	},
+	{
+		"created_at": "Wed Dec 09 10:56:32 +0000 2020",
+		"id": 1336624641759015000,
+		"id_str": "1336625773285961728",
+		"full_text": "How to get the most out of the new Google Apps Script debugger and logging by @duizendstra (contributed by @mhawksey) #GoogleWorkspace @WorkspaceDevs #GoogleAppsScript #AppsScript https://t.co/y44H04xSP9 https://t.co/9S2btUM8yh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleWorkspace",
+					"indices": [
+						118,
+						134
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						150,
+						167
+					]
+				},
+				{
+					"text": "AppsScript",
+					"indices": [
+						168,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "duizendstra",
+					"name": "Duizendstra",
+					"id": 11434912,
+					"id_str": "11434912",
+					"indices": [
+						78,
+						90
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey #altc",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						107,
+						116
+					]
+				},
+				{
+					"screen_name": "workspacedevs",
+					"name": "Google Workspace Developers",
+					"id": 111197966,
+					"id_str": "111197966",
+					"indices": [
+						135,
+						149
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/y44H04xSP9",
+					"expanded_url": "https://pulse.appsscript.info/p/2020/12/how-to-get-the-most-out-of-the-new-google-apps-script-debugger-and-logging/",
+					"display_url": "pulse.appsscript.info/p/2020/12/how-…",
+					"indices": [
+						180,
+						203
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1336624640009982000,
+					"id_str": "1336624640009981952",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/EoylB0HUUAAJbre.png",
+					"media_url_https": "https://pbs.twimg.com/media/EoylB0HUUAAJbre.png",
+					"url": "https://t.co/9S2btUM8yh",
+					"display_url": "pic.twitter.com/9S2btUM8yh",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1336624641759014915/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 884,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 519,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 884,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336624640009982000,
+					"id_str": "1336624640009981952",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/EoylB0HUUAAJbre.png",
+					"media_url_https": "https://pbs.twimg.com/media/EoylB0HUUAAJbre.png",
+					"url": "https://t.co/9S2btUM8yh",
+					"display_url": "pic.twitter.com/9S2btUM8yh",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1336624641759014915/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 884,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 519,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 884,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322526439,
+			"id_str": "322526439",
+			"name": "AppsScriptInfo",
+			"screen_name": "AppsScriptInfo",
+			"location": "World",
+			"description": "A Google Apps Script Community account to support Google Workspace Devs. Curated by @mhawksey",
+			"url": "https://t.co/pEqPAHFH4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEqPAHFH4F",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1024,
+			"friends_count": 1101,
+			"listed_count": 31,
+			"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+			"favourites_count": 612,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+			"profile_link_color": "4286F4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How to get the most out of the new Google Apps Script debugger and logging by @duizendstra (contributed by @mhawksey) #GoogleWorkspace @WorkspaceDevs #GoogleAppsScript #AppsScript https://t.co/y44H04xSP9 https://t.co/9S2btUM8yh"
+	},
+	{
 		"created_at": "Tue Dec 08 16:13:01 +0000 2020",
 		"id": 1336339718758301700,
 		"id_str": "1336343032849813504",
