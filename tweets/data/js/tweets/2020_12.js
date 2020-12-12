@@ -1,6 +1,324 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 11 09:14:07 +0000 2020",
+		"id": 1337314488786301000,
+		"id_str": "1337324776625479680",
+		"full_text": "Two and a half hours til the copyright party starts with @AndeeWallace @CultureDoug @cbowiemorrison @jsecker and @mhawksey https://t.co/5VHE7agzbp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AndeeWallace",
+					"name": "Dr. Andrea Wallace",
+					"id": 3148428545,
+					"id_str": "3148428545",
+					"indices": [
+						57,
+						70
+					]
+				},
+				{
+					"screen_name": "CultureDoug",
+					"name": "Douglas McCarthy",
+					"id": 727848992936177700,
+					"id_str": "727848992936177664",
+					"indices": [
+						71,
+						83
+					]
+				},
+				{
+					"screen_name": "cbowiemorrison",
+					"name": "Chris Morrison ©️🤓",
+					"id": 14920483,
+					"id_str": "14920483",
+					"indices": [
+						84,
+						99
+					]
+				},
+				{
+					"screen_name": "jsecker",
+					"name": "Dr Jane Secker",
+					"id": 20975165,
+					"id_str": "20975165",
+					"indices": [
+						100,
+						108
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey #altc",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						113,
+						122
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5VHE7agzbp",
+					"expanded_url": "https://twitter.com/jsecker/status/1336969089932259331",
+					"display_url": "twitter.com/jsecker/status…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3865085596,
+			"id_str": "3865085596",
+			"name": "UK CopyrightLiteracy",
+			"screen_name": "UKCopyrightLit",
+			"location": "England, United Kingdom",
+			"description": "Fostering an understanding of copyright law, licences and exceptions to empower humanity. Tweets by @jsecker and @cbowiemorrison.",
+			"url": "https://t.co/IhWuccsjee",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IhWuccsjee",
+							"expanded_url": "http://copyrightliteracy.org",
+							"display_url": "copyrightliteracy.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1941,
+			"friends_count": 862,
+			"listed_count": 83,
+			"created_at": "Sun Oct 04 21:00:19 +0000 2015",
+			"favourites_count": 3474,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7011,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080405679926579201/3EdSv61M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080405679926579201/3EdSv61M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3865085596/1444855210",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1336969089932259300,
+		"quoted_status_id_str": "1336969089932259331",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5VHE7agzbp",
+			"expanded": "https://twitter.com/jsecker/status/1336969089932259331",
+			"display": "twitter.com/jsecker/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 10 09:40:45 +0000 2020",
+			"id": 1336969089932259300,
+			"id_str": "1336969089932259331",
+			"full_text": "Looking forward to tomorrow's webinar on #OpenGLAM with @CultureDoug and @AndeeWallace hosted by @cbowiemorrison and me and @A_L_T - join us at 11am GMT: https://t.co/g2eupNd75c",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				177
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OpenGLAM",
+						"indices": [
+							41,
+							50
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CultureDoug",
+						"name": "Douglas McCarthy",
+						"id": 727848992936177700,
+						"id_str": "727848992936177664",
+						"indices": [
+							56,
+							68
+						]
+					},
+					{
+						"screen_name": "AndeeWallace",
+						"name": "Dr. Andrea Wallace",
+						"id": 3148428545,
+						"id_str": "3148428545",
+						"indices": [
+							73,
+							86
+						]
+					},
+					{
+						"screen_name": "cbowiemorrison",
+						"name": "Chris Morrison ©️🤓",
+						"id": 14920483,
+						"id_str": "14920483",
+						"indices": [
+							97,
+							112
+						]
+					},
+					{
+						"screen_name": "A_L_T",
+						"name": "ALT - alt.ac.uk",
+						"id": 41210876,
+						"id_str": "41210876",
+						"indices": [
+							124,
+							130
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/g2eupNd75c",
+						"expanded_url": "https://copyrightliteracy.org/2020/12/10/copyright-and-open-glam-join-us-for-a-webinar-this-friday/",
+						"display_url": "copyrightliteracy.org/2020/12/10/cop…",
+						"indices": [
+							154,
+							177
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20975165,
+				"id_str": "20975165",
+				"name": "Dr Jane Secker",
+				"screen_name": "jsecker",
+				"location": "London",
+				"description": "Senior Lecturer in Ed Development. SFHEA. Online learning, information & digital literacy, copyright education. Chair of CILIP Information Literacy Group.",
+				"url": "https://t.co/zjkM1hPT3G",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zjkM1hPT3G",
+								"expanded_url": "http://janesecker.wordpress.com/",
+								"display_url": "janesecker.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5259,
+				"friends_count": 1842,
+				"listed_count": 278,
+				"created_at": "Mon Feb 16 10:21:36 +0000 2009",
+				"favourites_count": 16836,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 21505,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/908824528847036416/9RfPeAFF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/908824528847036416/9RfPeAFF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20975165/1588597535",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Two and a half hours til the copyright party starts with @AndeeWallace @CultureDoug @cbowiemorrison @jsecker and @mhawksey https://t.co/5VHE7agzbp"
+	},
+	{
 		"created_at": "Thu Dec 10 22:11:12 +0000 2020",
 		"id": 1337157948523556900,
 		"id_str": "1337157948523556865",
