@@ -1,6 +1,1104 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 15 21:24:06 +0000 2020",
+		"id": 1338958032550719500,
+		"id_str": "1338958032550719489",
+		"full_text": "@benlcollins @alicekeeler @labnol @andrewroberts6 @CinFourThirds @ivankutil @jglassenberg @BrawerMD @pfelipm @schoraria911 @st3phcloud @SteveWebster22 @tanabee_en @chasmaxson Those crazy surreal days of sitting next to people and physical meetups 😋 Great memories from Next - hopefully those days will return https://t.co/wrTHQVj1xd",
+		"truncated": false,
+		"display_text_range": [
+			175,
+			308
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "benlcollins",
+					"name": "Ben Collins",
+					"id": 19338407,
+					"id_str": "19338407",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "alicekeeler",
+					"name": "Alice Keeler",
+					"id": 200715240,
+					"id_str": "200715240",
+					"indices": [
+						13,
+						25
+					]
+				},
+				{
+					"screen_name": "labnol",
+					"name": "Amit Agarwal",
+					"id": 724473,
+					"id_str": "724473",
+					"indices": [
+						26,
+						33
+					]
+				},
+				{
+					"screen_name": "andrewroberts6",
+					"name": "Andrew Roberts",
+					"id": 51273924,
+					"id_str": "51273924",
+					"indices": [
+						34,
+						49
+					]
+				},
+				{
+					"screen_name": "CinFourThirds",
+					"name": "Cleo",
+					"id": 1868737826,
+					"id_str": "1868737826",
+					"indices": [
+						50,
+						64
+					]
+				},
+				{
+					"screen_name": "ivankutil",
+					"name": "Ivan Kutil",
+					"id": 171220030,
+					"id_str": "171220030",
+					"indices": [
+						65,
+						75
+					]
+				},
+				{
+					"screen_name": "jglassenberg",
+					"name": "Jeremy Glassenberg",
+					"id": 6442842,
+					"id_str": "6442842",
+					"indices": [
+						76,
+						89
+					]
+				},
+				{
+					"screen_name": "BrawerMD",
+					"name": "Max Brawer",
+					"id": 25871162,
+					"id_str": "25871162",
+					"indices": [
+						90,
+						99
+					]
+				},
+				{
+					"screen_name": "pfelipm",
+					"name": "Pablo Felip",
+					"id": 127973484,
+					"id_str": "127973484",
+					"indices": [
+						100,
+						108
+					]
+				},
+				{
+					"screen_name": "schoraria911",
+					"name": "Sourabh Choraria",
+					"id": 1145333591867453400,
+					"id_str": "1145333591867453440",
+					"indices": [
+						109,
+						122
+					]
+				},
+				{
+					"screen_name": "st3phcloud",
+					"name": "Stéphane Giron",
+					"id": 915246906560979000,
+					"id_str": "915246906560978944",
+					"indices": [
+						123,
+						134
+					]
+				},
+				{
+					"screen_name": "SteveWebster22",
+					"name": "Steve Webster",
+					"id": 3431975507,
+					"id_str": "3431975507",
+					"indices": [
+						135,
+						150
+					]
+				},
+				{
+					"screen_name": "tanabee_en",
+					"name": "tanabee",
+					"id": 1123525435445301200,
+					"id_str": "1123525435445301249",
+					"indices": [
+						151,
+						162
+					]
+				},
+				{
+					"screen_name": "chasmaxson",
+					"name": "Charles Maxson",
+					"id": 993937566029115400,
+					"id_str": "993937566029115393",
+					"indices": [
+						163,
+						174
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1338958030008934400,
+					"id_str": "1338958030008934407",
+					"indices": [
+						309,
+						332
+					],
+					"media_url": "http://pbs.twimg.com/media/EpTvO_PW4Acj1Xp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpTvO_PW4Acj1Xp.jpg",
+					"url": "https://t.co/wrTHQVj1xd",
+					"display_url": "pic.twitter.com/wrTHQVj1xd",
+					"expanded_url": "https://twitter.com/mhawksey/status/1338958032550719489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 820,
+							"h": 615,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 820,
+							"h": 615,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338958030008934400,
+					"id_str": "1338958030008934407",
+					"indices": [
+						309,
+						332
+					],
+					"media_url": "http://pbs.twimg.com/media/EpTvO_PW4Acj1Xp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpTvO_PW4Acj1Xp.jpg",
+					"url": "https://t.co/wrTHQVj1xd",
+					"display_url": "pic.twitter.com/wrTHQVj1xd",
+					"expanded_url": "https://twitter.com/mhawksey/status/1338958032550719489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 820,
+							"h": 615,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 820,
+							"h": 615,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1338954816454856700,
+		"in_reply_to_status_id_str": "1338954816454856704",
+		"in_reply_to_user_id": 19338407,
+		"in_reply_to_user_id_str": "19338407",
+		"in_reply_to_screen_name": "benlcollins",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert in #GoogleAppsScript | Interests: EdTech Explorer, Open Education, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9035,
+			"friends_count": 2657,
+			"listed_count": 600,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@benlcollins @alicekeeler @labnol @andrewroberts6 @CinFourThirds @ivankutil @jglassenberg @BrawerMD @pfelipm @schoraria911 @st3phcloud @SteveWebster22 @tanabee_en @chasmaxson Those crazy surreal days of sitting next to people and physical meetups 😋 Great memories from Next - hopefully those days will return https://t.co/wrTHQVj1xd"
+	},
+	{
+		"created_at": "Tue Dec 15 20:40:43 +0000 2020",
+		"id": 1338944582923522000,
+		"id_str": "1338947117323313152",
+		"full_text": "The Totally Unscripted 'podcast version' hosted by @mhawksey, @SteveWebster22 and @chasmaxson makes it into the @_feedspot Top 25 Google Podcasts https://t.co/Qs6Rj1H36C #GoogleAppsScript #GoogleWorkspace #GoogleWorkspaceDevelopers",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						170,
+						187
+					]
+				},
+				{
+					"text": "GoogleWorkspace",
+					"indices": [
+						188,
+						204
+					]
+				},
+				{
+					"text": "GoogleWorkspaceDevelopers",
+					"indices": [
+						205,
+						231
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey #altc",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						51,
+						60
+					]
+				},
+				{
+					"screen_name": "SteveWebster22",
+					"name": "Steve Webster",
+					"id": 3431975507,
+					"id_str": "3431975507",
+					"indices": [
+						62,
+						77
+					]
+				},
+				{
+					"screen_name": "chasmaxson",
+					"name": "Charles Maxson",
+					"id": 993937566029115400,
+					"id_str": "993937566029115393",
+					"indices": [
+						82,
+						93
+					]
+				},
+				{
+					"screen_name": "_feedspot",
+					"name": "Feedspot",
+					"id": 718606183,
+					"id_str": "718606183",
+					"indices": [
+						112,
+						122
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Qs6Rj1H36C",
+					"expanded_url": "https://blog.feedspot.com/google_podcasts/",
+					"display_url": "blog.feedspot.com/google_podcast…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322526439,
+			"id_str": "322526439",
+			"name": "AppsScriptInfo",
+			"screen_name": "AppsScriptInfo",
+			"location": "World",
+			"description": "A Google Apps Script Community account to support Google Workspace Devs. Curated by @mhawksey",
+			"url": "https://t.co/pEqPAHFH4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEqPAHFH4F",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1036,
+			"friends_count": 1106,
+			"listed_count": 34,
+			"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+			"favourites_count": 615,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+			"profile_link_color": "4286F4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Totally Unscripted 'podcast version' hosted by @mhawksey, @SteveWebster22 and @chasmaxson makes it into the @_feedspot Top 25 Google Podcasts https://t.co/Qs6Rj1H36C #GoogleAppsScript #GoogleWorkspace #GoogleWorkspaceDevelopers"
+	},
+	{
+		"created_at": "Tue Dec 15 20:40:11 +0000 2020",
+		"id": 1338946983021727700,
+		"id_str": "1338946983021727745",
+		"full_text": "A lovely community of people I find myself associated with-if you ❤#GoogleAppsScript 👇\n@alicekeeler @labnol @andrewroberts6 @benlcollins, @CinFourThirds @ivankutil @jglassenberg @BrawerMD @pfelipm @schoraria911  @st3phcloud @SteveWebster22  @tanaikech @tanabee_en (+@chasmaxson) https://t.co/KcEx4Ih8rs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						67,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alicekeeler",
+					"name": "Alice Keeler",
+					"id": 200715240,
+					"id_str": "200715240",
+					"indices": [
+						87,
+						99
+					]
+				},
+				{
+					"screen_name": "labnol",
+					"name": "Amit Agarwal",
+					"id": 724473,
+					"id_str": "724473",
+					"indices": [
+						100,
+						107
+					]
+				},
+				{
+					"screen_name": "andrewroberts6",
+					"name": "Andrew Roberts",
+					"id": 51273924,
+					"id_str": "51273924",
+					"indices": [
+						108,
+						123
+					]
+				},
+				{
+					"screen_name": "benlcollins",
+					"name": "Ben Collins",
+					"id": 19338407,
+					"id_str": "19338407",
+					"indices": [
+						124,
+						136
+					]
+				},
+				{
+					"screen_name": "CinFourThirds",
+					"name": "Cleo",
+					"id": 1868737826,
+					"id_str": "1868737826",
+					"indices": [
+						138,
+						152
+					]
+				},
+				{
+					"screen_name": "ivankutil",
+					"name": "Ivan Kutil",
+					"id": 171220030,
+					"id_str": "171220030",
+					"indices": [
+						153,
+						163
+					]
+				},
+				{
+					"screen_name": "jglassenberg",
+					"name": "Jeremy Glassenberg",
+					"id": 6442842,
+					"id_str": "6442842",
+					"indices": [
+						164,
+						177
+					]
+				},
+				{
+					"screen_name": "BrawerMD",
+					"name": "Max Brawer",
+					"id": 25871162,
+					"id_str": "25871162",
+					"indices": [
+						178,
+						187
+					]
+				},
+				{
+					"screen_name": "pfelipm",
+					"name": "Pablo Felip",
+					"id": 127973484,
+					"id_str": "127973484",
+					"indices": [
+						188,
+						196
+					]
+				},
+				{
+					"screen_name": "schoraria911",
+					"name": "Sourabh Choraria",
+					"id": 1145333591867453400,
+					"id_str": "1145333591867453440",
+					"indices": [
+						197,
+						210
+					]
+				},
+				{
+					"screen_name": "st3phcloud",
+					"name": "Stéphane Giron",
+					"id": 915246906560979000,
+					"id_str": "915246906560978944",
+					"indices": [
+						212,
+						223
+					]
+				},
+				{
+					"screen_name": "SteveWebster22",
+					"name": "Steve Webster",
+					"id": 3431975507,
+					"id_str": "3431975507",
+					"indices": [
+						224,
+						239
+					]
+				},
+				{
+					"screen_name": "tanabee_en",
+					"name": "tanabee",
+					"id": 1123525435445301200,
+					"id_str": "1123525435445301249",
+					"indices": [
+						252,
+						263
+					]
+				},
+				{
+					"screen_name": "chasmaxson",
+					"name": "Charles Maxson",
+					"id": 993937566029115400,
+					"id_str": "993937566029115393",
+					"indices": [
+						266,
+						277
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KcEx4Ih8rs",
+					"expanded_url": "https://twitter.com/googledevs/status/1338553623077253120",
+					"display_url": "twitter.com/googledevs/sta…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert in #GoogleAppsScript | Interests: EdTech Explorer, Open Education, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9035,
+			"friends_count": 2657,
+			"listed_count": 600,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1338553623077253000,
+		"quoted_status_id_str": "1338553623077253120",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KcEx4Ih8rs",
+			"expanded": "https://twitter.com/googledevs/status/1338553623077253120",
+			"display": "twitter.com/googledevs/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 14 18:37:07 +0000 2020",
+			"id": 1338553623077253000,
+			"id_str": "1338553623077253120",
+			"full_text": "👋 How about a proper introduction\n\nMeet the Google Workspace Developer Experts, a global network of experienced technology experts, thought leaders, and influencers who actively support developer communities around the world.\n\nGet to know the team ↓ https://t.co/G5tBsiocPZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/G5tBsiocPZ",
+						"expanded_url": "https://goo.gle/3nmMndC",
+						"display_url": "goo.gle/3nmMndC",
+						"indices": [
+							250,
+							273
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 50090898,
+				"id_str": "50090898",
+				"name": "Google Developers",
+				"screen_name": "googledevs",
+				"location": "",
+				"description": "Now serving 2 Million subscribers on YouTube. Thanks for tuning in! https://t.co/PecU8JeURq",
+				"url": "http://t.co/aBJokfscjb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/aBJokfscjb",
+								"expanded_url": "http://developers.google.com",
+								"display_url": "developers.google.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/PecU8JeURq",
+								"expanded_url": "http://g.co/dev/youtube",
+								"display_url": "g.co/dev/youtube",
+								"indices": [
+									68,
+									91
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2383503,
+				"friends_count": 307,
+				"listed_count": 16859,
+				"created_at": "Tue Jun 23 20:25:29 +0000 2009",
+				"favourites_count": 1490,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6509,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1111670607026884609/ma2jqJKH_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111670607026884609/ma2jqJKH_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/50090898/1607631636",
+				"profile_link_color": "4585F1",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E6E8EB",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 90,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A lovely community of people I find myself associated with-if you ❤#GoogleAppsScript 👇\n@alicekeeler @labnol @andrewroberts6 @benlcollins, @CinFourThirds @ivankutil @jglassenberg @BrawerMD @pfelipm @schoraria911  @st3phcloud @SteveWebster22  @tanaikech @tanabee_en (+@chasmaxson) https://t.co/KcEx4Ih8rs"
+	},
+	{
+		"created_at": "Tue Dec 15 10:55:41 +0000 2020",
+		"id": 1338792677664456700,
+		"id_str": "1338799885542453248",
+		"full_text": "Deploy easily with the new Google Apps Script IDE by @romain_vialard (contributed by @mhawksey) #GoogleWorkspace @WorkspaceDevs #GoogleAppsScript #AppsScript https://t.co/jmhduM4ctU https://t.co/rXmuzlsebd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleWorkspace",
+					"indices": [
+						96,
+						112
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						128,
+						145
+					]
+				},
+				{
+					"text": "AppsScript",
+					"indices": [
+						146,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "romain_vialard",
+					"name": "Romain Vialard",
+					"id": 915472590118035500,
+					"id_str": "915472590118035456",
+					"indices": [
+						53,
+						68
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey #altc",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						85,
+						94
+					]
+				},
+				{
+					"screen_name": "workspacedevs",
+					"name": "Google Workspace Developers",
+					"id": 111197966,
+					"id_str": "111197966",
+					"indices": [
+						113,
+						127
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jmhduM4ctU",
+					"expanded_url": "https://pulse.appsscript.info/p/2020/12/deploy-easily-with-the-new-google-apps-script-ide/",
+					"display_url": "pulse.appsscript.info/p/2020/12/depl…",
+					"indices": [
+						158,
+						181
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1338792675831554000,
+					"id_str": "1338792675831554051",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/EpRY2G7VoAMHwY1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpRY2G7VoAMHwY1.jpg",
+					"url": "https://t.co/rXmuzlsebd",
+					"display_url": "pic.twitter.com/rXmuzlsebd",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1338792677664456705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1896,
+							"h": 575,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 206,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338792675831554000,
+					"id_str": "1338792675831554051",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/EpRY2G7VoAMHwY1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpRY2G7VoAMHwY1.jpg",
+					"url": "https://t.co/rXmuzlsebd",
+					"display_url": "pic.twitter.com/rXmuzlsebd",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1338792677664456705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1896,
+							"h": 575,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 206,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322526439,
+			"id_str": "322526439",
+			"name": "AppsScriptInfo",
+			"screen_name": "AppsScriptInfo",
+			"location": "World",
+			"description": "A Google Apps Script Community account to support Google Workspace Devs. Curated by @mhawksey",
+			"url": "https://t.co/pEqPAHFH4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEqPAHFH4F",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1036,
+			"friends_count": 1106,
+			"listed_count": 34,
+			"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+			"favourites_count": 615,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+			"profile_link_color": "4286F4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Deploy easily with the new Google Apps Script IDE by @romain_vialard (contributed by @mhawksey) #GoogleWorkspace @WorkspaceDevs #GoogleAppsScript #AppsScript https://t.co/jmhduM4ctU https://t.co/rXmuzlsebd"
+	},
+	{
 		"created_at": "Mon Dec 14 21:55:27 +0000 2020",
 		"id": 1338603537249546200,
 		"id_str": "1338603537249546243",
