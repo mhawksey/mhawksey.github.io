@@ -1,6 +1,374 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 15 22:46:37 +0000 2021",
+		"id": 1350212821938745300,
+		"id_str": "1350212821938745345",
+		"full_text": "@reginaldjsmith Cell headings in row 1?",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "reginaldjsmith",
+					"name": "Reginald J. Smith",
+					"id": 26302931,
+					"id_str": "26302931",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1350199734225547300,
+		"in_reply_to_status_id_str": "1350199734225547268",
+		"in_reply_to_user_id": 26302931,
+		"in_reply_to_user_id_str": "26302931",
+		"in_reply_to_screen_name": "reginaldjsmith",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Comm & Tech @A_L_T | @GoogleDevExpert in #GoogleAppsScript | Interests: EdTech Explorer, Open Education, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9055,
+			"friends_count": 2665,
+			"listed_count": 598,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7295,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30481,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@reginaldjsmith Cell headings in row 1?"
+	},
+	{
+		"created_at": "Fri Jan 15 22:45:15 +0000 2021",
+		"id": 1349853103588339700,
+		"id_str": "1350212477397696513",
+		"full_text": "Wow, it's come around quickly!\n\nTime to mark off your calendars for #SheetsCon2021!!!\n\nOn 24th/25th March 2021.\n\nYou don't want to miss the #GoogleSheets Event of the Year 😃 https://t.co/M0pYmNn5EH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SheetsCon2021",
+					"indices": [
+						68,
+						82
+					]
+				},
+				{
+					"text": "GoogleSheets",
+					"indices": [
+						140,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M0pYmNn5EH",
+					"expanded_url": "https://twitter.com/SheetsConEvent/status/1349852202974720000",
+					"display_url": "twitter.com/SheetsConEvent…",
+					"indices": [
+						174,
+						197
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19338407,
+			"id_str": "19338407",
+			"name": "Ben Collins",
+			"screen_name": "benlcollins",
+			"location": "East Coast, USA",
+			"description": "Teach at https://t.co/UXcar5Uxsr\n\nCreator of https://t.co/IMvxbynrzD\n\nGoogle Sheets tips: https://t.co/hZRxGnPcjf\n\nAlways learning!",
+			"url": "https://t.co/o6jYXCCEFq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o6jYXCCEFq",
+							"expanded_url": "http://benlcollins.com",
+							"display_url": "benlcollins.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXcar5Uxsr",
+							"expanded_url": "http://courses.benlcollins.com",
+							"display_url": "courses.benlcollins.com",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/IMvxbynrzD",
+							"expanded_url": "http://sheetscon.com",
+							"display_url": "sheetscon.com",
+							"indices": [
+								45,
+								68
+							]
+						},
+						{
+							"url": "https://t.co/hZRxGnPcjf",
+							"expanded_url": "https://www.benlcollins.com/google-sheets-tips/",
+							"display_url": "benlcollins.com/google-sheets-…",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5741,
+			"friends_count": 775,
+			"listed_count": 311,
+			"created_at": "Thu Jan 22 13:43:22 +0000 2009",
+			"favourites_count": 11480,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10059,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CFCFCF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1255877792140595200/dUHFH2uJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1255877792140595200/dUHFH2uJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19338407/1582908631",
+			"profile_link_color": "619DE6",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "ECFFD6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1349852202974720000,
+		"quoted_status_id_str": "1349852202974720000",
+		"quoted_status_permalink": {
+			"url": "https://t.co/M0pYmNn5EH",
+			"expanded": "https://twitter.com/SheetsConEvent/status/1349852202974720000",
+			"display": "twitter.com/SheetsConEvent…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 14 22:53:38 +0000 2021",
+			"id": 1349852202974720000,
+			"id_str": "1349852202974720000",
+			"full_text": "Hey friends 👋\n\nMark your calendars for the #SheetsCon2021 event!\n\nWhat is it? \nFree online conference for all things #GoogleSheets \n\nWhen is it?\n24th/25th March 2021\n\nWhere is it?\nOnline!\n\nWhat does it cost?\nFree\n\n(Registration coming nearer the time. )",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				253
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SheetsCon2021",
+						"indices": [
+							43,
+							57
+						]
+					},
+					{
+						"text": "GoogleSheets",
+						"indices": [
+							117,
+							130
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1234919955067555800,
+				"id_str": "1234919955067555841",
+				"name": "SheetsCon",
+				"screen_name": "SheetsConEvent",
+				"location": "",
+				"description": "SheetsCon is the world's premier online conference for Google Sheets users. Live on 11th - 12th March 2020 | ONLINE & FREE | Register here: https://t.co/IMvxbynrzD",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/IMvxbynrzD",
+								"expanded_url": "http://sheetscon.com",
+								"display_url": "sheetscon.com",
+								"indices": [
+									140,
+									163
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 36,
+				"friends_count": 1,
+				"listed_count": 1,
+				"created_at": "Tue Mar 03 19:14:34 +0000 2020",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1234920216498495488/etudc9OF_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234920216498495488/etudc9OF_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1234919955067555841/1583263025",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wow, it's come around quickly!\n\nTime to mark off your calendars for #SheetsCon2021!!!\n\nOn 24th/25th March 2021.\n\nYou don't want to miss the #GoogleSheets Event of the Year 😃 https://t.co/M0pYmNn5EH"
+	},
+	{
 		"created_at": "Thu Jan 14 19:28:11 +0000 2021",
 		"id": 1349800462237790200,
 		"id_str": "1349800498401046538",
