@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sat Jan 16 16:08:39 +0000 2021",
+		"id": 1350474575679774700,
+		"id_str": "1350475058330927104",
+		"full_text": "TU3.7: A 2020 Google Apps Script recap for Google Workspace Devs - @mhawksey, @SteveWebster22 and @chasmaxson were joined by @olafhubel, @romain_vialard and @LifeOfSpy to look back at #WorkspaceDevs/#GoogleAppsScript announcements from 2020.  \n\nhttps://t.co/SEWjeh05zw https://t.co/28Q49pSqxZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WorkspaceDevs",
+					"indices": [
+						184,
+						198
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						199,
+						216
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey #altc",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						67,
+						76
+					]
+				},
+				{
+					"screen_name": "SteveWebster22",
+					"name": "Steve Webster",
+					"id": 3431975507,
+					"id_str": "3431975507",
+					"indices": [
+						78,
+						93
+					]
+				},
+				{
+					"screen_name": "chasmaxson",
+					"name": "Charles Maxson",
+					"id": 993937566029115400,
+					"id_str": "993937566029115393",
+					"indices": [
+						98,
+						109
+					]
+				},
+				{
+					"screen_name": "olafhubel",
+					"name": "Olaf Hubel",
+					"id": 7694462,
+					"id_str": "7694462",
+					"indices": [
+						125,
+						135
+					]
+				},
+				{
+					"screen_name": "romain_vialard",
+					"name": "Romain Vialard",
+					"id": 915472590118035500,
+					"id_str": "915472590118035456",
+					"indices": [
+						137,
+						152
+					]
+				},
+				{
+					"screen_name": "LifeOfSpy",
+					"name": "Yagisanatode",
+					"id": 2346078620,
+					"id_str": "2346078620",
+					"indices": [
+						157,
+						167
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SEWjeh05zw",
+					"expanded_url": "https://tu.appsscript.info/previous-episodes/season-3/tu3-7",
+					"display_url": "tu.appsscript.info/previous-episo…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1350474493467238400,
+					"id_str": "1350474493467238400",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/Er3ZZY1XIAAMXvZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Er3ZZY1XIAAMXvZ.jpg",
+					"url": "https://t.co/28Q49pSqxZ",
+					"display_url": "pic.twitter.com/28Q49pSqxZ",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1350474575679774720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1350474493467238400,
+					"id_str": "1350474493467238400",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/Er3ZZY1XIAAMXvZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Er3ZZY1XIAAMXvZ.jpg",
+					"url": "https://t.co/28Q49pSqxZ",
+					"display_url": "pic.twitter.com/28Q49pSqxZ",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1350474575679774720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322526439,
+			"id_str": "322526439",
+			"name": "AppsScriptInfo",
+			"screen_name": "AppsScriptInfo",
+			"location": "World",
+			"description": "A Google Apps Script Community account to support Google Workspace Devs. Curated by @mhawksey",
+			"url": "https://t.co/pEqPAHFH4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEqPAHFH4F",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1081,
+			"friends_count": 1128,
+			"listed_count": 35,
+			"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+			"favourites_count": 631,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2101,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+			"profile_link_color": "4286F4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TU3.7: A 2020 Google Apps Script recap for Google Workspace Devs - @mhawksey, @SteveWebster22 and @chasmaxson were joined by @olafhubel, @romain_vialard and @LifeOfSpy to look back at #WorkspaceDevs/#GoogleAppsScript announcements from 2020.  \n\nhttps://t.co/SEWjeh05zw https://t.co/28Q49pSqxZ"
+	},
+	{
 		"created_at": "Fri Jan 15 22:46:37 +0000 2021",
 		"id": 1350212821938745300,
 		"id_str": "1350212821938745345",
