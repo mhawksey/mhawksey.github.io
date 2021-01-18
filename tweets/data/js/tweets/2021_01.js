@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sun Jan 17 17:54:08 +0000 2021",
+		"id": 1350859943667122200,
+		"id_str": "1350863994618327043",
+		"full_text": "Google to offer free training courses in AI, Kubernetes and multi-cloud | IT PRO by @BobbyHellard (contributed by @mhawksey) #GoogleWorkspace @WorkspaceDevs #GoogleAppsScript #AppsScript https://t.co/LDE7dwfRt1 https://t.co/36f8SVM7ei",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleWorkspace",
+					"indices": [
+						125,
+						141
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						157,
+						174
+					]
+				},
+				{
+					"text": "AppsScript",
+					"indices": [
+						175,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BobbyHellard",
+					"name": "Bobby Hellard",
+					"id": 356764736,
+					"id_str": "356764736",
+					"indices": [
+						84,
+						97
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey #altc",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						114,
+						123
+					]
+				},
+				{
+					"screen_name": "workspacedevs",
+					"name": "Google Workspace Developers",
+					"id": 111197966,
+					"id_str": "111197966",
+					"indices": [
+						142,
+						156
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LDE7dwfRt1",
+					"expanded_url": "https://pulse.appsscript.info/p/2021/01/google-to-offer-free-training-courses-in-ai-kubernetes-and-multi-cloud-it-pro/",
+					"display_url": "pulse.appsscript.info/p/2021/01/goog…",
+					"indices": [
+						187,
+						210
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1350859941783904300,
+					"id_str": "1350859941783904257",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/Er839btVoAEWx10.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Er839btVoAEWx10.jpg",
+					"url": "https://t.co/36f8SVM7ei",
+					"display_url": "pic.twitter.com/36f8SVM7ei",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1350859943667122177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1900,
+							"h": 1010,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 361,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 638,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1350859941783904300,
+					"id_str": "1350859941783904257",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/Er839btVoAEWx10.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Er839btVoAEWx10.jpg",
+					"url": "https://t.co/36f8SVM7ei",
+					"display_url": "pic.twitter.com/36f8SVM7ei",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1350859943667122177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1900,
+							"h": 1010,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 361,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 638,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322526439,
+			"id_str": "322526439",
+			"name": "AppsScriptInfo",
+			"screen_name": "AppsScriptInfo",
+			"location": "World",
+			"description": "A Google Apps Script Community account to support Google Workspace Devs. Curated by @mhawksey",
+			"url": "https://t.co/pEqPAHFH4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEqPAHFH4F",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1084,
+			"friends_count": 1137,
+			"listed_count": 35,
+			"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+			"favourites_count": 635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+			"profile_link_color": "4286F4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Google to offer free training courses in AI, Kubernetes and multi-cloud | IT PRO by @BobbyHellard (contributed by @mhawksey) #GoogleWorkspace @WorkspaceDevs #GoogleAppsScript #AppsScript https://t.co/LDE7dwfRt1 https://t.co/36f8SVM7ei"
+	},
+	{
 		"created_at": "Sat Jan 16 16:08:39 +0000 2021",
 		"id": 1350474575679774700,
 		"id_str": "1350475058330927104",
