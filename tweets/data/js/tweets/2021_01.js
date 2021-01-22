@@ -1,6 +1,306 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 21 19:31:51 +0000 2021",
+		"id": 1352338015574761500,
+		"id_str": "1352338137247342592",
+		"full_text": "Join us live in 30mins as @mhawksey and @chasmaxson speak to Jon Harmer (Product Manager, Google Workspace) and Steven Bazyl (Developer Relations, Google Cloud) in 'Getting AMPed about Email'\n @workspacedevs #WorkspaceDevs #GoogleAppsScript https://t.co/9aPsWretC2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WorkspaceDevs",
+					"indices": [
+						208,
+						222
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						223,
+						240
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey #altc",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						26,
+						35
+					]
+				},
+				{
+					"screen_name": "chasmaxson",
+					"name": "Charles Maxson",
+					"id": 993937566029115400,
+					"id_str": "993937566029115393",
+					"indices": [
+						40,
+						51
+					]
+				},
+				{
+					"screen_name": "workspacedevs",
+					"name": "Google Workspace Developers",
+					"id": 111197966,
+					"id_str": "111197966",
+					"indices": [
+						193,
+						207
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9aPsWretC2",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1352290300094517249",
+					"display_url": "twitter.com/AppsScriptInfo…",
+					"indices": [
+						241,
+						264
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322526439,
+			"id_str": "322526439",
+			"name": "AppsScriptInfo",
+			"screen_name": "AppsScriptInfo",
+			"location": "World",
+			"description": "A Google Apps Script Community account to support Google Workspace Devs. Curated by @mhawksey",
+			"url": "https://t.co/pEqPAHFH4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEqPAHFH4F",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1097,
+			"friends_count": 1139,
+			"listed_count": 36,
+			"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+			"favourites_count": 636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2113,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+			"profile_link_color": "4286F4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1352290300094517200,
+		"quoted_status_id_str": "1352290300094517249",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9aPsWretC2",
+			"expanded": "https://twitter.com/AppsScriptInfo/status/1352290300094517249",
+			"display": "twitter.com/AppsScriptInfo…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 21 16:21:46 +0000 2021",
+			"id": 1352290300094517200,
+			"id_str": "1352290300094517249",
+			"full_text": "TU returns giving #WorkspaceDevs all they need to know to get AMPed with email. We'll by joined by @jharmer (Product Manager, Google Workspace) and @stevenbazyl (Developer Relations, Google Cloud) - Tune in at 1200PST / 1500EST / 2000UTC #GoogleAppsScript \nhttps://t.co/9hZCmolyrr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WorkspaceDevs",
+						"indices": [
+							18,
+							32
+						]
+					},
+					{
+						"text": "GoogleAppsScript",
+						"indices": [
+							238,
+							255
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jharmer",
+						"name": "Jon Harmer (@🏡)",
+						"id": 14193229,
+						"id_str": "14193229",
+						"indices": [
+							99,
+							107
+						]
+					},
+					{
+						"screen_name": "stevenbazyl",
+						"name": "Steven Bazyl",
+						"id": 73459030,
+						"id_str": "73459030",
+						"indices": [
+							148,
+							160
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/9hZCmolyrr",
+						"expanded_url": "https://www.youtube.com/watch?v=1OWbzfupBa8",
+						"display_url": "youtube.com/watch?v=1OWbzf…",
+						"indices": [
+							257,
+							280
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 322526439,
+				"id_str": "322526439",
+				"name": "AppsScriptInfo",
+				"screen_name": "AppsScriptInfo",
+				"location": "World",
+				"description": "A Google Apps Script Community account to support Google Workspace Devs. Curated by @mhawksey",
+				"url": "https://t.co/pEqPAHFH4F",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pEqPAHFH4F",
+								"expanded_url": "https://pulse.appsscript.info",
+								"display_url": "pulse.appsscript.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1097,
+				"friends_count": 1139,
+				"listed_count": 36,
+				"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+				"favourites_count": 636,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2113,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+				"profile_link_color": "4286F4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join us live in 30mins as @mhawksey and @chasmaxson speak to Jon Harmer (Product Manager, Google Workspace) and Steven Bazyl (Developer Relations, Google Cloud) in 'Getting AMPed about Email'\n @workspacedevs #WorkspaceDevs #GoogleAppsScript https://t.co/9aPsWretC2"
+	},
+	{
 		"created_at": "Wed Jan 20 19:26:44 +0000 2021",
 		"id": 1351974459750686700,
 		"id_str": "1351974459750686721",
