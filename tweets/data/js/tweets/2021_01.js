@@ -1,6 +1,411 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 29 10:18:56 +0000 2021",
+		"id": 1355079569397702700,
+		"id_str": "1355098091435798531",
+		"full_text": "For any teachers interested in using code to automate tasks and save time, watch this episode of Totally Unscripted 👇\nI learnt some #GoogleAppsScript and made this Meet link generator for Parents' Evening\n\nMake a copy at https://t.co/zBKzyHuZCY\n\n@alicekeeler @mhawksey @flubaroo https://t.co/EnJTMvzcVi https://t.co/6rvVVnnldD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			302
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						132,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alicekeeler",
+					"name": "Alice Keeler",
+					"id": 200715240,
+					"id_str": "200715240",
+					"indices": [
+						246,
+						258
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey #altc",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						259,
+						268
+					]
+				},
+				{
+					"screen_name": "flubaroo",
+					"name": "Dave Abouav",
+					"id": 289384614,
+					"id_str": "289384614",
+					"indices": [
+						269,
+						278
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zBKzyHuZCY",
+					"expanded_url": "http://bit.ly/vpeassistant",
+					"display_url": "bit.ly/vpeassistant",
+					"indices": [
+						221,
+						244
+					]
+				},
+				{
+					"url": "https://t.co/EnJTMvzcVi",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1354880730413858818",
+					"display_url": "twitter.com/AppsScriptInfo…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1355078658722037800,
+					"id_str": "1355078658722037762",
+					"indices": [
+						303,
+						326
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1355078658722037762/pu/img/3vzEmBYYTyDbxS2z.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1355078658722037762/pu/img/3vzEmBYYTyDbxS2z.jpg",
+					"url": "https://t.co/6rvVVnnldD",
+					"display_url": "pic.twitter.com/6rvVVnnldD",
+					"expanded_url": "https://twitter.com/Teacher_Luke_UK/status/1355079569397702657/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1152,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1355078658722037800,
+					"id_str": "1355078658722037762",
+					"indices": [
+						303,
+						326
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1355078658722037762/pu/img/3vzEmBYYTyDbxS2z.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1355078658722037762/pu/img/3vzEmBYYTyDbxS2z.jpg",
+					"url": "https://t.co/6rvVVnnldD",
+					"display_url": "pic.twitter.com/6rvVVnnldD",
+					"expanded_url": "https://twitter.com/Teacher_Luke_UK/status/1355079569397702657/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1152,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							8,
+							5
+						],
+						"duration_millis": 129567,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1355078658722037762/pu/vid/1152x720/nrP2PJqT5It4F7Tq.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1355078658722037762/pu/vid/432x270/JQjsIXU14ae2axlC.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1355078658722037762/pu/pl/Ly7D0hABcqUKJvTq.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1355078658722037762/pu/vid/576x360/qmvlsDt2Mg423eLR.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1048815610778533900,
+			"id_str": "1048815610778533889",
+			"name": "Luke Craig",
+			"screen_name": "Teacher_Luke_UK",
+			"location": "London, England",
+			"description": "Y5 Teacher | Computing Lead Practitioner | Google Certified Trainer & 💡 #LON19 | Apple Teacher | MIE | M.Ed | #Edtech50 | Often tired, never bored",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3428,
+			"friends_count": 3282,
+			"listed_count": 20,
+			"created_at": "Sun Oct 07 06:01:42 +0000 2018",
+			"favourites_count": 2451,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 996,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1219360712142868488/5ldrsx1P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1219360712142868488/5ldrsx1P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1048815610778533889/1538894303",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1354880730413858800,
+		"quoted_status_id_str": "1354880730413858818",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EnJTMvzcVi",
+			"expanded": "https://twitter.com/AppsScriptInfo/status/1354880730413858818",
+			"display": "twitter.com/AppsScriptInfo…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 28 19:55:13 +0000 2021",
+			"id": 1354880730413858800,
+			"id_str": "1354880730413858818",
+			"full_text": "🔴 Live in 5! Totally Unscripted: Getting Schooled on Apps Script – Using Automation in EDU with @alicekeeler \n and Dave Abouav (@flubaroo) #GoogleWorkspace  #GoogleEdu #GoogleAppsScript  https://t.co/1resTzTZQX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				210
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GoogleWorkspace",
+						"indices": [
+							139,
+							155
+						]
+					},
+					{
+						"text": "GoogleEdu",
+						"indices": [
+							157,
+							167
+						]
+					},
+					{
+						"text": "GoogleAppsScript",
+						"indices": [
+							168,
+							185
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "alicekeeler",
+						"name": "Alice Keeler",
+						"id": 200715240,
+						"id_str": "200715240",
+						"indices": [
+							96,
+							108
+						]
+					},
+					{
+						"screen_name": "flubaroo",
+						"name": "Dave Abouav",
+						"id": 289384614,
+						"id_str": "289384614",
+						"indices": [
+							128,
+							137
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/1resTzTZQX",
+						"expanded_url": "https://www.youtube.com/watch?v=fOPenHq1qso",
+						"display_url": "youtube.com/watch?v=fOPenH…",
+						"indices": [
+							187,
+							210
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 322526439,
+				"id_str": "322526439",
+				"name": "AppsScriptInfo",
+				"screen_name": "AppsScriptInfo",
+				"location": "World",
+				"description": "A Google Apps Script Community account to support Google Workspace Devs. Curated by @mhawksey",
+				"url": "https://t.co/pEqPAHFH4F",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pEqPAHFH4F",
+								"expanded_url": "https://pulse.appsscript.info",
+								"display_url": "pulse.appsscript.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1112,
+				"friends_count": 1139,
+				"listed_count": 39,
+				"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+				"favourites_count": 648,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2124,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+				"profile_link_color": "4286F4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For any teachers interested in using code to automate tasks and save time, watch this episode of Totally Unscripted 👇\nI learnt some #GoogleAppsScript and made this Meet link generator for Parents' Evening\n\nMake a copy at https://t.co/zBKzyHuZCY\n\n@alicekeeler @mhawksey @flubaroo https://t.co/EnJTMvzcVi https://t.co/6rvVVnnldD"
+	},
+	{
 		"created_at": "Thu Jan 28 22:38:06 +0000 2021",
 		"id": 1354921722877718500,
 		"id_str": "1354921722877718530",
