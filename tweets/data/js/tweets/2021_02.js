@@ -1,6 +1,908 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 23 21:44:18 +0000 2021",
+		"id": 1364330269550010400,
+		"id_str": "1364330269550010370",
+		"full_text": "By me: Adding an unsubscribe link to the Google Workspace Solution Gallery ‘Mail merge using Gmail and Google Sheets’ https://t.co/LstuNQrQDH #GoogleAppsScript #GoogleWorkspace h/t @ravsamhq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						142,
+						159
+					]
+				},
+				{
+					"text": "GoogleWorkspace",
+					"indices": [
+						160,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ravsamhq",
+					"name": "RavSam Web Solutions",
+					"id": 1276490197778272300,
+					"id_str": "1276490197778272256",
+					"indices": [
+						181,
+						190
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LstuNQrQDH",
+					"expanded_url": "https://hawksey.info/blog/2021/02/adding-an-unsubscribe-link-to-the-google-workspace-solution-gallery-mail-merge-using-gmail-and-google-sheets/",
+					"display_url": "hawksey.info/blog/2021/02/a…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: EdTech Explorer, Open Education, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9115,
+			"friends_count": 2689,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7397,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30651,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "By me: Adding an unsubscribe link to the Google Workspace Solution Gallery ‘Mail merge using Gmail and Google Sheets’ https://t.co/LstuNQrQDH #GoogleAppsScript #GoogleWorkspace h/t @ravsamhq"
+	},
+	{
+		"created_at": "Tue Feb 23 19:06:27 +0000 2021",
+		"id": 1364290545212924000,
+		"id_str": "1364290545212923906",
+		"full_text": "The Landscape of Merging Modalities #altc https://t.co/68FyFaCdMu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						36,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/68FyFaCdMu",
+					"expanded_url": "https://er.educause.edu/articles/2020/10/the-landscape-of-merging-modalities",
+					"display_url": "er.educause.edu/articles/2020/…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: EdTech Explorer, Open Education, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9115,
+			"friends_count": 2689,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7397,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30651,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Landscape of Merging Modalities #altc https://t.co/68FyFaCdMu"
+	},
+	{
+		"created_at": "Tue Feb 23 16:55:42 +0000 2021",
+		"id": 1364257637458714600,
+		"id_str": "1364257637458714626",
+		"full_text": "We've lured Spencer Easton (@GoogleDevExpert and engineer at @AmplifiedIT) to share how he's  using #Angular for Google Workspace Editor Add-on development with #AppsScript. Join myself, @chasmaxson and @SteveWebster22 to find out more  👇 https://t.co/5tZZqdmL1T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Angular",
+					"indices": [
+						100,
+						108
+					]
+				},
+				{
+					"text": "AppsScript",
+					"indices": [
+						161,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GoogleDevExpert",
+					"name": "@GoogleDevExpert",
+					"id": 3003834689,
+					"id_str": "3003834689",
+					"indices": [
+						28,
+						44
+					]
+				},
+				{
+					"screen_name": "AmplifiedIT",
+					"name": "Amplified IT",
+					"id": 99627644,
+					"id_str": "99627644",
+					"indices": [
+						61,
+						73
+					]
+				},
+				{
+					"screen_name": "chasmaxson",
+					"name": "Charles Maxson",
+					"id": 993937566029115400,
+					"id_str": "993937566029115393",
+					"indices": [
+						187,
+						198
+					]
+				},
+				{
+					"screen_name": "SteveWebster22",
+					"name": "Steve Webster",
+					"id": 3431975507,
+					"id_str": "3431975507",
+					"indices": [
+						203,
+						218
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5tZZqdmL1T",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1364254326143602689",
+					"display_url": "twitter.com/AppsScriptInfo…",
+					"indices": [
+						239,
+						262
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: EdTech Explorer, Open Education, Mashups, Analytics, Data, #altc, #FemEdTech",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9115,
+			"friends_count": 2689,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7397,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30651,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1364254326143602700,
+		"quoted_status_id_str": "1364254326143602689",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5tZZqdmL1T",
+			"expanded": "https://twitter.com/AppsScriptInfo/status/1364254326143602689",
+			"display": "twitter.com/AppsScriptInfo…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 23 16:42:32 +0000 2021",
+			"id": 1364254326143602700,
+			"id_str": "1364254326143602689",
+			"full_text": "Totally Unscripted: Modernize your Workspace Editor Add-ons development with Angular – Thur 25 Feb at at 1200 PST / 1500 EST / 2000 UTC (contributed by @mhawksey) #GoogleWorkspace @WorkspaceDevs #GoogleAppsScript #AppsScript https://t.co/dKdfRb27eG https://t.co/cPC606AYYk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				248
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GoogleWorkspace",
+						"indices": [
+							163,
+							179
+						]
+					},
+					{
+						"text": "GoogleAppsScript",
+						"indices": [
+							195,
+							212
+						]
+					},
+					{
+						"text": "AppsScript",
+						"indices": [
+							213,
+							224
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mhawksey",
+						"name": "Martin Hawksey #altc",
+						"id": 13046992,
+						"id_str": "13046992",
+						"indices": [
+							152,
+							161
+						]
+					},
+					{
+						"screen_name": "workspacedevs",
+						"name": "Google Workspace Developers",
+						"id": 111197966,
+						"id_str": "111197966",
+						"indices": [
+							180,
+							194
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/dKdfRb27eG",
+						"expanded_url": "https://pulse.appsscript.info/p/2021/02/totally-unscripted-modernize-your-workspace-editor-add-ons-development-with-angular-thur-25-feb-at-at-1200-pst-1500-est-2000-utc/",
+						"display_url": "pulse.appsscript.info/p/2021/02/tota…",
+						"indices": [
+							225,
+							248
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1364254324537258000,
+						"id_str": "1364254324537257985",
+						"indices": [
+							249,
+							272
+						],
+						"media_url": "http://pbs.twimg.com/media/Eu7OFH1VcAEvPpw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eu7OFH1VcAEvPpw.jpg",
+						"url": "https://t.co/cPC606AYYk",
+						"display_url": "pic.twitter.com/cPC606AYYk",
+						"expanded_url": "https://twitter.com/AppsScriptInfo/status/1364254326143602689/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 900,
+								"h": 506,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 506,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1364254324537258000,
+						"id_str": "1364254324537257985",
+						"indices": [
+							249,
+							272
+						],
+						"media_url": "http://pbs.twimg.com/media/Eu7OFH1VcAEvPpw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eu7OFH1VcAEvPpw.jpg",
+						"url": "https://t.co/cPC606AYYk",
+						"display_url": "pic.twitter.com/cPC606AYYk",
+						"expanded_url": "https://twitter.com/AppsScriptInfo/status/1364254326143602689/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 900,
+								"h": 506,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 506,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 322526439,
+				"id_str": "322526439",
+				"name": "AppsScriptInfo",
+				"screen_name": "AppsScriptInfo",
+				"location": "World",
+				"description": "A Google Apps Script Community account to support Google Workspace Devs. Curated by @mhawksey",
+				"url": "https://t.co/pEqPAHFH4F",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pEqPAHFH4F",
+								"expanded_url": "https://pulse.appsscript.info",
+								"display_url": "pulse.appsscript.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1173,
+				"friends_count": 1238,
+				"listed_count": 37,
+				"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+				"favourites_count": 678,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2191,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+				"profile_link_color": "4286F4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We've lured Spencer Easton (@GoogleDevExpert and engineer at @AmplifiedIT) to share how he's  using #Angular for Google Workspace Editor Add-on development with #AppsScript. Join myself, @chasmaxson and @SteveWebster22 to find out more  👇 https://t.co/5tZZqdmL1T"
+	},
+	{
+		"created_at": "Tue Feb 23 14:01:57 +0000 2021",
+		"id": 1364125147272073200,
+		"id_str": "1364213911587868678",
+		"full_text": "This is my first time being part of a team who's launching on #ProductHunt 😻\n\nDo check us out here 👇🏽\n\n#NoCode #Spreadsheets https://t.co/je5FXEzdWL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ProductHunt",
+					"indices": [
+						62,
+						74
+					]
+				},
+				{
+					"text": "NoCode",
+					"indices": [
+						103,
+						110
+					]
+				},
+				{
+					"text": "Spreadsheets",
+					"indices": [
+						111,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/je5FXEzdWL",
+					"expanded_url": "https://twitter.com/RowsHQ/status/1364123364323975168",
+					"display_url": "twitter.com/RowsHQ/status/…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1145333591867453400,
+			"id_str": "1145333591867453440",
+			"name": "Sourabh Choraria",
+			"screen_name": "schoraria911",
+			"location": "Bengaluru, India",
+			"description": "Spreadsheet nerd 🤓  #GoogleAppsScript junkie ➡️  Workspace @GoogleDevExpert 🤖  #NoCode Builder @RowsHQ 👷🏽‍♂️",
+			"url": "https://t.co/5SWxwokMx8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5SWxwokMx8",
+							"expanded_url": "https://script.gs",
+							"display_url": "script.gs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 782,
+			"friends_count": 457,
+			"listed_count": 33,
+			"created_at": "Sun Jun 30 14:09:42 +0000 2019",
+			"favourites_count": 10131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2743,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1256883449488478209/YaOB8WrJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1256883449488478209/YaOB8WrJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1145333591867453440/1561909439",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1364123364323975200,
+		"quoted_status_id_str": "1364123364323975168",
+		"quoted_status_permalink": {
+			"url": "https://t.co/je5FXEzdWL",
+			"expanded": "https://twitter.com/RowsHQ/status/1364123364323975168",
+			"display": "twitter.com/RowsHQ/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 23 08:02:08 +0000 2021",
+			"id": 1364123364323975200,
+			"id_str": "1364123364323975168",
+			"full_text": "After a long wait, we're finally proud to announce the official launch of Rows beta 🎉\n\nYou can sign up, get instant access to the platform, invite your team members, and start building your tools right now.\n\nWe're live on @ProductHunt. Show us some ♥️!\n\nhttps://t.co/kVsmNkTAvQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ProductHunt",
+						"name": "Product Hunt 😸",
+						"id": 2208027565,
+						"id_str": "2208027565",
+						"indices": [
+							222,
+							234
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/kVsmNkTAvQ",
+						"expanded_url": "https://www.producthunt.com/posts/rows-beta",
+						"display_url": "producthunt.com/posts/rows-beta",
+						"indices": [
+							254,
+							277
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 914915232966901800,
+				"id_str": "914915232966901760",
+				"name": "Rows",
+				"screen_name": "RowsHQ",
+				"location": "Porto | Berlin",
+				"description": "You've never seen a spreadsheet do this.\nGet early access now at https://t.co/9dOSTB4sUX",
+				"url": "https://t.co/9dOSTB4sUX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9dOSTB4sUX",
+								"expanded_url": "http://rows.com",
+								"display_url": "rows.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/9dOSTB4sUX",
+								"expanded_url": "http://rows.com",
+								"display_url": "rows.com",
+								"indices": [
+									65,
+									88
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1843,
+				"friends_count": 522,
+				"listed_count": 97,
+				"created_at": "Mon Oct 02 18:09:24 +0000 2017",
+				"favourites_count": 1065,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 473,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1331220995194171395/lS2J1xiB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331220995194171395/lS2J1xiB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/914915232966901760/1606222794",
+				"profile_link_color": "613FDE",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 34,
+			"favorite_count": 87,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is my first time being part of a team who's launching on #ProductHunt 😻\n\nDo check us out here 👇🏽\n\n#NoCode #Spreadsheets https://t.co/je5FXEzdWL"
+	},
+	{
 		"created_at": "Mon Feb 22 22:32:44 +0000 2021",
 		"id": 1363980067588685800,
 		"id_str": "1363980067588685825",
