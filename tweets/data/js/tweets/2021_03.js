@@ -1,6 +1,305 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Thu Mar 04 10:00:58 +0000 2021",
+		"id": 1367405188491980800,
+		"id_str": "1367414757863612418",
+		"full_text": "Remember to sign up to today's @DesignInf research webinar at 4pm &gt;&gt; https://t.co/rKBssE5ydS https://t.co/VJN1to8sXo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DesignInf",
+					"name": "Design Informatics",
+					"id": 387051470,
+					"id_str": "387051470",
+					"indices": [
+						31,
+						41
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rKBssE5ydS",
+					"expanded_url": "https://www.eventbrite.co.uk/e/design-informatics-webinar-lynne-murray-eca-design-informatics-tickets-143692533235",
+					"display_url": "eventbrite.co.uk/e/design-infor…",
+					"indices": [
+						75,
+						98
+					]
+				},
+				{
+					"url": "https://t.co/VJN1to8sXo",
+					"expanded_url": "https://twitter.com/DesignInf/status/1367401931732176898",
+					"display_url": "twitter.com/DesignInf/stat…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 865613814733176800,
+			"id_str": "865613814733176834",
+			"name": "Edinburgh Futures Institute",
+			"screen_name": "UoE_EFI",
+			"location": "Edinburgh, Scotland",
+			"description": "Edinburgh Futures Institute. Tackling the world’s biggest challenges within the economy, education and societies. https://t.co/6o4zLlNaVY",
+			"url": "https://t.co/jaTge8kmZH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jaTge8kmZH",
+							"expanded_url": "http://efi.ed.ac.uk",
+							"display_url": "efi.ed.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6o4zLlNaVY",
+							"expanded_url": "http://www.efi.ed.ac.uk",
+							"display_url": "efi.ed.ac.uk",
+							"indices": [
+								114,
+								137
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4710,
+			"friends_count": 361,
+			"listed_count": 62,
+			"created_at": "Fri May 19 17:03:10 +0000 2017",
+			"favourites_count": 1595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1431,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/895999056404766721/PGiqBmCr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/895999056404766721/PGiqBmCr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/865613814733176834/1557909529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1367401931732177000,
+		"quoted_status_id_str": "1367401931732176898",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VJN1to8sXo",
+			"expanded": "https://twitter.com/DesignInf/status/1367401931732176898",
+			"display": "twitter.com/DesignInf/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 04 09:10:00 +0000 2021",
+			"id": 1367401931732177000,
+			"id_str": "1367401931732176898",
+			"full_text": "There's still time to book your ticket for this afternoon's Thursday research webinar with Lynne Murray | Book your ticket here and join us online at 4pm GMT 👉🏾👉🏼👉🏻👉🏿 https://t.co/AsJgAP9Qz7 @InfAtEd @BayesCentre @UoE_EFI @eca_edinburgh @CreateInf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				247
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "InfAtEd",
+						"name": "InformaticsEdinburgh",
+						"id": 90873580,
+						"id_str": "90873580",
+						"indices": [
+							191,
+							199
+						]
+					},
+					{
+						"screen_name": "BayesCentre",
+						"name": "Bayes Centre",
+						"id": 956541279114088400,
+						"id_str": "956541279114088449",
+						"indices": [
+							200,
+							212
+						]
+					},
+					{
+						"screen_name": "UoE_EFI",
+						"name": "Edinburgh Futures Institute",
+						"id": 865613814733176800,
+						"id_str": "865613814733176834",
+						"indices": [
+							213,
+							221
+						]
+					},
+					{
+						"screen_name": "eca_edinburgh",
+						"name": "Edinburgh College of Art",
+						"id": 140010965,
+						"id_str": "140010965",
+						"indices": [
+							222,
+							236
+						]
+					},
+					{
+						"screen_name": "CreateInf",
+						"name": "Creative Informatics",
+						"id": 1036964860012240900,
+						"id_str": "1036964860012240902",
+						"indices": [
+							237,
+							247
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/AsJgAP9Qz7",
+						"expanded_url": "https://www.eventbrite.co.uk/e/design-informatics-webinar-lynne-murray-eca-design-informatics-tickets-143692533235",
+						"display_url": "eventbrite.co.uk/e/design-infor…",
+						"indices": [
+							167,
+							190
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 387051470,
+				"id_str": "387051470",
+				"name": "Design Informatics",
+				"screen_name": "DesignInf",
+				"location": "Edinburgh",
+				"description": "Designing with Data. Header Image: Blockchain Breakfast by Luis de Sousa",
+				"url": "http://t.co/mIYqLqUkK0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/mIYqLqUkK0",
+								"expanded_url": "http://www.designinformatics.org",
+								"display_url": "designinformatics.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2360,
+				"friends_count": 1020,
+				"listed_count": 71,
+				"created_at": "Sat Oct 08 11:29:44 +0000 2011",
+				"favourites_count": 2110,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4869,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1860303742/di_square_tweet_normal.gif",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1860303742/di_square_tweet_normal.gif",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/387051470/1538064729",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Remember to sign up to today's @DesignInf research webinar at 4pm &gt;&gt; https://t.co/rKBssE5ydS https://t.co/VJN1to8sXo"
+	},
+	{
 		"created_at": "Wed Mar 03 19:16:04 +0000 2021",
 		"id": 1367192067055751200,
 		"id_str": "1367192067055751171",
