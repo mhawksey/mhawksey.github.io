@@ -1,6 +1,1683 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Mon Mar 08 22:47:31 +0000 2021",
+		"id": 1369057218960691200,
+		"id_str": "1369057218960691206",
+		"full_text": "@HalamanBay @mrneil_CS @claganach @MicrosoftEDU Flows to Teams also caught my eye. A lot to learn",
+		"truncated": false,
+		"display_text_range": [
+			48,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HalamanBay",
+					"name": "Al Friend",
+					"id": 3958281329,
+					"id_str": "3958281329",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "mrneil_CS",
+					"name": "Mr Neil",
+					"id": 751177204822933500,
+					"id_str": "751177204822933504",
+					"indices": [
+						12,
+						22
+					]
+				},
+				{
+					"screen_name": "claganach",
+					"name": "📱Malcolm Wilson 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+					"id": 54920357,
+					"id_str": "54920357",
+					"indices": [
+						23,
+						33
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						34,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1369050801671463000,
+		"in_reply_to_status_id_str": "1369050801671462923",
+		"in_reply_to_user_id": 3958281329,
+		"in_reply_to_user_id_str": "3958281329",
+		"in_reply_to_screen_name": "HalamanBay",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: #altc #FemEdTech",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9122,
+			"friends_count": 2696,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7429,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30709,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@HalamanBay @mrneil_CS @claganach @MicrosoftEDU Flows to Teams also caught my eye. A lot to learn"
+	},
+	{
+		"created_at": "Mon Mar 08 21:18:58 +0000 2021",
+		"id": 1369034932555767800,
+		"id_str": "1369034932555767810",
+		"full_text": "@Abhicoding @schoraria911 @sarath_sp06 ... but with the Apps Script V8 runtime you can just drop in the jStat code https://t.co/YlcxvByVA4 :)",
+		"truncated": false,
+		"display_text_range": [
+			39,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Abhicoding",
+					"name": "Abhishek Shingane",
+					"id": 1067600563787915300,
+					"id_str": "1067600563787915264",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "schoraria911",
+					"name": "Sourabh Choraria",
+					"id": 1145333591867453400,
+					"id_str": "1145333591867453440",
+					"indices": [
+						12,
+						25
+					]
+				},
+				{
+					"screen_name": "sarath_sp06",
+					"name": "Sarath S Pillai",
+					"id": 241905935,
+					"id_str": "241905935",
+					"indices": [
+						26,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YlcxvByVA4",
+					"expanded_url": "https://script.google.com/u/0/home/projects/1a7UqE4R6sH-AfQ9t867uRFNSh0RX8J17Wx2hO6Xjq6lMYdccFTpRurUN/edit",
+					"display_url": "script.google.com/u/0/home/proje…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1368819164425592800,
+		"in_reply_to_status_id_str": "1368819164425592834",
+		"in_reply_to_user_id": 1067600563787915300,
+		"in_reply_to_user_id_str": "1067600563787915264",
+		"in_reply_to_screen_name": "Abhicoding",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: #altc #FemEdTech",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9122,
+			"friends_count": 2696,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7429,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30709,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Abhicoding @schoraria911 @sarath_sp06 ... but with the Apps Script V8 runtime you can just drop in the jStat code https://t.co/YlcxvByVA4 :)"
+	},
+	{
+		"created_at": "Mon Mar 08 21:09:50 +0000 2021",
+		"id": 1368938235498532900,
+		"id_str": "1369032637202001928",
+		"full_text": "On 9 April, join a ‘data stories’ workshop to explore higher education &amp; surveillance futures. Facilitated by @amcollier @anwstirling Jane McKie &amp; me! All working or studying in HE are welcome - sign up here: https://t.co/ehjPJK9mqn @eddiged",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amcollier",
+					"name": "Dr. Anne of Green Mountains",
+					"id": 17300374,
+					"id_str": "17300374",
+					"indices": [
+						114,
+						124
+					]
+				},
+				{
+					"screen_name": "anwstirling",
+					"name": "Anna Wilson",
+					"id": 2421954108,
+					"id_str": "2421954108",
+					"indices": [
+						125,
+						137
+					]
+				},
+				{
+					"screen_name": "eddiged",
+					"name": "Digital Education",
+					"id": 869830209301864400,
+					"id_str": "869830209301864448",
+					"indices": [
+						241,
+						249
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ehjPJK9mqn",
+					"expanded_url": "https://www.eventbrite.co.uk/e/telling-data-stories-higher-education-and-surveillance-futures-tickets-144219019971",
+					"display_url": "eventbrite.co.uk/e/telling-data…",
+					"indices": [
+						217,
+						240
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1350231,
+			"id_str": "1350231",
+			"name": "Jen Ross",
+			"screen_name": "jar",
+			"location": "Edinburgh",
+			"description": "senior lecturer, Digital Education at the U of Edinburgh. Researching online education & digital cultural heritage. Fellow at Edinburgh Futures Institute.",
+			"url": "https://t.co/bYS0b95JUH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bYS0b95JUH",
+							"expanded_url": "http://www.jenrossity.net/blog",
+							"display_url": "jenrossity.net/blog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4169,
+			"friends_count": 3130,
+			"listed_count": 203,
+			"created_at": "Sat Mar 17 13:03:44 +0000 2007",
+			"favourites_count": 1666,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4684,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203232021058899968/KydgsTTd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203232021058899968/KydgsTTd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1350231/1415954391",
+			"profile_link_color": "B40B43",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On 9 April, join a ‘data stories’ workshop to explore higher education &amp; surveillance futures. Facilitated by @amcollier @anwstirling Jane McKie &amp; me! All working or studying in HE are welcome - sign up here: https://t.co/ehjPJK9mqn @eddiged"
+	},
+	{
+		"created_at": "Mon Mar 08 20:15:25 +0000 2021",
+		"id": 1368906295789621200,
+		"id_str": "1369018943713730567",
+		"full_text": "New publication on how team-based environments can be used to support peer-led group research activities. https://t.co/gIjf9a4MBZ #altc #OpenAccess\nBlog post summary of our findings: https://t.co/fDXEHvV4Q8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "OpenAccess",
+					"indices": [
+						136,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gIjf9a4MBZ",
+					"expanded_url": "https://doi.org/10.25304/rlt.v29.2520",
+					"display_url": "doi.org/10.25304/rlt.v…",
+					"indices": [
+						106,
+						129
+					]
+				},
+				{
+					"url": "https://t.co/fDXEHvV4Q8",
+					"expanded_url": "https://elearningyork.wordpress.com/2021/03/08/new-research-article-facilitating-peer-led-group-research-through-slack-a-collaborative-team-based-environment/",
+					"display_url": "elearningyork.wordpress.com/2021/03/08/new…",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2317045159,
+			"id_str": "2317045159",
+			"name": "Richard Walker",
+			"screen_name": "RichardM_Walker",
+			"location": "York",
+			"description": "Head of the Programme Design and Learning Technology Team @UniOfYork and researcher in learning technologies within higher education",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 220,
+			"friends_count": 71,
+			"listed_count": 11,
+			"created_at": "Wed Jan 29 12:10:54 +0000 2014",
+			"favourites_count": 112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 194,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/458952646305382401/6p4xK-ov_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/458952646305382401/6p4xK-ov_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New publication on how team-based environments can be used to support peer-led group research activities. https://t.co/gIjf9a4MBZ #altc #OpenAccess\nBlog post summary of our findings: https://t.co/fDXEHvV4Q8"
+	},
+	{
+		"created_at": "Mon Mar 08 20:11:11 +0000 2021",
+		"id": 1368896751315337200,
+		"id_str": "1369017877894987776",
+		"full_text": "A great opportunity to work with us! We're hiring a postdoctoral researcher in data ethics, working with UNICEF/@DataLabScotland's @dataforchildren Collaborative to understand &amp; refine ethics assessment practices for humanitarian research with data.  https://t.co/oqlAlwI93j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DataLabScotland",
+					"name": "The Data Lab",
+					"id": 2207344274,
+					"id_str": "2207344274",
+					"indices": [
+						112,
+						128
+					]
+				},
+				{
+					"screen_name": "dataforchildren",
+					"name": "Data for Children Collaborative with UNICEF",
+					"id": 1119230377388855300,
+					"id_str": "1119230377388855297",
+					"indices": [
+						131,
+						147
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oqlAlwI93j",
+					"expanded_url": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/699/?utm_medium=jobshare",
+					"display_url": "elxw.fa.em3.oraclecloud.com/hcmUI/Candidat…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1265264110842843100,
+			"id_str": "1265264110842843136",
+			"name": "Centre for Technomoral Futures",
+			"screen_name": "CentreTMFutures",
+			"location": "University of Edinburgh",
+			"description": "Unifying technical and moral understanding through research, education & public engagement that enables sustainable, just & ethical innovation. Home @UoE_EFI",
+			"url": "https://t.co/vqCKgzeRJI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vqCKgzeRJI",
+							"expanded_url": "https://efi.ed.ac.uk/centre-technomoral-futures",
+							"display_url": "efi.ed.ac.uk/centre-technom…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1315,
+			"friends_count": 73,
+			"listed_count": 22,
+			"created_at": "Tue May 26 12:51:47 +0000 2020",
+			"favourites_count": 213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 194,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1294247595515273216/arwZ3I1__normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1294247595515273216/arwZ3I1__normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1265264110842843136/1597407575",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A great opportunity to work with us! We're hiring a postdoctoral researcher in data ethics, working with UNICEF/@DataLabScotland's @dataforchildren Collaborative to understand &amp; refine ethics assessment practices for humanitarian research with data.  https://t.co/oqlAlwI93j"
+	},
+	{
+		"created_at": "Mon Mar 08 19:15:39 +0000 2021",
+		"id": 1369003902230757400,
+		"id_str": "1369003902230757384",
+		"full_text": "Open for Good: Five Years of Open Education Resources at the University of Edinburgh #altc #OpenEdSIG https://t.co/YWK31bjTK2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "OpenEdSIG",
+					"indices": [
+						91,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YWK31bjTK2",
+					"expanded_url": "https://www.teaching-matters-blog.ed.ac.uk/open-educational-resources-at-the-university-of-edinburgh/",
+					"display_url": "teaching-matters-blog.ed.ac.uk/open-education…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: #altc #FemEdTech",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9122,
+			"friends_count": 2696,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7429,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30709,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Open for Good: Five Years of Open Education Resources at the University of Edinburgh #altc #OpenEdSIG https://t.co/YWK31bjTK2"
+	},
+	{
+		"created_at": "Mon Mar 08 19:04:37 +0000 2021",
+		"id": 1368913508507779000,
+		"id_str": "1369001122896228352",
+		"full_text": "And don't miss out on the first of our online events for the #NewReal exhibition! Featuring the artists, @edintfest's Programme Director Roy Luxford, @toodrew and @briana_pegado @FringeofColour. FREE but booking essential &gt;&gt; https://t.co/bpdu0Wd2BK https://t.co/8xTMfNLkCk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewReal",
+					"indices": [
+						61,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "edintfest",
+					"name": "edintfest",
+					"id": 25551683,
+					"id_str": "25551683",
+					"indices": [
+						105,
+						115
+					]
+				},
+				{
+					"screen_name": "toodrew",
+					"name": "Drew Hemment",
+					"id": 26816689,
+					"id_str": "26816689",
+					"indices": [
+						150,
+						158
+					]
+				},
+				{
+					"screen_name": "briana_pegado",
+					"name": "Briana Pegado FRSA",
+					"id": 3351222784,
+					"id_str": "3351222784",
+					"indices": [
+						163,
+						177
+					]
+				},
+				{
+					"screen_name": "FringeofColour",
+					"name": "Fringe of Colour",
+					"id": 1102186985215660000,
+					"id_str": "1102186985215660032",
+					"indices": [
+						178,
+						193
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bpdu0Wd2BK",
+					"expanded_url": "https://www.eventbrite.co.uk/e/the-new-real-ai-and-art-the-future-is-now-tickets-143824405669",
+					"display_url": "eventbrite.co.uk/e/the-new-real…",
+					"indices": [
+						231,
+						254
+					]
+				},
+				{
+					"url": "https://t.co/8xTMfNLkCk",
+					"expanded_url": "https://twitter.com/edintfest/status/1368894823743299589",
+					"display_url": "twitter.com/edintfest/stat…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 865613814733176800,
+			"id_str": "865613814733176834",
+			"name": "Edinburgh Futures Institute",
+			"screen_name": "UoE_EFI",
+			"location": "Edinburgh, Scotland",
+			"description": "Edinburgh Futures Institute. Tackling the world’s biggest challenges within the economy, education and societies. https://t.co/6o4zLlNaVY",
+			"url": "https://t.co/jaTge8kmZH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jaTge8kmZH",
+							"expanded_url": "http://efi.ed.ac.uk",
+							"display_url": "efi.ed.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6o4zLlNaVY",
+							"expanded_url": "http://www.efi.ed.ac.uk",
+							"display_url": "efi.ed.ac.uk",
+							"indices": [
+								114,
+								137
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4756,
+			"friends_count": 367,
+			"listed_count": 62,
+			"created_at": "Fri May 19 17:03:10 +0000 2017",
+			"favourites_count": 1643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1463,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/895999056404766721/PGiqBmCr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/895999056404766721/PGiqBmCr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/865613814733176834/1557909529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1368894823743299600,
+		"quoted_status_id_str": "1368894823743299589",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8xTMfNLkCk",
+			"expanded": "https://twitter.com/edintfest/status/1368894823743299589",
+			"display": "twitter.com/edintfest/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 08 12:02:13 +0000 2021",
+			"id": 1368894823743299600,
+			"id_str": "1368894823743299589",
+			"full_text": "Mechanized Cacophonies by @annaridler &amp; @carolinesinders – both artists &amp; machine learning experts – is an immersive &amp; interactive online artwork. \n\nInspired by lockdown, it explores how experiences of nature are mediated by technology. https://t.co/v9Sh2689d7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				272
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "annaridler",
+						"name": "anna ridler",
+						"id": 280941116,
+						"id_str": "280941116",
+						"indices": [
+							26,
+							37
+						]
+					},
+					{
+						"screen_name": "carolinesinders",
+						"name": "caroline sinders",
+						"id": 22389244,
+						"id_str": "22389244",
+						"indices": [
+							44,
+							60
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/v9Sh2689d7",
+						"expanded_url": "https://eif.buzz/2OqriCB",
+						"display_url": "eif.buzz/2OqriCB",
+						"indices": [
+							249,
+							272
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1368894822178766800,
+			"in_reply_to_status_id_str": "1368894822178766848",
+			"in_reply_to_user_id": 25551683,
+			"in_reply_to_user_id_str": "25551683",
+			"in_reply_to_screen_name": "edintfest",
+			"user": {
+				"id": 25551683,
+				"id_str": "25551683",
+				"name": "edintfest",
+				"screen_name": "edintfest",
+				"location": "Edinburgh",
+				"description": "Edinburgh International Festival.\nThree weeks of the best music, theatre, dance & opera. #edintfest",
+				"url": "https://t.co/JlojGQA2gV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JlojGQA2gV",
+								"expanded_url": "https://www.eif.co.uk",
+								"display_url": "eif.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 62434,
+				"friends_count": 3317,
+				"listed_count": 1040,
+				"created_at": "Fri Mar 20 18:41:23 +0000 2009",
+				"favourites_count": 19751,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 33915,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "00B2A9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875646787737894912/MLzQrba5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875646787737894912/MLzQrba5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25551683/1596452489",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And don't miss out on the first of our online events for the #NewReal exhibition! Featuring the artists, @edintfest's Programme Director Roy Luxford, @toodrew and @briana_pegado @FringeofColour. FREE but booking essential &gt;&gt; https://t.co/bpdu0Wd2BK https://t.co/8xTMfNLkCk"
+	},
+	{
+		"created_at": "Mon Mar 08 18:27:58 +0000 2021",
+		"id": 1368991902222192600,
+		"id_str": "1368991902222192646",
+		"full_text": "@mrneil_CS @claganach @MicrosoftEDU @HalamanBay Ah Forms was my first thought for automation. I'll dig further - thanks",
+		"truncated": false,
+		"display_text_range": [
+			48,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrneil_CS",
+					"name": "Mr Neil",
+					"id": 751177204822933500,
+					"id_str": "751177204822933504",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "claganach",
+					"name": "📱Malcolm Wilson 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+					"id": 54920357,
+					"id_str": "54920357",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						22,
+						35
+					]
+				},
+				{
+					"screen_name": "HalamanBay",
+					"name": "Al Friend",
+					"id": 3958281329,
+					"id_str": "3958281329",
+					"indices": [
+						36,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1368974680611258400,
+		"in_reply_to_status_id_str": "1368974680611258369",
+		"in_reply_to_user_id": 751177204822933500,
+		"in_reply_to_user_id_str": "751177204822933504",
+		"in_reply_to_screen_name": "mrneil_CS",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: #altc #FemEdTech",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9122,
+			"friends_count": 2696,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7429,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30709,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mrneil_CS @claganach @MicrosoftEDU @HalamanBay Ah Forms was my first thought for automation. I'll dig further - thanks"
+	},
+	{
+		"created_at": "Mon Mar 08 16:57:08 +0000 2021",
+		"id": 1368969043005341700,
+		"id_str": "1368969043005341696",
+		"full_text": "@claganach @MicrosoftEDU Thanks Malcolm - aware of any automations being used by teachers in Glow? I'm guessing this is one of those technologies which is very hard to gauge usage...",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "claganach",
+					"name": "📱Malcolm Wilson 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+					"id": 54920357,
+					"id_str": "54920357",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						11,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1368967218923532300,
+		"in_reply_to_status_id_str": "1368967218923532299",
+		"in_reply_to_user_id": 54920357,
+		"in_reply_to_user_id_str": "54920357",
+		"in_reply_to_screen_name": "claganach",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: #altc #FemEdTech",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9122,
+			"friends_count": 2696,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7429,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30709,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@claganach @MicrosoftEDU Thanks Malcolm - aware of any automations being used by teachers in Glow? I'm guessing this is one of those technologies which is very hard to gauge usage..."
+	},
+	{
+		"created_at": "Mon Mar 08 16:49:02 +0000 2021",
+		"id": 1368967003751481300,
+		"id_str": "1368967003751481347",
+		"full_text": "@mearso very useful! I've something else in the mix and having lists could help. I think I need to dig a bit deeper into is management of flows - the what happens if the creator leaves scenario",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mearso",
+					"name": "Kevin Mears",
+					"id": 12737,
+					"id_str": "12737",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1368963460797710300,
+		"in_reply_to_status_id_str": "1368963460797710336",
+		"in_reply_to_user_id": 12737,
+		"in_reply_to_user_id_str": "12737",
+		"in_reply_to_screen_name": "mearso",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: #altc #FemEdTech",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9122,
+			"friends_count": 2696,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7429,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30709,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mearso very useful! I've something else in the mix and having lists could help. I think I need to dig a bit deeper into is management of flows - the what happens if the creator leaves scenario"
+	},
+	{
+		"created_at": "Mon Mar 08 16:27:22 +0000 2021",
+		"id": 1368961551613460500,
+		"id_str": "1368961551613460487",
+		"full_text": "Anyone using Microsoft Power Automate (Flow) in an Edu context? Useful links resources you've come across? #altc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						107,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: #altc #FemEdTech",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9122,
+			"friends_count": 2696,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7429,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30709,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Anyone using Microsoft Power Automate (Flow) in an Edu context? Useful links resources you've come across? #altc"
+	},
+	{
+		"created_at": "Mon Mar 08 09:08:31 +0000 2021",
+		"id": 1368851112342806500,
+		"id_str": "1368851112342806531",
+		"full_text": "“Feminism isn’t about making women stronger, women are already strong. It’s about changing the way the world perceives that strength.” - J.D. Anderson via @FieryRed1 #FemEdTech #IWD2021 #IWD #altc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FemEdTech",
+					"indices": [
+						166,
+						176
+					]
+				},
+				{
+					"text": "IWD2021",
+					"indices": [
+						177,
+						185
+					]
+				},
+				{
+					"text": "IWD",
+					"indices": [
+						186,
+						190
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						191,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FieryRed1",
+					"name": "Fiery Red",
+					"id": 39770645,
+					"id_str": "39770645",
+					"indices": [
+						155,
+						165
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: #altc #FemEdTech",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9122,
+			"friends_count": 2696,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7429,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30709,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "“Feminism isn’t about making women stronger, women are already strong. It’s about changing the way the world perceives that strength.” - J.D. Anderson via @FieryRed1 #FemEdTech #IWD2021 #IWD #altc"
+	},
+	{
 		"created_at": "Sun Mar 07 09:26:07 +0000 2021",
 		"id": 1368493152651387000,
 		"id_str": "1368493152651386881",
