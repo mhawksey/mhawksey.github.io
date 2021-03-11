@@ -1,6 +1,460 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Wed Mar 10 21:45:22 +0000 2021",
+		"id": 1369688347627622400,
+		"id_str": "1369766354081964039",
+		"full_text": "OER is one of the best education conferences and if funding 💰💳 is a barrier to you attending in April this year, there is still time to apply for a scholarship to cover registration fees. #OERxDomains21 #OER https://t.co/bBgkosBZDf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OERxDomains21",
+					"indices": [
+						188,
+						202
+					]
+				},
+				{
+					"text": "OER",
+					"indices": [
+						203,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bBgkosBZDf",
+					"expanded_url": "https://twitter.com/OERConf/status/1369589127524610048",
+					"display_url": "twitter.com/OERConf/status…",
+					"indices": [
+						208,
+						231
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2162676313,
+			"id_str": "2162676313",
+			"name": "Clare Thomson",
+			"screen_name": "slowtech2000",
+			"location": "Somewhere",
+			"description": "Digital Education Consultant in @UlsterUniODL & #PhD student @EdinburghUni - Reflective Practice in #meded. SFHEA CMALT #UDL #creativity #LSP #femedtech",
+			"url": "https://t.co/m7uxOtPKi6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/m7uxOtPKi6",
+							"expanded_url": "http://www.lostandfoundinedtech.org/",
+							"display_url": "lostandfoundinedtech.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1383,
+			"friends_count": 1381,
+			"listed_count": 69,
+			"created_at": "Tue Oct 29 11:33:58 +0000 2013",
+			"favourites_count": 9068,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6634,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952914512247771136/fFXo4WoL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952914512247771136/fFXo4WoL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2162676313/1595760357",
+			"profile_link_color": "173C8E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1369589127524610000,
+		"quoted_status_id_str": "1369589127524610048",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bBgkosBZDf",
+			"expanded": "https://twitter.com/OERConf/status/1369589127524610048",
+			"display": "twitter.com/OERConf/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 10 10:01:08 +0000 2021",
+			"id": 1369589127524610000,
+			"id_str": "1369589127524610048",
+			"full_text": "We are still offering our initial allocation of scholarship places to participate in #OERxDomains21. Please complete this google form to submit your application - https://t.co/ZzBVDzgM0s #altc #OER21 #Domains21 https://t.co/jRq3Ltru43",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				210
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OERxDomains21",
+						"indices": [
+							85,
+							99
+						]
+					},
+					{
+						"text": "altc",
+						"indices": [
+							187,
+							192
+						]
+					},
+					{
+						"text": "OER21",
+						"indices": [
+							193,
+							199
+						]
+					},
+					{
+						"text": "Domains21",
+						"indices": [
+							200,
+							210
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZzBVDzgM0s",
+						"expanded_url": "https://go.alt.ac.uk/3qkYXe1",
+						"display_url": "go.alt.ac.uk/3qkYXe1",
+						"indices": [
+							163,
+							186
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1369589125360349200,
+						"id_str": "1369589125360349191",
+						"indices": [
+							211,
+							234
+						],
+						"media_url": "http://pbs.twimg.com/media/EwHCDZlXcAcoyH8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EwHCDZlXcAcoyH8.jpg",
+						"url": "https://t.co/jRq3Ltru43",
+						"display_url": "pic.twitter.com/jRq3Ltru43",
+						"expanded_url": "https://twitter.com/OERConf/status/1369589127524610048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1602,
+								"h": 1122,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 840,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 476,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1369589125360349200,
+						"id_str": "1369589125360349191",
+						"indices": [
+							211,
+							234
+						],
+						"media_url": "http://pbs.twimg.com/media/EwHCDZlXcAcoyH8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EwHCDZlXcAcoyH8.jpg",
+						"url": "https://t.co/jRq3Ltru43",
+						"display_url": "pic.twitter.com/jRq3Ltru43",
+						"expanded_url": "https://twitter.com/OERConf/status/1369589127524610048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1602,
+								"h": 1122,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 840,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 476,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2695133612,
+				"id_str": "2695133612",
+				"name": "OER Open Education Conference",
+				"screen_name": "OERConf",
+				"location": "Online",
+				"description": "Official account for the OER Conference, organised by @A_L_T, UK, in 2021 together with the Domains Conference, online 21-22 April 2021.",
+				"url": "https://t.co/D9WFtVbcOQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/D9WFtVbcOQ",
+								"expanded_url": "https://oer21.oerconf.org/",
+								"display_url": "oer21.oerconf.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2657,
+				"friends_count": 1289,
+				"listed_count": 89,
+				"created_at": "Thu Jul 31 08:18:01 +0000 2014",
+				"favourites_count": 1682,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3419,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1361612711281442816/HykuxENc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1361612711281442816/HykuxENc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2695133612/1613468420",
+				"profile_link_color": "444444",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OER is one of the best education conferences and if funding 💰💳 is a barrier to you attending in April this year, there is still time to apply for a scholarship to cover registration fees. #OERxDomains21 #OER https://t.co/bBgkosBZDf"
+	},
+	{
+		"created_at": "Wed Mar 10 19:56:28 +0000 2021",
+		"id": 1369738948319314000,
+		"id_str": "1369738948319313925",
+		"full_text": "Building relationships in an online setting - \"We supported students to establish connections with each other by organising virtual coffee rooms, and timetabling students to regularly meet in a social capacity\" #altc  https://t.co/wzuWHflio9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						211,
+						216
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wzuWHflio9",
+					"expanded_url": "https://teltblog.uclan.ac.uk/2021/01/14/guest-post-digilearn-building-relationships-in-an-online-setting/",
+					"display_url": "teltblog.uclan.ac.uk/2021/01/14/gue…",
+					"indices": [
+						218,
+						241
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey #altc",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: #altc #FemEdTech",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9129,
+			"friends_count": 2698,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7439,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Building relationships in an online setting - \"We supported students to establish connections with each other by organising virtual coffee rooms, and timetabling students to regularly meet in a social capacity\" #altc  https://t.co/wzuWHflio9"
+	},
+	{
 		"created_at": "Tue Mar 09 19:19:36 +0000 2021",
 		"id": 1369367283961901000,
 		"id_str": "1369367283961901062",
