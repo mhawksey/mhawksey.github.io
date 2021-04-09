@@ -1,6 +1,364 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Thu Apr 08 21:12:30 +0000 2021",
+		"id": 1380267329519517700,
+		"id_str": "1380267329519517696",
+		"full_text": "@mozart_34 I was wondering if it could be used as an audience backchannel during TU shows - live watchers could chat to each other?",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mozart_34",
+					"name": "Mozart.34",
+					"id": 83852970,
+					"id_str": "83852970",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1380266960647286800,
+		"in_reply_to_status_id_str": "1380266960647286785",
+		"in_reply_to_user_id": 83852970,
+		"in_reply_to_user_id_str": "83852970",
+		"in_reply_to_screen_name": "mozart_34",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9154,
+			"friends_count": 2713,
+			"listed_count": 601,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7504,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30814,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mozart_34 I was wondering if it could be used as an audience backchannel during TU shows - live watchers could chat to each other?"
+	},
+	{
+		"created_at": "Thu Apr 08 20:30:20 +0000 2021",
+		"id": 1380256721109672000,
+		"id_str": "1380256721109671939",
+		"full_text": "@mozart_34 Was it a good experience in spaces?",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mozart_34",
+					"name": "Mozart.34",
+					"id": 83852970,
+					"id_str": "83852970",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1379987172078522400,
+		"in_reply_to_status_id_str": "1379987172078522369",
+		"in_reply_to_user_id": 83852970,
+		"in_reply_to_user_id_str": "83852970",
+		"in_reply_to_screen_name": "mozart_34",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9154,
+			"friends_count": 2713,
+			"listed_count": 601,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7504,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30814,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mozart_34 Was it a good experience in spaces?"
+	},
+	{
+		"created_at": "Thu Apr 08 16:24:38 +0000 2021",
+		"id": 1380164633722511400,
+		"id_str": "1380194887665090561",
+		"full_text": "Join @techstreams, me, and wonderful hosts @mhawksey @chasmaxson @SteveWebster22 today at 2000 GMT+1 to chat about Google Chat and Dialogflow on Totally Unscripted! \n\nLive at https://t.co/8QkO0SlmS5 in about 4,5 hours :)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "techstreams",
+					"name": "Laura Taylor",
+					"id": 14328802,
+					"id_str": "14328802",
+					"indices": [
+						5,
+						17
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						43,
+						52
+					]
+				},
+				{
+					"screen_name": "chasmaxson",
+					"name": "Charles Maxson",
+					"id": 993937566029115400,
+					"id_str": "993937566029115393",
+					"indices": [
+						53,
+						64
+					]
+				},
+				{
+					"screen_name": "SteveWebster22",
+					"name": "Steve Webster",
+					"id": 3431975507,
+					"id_str": "3431975507",
+					"indices": [
+						65,
+						80
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8QkO0SlmS5",
+					"expanded_url": "https://www.youtube.com/watch?v=lzkZGxBEhg0",
+					"display_url": "youtube.com/watch?v=lzkZGx…",
+					"indices": [
+						175,
+						198
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4727121093,
+			"id_str": "4727121093",
+			"name": "Denis Valášek",
+			"screen_name": "DenisValasek",
+			"location": "",
+			"description": "Co-founder at @yadadaapp Google Assistant #GDE, GDG Ostrava organizer",
+			"url": "https://t.co/bu1vr4BeRl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bu1vr4BeRl",
+							"expanded_url": "http://valasek.dev",
+							"display_url": "valasek.dev",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 432,
+			"friends_count": 552,
+			"listed_count": 11,
+			"created_at": "Wed Jan 06 18:42:37 +0000 2016",
+			"favourites_count": 4147,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1143612717565186048/LgibjwMQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1143612717565186048/LgibjwMQ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join @techstreams, me, and wonderful hosts @mhawksey @chasmaxson @SteveWebster22 today at 2000 GMT+1 to chat about Google Chat and Dialogflow on Totally Unscripted! \n\nLive at https://t.co/8QkO0SlmS5 in about 4,5 hours :)"
+	},
+	{
 		"created_at": "Wed Apr 07 18:18:40 +0000 2021",
 		"id": 1379861198615773200,
 		"id_str": "1379861198615773185",
