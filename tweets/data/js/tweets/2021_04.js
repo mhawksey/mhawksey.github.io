@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Fri Apr 09 11:36:02 +0000 2021",
+		"id": 1380483921834619000,
+		"id_str": "1380484646098636802",
+		"full_text": "Q - How did we set up automatic provision of a Teams site for every taught module? \nA - With a lot of collaboration and teamwork! \nThanks to colleagues in @imperialcollege ICT (@TheServiceDesk), CTSO, Banner team, @ImpEngineering, @ImperialPGMed, and all others involved. https://t.co/aIUCq0tdJF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "imperialcollege",
+					"name": "Imperial College",
+					"id": 15353955,
+					"id_str": "15353955",
+					"indices": [
+						155,
+						171
+					]
+				},
+				{
+					"screen_name": "TheServiceDesk",
+					"name": "The Service Desk at Imperial College",
+					"id": 102690477,
+					"id_str": "102690477",
+					"indices": [
+						177,
+						192
+					]
+				},
+				{
+					"screen_name": "ImpEngineering",
+					"name": "Imperial Engineering",
+					"id": 885092691603804200,
+					"id_str": "885092691603804160",
+					"indices": [
+						214,
+						229
+					]
+				},
+				{
+					"screen_name": "ImperialPGMed",
+					"name": "Imperial Postgraduate Medicine",
+					"id": 1042771028458528800,
+					"id_str": "1042771028458528768",
+					"indices": [
+						231,
+						245
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aIUCq0tdJF",
+					"expanded_url": "https://twitter.com/ImperialSci/status/1380466235910057993",
+					"display_url": "twitter.com/ImperialSci/st…",
+					"indices": [
+						272,
+						295
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14406979,
+			"id_str": "14406979",
+			"name": "Moira Sarsfield",
+			"screen_name": "msars",
+			"location": "South Kensington, London, UK",
+			"description": "Principal Learning Technologist in the Faculty of Natural Sciences at Imperial College London. Interested in how technology can aid learning (unsurprisingly).",
+			"url": "http://t.co/4YX9bPIQVv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/4YX9bPIQVv",
+							"expanded_url": "http://eforenhancing.wordpress.com/",
+							"display_url": "eforenhancing.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 550,
+			"friends_count": 147,
+			"listed_count": 46,
+			"created_at": "Wed Apr 16 11:21:31 +0000 2008",
+			"favourites_count": 1782,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3819,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/52910205/qt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/52910205/qt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14406979/1399034168",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1380466235910058000,
+		"quoted_status_id_str": "1380466235910057993",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aIUCq0tdJF",
+			"expanded": "https://twitter.com/ImperialSci/status/1380466235910057993",
+			"display": "twitter.com/ImperialSci/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 09 10:22:53 +0000 2021",
+			"id": 1380466235910058000,
+			"id_str": "1380466235910057993",
+			"full_text": "'The teamwork behind Teams for teaching'\n\nHelen Walkey, Education Insight &amp; Evaluation Analyst from the FoNS Ed Tech team, reflects on how MS Teams has underpinned Imperial’s teaching activities over the past year: https://t.co/8FxmN7RQ0I https://t.co/PLlze1N32j",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				242
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8FxmN7RQ0I",
+						"expanded_url": "http://wwwf.imperial.ac.uk/blog/natural-sciences/2021/04/09/teams-for-teaching/",
+						"display_url": "wwwf.imperial.ac.uk/blog/natural-s…",
+						"indices": [
+							219,
+							242
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1380465687601250300,
+						"id_str": "1380465687601250312",
+						"indices": [
+							243,
+							266
+						],
+						"media_url": "http://pbs.twimg.com/media/EyhmOpYWgAgv3X6.png",
+						"media_url_https": "https://pbs.twimg.com/media/EyhmOpYWgAgv3X6.png",
+						"url": "https://t.co/PLlze1N32j",
+						"display_url": "pic.twitter.com/PLlze1N32j",
+						"expanded_url": "https://twitter.com/ImperialSci/status/1380466235910057993/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 470,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 484,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 700,
+								"h": 484,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1380465687601250300,
+						"id_str": "1380465687601250312",
+						"indices": [
+							243,
+							266
+						],
+						"media_url": "http://pbs.twimg.com/media/EyhmOpYWgAgv3X6.png",
+						"media_url_https": "https://pbs.twimg.com/media/EyhmOpYWgAgv3X6.png",
+						"url": "https://t.co/PLlze1N32j",
+						"display_url": "pic.twitter.com/PLlze1N32j",
+						"expanded_url": "https://twitter.com/ImperialSci/status/1380466235910057993/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 470,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 484,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 700,
+								"h": 484,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20842825,
+				"id_str": "20842825",
+				"name": "Imperial Sciences",
+				"screen_name": "ImperialSci",
+				"location": "London, England",
+				"description": "The Faculty of Natural Sciences @ImperialCollege - dedicated to delivering the highest possible quality teaching and research, with real-world impact.",
+				"url": "https://t.co/UmfnJJW77Q",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UmfnJJW77Q",
+								"expanded_url": "http://imperial.ac.uk/natural-sciences",
+								"display_url": "imperial.ac.uk/natural-scienc…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2942,
+				"friends_count": 1435,
+				"listed_count": 38,
+				"created_at": "Sat Feb 14 11:43:21 +0000 2009",
+				"favourites_count": 6740,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4466,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1148887551421403137/azwAy9qY_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148887551421403137/azwAy9qY_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20842825/1491411436",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Q - How did we set up automatic provision of a Teams site for every taught module? \nA - With a lot of collaboration and teamwork! \nThanks to colleagues in @imperialcollege ICT (@TheServiceDesk), CTSO, Banner team, @ImpEngineering, @ImperialPGMed, and all others involved. https://t.co/aIUCq0tdJF"
+	},
+	{
 		"created_at": "Thu Apr 08 21:12:30 +0000 2021",
 		"id": 1380267329519517700,
 		"id_str": "1380267329519517696",
