@@ -1,6 +1,511 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Mon Apr 12 20:27:38 +0000 2021",
+		"id": 1380536160410296300,
+		"id_str": "1381705591157108737",
+		"full_text": "Given the interest in copyright during lockdown, Chris Morrison and Jane Secker from our @ALTCoOLSIG  will be holding a free online event called I Can’t Believe It’s Not Icepops on Friday 25 June 2021 from 11am-3.30pm  https://t.co/caAmx9SEUz https://t.co/1UPMLfU0Yo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ALTCoOLSIG",
+					"name": "ALTCoOLSIG",
+					"id": 1361612638220910600,
+					"id_str": "1361612638220910592",
+					"indices": [
+						89,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/caAmx9SEUz",
+					"expanded_url": "http://ow.ly/kU4Z50EkJpm",
+					"display_url": "ow.ly/kU4Z50EkJpm",
+					"indices": [
+						219,
+						242
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1380536158833275000,
+					"id_str": "1380536158833274880",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/EyimUnLW8AAJ1cy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyimUnLW8AAJ1cy.jpg",
+					"url": "https://t.co/1UPMLfU0Yo",
+					"display_url": "pic.twitter.com/1UPMLfU0Yo",
+					"expanded_url": "https://twitter.com/AmplifyFE/status/1380536160410296324/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1051,
+							"h": 701,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1051,
+							"h": 701,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1380536158833275000,
+					"id_str": "1380536158833274880",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/EyimUnLW8AAJ1cy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyimUnLW8AAJ1cy.jpg",
+					"url": "https://t.co/1UPMLfU0Yo",
+					"display_url": "pic.twitter.com/1UPMLfU0Yo",
+					"expanded_url": "https://twitter.com/AmplifyFE/status/1380536160410296324/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1051,
+							"h": 701,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1051,
+							"h": 701,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3393943012,
+			"id_str": "3393943012",
+			"name": "AmplifyFE Community of Practice",
+			"screen_name": "AmplifyFE",
+			"location": "UK",
+			"description": "We work to connect and amplify communities of practice for digital learning, teaching and assessment in vocational education #AmplifyFE",
+			"url": "https://t.co/J0TAY471qe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J0TAY471qe",
+							"expanded_url": "https://amplifyfe.alt.ac.uk/",
+							"display_url": "amplifyfe.alt.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 684,
+			"friends_count": 756,
+			"listed_count": 24,
+			"created_at": "Wed Jul 29 14:10:29 +0000 2015",
+			"favourites_count": 641,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1659,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1310510693758701569/Lc_-JYHU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1310510693758701569/Lc_-JYHU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3393943012/1601285056",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Given the interest in copyright during lockdown, Chris Morrison and Jane Secker from our @ALTCoOLSIG  will be holding a free online event called I Can’t Believe It’s Not Icepops on Friday 25 June 2021 from 11am-3.30pm  https://t.co/caAmx9SEUz https://t.co/1UPMLfU0Yo"
+	},
+	{
+		"created_at": "Mon Apr 12 20:27:05 +0000 2021",
+		"id": 1381538517633937400,
+		"id_str": "1381705451964919809",
+		"full_text": "We are looking forward to celebrating the Centre for Technomoral Futures launch event on 29 April!!\n\nJoin us online for an evening of conversation about how technical and moral intelligence can be brought together to lead us out of crisis and into hope &gt;&gt;\nhttps://t.co/77LlyhdfOk https://t.co/89qNz63Hny",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			285
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/77LlyhdfOk",
+					"expanded_url": "https://eventbrite.co.uk/e/a-conversation-on-technomoral-futures-building-wisdom-from-crisis-tickets-148006883573",
+					"display_url": "eventbrite.co.uk/e/a-conversati…",
+					"indices": [
+						262,
+						285
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1381537279584374800,
+					"id_str": "1381537279584374785",
+					"indices": [
+						286,
+						309
+					],
+					"media_url": "http://pbs.twimg.com/media/Eyw01gmWEAEcKX1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eyw01gmWEAEcKX1.jpg",
+					"url": "https://t.co/89qNz63Hny",
+					"display_url": "pic.twitter.com/89qNz63Hny",
+					"expanded_url": "https://twitter.com/UoE_EFI/status/1381538517633937408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1153,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1381537279584374800,
+					"id_str": "1381537279584374785",
+					"indices": [
+						286,
+						309
+					],
+					"media_url": "http://pbs.twimg.com/media/Eyw01gmWEAEcKX1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eyw01gmWEAEcKX1.jpg",
+					"url": "https://t.co/89qNz63Hny",
+					"display_url": "pic.twitter.com/89qNz63Hny",
+					"expanded_url": "https://twitter.com/UoE_EFI/status/1381538517633937408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1153,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 865613814733176800,
+			"id_str": "865613814733176834",
+			"name": "Edinburgh Futures Institute",
+			"screen_name": "UoE_EFI",
+			"location": "Edinburgh, Scotland",
+			"description": "Edinburgh Futures Institute. Tackling the world’s biggest challenges within the economy, education and societies. https://t.co/6o4zLlNaVY",
+			"url": "https://t.co/jaTge8kmZH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jaTge8kmZH",
+							"expanded_url": "http://efi.ed.ac.uk",
+							"display_url": "efi.ed.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6o4zLlNaVY",
+							"expanded_url": "http://www.efi.ed.ac.uk",
+							"display_url": "efi.ed.ac.uk",
+							"indices": [
+								114,
+								137
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4933,
+			"friends_count": 384,
+			"listed_count": 65,
+			"created_at": "Fri May 19 17:03:10 +0000 2017",
+			"favourites_count": 1797,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/895999056404766721/PGiqBmCr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/895999056404766721/PGiqBmCr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/865613814733176834/1557909529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We are looking forward to celebrating the Centre for Technomoral Futures launch event on 29 April!!\n\nJoin us online for an evening of conversation about how technical and moral intelligence can be brought together to lead us out of crisis and into hope &gt;&gt;\nhttps://t.co/77LlyhdfOk https://t.co/89qNz63Hny"
+	},
+	{
+		"created_at": "Mon Apr 12 20:26:11 +0000 2021",
+		"id": 1381628444941951000,
+		"id_str": "1381705226625880072",
+		"full_text": "Galvanised is back! Our 2021 'Galvanised: connecting science, engineering and the arts in EFI' series starts on 29 April at 3pm. We kick off with Prof Sir Tom Devine and Prof Geoffrey Boulton, focusing on the changing context of science and scholarship &gt;&gt; https://t.co/hAKufGBRkH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			285
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hAKufGBRkH",
+					"expanded_url": "https://www.eventbrite.co.uk/e/galvanised-connecting-science-engineering-and-the-arts-in-efi-tickets-150047392791",
+					"display_url": "eventbrite.co.uk/e/galvanised-c…",
+					"indices": [
+						262,
+						285
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 865613814733176800,
+			"id_str": "865613814733176834",
+			"name": "Edinburgh Futures Institute",
+			"screen_name": "UoE_EFI",
+			"location": "Edinburgh, Scotland",
+			"description": "Edinburgh Futures Institute. Tackling the world’s biggest challenges within the economy, education and societies. https://t.co/6o4zLlNaVY",
+			"url": "https://t.co/jaTge8kmZH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jaTge8kmZH",
+							"expanded_url": "http://efi.ed.ac.uk",
+							"display_url": "efi.ed.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6o4zLlNaVY",
+							"expanded_url": "http://www.efi.ed.ac.uk",
+							"display_url": "efi.ed.ac.uk",
+							"indices": [
+								114,
+								137
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4933,
+			"friends_count": 384,
+			"listed_count": 65,
+			"created_at": "Fri May 19 17:03:10 +0000 2017",
+			"favourites_count": 1797,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/895999056404766721/PGiqBmCr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/895999056404766721/PGiqBmCr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/865613814733176834/1557909529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Galvanised is back! Our 2021 'Galvanised: connecting science, engineering and the arts in EFI' series starts on 29 April at 3pm. We kick off with Prof Sir Tom Devine and Prof Geoffrey Boulton, focusing on the changing context of science and scholarship &gt;&gt; https://t.co/hAKufGBRkH"
+	},
+	{
 		"created_at": "Sat Apr 10 08:18:09 +0000 2021",
 		"id": 1380521051143221200,
 		"id_str": "1380797235718451202",
