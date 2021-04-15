@@ -1,6 +1,606 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Wed Apr 14 19:35:46 +0000 2021",
+		"id": 1382291695778291700,
+		"id_str": "1382417313429864449",
+		"full_text": "Job alert! Learning Technologist needed in the School of Education @EdinburghUni. Full time,  permanent and in a great team. https://t.co/epditNEife #mscde @MorayHouse @A_L_T https://t.co/vN3ENvz3gh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "mscde",
+					"indices": [
+						149,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EdinburghUni",
+					"name": "The University of Edinburgh",
+					"id": 23426889,
+					"id_str": "23426889",
+					"indices": [
+						67,
+						80
+					]
+				},
+				{
+					"screen_name": "MorayHouse",
+					"name": "Moray House School of Education and Sport",
+					"id": 139687994,
+					"id_str": "139687994",
+					"indices": [
+						156,
+						167
+					]
+				},
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						168,
+						174
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/epditNEife",
+					"expanded_url": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/148/?utm_medium=jobshare",
+					"display_url": "elxw.fa.em3.oraclecloud.com/hcmUI/Candidat…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1382291403921821700,
+					"id_str": "1382291403921821700",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/Ey7itUrWEAQzBPi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ey7itUrWEAQzBPi.jpg",
+					"url": "https://t.co/vN3ENvz3gh",
+					"display_url": "pic.twitter.com/vN3ENvz3gh",
+					"expanded_url": "https://twitter.com/sbayne/status/1382291695778291712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1069,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 606,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1527,
+							"h": 1360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1382291403921821700,
+					"id_str": "1382291403921821700",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/Ey7itUrWEAQzBPi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ey7itUrWEAQzBPi.jpg",
+					"url": "https://t.co/vN3ENvz3gh",
+					"display_url": "pic.twitter.com/vN3ENvz3gh",
+					"expanded_url": "https://twitter.com/sbayne/status/1382291695778291712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1069,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 606,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1527,
+							"h": 1360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1504951,
+			"id_str": "1504951",
+			"name": "Sian Bayne",
+			"screen_name": "sbayne",
+			"location": "Europe",
+			"description": "Professor of Digital Education @EdinburghUni. Director of Education @uoe_efi. Centre for Research in Digital Education @eddiged. Keeping my end up.",
+			"url": "https://t.co/RZPPIepZxF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RZPPIepZxF",
+							"expanded_url": "http://sianbayne.net/",
+							"display_url": "sianbayne.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5357,
+			"friends_count": 1352,
+			"listed_count": 242,
+			"created_at": "Mon Mar 19 13:50:29 +0000 2007",
+			"favourites_count": 8419,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151228766343114754/IIaBAQ6K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151228766343114754/IIaBAQ6K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1504951/1563309354",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Job alert! Learning Technologist needed in the School of Education @EdinburghUni. Full time,  permanent and in a great team. https://t.co/epditNEife #mscde @MorayHouse @A_L_T https://t.co/vN3ENvz3gh"
+	},
+	{
+		"created_at": "Wed Apr 14 19:35:03 +0000 2021",
+		"id": 1382402370773090300,
+		"id_str": "1382417133733306370",
+		"full_text": "Terrific PhD opportunity here.... @MorayHouse https://t.co/ddvly2Fi0K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MorayHouse",
+					"name": "Moray House School of Education and Sport",
+					"id": 139687994,
+					"id_str": "139687994",
+					"indices": [
+						34,
+						45
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ddvly2Fi0K",
+					"expanded_url": "https://twitter.com/melissaterras/status/1382350337294671873",
+					"display_url": "twitter.com/melissaterras/…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1504951,
+			"id_str": "1504951",
+			"name": "Sian Bayne",
+			"screen_name": "sbayne",
+			"location": "Europe",
+			"description": "Professor of Digital Education @EdinburghUni. Director of Education @uoe_efi. Centre for Research in Digital Education @eddiged. Keeping my end up.",
+			"url": "https://t.co/RZPPIepZxF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RZPPIepZxF",
+							"expanded_url": "http://sianbayne.net/",
+							"display_url": "sianbayne.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5357,
+			"friends_count": 1352,
+			"listed_count": 242,
+			"created_at": "Mon Mar 19 13:50:29 +0000 2007",
+			"favourites_count": 8419,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151228766343114754/IIaBAQ6K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151228766343114754/IIaBAQ6K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1504951/1563309354",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1382350337294672000,
+		"quoted_status_id_str": "1382350337294671873",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ddvly2Fi0K",
+			"expanded": "https://twitter.com/melissaterras/status/1382350337294671873",
+			"display": "twitter.com/melissaterras/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 14 15:09:37 +0000 2021",
+			"id": 1382350337294672000,
+			"id_str": "1382350337294671873",
+			"full_text": "Fabulous AHRC funded PhD studentship at @EdinburghUni examining \"the role of schools radio broadcasting in Scotland's Classrooms\" with @natlibscot and @BBCScotland! Please do share with potential students... https://t.co/vUExCiCOby",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				207
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EdinburghUni",
+						"name": "The University of Edinburgh",
+						"id": 23426889,
+						"id_str": "23426889",
+						"indices": [
+							40,
+							53
+						]
+					},
+					{
+						"screen_name": "natlibscot",
+						"name": "National Library of Scotland",
+						"id": 75286820,
+						"id_str": "75286820",
+						"indices": [
+							135,
+							146
+						]
+					},
+					{
+						"screen_name": "BBCScotland",
+						"name": "BBC Scotland",
+						"id": 622133,
+						"id_str": "622133",
+						"indices": [
+							151,
+							163
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/vUExCiCOby",
+						"expanded_url": "https://twitter.com/RMHunt17/status/1382260512541540356",
+						"display_url": "twitter.com/RMHunt17/statu…",
+						"indices": [
+							208,
+							231
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 50122046,
+				"id_str": "50122046",
+				"name": "melissa terras",
+				"screen_name": "melissaterras",
+				"location": "Edinburgh, Scotland",
+				"description": "Prof of Digital Cultural Heritage @EdinburghUni | computers vs the past | Director @edCDCS | Research Director @UoE_EFI | Co-Director @createinf | pers. comm.",
+				"url": "http://t.co/hJAFiEHwc1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/hJAFiEHwc1",
+								"expanded_url": "http://melissaterras.org/",
+								"display_url": "melissaterras.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18432,
+				"friends_count": 8046,
+				"listed_count": 773,
+				"created_at": "Tue Jun 23 22:21:08 +0000 2009",
+				"favourites_count": 22337,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 40356,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1216066068583800832/-6y5f5Ji_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216066068583800832/-6y5f5Ji_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/50122046/1513632064",
+				"profile_link_color": "1B7878",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1382260512541540400,
+			"quoted_status_id_str": "1382260512541540356",
+			"quoted_status_permalink": {
+				"url": "https://t.co/vUExCiCOby",
+				"expanded": "https://twitter.com/RMHunt17/status/1382260512541540356",
+				"display": "twitter.com/RMHunt17/statu…"
+			},
+			"retweet_count": 14,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Terrific PhD opportunity here.... @MorayHouse https://t.co/ddvly2Fi0K"
+	},
+	{
+		"created_at": "Wed Apr 14 18:15:07 +0000 2021",
+		"id": 1382397017272504300,
+		"id_str": "1382397017272504334",
+		"full_text": "OBS gets native support for Nvidia’s excellent noise-canceling tech https://t.co/vWouI971yg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vWouI971yg",
+					"expanded_url": "https://www.theverge.com/2021/4/14/22383572/open-broadcaster-software-obs-nvidia-noise-removal-rtx-voice-broadcast",
+					"display_url": "theverge.com/2021/4/14/2238…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9159,
+			"friends_count": 2715,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30825,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OBS gets native support for Nvidia’s excellent noise-canceling tech https://t.co/vWouI971yg"
+	},
+	{
 		"created_at": "Mon Apr 12 20:27:38 +0000 2021",
 		"id": 1380536160410296300,
 		"id_str": "1381705591157108737",
