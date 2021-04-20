@@ -1,6 +1,589 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Mon Apr 19 20:12:28 +0000 2021",
+		"id": 1384238488657137700,
+		"id_str": "1384238488657137668",
+		"full_text": "Looking forward to having @stevenbazyl and @rieln join us (@chasmaxson, @SteveWebster22 + me) on Totally Unscripted to answer your questions on alternate runtimes for #GoogleWorkspace Add-ons https://t.co/hP0VMw4Ueg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleWorkspace",
+					"indices": [
+						167,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stevenbazyl",
+					"name": "Steven Bazyl",
+					"id": 73459030,
+					"id_str": "73459030",
+					"indices": [
+						26,
+						38
+					]
+				},
+				{
+					"screen_name": "rieln",
+					"name": "Riël Notermans",
+					"id": 161309732,
+					"id_str": "161309732",
+					"indices": [
+						43,
+						49
+					]
+				},
+				{
+					"screen_name": "chasmaxson",
+					"name": "Charles Maxson",
+					"id": 993937566029115400,
+					"id_str": "993937566029115393",
+					"indices": [
+						59,
+						70
+					]
+				},
+				{
+					"screen_name": "SteveWebster22",
+					"name": "Steve Webster",
+					"id": 3431975507,
+					"id_str": "3431975507",
+					"indices": [
+						72,
+						87
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hP0VMw4Ueg",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1384236628923731972",
+					"display_url": "twitter.com/AppsScriptInfo…",
+					"indices": [
+						192,
+						215
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9170,
+			"friends_count": 2720,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7532,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1384236628923732000,
+		"quoted_status_id_str": "1384236628923731972",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hP0VMw4Ueg",
+			"expanded": "https://twitter.com/AppsScriptInfo/status/1384236628923731972",
+			"display": "twitter.com/AppsScriptInfo…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 19 20:05:04 +0000 2021",
+			"id": 1384236628923732000,
+			"id_str": "1384236628923731972",
+			"full_text": "Totally Unscripted: Hello Alternate Runtimes – How to build Google Workspace Add-ons without using Apps Script – Thur 22 April at at 1200 PDT / 1500 EDT / 2000 GMT+1 (contributed by @mhawksey) #GoogleWorkspace @WorkspaceDevs #GoogleAppsScript #AppsScript https://t.co/vgt2RbXdun https://t.co/KhEmAxJ3d6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GoogleWorkspace",
+						"indices": [
+							193,
+							209
+						]
+					},
+					{
+						"text": "GoogleAppsScript",
+						"indices": [
+							225,
+							242
+						]
+					},
+					{
+						"text": "AppsScript",
+						"indices": [
+							243,
+							254
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mhawksey",
+						"name": "Martin Hawksey",
+						"id": 13046992,
+						"id_str": "13046992",
+						"indices": [
+							182,
+							191
+						]
+					},
+					{
+						"screen_name": "workspacedevs",
+						"name": "Google Workspace Developers",
+						"id": 111197966,
+						"id_str": "111197966",
+						"indices": [
+							210,
+							224
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/vgt2RbXdun",
+						"expanded_url": "https://pulse.appsscript.info/p/2021/04/totally-unscripted-hello-alternate-runtimes-how-to-build-google-workspace-add-ons-without-using-apps-script-thur-22-april-at-at-1200-pdt-1500-edt-2000-gmt1/",
+						"display_url": "pulse.appsscript.info/p/2021/04/tota…",
+						"indices": [
+							255,
+							278
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1384236627304669200,
+						"id_str": "1384236627304669189",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/EzXL4OeUYAUlmzt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EzXL4OeUYAUlmzt.jpg",
+						"url": "https://t.co/KhEmAxJ3d6",
+						"display_url": "pic.twitter.com/KhEmAxJ3d6",
+						"expanded_url": "https://twitter.com/AppsScriptInfo/status/1384236628923731972/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1384236627304669200,
+						"id_str": "1384236627304669189",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/EzXL4OeUYAUlmzt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EzXL4OeUYAUlmzt.jpg",
+						"url": "https://t.co/KhEmAxJ3d6",
+						"display_url": "pic.twitter.com/KhEmAxJ3d6",
+						"expanded_url": "https://twitter.com/AppsScriptInfo/status/1384236628923731972/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 322526439,
+				"id_str": "322526439",
+				"name": "AppsScriptInfo",
+				"screen_name": "AppsScriptInfo",
+				"location": "World",
+				"description": "A Google Apps Script Community account to support Google Workspace Devs. Curated by @mhawksey",
+				"url": "https://t.co/pEqPAHFH4F",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pEqPAHFH4F",
+								"expanded_url": "https://pulse.appsscript.info",
+								"display_url": "pulse.appsscript.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1258,
+				"friends_count": 1254,
+				"listed_count": 38,
+				"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+				"favourites_count": 705,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2287,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+				"profile_link_color": "4286F4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looking forward to having @stevenbazyl and @rieln join us (@chasmaxson, @SteveWebster22 + me) on Totally Unscripted to answer your questions on alternate runtimes for #GoogleWorkspace Add-ons https://t.co/hP0VMw4Ueg"
+	},
+	{
+		"created_at": "Mon Apr 19 19:51:10 +0000 2021",
+		"id": 1383828444182548500,
+		"id_str": "1384233131377528847",
+		"full_text": "my homepage is nothing fancy, but it does have lots of links...and I just updated it to include #OERxDomains21 stuff at the top, so people will be able to just go to https://t.co/aqA29HQEkH to find their way to the slidedeck: lots (LOTS) of student projects to explore &amp; enjoy :-) https://t.co/PJ16bJuQnh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OERxDomains21",
+					"indices": [
+						96,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aqA29HQEkH",
+					"expanded_url": "http://LauraGibbs.net",
+					"display_url": "LauraGibbs.net",
+					"indices": [
+						166,
+						189
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1383828013985325000,
+					"id_str": "1383828013985325058",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/EzRYPzPUYAIUIo8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzRYPzPUYAIUIo8.jpg",
+					"url": "https://t.co/PJ16bJuQnh",
+					"display_url": "pic.twitter.com/PJ16bJuQnh",
+					"expanded_url": "https://twitter.com/OnlineCrsLady/status/1383828444182548488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2040,
+							"h": 1302,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 766,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 434,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1383828013985325000,
+					"id_str": "1383828013985325058",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/EzRYPzPUYAIUIo8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzRYPzPUYAIUIo8.jpg",
+					"url": "https://t.co/PJ16bJuQnh",
+					"display_url": "pic.twitter.com/PJ16bJuQnh",
+					"expanded_url": "https://twitter.com/OnlineCrsLady/status/1383828444182548488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2040,
+							"h": 1302,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 766,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 434,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7044082,
+			"id_str": "7044082",
+			"name": "Dr. Laura Gibbs",
+			"screen_name": "OnlineCrsLady",
+			"location": "the Interwebz",
+			"description": "Still teaching online at Univ. of Oklahoma, looking to OER future :-)\n#TotalCoLearner #Ungrading #UngradingSlowChat #TrustStudents #StayHomeSaveLives #BeyondLMS",
+			"url": "http://t.co/HAXevMhfOE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/HAXevMhfOE",
+							"expanded_url": "http://mythfolklore.net",
+							"display_url": "mythfolklore.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6297,
+			"friends_count": 2745,
+			"listed_count": 404,
+			"created_at": "Sun Jun 24 04:17:20 +0000 2007",
+			"favourites_count": 116156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 104113,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "112E18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2190857671/photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2190857671/photo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7044082/1607270725",
+			"profile_link_color": "196912",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "my homepage is nothing fancy, but it does have lots of links...and I just updated it to include #OERxDomains21 stuff at the top, so people will be able to just go to https://t.co/aqA29HQEkH to find their way to the slidedeck: lots (LOTS) of student projects to explore &amp; enjoy :-) https://t.co/PJ16bJuQnh"
+	},
+	{
 		"created_at": "Fri Apr 16 17:44:09 +0000 2021",
 		"id": 1383114000666349600,
 		"id_str": "1383114000666349573",
