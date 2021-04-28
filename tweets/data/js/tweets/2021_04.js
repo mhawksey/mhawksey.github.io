@@ -1,6 +1,737 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Tue Apr 27 20:28:43 +0000 2021",
+		"id": 1387141680869134300,
+		"id_str": "1387141680869134337",
+		"full_text": "Excellent episode with @rieln and @stevenbazyl last week covering Google Workspace Add-on development NOT using #GoogleAppsScript https://t.co/jqT3hSwqAr #WorkspaceDevs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						112,
+						129
+					]
+				},
+				{
+					"text": "WorkspaceDevs",
+					"indices": [
+						154,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rieln",
+					"name": "Riël Notermans",
+					"id": 161309732,
+					"id_str": "161309732",
+					"indices": [
+						23,
+						29
+					]
+				},
+				{
+					"screen_name": "stevenbazyl",
+					"name": "Steven Bazyl💉💉⏳",
+					"id": 73459030,
+					"id_str": "73459030",
+					"indices": [
+						34,
+						46
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jqT3hSwqAr",
+					"expanded_url": "https://www.youtube.com/watch?v=zDZqENU4B6s",
+					"display_url": "youtube.com/watch?v=zDZqEN…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9170,
+			"friends_count": 2722,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7538,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Excellent episode with @rieln and @stevenbazyl last week covering Google Workspace Add-on development NOT using #GoogleAppsScript https://t.co/jqT3hSwqAr #WorkspaceDevs"
+	},
+	{
+		"created_at": "Tue Apr 27 19:39:03 +0000 2021",
+		"id": 1387092909514707000,
+		"id_str": "1387129182434598916",
+		"full_text": "The CfP for @ILTAtweets EdTech 2021 conference is out!\nShaping Education Post Pandemic: Pockets of Innovation for 'Building Back Better' https://t.co/zBSkQ6ujiA\n#edtech #FemEdTech #digHEIE #altc #HE #FE #digped #onlinelearning #instructionaldesign #IUADigEd #openedIE #edchatie https://t.co/73cvyA4SbB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edtech",
+					"indices": [
+						161,
+						168
+					]
+				},
+				{
+					"text": "FemEdTech",
+					"indices": [
+						169,
+						179
+					]
+				},
+				{
+					"text": "digHEIE",
+					"indices": [
+						180,
+						188
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						189,
+						194
+					]
+				},
+				{
+					"text": "HE",
+					"indices": [
+						195,
+						198
+					]
+				},
+				{
+					"text": "FE",
+					"indices": [
+						199,
+						202
+					]
+				},
+				{
+					"text": "digped",
+					"indices": [
+						203,
+						210
+					]
+				},
+				{
+					"text": "onlinelearning",
+					"indices": [
+						211,
+						226
+					]
+				},
+				{
+					"text": "instructionaldesign",
+					"indices": [
+						227,
+						247
+					]
+				},
+				{
+					"text": "IUADigEd",
+					"indices": [
+						248,
+						257
+					]
+				},
+				{
+					"text": "openedIE",
+					"indices": [
+						258,
+						267
+					]
+				},
+				{
+					"text": "edchatie",
+					"indices": [
+						268,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ILTAtweets",
+					"name": "ILTA",
+					"id": 32450692,
+					"id_str": "32450692",
+					"indices": [
+						12,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zBSkQ6ujiA",
+					"expanded_url": "https://www.ilta.ie/edtech2021/",
+					"display_url": "ilta.ie/edtech2021/",
+					"indices": [
+						137,
+						160
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1387090472464752600,
+					"id_str": "1387090472464752646",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/Ez_vb4KXIAYEfIW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ez_vb4KXIAYEfIW.jpg",
+					"url": "https://t.co/73cvyA4SbB",
+					"display_url": "pic.twitter.com/73cvyA4SbB",
+					"expanded_url": "https://twitter.com/gavinclinch/status/1387092909514706954/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1387090472464752600,
+					"id_str": "1387090472464752646",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/Ez_vb4KXIAYEfIW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ez_vb4KXIAYEfIW.jpg",
+					"url": "https://t.co/73cvyA4SbB",
+					"display_url": "pic.twitter.com/73cvyA4SbB",
+					"expanded_url": "https://twitter.com/gavinclinch/status/1387092909514706954/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 493103189,
+			"id_str": "493103189",
+			"name": "Gavin Clinch",
+			"screen_name": "gavinclinch",
+			"location": "Sligo, Ireland",
+			"description": "Head of Online Learning (Student Experience) @itsligo.\nPresident @ILTAtweets",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 683,
+			"friends_count": 687,
+			"listed_count": 73,
+			"created_at": "Wed Feb 15 13:02:07 +0000 2012",
+			"favourites_count": 4386,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3996,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/735901356205182977/GYKab-Qi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/735901356205182977/GYKab-Qi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/493103189/1488896718",
+			"profile_link_color": "224466",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The CfP for @ILTAtweets EdTech 2021 conference is out!\nShaping Education Post Pandemic: Pockets of Innovation for 'Building Back Better' https://t.co/zBSkQ6ujiA\n#edtech #FemEdTech #digHEIE #altc #HE #FE #digped #onlinelearning #instructionaldesign #IUADigEd #openedIE #edchatie https://t.co/73cvyA4SbB"
+	},
+	{
+		"created_at": "Tue Apr 27 19:32:10 +0000 2021",
+		"id": 1387127449914421200,
+		"id_str": "1387127449914421250",
+		"full_text": "Some amazing work by @TimothyDrysdale and team building remote labs. See 📽 https://t.co/J23WAcmHMN Read about https://t.co/NJP1KmxKhg #altc https://t.co/7NDBKTNAab",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						134,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TimothyDrysdale",
+					"name": "Timothy Drysdale",
+					"id": 381050290,
+					"id_str": "381050290",
+					"indices": [
+						21,
+						37
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/J23WAcmHMN",
+					"expanded_url": "https://media.ed.ac.uk/media/1_1bozr2l2",
+					"display_url": "media.ed.ac.uk/media/1_1bozr2…",
+					"indices": [
+						75,
+						98
+					]
+				},
+				{
+					"url": "https://t.co/NJP1KmxKhg",
+					"expanded_url": "https://practable.io/",
+					"display_url": "practable.io",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1387127234838868000,
+					"id_str": "1387127234838867969",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/E0AQ3urXMAExtx_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0AQ3urXMAExtx_.jpg",
+					"url": "https://t.co/7NDBKTNAab",
+					"display_url": "pic.twitter.com/7NDBKTNAab",
+					"expanded_url": "https://twitter.com/mhawksey/status/1387127449914421250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 962,
+							"h": 539,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 962,
+							"h": 539,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1387127234838868000,
+					"id_str": "1387127234838867969",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/E0AQ3urXMAExtx_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0AQ3urXMAExtx_.jpg",
+					"url": "https://t.co/7NDBKTNAab",
+					"display_url": "pic.twitter.com/7NDBKTNAab",
+					"expanded_url": "https://twitter.com/mhawksey/status/1387127449914421250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 962,
+							"h": 539,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 962,
+							"h": 539,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9170,
+			"friends_count": 2722,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7538,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some amazing work by @TimothyDrysdale and team building remote labs. See 📽 https://t.co/J23WAcmHMN Read about https://t.co/NJP1KmxKhg #altc https://t.co/7NDBKTNAab"
+	},
+	{
+		"created_at": "Tue Apr 27 18:32:23 +0000 2021",
+		"id": 1387112407605170200,
+		"id_str": "1387112407605170178",
+		"full_text": "@MarenDeepwell Thanks Maren - nice to see you all join the streamyard users club :)",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1387024881871724500,
+		"in_reply_to_status_id_str": "1387024881871724545",
+		"in_reply_to_user_id": 323173367,
+		"in_reply_to_user_id_str": "323173367",
+		"in_reply_to_screen_name": "MarenDeepwell",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9170,
+			"friends_count": 2722,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7538,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MarenDeepwell Thanks Maren - nice to see you all join the streamyard users club :)"
+	},
+	{
 		"created_at": "Mon Apr 26 18:58:49 +0000 2021",
 		"id": 1386662960182014000,
 		"id_str": "1386756671498772484",
