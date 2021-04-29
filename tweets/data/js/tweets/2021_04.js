@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Wed Apr 28 20:06:01 +0000 2021",
+		"id": 1387411054498623500,
+		"id_str": "1387498357116047362",
+		"full_text": "Don't miss @SabinaLeonelli giving the Edinburgh Futures Lecture on 'Big data and the nature of scientific inquiry'. 27 May, free and online! Register here: https://t.co/EZmYfGXRTN @UoE_EFI https://t.co/s5MkmgvwHo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SabinaLeonelli",
+					"name": "Sabina Leonelli",
+					"id": 588271226,
+					"id_str": "588271226",
+					"indices": [
+						11,
+						26
+					]
+				},
+				{
+					"screen_name": "UoE_EFI",
+					"name": "Edinburgh Futures Institute",
+					"id": 865613814733176800,
+					"id_str": "865613814733176834",
+					"indices": [
+						180,
+						188
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EZmYfGXRTN",
+					"expanded_url": "https://bit.ly/2R3R9Si",
+					"display_url": "bit.ly/2R3R9Si",
+					"indices": [
+						156,
+						179
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1387410373834420200,
+					"id_str": "1387410373834420229",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/E0ESYloXsAUZVJM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0ESYloXsAUZVJM.jpg",
+					"url": "https://t.co/s5MkmgvwHo",
+					"display_url": "pic.twitter.com/s5MkmgvwHo",
+					"expanded_url": "https://twitter.com/sbayne/status/1387411054498623493/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1387410373834420200,
+					"id_str": "1387410373834420229",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/E0ESYloXsAUZVJM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0ESYloXsAUZVJM.jpg",
+					"url": "https://t.co/s5MkmgvwHo",
+					"display_url": "pic.twitter.com/s5MkmgvwHo",
+					"expanded_url": "https://twitter.com/sbayne/status/1387411054498623493/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1504951,
+			"id_str": "1504951",
+			"name": "Sian Bayne",
+			"screen_name": "sbayne",
+			"location": "Europe",
+			"description": "Professor of Digital Education @EdinburghUni. Director of Education @uoe_efi. Centre for Research in Digital Education @eddiged. Keeping my end up.",
+			"url": "https://t.co/RZPPIepZxF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RZPPIepZxF",
+							"expanded_url": "http://sianbayne.net/",
+							"display_url": "sianbayne.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5378,
+			"friends_count": 1360,
+			"listed_count": 242,
+			"created_at": "Mon Mar 19 13:50:29 +0000 2007",
+			"favourites_count": 8473,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151228766343114754/IIaBAQ6K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151228766343114754/IIaBAQ6K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1504951/1563309354",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Don't miss @SabinaLeonelli giving the Edinburgh Futures Lecture on 'Big data and the nature of scientific inquiry'. 27 May, free and online! Register here: https://t.co/EZmYfGXRTN @UoE_EFI https://t.co/s5MkmgvwHo"
+	},
+	{
 		"created_at": "Tue Apr 27 20:28:43 +0000 2021",
 		"id": 1387141680869134300,
 		"id_str": "1387141680869134337",
