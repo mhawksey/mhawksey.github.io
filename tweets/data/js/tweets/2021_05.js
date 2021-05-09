@@ -1,6 +1,466 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sat May 08 19:58:29 +0000 2021",
+		"id": 1391120340361822200,
+		"id_str": "1391120340361822211",
+		"full_text": "@claudiakincaid Think of it as a sum and product puzzle, and you'll be fine 😉",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "claudiakincaid",
+					"name": "Dr. Karen Gregory",
+					"id": 5478002,
+					"id_str": "5478002",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1391118884451803100,
+		"in_reply_to_status_id_str": "1391118884451803138",
+		"in_reply_to_user_id": 5478002,
+		"in_reply_to_user_id_str": "5478002",
+		"in_reply_to_screen_name": "claudiakincaid",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9178,
+			"friends_count": 2723,
+			"listed_count": 603,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7575,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30871,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@claudiakincaid Think of it as a sum and product puzzle, and you'll be fine 😉"
+	},
+	{
+		"created_at": "Sat May 08 19:29:05 +0000 2021",
+		"id": 1391112940913299500,
+		"id_str": "1391112940913299464",
+		"full_text": "@claudiakincaid May sound obvious but don't treat it like a face-to-face event. From structure to how you evaluate they are very different and making that clear in your own mind and the mind of your attendees will just make everything move smoother",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			248
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "claudiakincaid",
+					"name": "Dr. Karen Gregory",
+					"id": 5478002,
+					"id_str": "5478002",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1391076551891067000,
+		"in_reply_to_status_id_str": "1391076551891066880",
+		"in_reply_to_user_id": 5478002,
+		"in_reply_to_user_id_str": "5478002",
+		"in_reply_to_screen_name": "claudiakincaid",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9178,
+			"friends_count": 2723,
+			"listed_count": 603,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7575,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30871,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@claudiakincaid May sound obvious but don't treat it like a face-to-face event. From structure to how you evaluate they are very different and making that clear in your own mind and the mind of your attendees will just make everything move smoother"
+	},
+	{
+		"created_at": "Sat May 08 11:29:02 +0000 2021",
+		"id": 1390992131792179200,
+		"id_str": "1390992131792179207",
+		"full_text": "@jsecker Virtual worlds have been part of my life for 20+ years 😉 This is a good read https://t.co/zJlV3nGWah",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jsecker",
+					"name": "Dr Jane Secker",
+					"id": 20975165,
+					"id_str": "20975165",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zJlV3nGWah",
+					"expanded_url": "http://daveowhite.com/spatial/",
+					"display_url": "daveowhite.com/spatial/",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1390931014529192000,
+		"in_reply_to_status_id_str": "1390931014529191938",
+		"in_reply_to_user_id": 20975165,
+		"in_reply_to_user_id_str": "20975165",
+		"in_reply_to_screen_name": "jsecker",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9178,
+			"friends_count": 2723,
+			"listed_count": 603,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7575,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30871,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@jsecker Virtual worlds have been part of my life for 20+ years 😉 This is a good read https://t.co/zJlV3nGWah"
+	},
+	{
+		"created_at": "Sat May 08 07:13:22 +0000 2021",
+		"id": 1390927790946541600,
+		"id_str": "1390927790946541569",
+		"full_text": "@sensor63 The atheistic used can be very polarising. I recently shared some thoughts on the emotional aspect and a timely post from @daveowhite and our skeuomorphic tendancies ... useful to remember we can be emotional engaged by named cursors  https://t.co/jjAWcniAbY",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sensor63",
+					"name": "Simon Ensor",
+					"id": 84562932,
+					"id_str": "84562932",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "daveowhite",
+					"name": "David White",
+					"id": 16230279,
+					"id_str": "16230279",
+					"indices": [
+						132,
+						143
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jjAWcniAbY",
+					"expanded_url": "https://hawksey.info/blog/2021/04/fusion-thoughts-march-2021-its-been-emotional/",
+					"display_url": "hawksey.info/blog/2021/04/f…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1390922499567857700,
+		"in_reply_to_status_id_str": "1390922499567857664",
+		"in_reply_to_user_id": 84562932,
+		"in_reply_to_user_id_str": "84562932",
+		"in_reply_to_screen_name": "sensor63",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9178,
+			"friends_count": 2723,
+			"listed_count": 603,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7575,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30871,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@sensor63 The atheistic used can be very polarising. I recently shared some thoughts on the emotional aspect and a timely post from @daveowhite and our skeuomorphic tendancies ... useful to remember we can be emotional engaged by named cursors  https://t.co/jjAWcniAbY"
+	},
+	{
 		"created_at": "Fri May 07 19:31:25 +0000 2021",
 		"id": 1390751140191604700,
 		"id_str": "1390751140191604738",
