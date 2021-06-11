@@ -1,6 +1,336 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 10 16:51:17 +0000 2021",
+		"id": 1403015642786287600,
+		"id_str": "1403032029378252800",
+		"full_text": "Ever wondered how @supermetrics started with a #GoogleSheets Add-ons and grew into the data powerhouse it is today? \n\nCome and listen to the founder discuss the journey.\n\nStarting in 3 hours (June 10 @ 3pm EST) https://t.co/z1YyqQ4IyZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleSheets",
+					"indices": [
+						47,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Supermetrics",
+					"name": "Supermetrics",
+					"id": 166895313,
+					"id_str": "166895313",
+					"indices": [
+						18,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/z1YyqQ4IyZ",
+					"expanded_url": "https://twitter.com/mhawksey/status/1402894807568158720",
+					"display_url": "twitter.com/mhawksey/statu…",
+					"indices": [
+						211,
+						234
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19338407,
+			"id_str": "19338407",
+			"name": "Ben Collins",
+			"screen_name": "benlcollins",
+			"location": "East Coast, USA",
+			"description": "Teach Google Sheets stuff at https://t.co/t7DHFVNGYn\n\nCreator of https://t.co/dA7zM1mKGH\n\nGoogle Sheets tips: https://t.co/Ippyz7m843\n\nAlways learning!",
+			"url": "https://t.co/o6jYXCCEFq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o6jYXCCEFq",
+							"expanded_url": "http://benlcollins.com",
+							"display_url": "benlcollins.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/t7DHFVNGYn",
+							"expanded_url": "http://courses.benlcollins.com",
+							"display_url": "courses.benlcollins.com",
+							"indices": [
+								29,
+								52
+							]
+						},
+						{
+							"url": "https://t.co/dA7zM1mKGH",
+							"expanded_url": "http://sheetscon.com",
+							"display_url": "sheetscon.com",
+							"indices": [
+								65,
+								88
+							]
+						},
+						{
+							"url": "https://t.co/Ippyz7m843",
+							"expanded_url": "http://bit.ly/3uDh2a2",
+							"display_url": "bit.ly/3uDh2a2",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6168,
+			"friends_count": 845,
+			"listed_count": 328,
+			"created_at": "Thu Jan 22 13:43:22 +0000 2009",
+			"favourites_count": 12610,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CFCFCF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1255877792140595200/dUHFH2uJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1255877792140595200/dUHFH2uJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19338407/1615048843",
+			"profile_link_color": "619DE6",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "ECFFD6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1402894807568158700,
+		"quoted_status_id_str": "1402894807568158720",
+		"quoted_status_permalink": {
+			"url": "https://t.co/z1YyqQ4IyZ",
+			"expanded": "https://twitter.com/mhawksey/status/1402894807568158720",
+			"display": "twitter.com/mhawksey/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 10 07:46:01 +0000 2021",
+			"id": 1402894807568158700,
+			"id_str": "1402894807568158720",
+			"full_text": "It started with a @GoogleAnalytics challenge, now a €30M ARR business. Looking forward to speaking to @mikaelthuneberg and @jadelderfield about developing the @Supermetrics #GoogleSheets Add-on and #GoogleDataStudio connector \n\n#GoogleAppsScript https://t.co/qhRYPbFJEa",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				269
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GoogleSheets",
+						"indices": [
+							173,
+							186
+						]
+					},
+					{
+						"text": "GoogleDataStudio",
+						"indices": [
+							198,
+							215
+						]
+					},
+					{
+						"text": "GoogleAppsScript",
+						"indices": [
+							228,
+							245
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "googleanalytics",
+						"name": "Google Analytics",
+						"id": 51263711,
+						"id_str": "51263711",
+						"indices": [
+							18,
+							34
+						]
+					},
+					{
+						"screen_name": "mikaelthuneberg",
+						"name": "Mikael Thuneberg",
+						"id": 139701460,
+						"id_str": "139701460",
+						"indices": [
+							102,
+							118
+						]
+					},
+					{
+						"screen_name": "jadelderfield",
+						"name": "James Elderfield",
+						"id": 3575723489,
+						"id_str": "3575723489",
+						"indices": [
+							123,
+							137
+						]
+					},
+					{
+						"screen_name": "Supermetrics",
+						"name": "Supermetrics",
+						"id": 166895313,
+						"id_str": "166895313",
+						"indices": [
+							159,
+							172
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/qhRYPbFJEa",
+						"expanded_url": "https://www.youtube.com/watch?v=dNadD91XiJ4",
+						"display_url": "youtube.com/watch?v=dNadD9…",
+						"indices": [
+							246,
+							269
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13046992,
+				"id_str": "13046992",
+				"name": "Martin Hawksey",
+				"screen_name": "mhawksey",
+				"location": "Edinburgh, Scotland",
+				"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+				"url": "https://t.co/ic511xTmhG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ic511xTmhG",
+								"expanded_url": "https://hawksey.info/blog/",
+								"display_url": "hawksey.info/blog/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9192,
+				"friends_count": 2735,
+				"listed_count": 602,
+				"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+				"favourites_count": 7635,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 30928,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F5F5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+				"profile_link_color": "4099FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D4D4D4",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ever wondered how @supermetrics started with a #GoogleSheets Add-ons and grew into the data powerhouse it is today? \n\nCome and listen to the founder discuss the journey.\n\nStarting in 3 hours (June 10 @ 3pm EST) https://t.co/z1YyqQ4IyZ"
+	},
+	{
 		"created_at": "Wed Jun 09 17:43:08 +0000 2021",
 		"id": 1402682691833761800,
 		"id_str": "1402682691833761797",
