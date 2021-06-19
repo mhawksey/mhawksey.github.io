@@ -1,6 +1,1076 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 18 18:30:22 +0000 2021",
+		"id": 1405560073829687300,
+		"id_str": "1405956067239108616",
+		"full_text": "“What is scary is that such major change to data protection law can be introduced using powers under the European Union (Withdrawal) Act 2018 which may not even be debated by Parliament.” https://t.co/Er1eAePK1I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Er1eAePK1I",
+					"expanded_url": "https://twitter.com/owenboswarva/status/1405526087082205186",
+					"display_url": "twitter.com/owenboswarva/s…",
+					"indices": [
+						188,
+						211
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5108971,
+			"id_str": "5108971",
+			"name": "Wilbert Kraan",
+			"screen_name": "wilm",
+			"location": "iPhone: 51.729538,-0.331848",
+			"description": "he / him",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 629,
+			"friends_count": 231,
+			"listed_count": 68,
+			"created_at": "Wed Apr 18 11:50:33 +0000 2007",
+			"favourites_count": 3454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10819,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/54405929/Wilbert_normal",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/54405929/Wilbert_normal",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1405526087082205200,
+		"quoted_status_id_str": "1405526087082205186",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Er1eAePK1I",
+			"expanded": "https://twitter.com/owenboswarva/status/1405526087082205186",
+			"display": "twitter.com/owenboswarva/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 17 14:01:47 +0000 2021",
+			"id": 1405526087082205200,
+			"id_str": "1405526087082205186",
+			"full_text": "#TIGRR, Eeyore and Pooh Bear decide to destroy the GDPR https://t.co/T4IXR3sCDX | @hawktalk_blog post on yesterday's risible report from IDS et al | #UKGDPR #dataprotection",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				172
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TIGRR",
+						"indices": [
+							0,
+							6
+						]
+					},
+					{
+						"text": "UKGDPR",
+						"indices": [
+							149,
+							156
+						]
+					},
+					{
+						"text": "dataprotection",
+						"indices": [
+							157,
+							172
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "hawktalk_blog",
+						"name": "Chris Pounder",
+						"id": 1490319098,
+						"id_str": "1490319098",
+						"indices": [
+							82,
+							96
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/T4IXR3sCDX",
+						"expanded_url": "https://amberhawk.typepad.com/amberhawk/2021/06/tigrr-eeyore-and-pooh-bear-decide-to-destroy-the-gdpr.html",
+						"display_url": "amberhawk.typepad.com/amberhawk/2021…",
+						"indices": [
+							56,
+							79
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 304572237,
+				"id_str": "304572237",
+				"name": "Owen Boswarva",
+				"screen_name": "owenboswarva",
+				"location": "Nottingham, UK",
+				"description": "A mix of stuff: mainly #opendata, #dataprotection, #geospatial, #datapolicy, #ddj, and #biodiversity. Also at @datadaptive and @correlatedrisk. He/him.",
+				"url": "https://t.co/RxShlStxR4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RxShlStxR4",
+								"expanded_url": "https://www.owenboswarva.com/",
+								"display_url": "owenboswarva.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8433,
+				"friends_count": 7564,
+				"listed_count": 817,
+				"created_at": "Tue May 24 18:57:15 +0000 2011",
+				"favourites_count": 14157,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 50265,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "487035",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/789010419604189184/dqVfeGe3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/789010419604189184/dqVfeGe3_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "800000",
+				"profile_sidebar_fill_color": "BFC431",
+				"profile_text_color": "191970",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“What is scary is that such major change to data protection law can be introduced using powers under the European Union (Withdrawal) Act 2018 which may not even be debated by Parliament.” https://t.co/Er1eAePK1I"
+	},
+	{
+		"created_at": "Fri Jun 18 18:30:13 +0000 2021",
+		"id": 1405196761958858800,
+		"id_str": "1405956031142846466",
+		"full_text": "And here we go.\nNever mind that on top of the expected loss of our digital rights, stepping out of the GDPR is likely to cause *more*, not less data management headaches. https://t.co/SyrqCryGS3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SyrqCryGS3",
+					"expanded_url": "https://twitter.com/jimkillock/status/1405186534907826184",
+					"display_url": "twitter.com/jimkillock/sta…",
+					"indices": [
+						171,
+						194
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5108971,
+			"id_str": "5108971",
+			"name": "Wilbert Kraan",
+			"screen_name": "wilm",
+			"location": "iPhone: 51.729538,-0.331848",
+			"description": "he / him",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 629,
+			"friends_count": 231,
+			"listed_count": 68,
+			"created_at": "Wed Apr 18 11:50:33 +0000 2007",
+			"favourites_count": 3454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10819,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/54405929/Wilbert_normal",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/54405929/Wilbert_normal",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1405186534907826200,
+		"quoted_status_id_str": "1405186534907826184",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SyrqCryGS3",
+			"expanded": "https://twitter.com/jimkillock/status/1405186534907826184",
+			"display": "twitter.com/jimkillock/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 16 15:32:31 +0000 2021",
+			"id": 1405186534907826200,
+			"id_str": "1405186534907826184",
+			"full_text": "@ICOnews @MPIainDS @GeorgeFreemanMP This is what they say about #GDPR. https://t.co/jyE0BMJERg",
+			"truncated": false,
+			"display_text_range": [
+				36,
+				70
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GDPR",
+						"indices": [
+							64,
+							69
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ICOnews",
+						"name": "ICO - Information Commissioner's Office",
+						"id": 52753292,
+						"id_str": "52753292",
+						"indices": [
+							0,
+							8
+						]
+					},
+					{
+						"screen_name": "MPIainDS",
+						"name": "Iain Duncan Smith MP",
+						"id": 1133305785910550500,
+						"id_str": "1133305785910550528",
+						"indices": [
+							9,
+							18
+						]
+					},
+					{
+						"screen_name": "GeorgeFreemanMP",
+						"name": "George Freeman MP",
+						"id": 101712079,
+						"id_str": "101712079",
+						"indices": [
+							19,
+							35
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1405185958832607200,
+						"id_str": "1405185958832607234",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/E4A5Lz-VkAI0YoI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4A5Lz-VkAI0YoI.jpg",
+						"url": "https://t.co/jyE0BMJERg",
+						"display_url": "pic.twitter.com/jyE0BMJERg",
+						"expanded_url": "https://twitter.com/jimkillock/status/1405186534907826184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 595,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 348,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 197,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1405185958832607200,
+						"id_str": "1405185958832607234",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/E4A5Lz-VkAI0YoI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4A5Lz-VkAI0YoI.jpg",
+						"url": "https://t.co/jyE0BMJERg",
+						"display_url": "pic.twitter.com/jyE0BMJERg",
+						"expanded_url": "https://twitter.com/jimkillock/status/1405186534907826184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 595,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 348,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 197,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1405185876695687200,
+			"in_reply_to_status_id_str": "1405185876695687170",
+			"in_reply_to_user_id": 14461150,
+			"in_reply_to_user_id_str": "14461150",
+			"in_reply_to_screen_name": "jimkillock",
+			"user": {
+				"id": 14461150,
+				"id_str": "14461150",
+				"name": "Jim Killock",
+				"screen_name": "jimkillock",
+				"location": "London",
+				"description": "Executive Director, @OpenRightsGroup Currently working on the #DigitalCharter, #GDPR, #IPAct (#IPBIll) and #DEAct (#DPBill)",
+				"url": "http://t.co/A7vhNnWZvN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/A7vhNnWZvN",
+								"expanded_url": "http://jim.killock.org.uk/",
+								"display_url": "jim.killock.org.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6204,
+				"friends_count": 2556,
+				"listed_count": 235,
+				"created_at": "Mon Apr 21 12:27:37 +0000 2008",
+				"favourites_count": 1329,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11814,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "87BC44",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/458706594100822017/rfsI-RYE_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/458706594100822017/rfsI-RYE_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14461150/1398200113",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And here we go.\nNever mind that on top of the expected loss of our digital rights, stepping out of the GDPR is likely to cause *more*, not less data management headaches. https://t.co/SyrqCryGS3"
+	},
+	{
+		"created_at": "Fri Jun 18 18:24:01 +0000 2021",
+		"id": 1405954471272849400,
+		"id_str": "1405954471272849414",
+		"full_text": "Google Meet’s hand-raising feature is getting a more visible animation https://t.co/KZahau8EpL https://t.co/aPwDSNW0It",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KZahau8EpL",
+					"expanded_url": "https://www.theverge.com/2021/6/17/22539236/google-meet-worskpace-hand-raising-new-animation",
+					"display_url": "theverge.com/2021/6/17/2253…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1405954458681593900,
+					"id_str": "1405954458681593860",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E4L0IZAX0AQuhrg.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E4L0IZAX0AQuhrg.jpg",
+					"url": "https://t.co/aPwDSNW0It",
+					"display_url": "pic.twitter.com/aPwDSNW0It",
+					"expanded_url": "https://twitter.com/mhawksey/status/1405954471272849414/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 512,
+							"h": 282,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 512,
+							"h": 282,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 512,
+							"h": 282,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1405954458681593900,
+					"id_str": "1405954458681593860",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E4L0IZAX0AQuhrg.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E4L0IZAX0AQuhrg.jpg",
+					"url": "https://t.co/aPwDSNW0It",
+					"display_url": "pic.twitter.com/aPwDSNW0It",
+					"expanded_url": "https://twitter.com/mhawksey/status/1405954471272849414/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 512,
+							"h": 282,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 512,
+							"h": 282,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 512,
+							"h": 282,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							256,
+							141
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E4L0IZAX0AQuhrg.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9198,
+			"friends_count": 2734,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7647,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Google Meet’s hand-raising feature is getting a more visible animation https://t.co/KZahau8EpL https://t.co/aPwDSNW0It"
+	},
+	{
+		"created_at": "Fri Jun 18 10:53:46 +0000 2021",
+		"id": 1405841158870286300,
+		"id_str": "1405841158870286338",
+		"full_text": "\"More than two-thirds (66%) of businesses continue to offer some remote working, according to a survey from the British Chambers of Commerce\"  https://t.co/RHdbcMJTqm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RHdbcMJTqm",
+					"expanded_url": "https://www.theguardian.com/business/2021/jun/18/office-hybrid-or-home-businesses-ponder-future-of-work",
+					"display_url": "theguardian.com/business/2021/…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9198,
+			"friends_count": 2734,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7647,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"More than two-thirds (66%) of businesses continue to offer some remote working, according to a survey from the British Chambers of Commerce\"  https://t.co/RHdbcMJTqm"
+	},
+	{
+		"created_at": "Fri Jun 18 08:22:13 +0000 2021",
+		"id": 1405803020374392800,
+		"id_str": "1405803020374392834",
+		"full_text": "'As players \"take the knee\" before Friday's European championship game at Wembley in a stance against racism, few will realise Scotland was the first international side to field a black player.' https://t.co/hKZJz4TUHH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hKZJz4TUHH",
+					"expanded_url": "https://www.bbc.co.uk/news/uk-scotland-57520338",
+					"display_url": "bbc.co.uk/news/uk-scotla…",
+					"indices": [
+						195,
+						218
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9198,
+			"friends_count": 2734,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7647,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'As players \"take the knee\" before Friday's European championship game at Wembley in a stance against racism, few will realise Scotland was the first international side to field a black player.' https://t.co/hKZJz4TUHH"
+	},
+	{
+		"created_at": "Fri Jun 18 05:43:38 +0000 2021",
+		"id": 1405763112188276700,
+		"id_str": "1405763112188276740",
+		"full_text": "@fullstackpanic ... the pattern at the end is one I still use in most projects :)",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fullstackpanic",
+					"name": "Tim Sampson",
+					"id": 173513816,
+					"id_str": "173513816",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1405705320400261000,
+		"in_reply_to_status_id_str": "1405705320400261125",
+		"in_reply_to_user_id": 173513816,
+		"in_reply_to_user_id_str": "173513816",
+		"in_reply_to_screen_name": "fullstackpanic",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9198,
+			"friends_count": 2734,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7647,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@fullstackpanic ... the pattern at the end is one I still use in most projects :)"
+	},
+	{
 		"created_at": "Thu Jun 17 19:41:04 +0000 2021",
 		"id": 1405611472328216600,
 		"id_str": "1405611472328216578",
