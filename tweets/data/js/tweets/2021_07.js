@@ -1,6 +1,121 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 09 14:19:41 +0000 2021",
+		"id": 1413493192964468700,
+		"id_str": "1413503125785235465",
+		"full_text": "Hey, we're #hiring! We are now accepting applications for a Hosting Account Manager and a Junior Web Developer to join our team. Full time and fully remote. If you know anyone that might be interested in working at a pretty cool company, send 'em our way! https://t.co/AROxW65b4F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "hiring",
+					"indices": [
+						11,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AROxW65b4F",
+					"expanded_url": "https://reclaimhosting.com/careers/",
+					"display_url": "reclaimhosting.com/careers/",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1602053274,
+			"id_str": "1602053274",
+			"name": "Reclaim Hosting",
+			"screen_name": "ReclaimHosting",
+			"location": "",
+			"description": "Reclaim Hosting provides educators and institutions with an easy way to offer their students domains and web hosting that they own and control.\n@DomainsConf",
+			"url": "https://t.co/7YLSpKrSJW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7YLSpKrSJW",
+							"expanded_url": "https://reclaimhosting.com",
+							"display_url": "reclaimhosting.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1902,
+			"friends_count": 265,
+			"listed_count": 54,
+			"created_at": "Wed Jul 17 23:35:51 +0000 2013",
+			"favourites_count": 134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2456,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986364029651357696/VvHYmotd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986364029651357696/VvHYmotd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1602053274/1524002583",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey, we're #hiring! We are now accepting applications for a Hosting Account Manager and a Junior Web Developer to join our team. Full time and fully remote. If you know anyone that might be interested in working at a pretty cool company, send 'em our way! https://t.co/AROxW65b4F"
+	},
+	{
 		"created_at": "Wed Jul 07 18:12:57 +0000 2021",
 		"id": 1412837054690513000,
 		"id_str": "1412837054690512899",
