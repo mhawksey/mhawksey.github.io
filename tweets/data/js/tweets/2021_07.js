@@ -1,6 +1,376 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 12 20:32:43 +0000 2021",
+		"id": 1414684167066071000,
+		"id_str": "1414684167066071042",
+		"full_text": "#GoogleWorkspace Admins might be interested in the next episode of Totally Unscripted where @chasmaxson @SteveWebster22 and I get a chance to speak to Jay Lee about GAM https://t.co/z47QvpC9dl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleWorkspace",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chasmaxson",
+					"name": "Charles Maxson",
+					"id": 993937566029115400,
+					"id_str": "993937566029115393",
+					"indices": [
+						92,
+						103
+					]
+				},
+				{
+					"screen_name": "SteveWebster22",
+					"name": "Steve Webster",
+					"id": 3431975507,
+					"id_str": "3431975507",
+					"indices": [
+						104,
+						119
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/z47QvpC9dl",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1414677082479628288",
+					"display_url": "twitter.com/AppsScriptInfo…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9219,
+			"friends_count": 2736,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7656,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1414677082479628300,
+		"quoted_status_id_str": "1414677082479628288",
+		"quoted_status_permalink": {
+			"url": "https://t.co/z47QvpC9dl",
+			"expanded": "https://twitter.com/AppsScriptInfo/status/1414677082479628288",
+			"display": "twitter.com/AppsScriptInfo…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 12 20:04:34 +0000 2021",
+			"id": 1414677082479628300,
+			"id_str": "1414677082479628288",
+			"full_text": "Totally Unscripted – Automation for Admins: Command line management for Google Workspace with GAM Thur 15 July at 1200 PDT / 1500 EDT / 2000 GMT+1 (contributed by @mhawksey) #GoogleWorkspace @WorkspaceDevs #GoogleAppsScript #AppsScript https://t.co/uDeE1UCuvK https://t.co/e68P1D7vhD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				259
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GoogleWorkspace",
+						"indices": [
+							174,
+							190
+						]
+					},
+					{
+						"text": "GoogleAppsScript",
+						"indices": [
+							206,
+							223
+						]
+					},
+					{
+						"text": "AppsScript",
+						"indices": [
+							224,
+							235
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mhawksey",
+						"name": "Martin Hawksey",
+						"id": 13046992,
+						"id_str": "13046992",
+						"indices": [
+							163,
+							172
+						]
+					},
+					{
+						"screen_name": "workspacedevs",
+						"name": "Google Workspace Developers",
+						"id": 111197966,
+						"id_str": "111197966",
+						"indices": [
+							191,
+							205
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/uDeE1UCuvK",
+						"expanded_url": "https://pulse.appsscript.info/p/2021/07/totally-unscripted-automation-for-admins-command-line-management-for-google-workspace-with-gam-thur-15-july-at-1200-pdt-1500-edt-2000-gmt1/",
+						"display_url": "pulse.appsscript.info/p/2021/07/tota…",
+						"indices": [
+							236,
+							259
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1414677080327954400,
+						"id_str": "1414677080327954433",
+						"indices": [
+							260,
+							283
+						],
+						"media_url": "http://pbs.twimg.com/media/E6HxTyzVoAEodC0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E6HxTyzVoAEodC0.jpg",
+						"url": "https://t.co/e68P1D7vhD",
+						"display_url": "pic.twitter.com/e68P1D7vhD",
+						"expanded_url": "https://twitter.com/AppsScriptInfo/status/1414677082479628288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1414677080327954400,
+						"id_str": "1414677080327954433",
+						"indices": [
+							260,
+							283
+						],
+						"media_url": "http://pbs.twimg.com/media/E6HxTyzVoAEodC0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E6HxTyzVoAEodC0.jpg",
+						"url": "https://t.co/e68P1D7vhD",
+						"display_url": "pic.twitter.com/e68P1D7vhD",
+						"expanded_url": "https://twitter.com/AppsScriptInfo/status/1414677082479628288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 322526439,
+				"id_str": "322526439",
+				"name": "AppsScriptInfo",
+				"screen_name": "AppsScriptInfo",
+				"location": "World",
+				"description": "A Google Apps Script Community account to support Google Workspace Devs. Curated by @mhawksey",
+				"url": "https://t.co/pEqPAHFH4F",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pEqPAHFH4F",
+								"expanded_url": "https://pulse.appsscript.info",
+								"display_url": "pulse.appsscript.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1384,
+				"friends_count": 1284,
+				"listed_count": 43,
+				"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+				"favourites_count": 764,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2454,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+				"profile_link_color": "4286F4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#GoogleWorkspace Admins might be interested in the next episode of Totally Unscripted where @chasmaxson @SteveWebster22 and I get a chance to speak to Jay Lee about GAM https://t.co/z47QvpC9dl"
+	},
+	{
 		"created_at": "Sun Jul 11 08:52:53 +0000 2021",
 		"id": 1414145660056703000,
 		"id_str": "1414145660056702979",
