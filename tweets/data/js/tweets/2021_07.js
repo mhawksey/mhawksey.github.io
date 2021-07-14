@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 13 18:42:14 +0000 2021",
+		"id": 1415018751511212000,
+		"id_str": "1415018751511212048",
+		"full_text": "Five core trends in teaching and learning post-Covid 19 from @drtonybates ... [spoiler]  https://t.co/eur6aS7ad3 https://t.co/CzmKAz5Myd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drtonybates",
+					"name": "Dr. Tony Bates",
+					"id": 19812150,
+					"id_str": "19812150",
+					"indices": [
+						61,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eur6aS7ad3",
+					"expanded_url": "https://www.tonybates.ca/2021/07/12/five-core-trends-in-teaching-and-learning-post-covid-19/",
+					"display_url": "tonybates.ca/2021/07/12/fiv…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1415018748092862500,
+					"id_str": "1415018748092862469",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/E6MoDeaX0AUwoR2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6MoDeaX0AUwoR2.jpg",
+					"url": "https://t.co/CzmKAz5Myd",
+					"display_url": "pic.twitter.com/CzmKAz5Myd",
+					"expanded_url": "https://twitter.com/mhawksey/status/1415018751511212048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1388,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 813,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 461,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415018748092862500,
+					"id_str": "1415018748092862469",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/E6MoDeaX0AUwoR2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6MoDeaX0AUwoR2.jpg",
+					"url": "https://t.co/CzmKAz5Myd",
+					"display_url": "pic.twitter.com/CzmKAz5Myd",
+					"expanded_url": "https://twitter.com/mhawksey/status/1415018751511212048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1388,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 813,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 461,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9218,
+			"friends_count": 2738,
+			"listed_count": 602,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7661,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Five core trends in teaching and learning post-Covid 19 from @drtonybates ... [spoiler]  https://t.co/eur6aS7ad3 https://t.co/CzmKAz5Myd"
+	},
+	{
 		"created_at": "Mon Jul 12 20:32:43 +0000 2021",
 		"id": 1414684167066071000,
 		"id_str": "1414684167066071042",
