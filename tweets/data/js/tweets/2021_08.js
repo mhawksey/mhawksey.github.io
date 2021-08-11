@@ -1,6 +1,420 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 10 21:16:57 +0000 2021",
+		"id": 1425204544636600300,
+		"id_str": "1425204544636600328",
+		"full_text": "Includes a nice little easter egg with a method for enabling Google Chat notification #GoogleAppsScript #GoogleChat #WorkspaceDevs https://t.co/Rso150xbsI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						86,
+						103
+					]
+				},
+				{
+					"text": "GoogleChat",
+					"indices": [
+						104,
+						115
+					]
+				},
+				{
+					"text": "WorkspaceDevs",
+					"indices": [
+						116,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Rso150xbsI",
+					"expanded_url": "https://twitter.com/ScriptableA/status/1424794521905160192",
+					"display_url": "twitter.com/ScriptableA/st…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9241,
+			"friends_count": 2739,
+			"listed_count": 601,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7707,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31018,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1424794521905160200,
+		"quoted_status_id_str": "1424794521905160192",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Rso150xbsI",
+			"expanded": "https://twitter.com/ScriptableA/status/1424794521905160192",
+			"display": "twitter.com/ScriptableA/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 09 18:07:40 +0000 2021",
+			"id": 1424794521905160200,
+			"id_str": "1424794521905160192",
+			"full_text": "Just released v1.0.0 of Website Status Monitoring using #GoogleSheets and #GoogleAppsScript ... A free &amp; open-sourced solution for checking your site status! https://t.co/ng2sLyYflu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				185
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GoogleSheets",
+						"indices": [
+							56,
+							69
+						]
+					},
+					{
+						"text": "GoogleAppsScript",
+						"indices": [
+							74,
+							91
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ng2sLyYflu",
+						"expanded_url": "https://www.scriptable-assets.page/gas-solutions/website-monitoring-by-gas/",
+						"display_url": "scriptable-assets.page/gas-solutions/…",
+						"indices": [
+							162,
+							185
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1382356086468997000,
+				"id_str": "1382356086468997122",
+				"name": "scriptable-assets",
+				"screen_name": "ScriptableA",
+				"location": "Akita, Japan",
+				"description": "業務効率化のネタなど＠非エンジニア。Scriptable Assets is a website to showcase open-sourced solutions that can be commonly used at workplaces.",
+				"url": "https://t.co/1cu8gaFoMt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1cu8gaFoMt",
+								"expanded_url": "https://www.scriptable-assets.page/",
+								"display_url": "scriptable-assets.page",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1,
+				"friends_count": 17,
+				"listed_count": 0,
+				"created_at": "Wed Apr 14 15:33:21 +0000 2021",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1382360054913896453/5pHHnTgC_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1382360054913896453/5pHHnTgC_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1382356086468997122/1618415479",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Includes a nice little easter egg with a method for enabling Google Chat notification #GoogleAppsScript #GoogleChat #WorkspaceDevs https://t.co/Rso150xbsI"
+	},
+	{
+		"created_at": "Tue Aug 10 19:52:57 +0000 2021",
+		"id": 1425183407206768600,
+		"id_str": "1425183407206768645",
+		"full_text": "@schoraria911 @AppsScriptInfo @wildhogsm @workspacedevs Not sure how reliable it is though. I track usage of https://t.co/nrIXi0uE36 with https://t.co/pMpyPULsaU .. in the last 30 days pinged 8,604,476 times 😱",
+		"truncated": false,
+		"display_text_range": [
+			56,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "schoraria911",
+					"name": "Sourabh Choraria",
+					"id": 1145333591867453400,
+					"id_str": "1145333591867453440",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "AppsScriptInfo",
+					"name": "AppsScriptInfo",
+					"id": 322526439,
+					"id_str": "322526439",
+					"indices": [
+						14,
+						29
+					]
+				},
+				{
+					"screen_name": "wildhogsm",
+					"name": "Dmitry Kostyuk",
+					"id": 154886521,
+					"id_str": "154886521",
+					"indices": [
+						30,
+						40
+					]
+				},
+				{
+					"screen_name": "workspacedevs",
+					"name": "Google Workspace Developers",
+					"id": 111197966,
+					"id_str": "111197966",
+					"indices": [
+						41,
+						55
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nrIXi0uE36",
+					"expanded_url": "https://tags.hawksey.info/",
+					"display_url": "tags.hawksey.info",
+					"indices": [
+						109,
+						132
+					]
+				},
+				{
+					"url": "https://t.co/pMpyPULsaU",
+					"expanded_url": "https://hawksey.info/blog/2014/02/tracking-google-sheet-views-with-google-analytics/",
+					"display_url": "hawksey.info/blog/2014/02/t…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1424933308647960600,
+		"in_reply_to_status_id_str": "1424933308647960576",
+		"in_reply_to_user_id": 1145333591867453400,
+		"in_reply_to_user_id_str": "1145333591867453440",
+		"in_reply_to_screen_name": "schoraria911",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9241,
+			"friends_count": 2739,
+			"listed_count": 601,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7707,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31018,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@schoraria911 @AppsScriptInfo @wildhogsm @workspacedevs Not sure how reliable it is though. I track usage of https://t.co/nrIXi0uE36 with https://t.co/pMpyPULsaU .. in the last 30 days pinged 8,604,476 times 😱"
+	},
+	{
 		"created_at": "Mon Aug 09 18:13:09 +0000 2021",
 		"id": 1424795904251502600,
 		"id_str": "1424795904251502593",
