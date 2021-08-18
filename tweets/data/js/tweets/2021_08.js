@@ -1,6 +1,319 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 17 11:50:18 +0000 2021",
+		"id": 1427598660653695000,
+		"id_str": "1427598660653694980",
+		"full_text": "Twitter’s decentralized social network project finally has a leader https://t.co/KZKQqzkVpG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KZKQqzkVpG",
+					"expanded_url": "https://www.theverge.com/2021/8/16/22627435/twitter-bluesky-lead-jay-graber-decentralized-social-web",
+					"display_url": "theverge.com/2021/8/16/2262…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9248,
+			"friends_count": 2742,
+			"listed_count": 601,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31028,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Twitter’s decentralized social network project finally has a leader https://t.co/KZKQqzkVpG"
+	},
+	{
+		"created_at": "Tue Aug 17 09:19:34 +0000 2021",
+		"id": 1427547706503934000,
+		"id_str": "1427560726550417409",
+		"full_text": "Come and help build a sustainable future with the Edinburgh Futures Institute! Two new open-ended lectureships now recruiting: Sustainability and Urban Data Science with @eca_edinburgh and Health Futures with @EdinUniHealth https://t.co/N1GL8UIxFn https://t.co/QjW5nkEtGi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eca_edinburgh",
+					"name": "Edinburgh College of Art",
+					"id": 140010965,
+					"id_str": "140010965",
+					"indices": [
+						170,
+						184
+					]
+				},
+				{
+					"screen_name": "EdinUniHealth",
+					"name": "School of Health in Social Science",
+					"id": 1329496760,
+					"id_str": "1329496760",
+					"indices": [
+						209,
+						223
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/N1GL8UIxFn",
+					"expanded_url": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions?keyword=efi",
+					"display_url": "elxw.fa.em3.oraclecloud.com/hcmUI/Candidat…",
+					"indices": [
+						224,
+						247
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1427547320820904000,
+					"id_str": "1427547320820903964",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/E8-quY2XMBwaA7G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8-quY2XMBwaA7G.jpg",
+					"url": "https://t.co/QjW5nkEtGi",
+					"display_url": "pic.twitter.com/QjW5nkEtGi",
+					"expanded_url": "https://twitter.com/sbayne/status/1427547706503933959/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 386,
+							"h": 131,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 386,
+							"h": 131,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 131,
+							"h": 131,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 386,
+							"h": 131,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427547320820904000,
+					"id_str": "1427547320820903964",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/E8-quY2XMBwaA7G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8-quY2XMBwaA7G.jpg",
+					"url": "https://t.co/QjW5nkEtGi",
+					"display_url": "pic.twitter.com/QjW5nkEtGi",
+					"expanded_url": "https://twitter.com/sbayne/status/1427547706503933959/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 386,
+							"h": 131,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 386,
+							"h": 131,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 131,
+							"h": 131,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 386,
+							"h": 131,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1504951,
+			"id_str": "1504951",
+			"name": "Sian Bayne",
+			"screen_name": "sbayne",
+			"location": "Europe",
+			"description": "Professor of Digital Education @EdinburghUni. Director of Education @uoe_efi. Centre for Research in Digital Education @eddiged. Keeping my end up.",
+			"url": "https://t.co/RZPPIepZxF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RZPPIepZxF",
+							"expanded_url": "http://sianbayne.net/",
+							"display_url": "sianbayne.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5554,
+			"friends_count": 1387,
+			"listed_count": 243,
+			"created_at": "Mon Mar 19 13:50:29 +0000 2007",
+			"favourites_count": 8940,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4594,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151228766343114754/IIaBAQ6K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151228766343114754/IIaBAQ6K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1504951/1563309354",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Come and help build a sustainable future with the Edinburgh Futures Institute! Two new open-ended lectureships now recruiting: Sustainability and Urban Data Science with @eca_edinburgh and Health Futures with @EdinUniHealth https://t.co/N1GL8UIxFn https://t.co/QjW5nkEtGi"
+	},
+	{
 		"created_at": "Mon Aug 16 21:07:56 +0000 2021",
 		"id": 1427376606050455600,
 		"id_str": "1427376606050455559",
