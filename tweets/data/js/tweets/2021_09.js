@@ -1,6 +1,327 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sat Sep 11 19:39:55 +0000 2021",
+		"id": 1436237241865719800,
+		"id_str": "1436776540042403840",
+		"full_text": "👉 https://t.co/kW207tBqam\n\nA resource that lists *ALL* the libraries for visualising data in Python! 🐍🔥\n\n✓ Core\n✓ High-Level\n✓ Native-GUIs\n✓ SciVis\n✓ Geospatial\n✓ Graphs &amp; networks\n✓ Dashboarding\n✓ Colormapping\n\nAnd many more!\n\n#Dataviz #ML #DataScience #AI https://t.co/S3agoJj0wR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Dataviz",
+					"indices": [
+						232,
+						240
+					]
+				},
+				{
+					"text": "ML",
+					"indices": [
+						241,
+						244
+					]
+				},
+				{
+					"text": "DataScience",
+					"indices": [
+						245,
+						257
+					]
+				},
+				{
+					"text": "AI",
+					"indices": [
+						258,
+						261
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kW207tBqam",
+					"expanded_url": "https://pyviz.org/tools.html",
+					"display_url": "pyviz.org/tools.html",
+					"indices": [
+						2,
+						25
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1436236476426162200,
+					"id_str": "1436236476426162179",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/E-6Jdz7XEAMiV1M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-6Jdz7XEAMiV1M.jpg",
+					"url": "https://t.co/S3agoJj0wR",
+					"display_url": "pic.twitter.com/S3agoJj0wR",
+					"expanded_url": "https://twitter.com/DataChaz/status/1436237241865719809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 325,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 980,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 574,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1436236476426162200,
+					"id_str": "1436236476426162179",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/E-6Jdz7XEAMiV1M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-6Jdz7XEAMiV1M.jpg",
+					"url": "https://t.co/S3agoJj0wR",
+					"display_url": "pic.twitter.com/S3agoJj0wR",
+					"expanded_url": "https://twitter.com/DataChaz/status/1436237241865719809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 325,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 980,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 574,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19628766,
+			"id_str": "19628766",
+			"name": "Charly Wargnier",
+			"screen_name": "DataChaz",
+			"location": "London + Nottingham, UK.",
+			"description": "∙ Dev Advocate at @Streamlit 🎈 (we're hiring! DM me)\n∙ Thrilled to join the dots between SEO & #DataScience\n∙ #NLP practitioner\n∙ @SEOPythonistas maintainer",
+			"url": "https://t.co/q4f2lnJpYv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q4f2lnJpYv",
+							"expanded_url": "https://www.charlywargnier.com/",
+							"display_url": "charlywargnier.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10648,
+			"friends_count": 9465,
+			"listed_count": 225,
+			"created_at": "Wed Jan 28 01:11:07 +0000 2009",
+			"favourites_count": 29050,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1362781887098454025/5cwyKZED_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1362781887098454025/5cwyKZED_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19628766/1630526645",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "👉 https://t.co/kW207tBqam\n\nA resource that lists *ALL* the libraries for visualising data in Python! 🐍🔥\n\n✓ Core\n✓ High-Level\n✓ Native-GUIs\n✓ SciVis\n✓ Geospatial\n✓ Graphs &amp; networks\n✓ Dashboarding\n✓ Colormapping\n\nAnd many more!\n\n#Dataviz #ML #DataScience #AI https://t.co/S3agoJj0wR"
+	},
+	{
+		"created_at": "Sat Sep 11 19:35:17 +0000 2021",
+		"id": 1436596943275401200,
+		"id_str": "1436775371354087426",
+		"full_text": "Google Women Developer Academy is launching in Europe soon 👩‍💻🚀. Applications close on Sep. 19th. You can still apply here 👇\nhttps://t.co/IfcMoYGxHH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IfcMoYGxHH",
+					"expanded_url": "https://events.withgoogle.com/women-developer-academy-europe/",
+					"display_url": "events.withgoogle.com/women-develope…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 127973484,
+			"id_str": "127973484",
+			"name": "Pablo Felip",
+			"screen_name": "pfelipm",
+			"location": "Castelló, España",
+			"description": "Escéptico practicante. Entre TIC/TAC, sw libre, postrock, AV y 🕹️ con modo historia memorable. Coord. @GEGSpain, @GoogleDevExpert GWS, @NotionHQ Ambassador.",
+			"url": "https://t.co/WbDgTbhvei",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WbDgTbhvei",
+							"expanded_url": "https://pablofelip.online",
+							"display_url": "pablofelip.online",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2622,
+			"friends_count": 322,
+			"listed_count": 86,
+			"created_at": "Tue Mar 30 19:15:16 +0000 2010",
+			"favourites_count": 7407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7366,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1012806839325593600/XKb7G2VO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1012806839325593600/XKb7G2VO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/127973484/1443353173",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Google Women Developer Academy is launching in Europe soon 👩‍💻🚀. Applications close on Sep. 19th. You can still apply here 👇\nhttps://t.co/IfcMoYGxHH"
+	},
+	{
 		"created_at": "Thu Sep 09 06:40:20 +0000 2021",
 		"id": 1435855574227423200,
 		"id_str": "1435855574227423232",
