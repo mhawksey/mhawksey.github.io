@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sun Sep 12 06:19:36 +0000 2021",
+		"id": 1436937522194563000,
+		"id_str": "1436937522194563074",
+		"full_text": "@Interactivefy @BeingPractical V6 is here https://t.co/SIQQT3Vpq9 :)",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Interactivefy",
+					"name": "Jigesh Shah",
+					"id": 25050950,
+					"id_str": "25050950",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "BeingPractical",
+					"name": "pj",
+					"id": 8806712,
+					"id_str": "8806712",
+					"indices": [
+						15,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SIQQT3Vpq9",
+					"expanded_url": "https://tags.hawksey.info/get-tags/",
+					"display_url": "tags.hawksey.info/get-tags/",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1436880578792411100,
+		"in_reply_to_status_id_str": "1436880578792411140",
+		"in_reply_to_user_id": 25050950,
+		"in_reply_to_user_id_str": "25050950",
+		"in_reply_to_screen_name": "Interactivefy",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9254,
+			"friends_count": 2758,
+			"listed_count": 598,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7751,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Interactivefy @BeingPractical V6 is here https://t.co/SIQQT3Vpq9 :)"
+	},
+	{
 		"created_at": "Sat Sep 11 19:39:55 +0000 2021",
 		"id": 1436237241865719800,
 		"id_str": "1436776540042403840",
@@ -218,7 +346,7 @@ Grailbird.data.tweets_2021_09 =
 		"created_at": "Sat Sep 11 19:35:17 +0000 2021",
 		"id": 1436596943275401200,
 		"id_str": "1436775371354087426",
-		"full_text": "Google Women Developer Academy is launching in Europe soon 👩‍💻🚀. Applications close on Sep. 19th. You can still apply here 👇\nhttps://t.co/IfcMoYGxHH",
+		"full_text": "Google Women Developer Academy is launching in Europe soon 👩💻🚀. Applications close on Sep. 19th. You can still apply here 👇\nhttps://t.co/IfcMoYGxHH",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -319,7 +447,7 @@ Grailbird.data.tweets_2021_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Google Women Developer Academy is launching in Europe soon 👩‍💻🚀. Applications close on Sep. 19th. You can still apply here 👇\nhttps://t.co/IfcMoYGxHH"
+		"text": "Google Women Developer Academy is launching in Europe soon 👩💻🚀. Applications close on Sep. 19th. You can still apply here 👇\nhttps://t.co/IfcMoYGxHH"
 	},
 	{
 		"created_at": "Thu Sep 09 06:40:20 +0000 2021",
