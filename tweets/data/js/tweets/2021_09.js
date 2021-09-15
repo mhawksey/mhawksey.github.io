@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 14 21:16:32 +0000 2021",
+		"id": 1437888018505945000,
+		"id_str": "1437888018505945095",
+		"full_text": "@schoraria911 this one is for you ... 😁 https://t.co/t8izkUCZAa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "schoraria911",
+					"name": "Sourabh Choraria",
+					"id": 1145333591867453400,
+					"id_str": "1145333591867453440",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/t8izkUCZAa",
+					"expanded_url": "https://twitter.com/bennettscience/status/1437879012597059595",
+					"display_url": "twitter.com/bennettscience…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1145333591867453400,
+		"in_reply_to_user_id_str": "1145333591867453440",
+		"in_reply_to_screen_name": "schoraria911",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9259,
+			"friends_count": 2758,
+			"listed_count": 599,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7756,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31065,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1437879012597059600,
+		"quoted_status_id_str": "1437879012597059595",
+		"quoted_status_permalink": {
+			"url": "https://t.co/t8izkUCZAa",
+			"expanded": "https://twitter.com/bennettscience/status/1437879012597059595",
+			"display": "twitter.com/bennettscience…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 14 20:40:45 +0000 2021",
+			"id": 1437879012597059600,
+			"id_str": "1437879012597059595",
+			"full_text": "In other news, I wrote a thing on how to do more Internet things with #AppsScript.\n\nhttps://t.co/ovuO8DVNyT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				107
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AppsScript",
+						"indices": [
+							70,
+							81
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ovuO8DVNyT",
+						"expanded_url": "https://bit.ly/2XdYiT0",
+						"display_url": "bit.ly/2XdYiT0",
+						"indices": [
+							84,
+							107
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 270307546,
+				"id_str": "270307546",
+				"name": "Brian E. Bennett",
+				"screen_name": "bennettscience",
+				"location": "Michigan, United States",
+				"description": "Teacher.",
+				"url": "https://t.co/dgKVcwHHNn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dgKVcwHHNn",
+								"expanded_url": "http://www.ohheybrian.com",
+								"display_url": "ohheybrian.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5969,
+				"friends_count": 808,
+				"listed_count": 521,
+				"created_at": "Tue Mar 22 11:24:15 +0000 2011",
+				"favourites_count": 792,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 54659,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000219594937/a67144d687c4cd68983b15e304aecdd2_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000219594937/a67144d687c4cd68983b15e304aecdd2_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/270307546/1489799096",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@schoraria911 this one is for you ... 😁 https://t.co/t8izkUCZAa"
+	},
+	{
 		"created_at": "Sun Sep 12 06:19:36 +0000 2021",
 		"id": 1436937522194563000,
 		"id_str": "1436937522194563074",
