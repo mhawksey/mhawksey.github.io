@@ -1,6 +1,261 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 24 16:04:10 +0000 2021",
+		"id": 1441372550974509000,
+		"id_str": "1441433284156792832",
+		"full_text": "Another opportunity to work with ⁦@UoE_EFI⁩, partnering with ⁦@uoessps⁩ - permanent Lecturership in Governance, Technology and Data ⁦@EdinburghUni⁩ ⁦@neuropols⁩  https://t.co/TuF9kgnoHJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UoE_EFI",
+					"name": "Edinburgh Futures Institute",
+					"id": 865613814733176800,
+					"id_str": "865613814733176834",
+					"indices": [
+						34,
+						42
+					]
+				},
+				{
+					"screen_name": "uoessps",
+					"name": "School of Social & Political Science Edinburgh",
+					"id": 1326512888,
+					"id_str": "1326512888",
+					"indices": [
+						62,
+						70
+					]
+				},
+				{
+					"screen_name": "EdinburghUni",
+					"name": "The University of Edinburgh",
+					"id": 23426889,
+					"id_str": "23426889",
+					"indices": [
+						133,
+						146
+					]
+				},
+				{
+					"screen_name": "neuropols",
+					"name": "Laura Cram",
+					"id": 2362463910,
+					"id_str": "2362463910",
+					"indices": [
+						149,
+						159
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TuF9kgnoHJ",
+					"expanded_url": "https://www.jobs.ac.uk/job/CJB967/lecturer-in-governance-technology-and-data",
+					"display_url": "jobs.ac.uk/job/CJB967/lec…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1504951,
+			"id_str": "1504951",
+			"name": "Sian Bayne",
+			"screen_name": "sbayne",
+			"location": "Europe",
+			"description": "Professor of Digital Education @EdinburghUni. Director of Education @uoe_efi. Centre for Research in Digital Education @eddiged. Keeping my end up.",
+			"url": "https://t.co/RZPPIepZxF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RZPPIepZxF",
+							"expanded_url": "http://sianbayne.net/",
+							"display_url": "sianbayne.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5621,
+			"friends_count": 1399,
+			"listed_count": 241,
+			"created_at": "Mon Mar 19 13:50:29 +0000 2007",
+			"favourites_count": 9106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4623,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151228766343114754/IIaBAQ6K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151228766343114754/IIaBAQ6K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1504951/1563309354",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Another opportunity to work with ⁦@UoE_EFI⁩, partnering with ⁦@uoessps⁩ - permanent Lecturership in Governance, Technology and Data ⁦@EdinburghUni⁩ ⁦@neuropols⁩  https://t.co/TuF9kgnoHJ"
+	},
+	{
+		"created_at": "Fri Sep 24 07:42:19 +0000 2021",
+		"id": 1441306989372469200,
+		"id_str": "1441306989372469252",
+		"full_text": "@dougclow Me all the time ... (I at least have a flat background physically behind me)",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dougclow",
+					"name": "Doug Clow",
+					"id": 7608532,
+					"id_str": "7608532",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1441305508758106000,
+		"in_reply_to_status_id_str": "1441305508758106113",
+		"in_reply_to_user_id": 7608532,
+		"in_reply_to_user_id_str": "7608532",
+		"in_reply_to_screen_name": "dougclow",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9270,
+			"friends_count": 2760,
+			"listed_count": 594,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7784,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31089,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@dougclow Me all the time ... (I at least have a flat background physically behind me)"
+	},
+	{
 		"created_at": "Thu Sep 23 21:35:39 +0000 2021",
 		"id": 1441154320393662500,
 		"id_str": "1441154320393662464",
