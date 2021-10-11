@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 10 19:29:35 +0000 2021",
+		"id": 1447283187588243500,
+		"id_str": "1447283187588243456",
+		"full_text": "@BBCScotlandNews  doesn't look like you are updating first graph in  https://t.co/oBbau4vrmH .. or am I wrong? https://t.co/kUZylfqBsN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BBCScotlandNews",
+					"name": "BBC Scotland News",
+					"id": 15687507,
+					"id_str": "15687507",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oBbau4vrmH",
+					"expanded_url": "https://www.bbc.co.uk/news/uk-scotland-53511877",
+					"display_url": "bbc.co.uk/news/uk-scotla…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1447283185243541500,
+					"id_str": "1447283185243541504",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/FBXIY5HWUAARN9P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBXIY5HWUAARN9P.jpg",
+					"url": "https://t.co/kUZylfqBsN",
+					"display_url": "pic.twitter.com/kUZylfqBsN",
+					"expanded_url": "https://twitter.com/mhawksey/status/1447283187588243456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 659,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1163,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447283185243541500,
+					"id_str": "1447283185243541504",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/FBXIY5HWUAARN9P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBXIY5HWUAARN9P.jpg",
+					"url": "https://t.co/kUZylfqBsN",
+					"display_url": "pic.twitter.com/kUZylfqBsN",
+					"expanded_url": "https://twitter.com/mhawksey/status/1447283187588243456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 659,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1163,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 15687507,
+		"in_reply_to_user_id_str": "15687507",
+		"in_reply_to_screen_name": "BBCScotlandNews",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9274,
+			"friends_count": 2764,
+			"listed_count": 597,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@BBCScotlandNews  doesn't look like you are updating first graph in  https://t.co/oBbau4vrmH .. or am I wrong? https://t.co/kUZylfqBsN"
+	},
+	{
 		"created_at": "Wed Oct 06 20:54:09 +0000 2021",
 		"id": 1445854917394980900,
 		"id_str": "1445854917394980868",
