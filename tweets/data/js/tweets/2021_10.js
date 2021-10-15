@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 14 16:00:03 +0000 2021",
+		"id": 1448680006444626000,
+		"id_str": "1448680006444625923",
+		"full_text": "Neighbour wins privacy row over smart doorbell and cameras https://t.co/m5AUgRHOuq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/m5AUgRHOuq",
+					"expanded_url": "https://www.bbc.co.uk/news/technology-58911296",
+					"display_url": "bbc.co.uk/news/technolog…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9279,
+			"friends_count": 2765,
+			"listed_count": 597,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Neighbour wins privacy row over smart doorbell and cameras https://t.co/m5AUgRHOuq"
+	},
+	{
+		"created_at": "Thu Oct 14 07:27:38 +0000 2021",
+		"id": 1448268627262771200,
+		"id_str": "1448551054988255233",
+		"full_text": "Just been beamed into a meeting to talk about making hybrid meetings work with @julievoce. Lots of great tips from @LornaMCampbell https://t.co/5CgIJrzVTR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "julievoce",
+					"name": "Dr Julie Voce",
+					"id": 14796876,
+					"id_str": "14796876",
+					"indices": [
+						79,
+						89
+					]
+				},
+				{
+					"screen_name": "LornaMCampbell",
+					"name": "Lorna M. Campbell",
+					"id": 4016151,
+					"id_str": "4016151",
+					"indices": [
+						115,
+						130
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5CgIJrzVTR",
+					"expanded_url": "https://lornamcampbell.org/higher-education/making-hybrid-meetings-work/",
+					"display_url": "lornamcampbell.org/higher-educati…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20975165,
+			"id_str": "20975165",
+			"name": "Dr Jane Secker",
+			"screen_name": "jsecker",
+			"location": "London",
+			"description": "Senior Lecturer in Ed Development. SFHEA. Online learning, information & digital literacy, copyright education. Chair of CILIP Information Literacy Group. 🐱",
+			"url": "https://t.co/O9ge2DrhFi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O9ge2DrhFi",
+							"expanded_url": "http://janesecker.wordpress.com/",
+							"display_url": "janesecker.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5396,
+			"friends_count": 1938,
+			"listed_count": 276,
+			"created_at": "Mon Feb 16 10:21:36 +0000 2009",
+			"favourites_count": 18433,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22567,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1446386682845093905/LjGsxzeI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1446386682845093905/LjGsxzeI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20975165/1633680433",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just been beamed into a meeting to talk about making hybrid meetings work with @julievoce. Lots of great tips from @LornaMCampbell https://t.co/5CgIJrzVTR"
+	},
+	{
+		"created_at": "Thu Oct 14 07:22:30 +0000 2021",
+		"id": 1448335599908188200,
+		"id_str": "1448549761225826306",
+		"full_text": "Welcome to all the new #GoogleCloudInnovatorChampions!  https://t.co/wo0ZbI9vIa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleCloudInnovatorChampions",
+					"indices": [
+						23,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wo0ZbI9vIa",
+					"expanded_url": "https://cloud.google.com/innovators/champions",
+					"display_url": "cloud.google.com/innovators/cha…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 993937566029115400,
+			"id_str": "993937566029115393",
+			"name": "Charles Maxson",
+			"screen_name": "chasmaxson",
+			"location": "California",
+			"description": "Developer Advocate for #GoogleWorkspace @Google",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 323,
+			"friends_count": 68,
+			"listed_count": 15,
+			"created_at": "Tue May 08 19:35:57 +0000 2018",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1124366285477777408/L4X8o9VF_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124366285477777408/L4X8o9VF_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/993937566029115393/1573837916",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 18,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Welcome to all the new #GoogleCloudInnovatorChampions!  https://t.co/wo0ZbI9vIa"
+	},
+	{
 		"created_at": "Wed Oct 13 18:37:29 +0000 2021",
 		"id": 1448356727582306300,
 		"id_str": "1448357239249645576",
