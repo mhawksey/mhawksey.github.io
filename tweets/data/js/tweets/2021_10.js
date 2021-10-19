@@ -1,6 +1,387 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 18 19:14:45 +0000 2021",
+		"id": 1450178555485302800,
+		"id_str": "1450178555485302786",
+		"full_text": "@yishaym @jar @james858499 @UoE_EFI @timbocop @Puiyin Probably the biggest difference is fusion is a fixed mode for the duration of the class but programme students can chose the mode of each class. e.g. if you enroll online for the class you can't then turn up in  person for that class",
+		"truncated": false,
+		"display_text_range": [
+			54,
+			287
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yishaym",
+					"name": "🟣 ישי מור yishay mor يشاي مور",
+					"id": 5415242,
+					"id_str": "5415242",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "jar",
+					"name": "Jen Ross",
+					"id": 1350231,
+					"id_str": "1350231",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"screen_name": "james858499",
+					"name": "James Lamb",
+					"id": 77978174,
+					"id_str": "77978174",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"screen_name": "UoE_EFI",
+					"name": "Edinburgh Futures Institute",
+					"id": 865613814733176800,
+					"id_str": "865613814733176834",
+					"indices": [
+						27,
+						35
+					]
+				},
+				{
+					"screen_name": "timbocop",
+					"name": "Tim Fawns",
+					"id": 12120062,
+					"id_str": "12120062",
+					"indices": [
+						36,
+						45
+					]
+				},
+				{
+					"screen_name": "Puiyin",
+					"name": "Puiyin Wong 💙🇪🇺🍎🇭🇰",
+					"id": 21680138,
+					"id_str": "21680138",
+					"indices": [
+						46,
+						53
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1450085017082814500,
+		"in_reply_to_status_id_str": "1450085017082814465",
+		"in_reply_to_user_id": 5415242,
+		"in_reply_to_user_id_str": "5415242",
+		"in_reply_to_screen_name": "yishaym",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9278,
+			"friends_count": 2765,
+			"listed_count": 596,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7821,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@yishaym @jar @james858499 @UoE_EFI @timbocop @Puiyin Probably the biggest difference is fusion is a fixed mode for the duration of the class but programme students can chose the mode of each class. e.g. if you enroll online for the class you can't then turn up in  person for that class"
+	},
+	{
+		"created_at": "Mon Oct 18 19:04:48 +0000 2021",
+		"id": 1450176051020279800,
+		"id_str": "1450176051020279811",
+		"full_text": "@StanfordTAPS Are you trying with a Google Workspace account or @gmail.com? If Google Workspace it might be because your domain admin has blocked this type of script",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StanfordTAPS",
+					"name": "Stanford TAPS",
+					"id": 32616976,
+					"id_str": "32616976",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "gmail",
+					"name": "Gmail",
+					"id": 38679388,
+					"id_str": "38679388",
+					"indices": [
+						64,
+						70
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1448732442538377200,
+		"in_reply_to_status_id_str": "1448732442538377216",
+		"in_reply_to_user_id": 32616976,
+		"in_reply_to_user_id_str": "32616976",
+		"in_reply_to_screen_name": "StanfordTAPS",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9278,
+			"friends_count": 2765,
+			"listed_count": 596,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7821,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@StanfordTAPS Are you trying with a Google Workspace account or @gmail.com? If Google Workspace it might be because your domain admin has blocked this type of script"
+	},
+	{
+		"created_at": "Mon Oct 18 19:03:22 +0000 2021",
+		"id": 1450175693585846300,
+		"id_str": "1450175693585846273",
+		"full_text": "@fadlan_anam still a problem? - sometimes it's just temporary server issues at Google's side",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fadlan_anam",
+					"name": "Fadlan khaerul Anam",
+					"id": 2914605289,
+					"id_str": "2914605289",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1448796264020144000,
+		"in_reply_to_status_id_str": "1448796264020144129",
+		"in_reply_to_user_id": 2914605289,
+		"in_reply_to_user_id_str": "2914605289",
+		"in_reply_to_screen_name": "fadlan_anam",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9278,
+			"friends_count": 2765,
+			"listed_count": 596,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7821,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@fadlan_anam still a problem? - sometimes it's just temporary server issues at Google's side"
+	},
+	{
 		"created_at": "Sun Oct 17 18:23:48 +0000 2021",
 		"id": 1449803345850421200,
 		"id_str": "1449803345850421254",
