@@ -1,6 +1,1041 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 19 21:15:40 +0000 2021",
+		"id": 1450571372661465000,
+		"id_str": "1450571372661465093",
+		"full_text": "@erickoleda @pfelipm @SteveWebster22 @chasmaxson @coda_hq Great seeing you Eric and hearing about your latest work. Thanks for tuning Pablo :)",
+		"truncated": false,
+		"display_text_range": [
+			58,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erickoleda",
+					"name": "Eric Koleda",
+					"id": 191872042,
+					"id_str": "191872042",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "pfelipm",
+					"name": "Pablo Felip",
+					"id": 127973484,
+					"id_str": "127973484",
+					"indices": [
+						12,
+						20
+					]
+				},
+				{
+					"screen_name": "SteveWebster22",
+					"name": "Steve Webster",
+					"id": 3431975507,
+					"id_str": "3431975507",
+					"indices": [
+						21,
+						36
+					]
+				},
+				{
+					"screen_name": "chasmaxson",
+					"name": "Charles Maxson",
+					"id": 993937566029115400,
+					"id_str": "993937566029115393",
+					"indices": [
+						37,
+						48
+					]
+				},
+				{
+					"screen_name": "coda_hq",
+					"name": "Coda",
+					"id": 914992111564365800,
+					"id_str": "914992111564365824",
+					"indices": [
+						49,
+						57
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1450565156732276700,
+		"in_reply_to_status_id_str": "1450565156732276742",
+		"in_reply_to_user_id": 191872042,
+		"in_reply_to_user_id_str": "191872042",
+		"in_reply_to_screen_name": "erickoleda",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9280,
+			"friends_count": 2769,
+			"listed_count": 596,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31133,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@erickoleda @pfelipm @SteveWebster22 @chasmaxson @coda_hq Great seeing you Eric and hearing about your latest work. Thanks for tuning Pablo :)"
+	},
+	{
+		"created_at": "Tue Oct 19 17:44:58 +0000 2021",
+		"id": 1450518348417179600,
+		"id_str": "1450518348417179648",
+		"full_text": "@StanfordTAPS I've seen this occasionally never found out why. Something we can try is if you DM me your @gmail.com email address I can share a copy of the sheet and see if it works if I add you as an editor",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StanfordTAPS",
+					"name": "Stanford TAPS",
+					"id": 32616976,
+					"id_str": "32616976",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "gmail",
+					"name": "Gmail",
+					"id": 38679388,
+					"id_str": "38679388",
+					"indices": [
+						105,
+						111
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1450508692755927000,
+		"in_reply_to_status_id_str": "1450508692755927040",
+		"in_reply_to_user_id": 32616976,
+		"in_reply_to_user_id_str": "32616976",
+		"in_reply_to_screen_name": "StanfordTAPS",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9280,
+			"friends_count": 2769,
+			"listed_count": 596,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31133,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			322526439
+		],
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@StanfordTAPS I've seen this occasionally never found out why. Something we can try is if you DM me your @gmail.com email address I can share a copy of the sheet and see if it works if I add you as an editor"
+	},
+	{
+		"created_at": "Tue Oct 19 09:48:41 +0000 2021",
+		"id": 1450398488500609000,
+		"id_str": "1450398488500609025",
+		"full_text": "@yishaym @jar @james858499 @UoE_EFI @timbocop @Puiyin @bea_alex @clarellewellyn @DrPawel Using a two day intensive model specifically for students who might have existing work, care other responsibilities. We are also only using this at postgrad level. Early days, lots for us still to learn",
+		"truncated": false,
+		"display_text_range": [
+			89,
+			291
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yishaym",
+					"name": "🟣 ישי מור yishay mor يشاي مور",
+					"id": 5415242,
+					"id_str": "5415242",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "jar",
+					"name": "Jen Ross",
+					"id": 1350231,
+					"id_str": "1350231",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"screen_name": "james858499",
+					"name": "James Lamb",
+					"id": 77978174,
+					"id_str": "77978174",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"screen_name": "UoE_EFI",
+					"name": "Edinburgh Futures Institute",
+					"id": 865613814733176800,
+					"id_str": "865613814733176834",
+					"indices": [
+						27,
+						35
+					]
+				},
+				{
+					"screen_name": "timbocop",
+					"name": "Tim Fawns",
+					"id": 12120062,
+					"id_str": "12120062",
+					"indices": [
+						36,
+						45
+					]
+				},
+				{
+					"screen_name": "Puiyin",
+					"name": "Puiyin Wong 💙🇪🇺🍎🇭🇰",
+					"id": 21680138,
+					"id_str": "21680138",
+					"indices": [
+						46,
+						53
+					]
+				},
+				{
+					"screen_name": "bea_alex",
+					"name": "Dr Beatrice Alex",
+					"id": 33667097,
+					"id_str": "33667097",
+					"indices": [
+						54,
+						63
+					]
+				},
+				{
+					"screen_name": "clarellewellyn",
+					"name": "Dr Clare Llewellyn",
+					"id": 21333292,
+					"id_str": "21333292",
+					"indices": [
+						64,
+						79
+					]
+				},
+				{
+					"screen_name": "DrPawel",
+					"name": "Dr Pawel Orzechowski",
+					"id": 20675937,
+					"id_str": "20675937",
+					"indices": [
+						80,
+						88
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1450384890537595000,
+		"in_reply_to_status_id_str": "1450384890537594880",
+		"in_reply_to_user_id": 5415242,
+		"in_reply_to_user_id_str": "5415242",
+		"in_reply_to_screen_name": "yishaym",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9280,
+			"friends_count": 2769,
+			"listed_count": 596,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31133,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@yishaym @jar @james858499 @UoE_EFI @timbocop @Puiyin @bea_alex @clarellewellyn @DrPawel Using a two day intensive model specifically for students who might have existing work, care other responsibilities. We are also only using this at postgrad level. Early days, lots for us still to learn"
+	},
+	{
+		"created_at": "Tue Oct 19 08:29:27 +0000 2021",
+		"id": 1450378547399479300,
+		"id_str": "1450378547399479299",
+		"full_text": "@yishaym @jar @james858499 @UoE_EFI @timbocop @Puiyin As intensives are two consecutive days we essentially have a reg form when students decide what mode to enroll on. Post written with @bea_alex @clarellewellyn and @DrPawel https://t.co/dVQ49Llm0f",
+		"truncated": false,
+		"display_text_range": [
+			54,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yishaym",
+					"name": "🟣 ישי מור yishay mor يشاي مور",
+					"id": 5415242,
+					"id_str": "5415242",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "jar",
+					"name": "Jen Ross",
+					"id": 1350231,
+					"id_str": "1350231",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"screen_name": "james858499",
+					"name": "James Lamb",
+					"id": 77978174,
+					"id_str": "77978174",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"screen_name": "UoE_EFI",
+					"name": "Edinburgh Futures Institute",
+					"id": 865613814733176800,
+					"id_str": "865613814733176834",
+					"indices": [
+						27,
+						35
+					]
+				},
+				{
+					"screen_name": "timbocop",
+					"name": "Tim Fawns",
+					"id": 12120062,
+					"id_str": "12120062",
+					"indices": [
+						36,
+						45
+					]
+				},
+				{
+					"screen_name": "Puiyin",
+					"name": "Puiyin Wong 💙🇪🇺🍎🇭🇰",
+					"id": 21680138,
+					"id_str": "21680138",
+					"indices": [
+						46,
+						53
+					]
+				},
+				{
+					"screen_name": "bea_alex",
+					"name": "Dr Beatrice Alex",
+					"id": 33667097,
+					"id_str": "33667097",
+					"indices": [
+						187,
+						196
+					]
+				},
+				{
+					"screen_name": "clarellewellyn",
+					"name": "Dr Clare Llewellyn",
+					"id": 21333292,
+					"id_str": "21333292",
+					"indices": [
+						197,
+						212
+					]
+				},
+				{
+					"screen_name": "DrPawel",
+					"name": "Dr Pawel Orzechowski",
+					"id": 20675937,
+					"id_str": "20675937",
+					"indices": [
+						217,
+						225
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dVQ49Llm0f",
+					"expanded_url": "https://blogs.sps.ed.ac.uk/neuropolitics/2021/10/18/ten-things-we-learned-about-fusion-teaching-reflections-on-the-first-efi-fusion-course/",
+					"display_url": "blogs.sps.ed.ac.uk/neuropolitics/…",
+					"indices": [
+						226,
+						249
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1450355561485189000,
+		"in_reply_to_status_id_str": "1450355561485189122",
+		"in_reply_to_user_id": 5415242,
+		"in_reply_to_user_id_str": "5415242",
+		"in_reply_to_screen_name": "yishaym",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9280,
+			"friends_count": 2769,
+			"listed_count": 596,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31133,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@yishaym @jar @james858499 @UoE_EFI @timbocop @Puiyin As intensives are two consecutive days we essentially have a reg form when students decide what mode to enroll on. Post written with @bea_alex @clarellewellyn and @DrPawel https://t.co/dVQ49Llm0f"
+	},
+	{
+		"created_at": "Tue Oct 19 08:10:29 +0000 2021",
+		"id": 1450373778026942500,
+		"id_str": "1450373778026942470",
+		"full_text": "Some great tips for hybrid teaching #altc https://t.co/YJsLRKtyiN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						36,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YJsLRKtyiN",
+					"expanded_url": "https://twitter.com/trishgreenhalgh/status/1450042050846539782",
+					"display_url": "twitter.com/trishgreenhalg…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9280,
+			"friends_count": 2769,
+			"listed_count": 596,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31133,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1450042050846539800,
+		"quoted_status_id_str": "1450042050846539782",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YJsLRKtyiN",
+			"expanded": "https://twitter.com/trishgreenhalgh/status/1450042050846539782",
+			"display": "twitter.com/trishgreenhalg…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 18 10:12:20 +0000 2021",
+			"id": 1450042050846539800,
+			"id_str": "1450042050846539782",
+			"full_text": "I’ve been nervous about the start of hybrid MSc teaching. I can do face to face, can do online, but COMBINING these with some joining by video conferencing and cameras around the room? Well, we did it. And it went better than I’d expected. Some tips.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				250
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 462021312,
+				"id_str": "462021312",
+				"name": "Trisha Greenhalgh",
+				"screen_name": "trishgreenhalgh",
+				"location": "Oxford, England",
+				"description": "Prof of Prim Care, Oxford. Alert me if someone needs unblocking https://t.co/7qnB6BCW43",
+				"url": "https://t.co/ECUqrL6pxR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ECUqrL6pxR",
+								"expanded_url": "https://www.phc.ox.ac.uk/team/trish-greenhalgh",
+								"display_url": "phc.ox.ac.uk/team/trish-gre…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/7qnB6BCW43",
+								"expanded_url": "https://scholar.google.co.uk/citations?sortby=pubdate&hl=en&user=8KQwEGcAAAAJ&view_op=list_works",
+								"display_url": "scholar.google.co.uk/citations?sort…",
+								"indices": [
+									64,
+									87
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 146232,
+				"friends_count": 3265,
+				"listed_count": 1691,
+				"created_at": "Thu Jan 12 13:31:58 +0000 2012",
+				"favourites_count": 56997,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 75129,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "183962",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1290196939988963333/xWyYLPgy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1290196939988963333/xWyYLPgy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/462021312/1626635936",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "790A5B",
+				"profile_sidebar_fill_color": "5C80B2",
+				"profile_text_color": "7B7B9C",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 139,
+			"favorite_count": 809,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some great tips for hybrid teaching #altc https://t.co/YJsLRKtyiN"
+	},
+	{
+		"created_at": "Tue Oct 19 06:52:36 +0000 2021",
+		"id": 1450354176983240700,
+		"id_str": "1450354176983240706",
+		"full_text": "@yishaym @jar @james858499 @UoE_EFI @timbocop @Puiyin Less 'flex' to help with planning in terms of physical space and classroom activities (as well as 'fusion' we use 2 day intensive workshops with a mix of plenary and group work). First class was last week, small scale pilot. The course organisers are publishing a blog post today",
+		"truncated": false,
+		"display_text_range": [
+			54,
+			333
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yishaym",
+					"name": "🟣 ישי מור yishay mor يشاي مور",
+					"id": 5415242,
+					"id_str": "5415242",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "jar",
+					"name": "Jen Ross",
+					"id": 1350231,
+					"id_str": "1350231",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"screen_name": "james858499",
+					"name": "James Lamb",
+					"id": 77978174,
+					"id_str": "77978174",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"screen_name": "UoE_EFI",
+					"name": "Edinburgh Futures Institute",
+					"id": 865613814733176800,
+					"id_str": "865613814733176834",
+					"indices": [
+						27,
+						35
+					]
+				},
+				{
+					"screen_name": "timbocop",
+					"name": "Tim Fawns",
+					"id": 12120062,
+					"id_str": "12120062",
+					"indices": [
+						36,
+						45
+					]
+				},
+				{
+					"screen_name": "Puiyin",
+					"name": "Puiyin Wong 💙🇪🇺🍎🇭🇰",
+					"id": 21680138,
+					"id_str": "21680138",
+					"indices": [
+						46,
+						53
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1450351111634837500,
+		"in_reply_to_status_id_str": "1450351111634837506",
+		"in_reply_to_user_id": 5415242,
+		"in_reply_to_user_id_str": "5415242",
+		"in_reply_to_screen_name": "yishaym",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9280,
+			"friends_count": 2769,
+			"listed_count": 596,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31133,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@yishaym @jar @james858499 @UoE_EFI @timbocop @Puiyin Less 'flex' to help with planning in terms of physical space and classroom activities (as well as 'fusion' we use 2 day intensive workshops with a mix of plenary and group work). First class was last week, small scale pilot. The course organisers are publishing a blog post today"
+	},
+	{
 		"created_at": "Mon Oct 18 19:14:45 +0000 2021",
 		"id": 1450178555485302800,
 		"id_str": "1450178555485302786",
