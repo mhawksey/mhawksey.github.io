@@ -1,6 +1,426 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 20 08:42:29 +0000 2021",
+		"id": 1450744218008395800,
+		"id_str": "1450744218008395777",
+		"full_text": "Some more lessons for hybrid classrooms from @bea_alex @DrPawel @clarellewellyn and me that might interest the #altc community https://t.co/hnNmdDPjhD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						111,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bea_alex",
+					"name": "Dr Beatrice Alex",
+					"id": 33667097,
+					"id_str": "33667097",
+					"indices": [
+						45,
+						54
+					]
+				},
+				{
+					"screen_name": "DrPawel",
+					"name": "Dr Pawel Orzechowski",
+					"id": 20675937,
+					"id_str": "20675937",
+					"indices": [
+						55,
+						63
+					]
+				},
+				{
+					"screen_name": "clarellewellyn",
+					"name": "Dr Clare Llewellyn",
+					"id": 21333292,
+					"id_str": "21333292",
+					"indices": [
+						64,
+						79
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hnNmdDPjhD",
+					"expanded_url": "https://twitter.com/DrPawel/status/1450400992403640325",
+					"display_url": "twitter.com/DrPawel/status…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9280,
+			"friends_count": 2769,
+			"listed_count": 596,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1450400992403640300,
+		"quoted_status_id_str": "1450400992403640325",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hnNmdDPjhD",
+			"expanded": "https://twitter.com/DrPawel/status/1450400992403640325",
+			"display": "twitter.com/DrPawel/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 19 09:58:38 +0000 2021",
+			"id": 1450400992403640300,
+			"id_str": "1450400992403640325",
+			"full_text": "Here's a blog from our first Hybrid Teaching experience: Text Mining for Social Research with @UoE_EFI \n. As always we used #pairprogramming (code sharing), #badges (1h-long achievements) and #relentlessfeedback (30s mini-questionnaires). with @bea_alex @clarellewellyn @mhawksey https://t.co/ARL5JKt12L https://t.co/zfUFa5wSun",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				303
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "pairprogramming",
+						"indices": [
+							124,
+							140
+						]
+					},
+					{
+						"text": "badges",
+						"indices": [
+							157,
+							164
+						]
+					},
+					{
+						"text": "relentlessfeedback",
+						"indices": [
+							192,
+							211
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UoE_EFI",
+						"name": "Edinburgh Futures Institute",
+						"id": 865613814733176800,
+						"id_str": "865613814733176834",
+						"indices": [
+							94,
+							102
+						]
+					},
+					{
+						"screen_name": "bea_alex",
+						"name": "Dr Beatrice Alex",
+						"id": 33667097,
+						"id_str": "33667097",
+						"indices": [
+							244,
+							253
+						]
+					},
+					{
+						"screen_name": "clarellewellyn",
+						"name": "Dr Clare Llewellyn",
+						"id": 21333292,
+						"id_str": "21333292",
+						"indices": [
+							254,
+							269
+						]
+					},
+					{
+						"screen_name": "mhawksey",
+						"name": "Martin Hawksey",
+						"id": 13046992,
+						"id_str": "13046992",
+						"indices": [
+							270,
+							279
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ARL5JKt12L",
+						"expanded_url": "https://twitter.com/bea_alex/status/1450380574556839937",
+						"display_url": "twitter.com/bea_alex/statu…",
+						"indices": [
+							280,
+							303
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1450399218385002500,
+						"id_str": "1450399218385002499",
+						"indices": [
+							304,
+							327
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FCDaZ5JXoAM_Egi.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FCDaZ5JXoAM_Egi.jpg",
+						"url": "https://t.co/zfUFa5wSun",
+						"display_url": "pic.twitter.com/zfUFa5wSun",
+						"expanded_url": "https://twitter.com/DrPawel/status/1450400992403640325/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 730,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 730,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 621,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1450399218385002500,
+						"id_str": "1450399218385002499",
+						"indices": [
+							304,
+							327
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FCDaZ5JXoAM_Egi.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FCDaZ5JXoAM_Egi.jpg",
+						"url": "https://t.co/zfUFa5wSun",
+						"display_url": "pic.twitter.com/zfUFa5wSun",
+						"expanded_url": "https://twitter.com/DrPawel/status/1450400992403640325/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 730,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 730,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 621,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								80,
+								73
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/FCDaZ5JXoAM_Egi.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20675937,
+				"id_str": "20675937",
+				"name": "Dr Pawel Orzechowski",
+				"screen_name": "DrPawel",
+				"location": "Edinburgh, UK",
+				"description": "Senior Teaching Fellow@University of Edinburgh Business School - Previously: Instructor@CodeClan, Mobile@Storm Ideas, PhD@Heriot-Watt, He/Him",
+				"url": "https://t.co/drL4hNMsbH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/drL4hNMsbH",
+								"expanded_url": "https://www.linkedin.com/in/dr-pawel-orzechowski/",
+								"display_url": "linkedin.com/in/dr-pawel-or…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 322,
+				"friends_count": 368,
+				"listed_count": 3,
+				"created_at": "Thu Feb 12 13:18:33 +0000 2009",
+				"favourites_count": 1077,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 65,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1273617210192338949/GzqNWfSW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273617210192338949/GzqNWfSW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20675937/1568498932",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1450380574556840000,
+			"quoted_status_id_str": "1450380574556839937",
+			"quoted_status_permalink": {
+				"url": "https://t.co/ARL5JKt12L",
+				"expanded": "https://twitter.com/bea_alex/status/1450380574556839937",
+				"display": "twitter.com/bea_alex/statu…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some more lessons for hybrid classrooms from @bea_alex @DrPawel @clarellewellyn and me that might interest the #altc community https://t.co/hnNmdDPjhD"
+	},
+	{
 		"created_at": "Tue Oct 19 21:15:40 +0000 2021",
 		"id": 1450571372661465000,
 		"id_str": "1450571372661465093",
