@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 26 21:21:35 +0000 2021",
+		"id": 1453109579680784400,
+		"id_str": "1453109579680784384",
+		"full_text": "@cmehta85 Usually the issue is hidden formatting or not using case sensitive tokens in the Gmail draft. If token names exactly match column headings then points to hidden formatting. To check select the token including {{ }} and press Ctrl+\\ or use clear formatting from the toolbar",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			282
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cmehta85",
+					"name": "Chaitanya Mehta",
+					"id": 156918344,
+					"id_str": "156918344",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1452947284119883800,
+		"in_reply_to_status_id_str": "1452947284119883778",
+		"in_reply_to_user_id": 156918344,
+		"in_reply_to_user_id_str": "156918344",
+		"in_reply_to_screen_name": "cmehta85",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9285,
+			"friends_count": 2771,
+			"listed_count": 596,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7833,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@cmehta85 Usually the issue is hidden formatting or not using case sensitive tokens in the Gmail draft. If token names exactly match column headings then points to hidden formatting. To check select the token including {{ }} and press Ctrl+\\ or use clear formatting from the toolbar"
+	},
+	{
 		"created_at": "Fri Oct 22 15:26:02 +0000 2021",
 		"id": 1451570550585929700,
 		"id_str": "1451570550585929738",
