@@ -1,6 +1,329 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 05 22:11:02 +0000 2021",
+		"id": 1456745901544837000,
+		"id_str": "1456745901544837124",
+		"full_text": "Microsoft is hosting an education-focused event on November 9th https://t.co/7EU5XABl0x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7EU5XABl0x",
+					"expanded_url": "https://www.theverge.com/2021/11/5/22765901/microsoft-education-event-date-time",
+					"display_url": "theverge.com/2021/11/5/2276…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9285,
+			"friends_count": 2771,
+			"listed_count": 596,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Microsoft is hosting an education-focused event on November 9th https://t.co/7EU5XABl0x"
+	},
+	{
+		"created_at": "Fri Nov 05 19:47:59 +0000 2021",
+		"id": 1456656686840746000,
+		"id_str": "1456709902131515394",
+		"full_text": "The future of democracy and governance is being shaped by data and technology. Take a look at our new postgraduate programme on Future Governance at the Edinburgh Futures Institute. Taught by an incredible team led by @neuropols https://t.co/6se0PyHj1X @UoE_EFI @EdinburghUni https://t.co/0xfWF6O76N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "neuropols",
+					"name": "Laura Cram",
+					"id": 2362463910,
+					"id_str": "2362463910",
+					"indices": [
+						218,
+						228
+					]
+				},
+				{
+					"screen_name": "UoE_EFI",
+					"name": "Edinburgh Futures Institute",
+					"id": 865613814733176800,
+					"id_str": "865613814733176834",
+					"indices": [
+						253,
+						261
+					]
+				},
+				{
+					"screen_name": "EdinburghUni",
+					"name": "The University of Edinburgh",
+					"id": 23426889,
+					"id_str": "23426889",
+					"indices": [
+						262,
+						275
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6se0PyHj1X",
+					"expanded_url": "https://efi.ed.ac.uk/future-governance",
+					"display_url": "efi.ed.ac.uk/future-governa…",
+					"indices": [
+						229,
+						252
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1456655158973243400,
+					"id_str": "1456655158973243397",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FDcUJj7XIAUFZtq.png",
+					"media_url_https": "https://pbs.twimg.com/media/FDcUJj7XIAUFZtq.png",
+					"url": "https://t.co/0xfWF6O76N",
+					"display_url": "pic.twitter.com/0xfWF6O76N",
+					"expanded_url": "https://twitter.com/sbayne/status/1456656686840745990/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 602,
+							"h": 354,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 602,
+							"h": 354,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 602,
+							"h": 354,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456655158973243400,
+					"id_str": "1456655158973243397",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FDcUJj7XIAUFZtq.png",
+					"media_url_https": "https://pbs.twimg.com/media/FDcUJj7XIAUFZtq.png",
+					"url": "https://t.co/0xfWF6O76N",
+					"display_url": "pic.twitter.com/0xfWF6O76N",
+					"expanded_url": "https://twitter.com/sbayne/status/1456656686840745990/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 602,
+							"h": 354,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 602,
+							"h": 354,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 602,
+							"h": 354,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1504951,
+			"id_str": "1504951",
+			"name": "Sian Bayne",
+			"screen_name": "sbayne",
+			"location": "Europe",
+			"description": "Professor of Digital Education @EdinburghUni. Director of Education @uoe_efi. Centre for Research in Digital Education @eddiged. Keeping my end up.",
+			"url": "https://t.co/RZPPIepZxF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RZPPIepZxF",
+							"expanded_url": "http://sianbayne.net/",
+							"display_url": "sianbayne.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5671,
+			"friends_count": 1407,
+			"listed_count": 239,
+			"created_at": "Mon Mar 19 13:50:29 +0000 2007",
+			"favourites_count": 9210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4642,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151228766343114754/IIaBAQ6K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151228766343114754/IIaBAQ6K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1504951/1563309354",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The future of democracy and governance is being shaped by data and technology. Take a look at our new postgraduate programme on Future Governance at the Edinburgh Futures Institute. Taught by an incredible team led by @neuropols https://t.co/6se0PyHj1X @UoE_EFI @EdinburghUni https://t.co/0xfWF6O76N"
+	},
+	{
 		"created_at": "Thu Nov 04 12:11:09 +0000 2021",
 		"id": 1456232547730563000,
 		"id_str": "1456232547730563075",
