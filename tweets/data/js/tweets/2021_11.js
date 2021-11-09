@@ -1,6 +1,563 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 08 20:05:10 +0000 2021",
+		"id": 1457801390533726200,
+		"id_str": "1457801390533726210",
+		"full_text": "Entangled Pedagogy Applied to Learning Spaces and Hyflex Teaching ... [@Bali_Maha supporting @timbocop in our new learning space https://t.co/5hYMQEN4gO :)]\nhttps://t.co/NTEez8KpOU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bali_Maha",
+					"name": "Maha Bali, PhD مها بالي 🌵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						71,
+						81
+					]
+				},
+				{
+					"screen_name": "timbocop",
+					"name": "Tim Fawns",
+					"id": 12120062,
+					"id_str": "12120062",
+					"indices": [
+						93,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5hYMQEN4gO",
+					"expanded_url": "https://twitter.com/james858499/status/1448966736674496544?t=095VorCWw3CxUY4nHoz_3A&s=19",
+					"display_url": "twitter.com/james858499/st…",
+					"indices": [
+						129,
+						152
+					]
+				},
+				{
+					"url": "https://t.co/NTEez8KpOU",
+					"expanded_url": "https://blog.mahabali.me/educational-technology-2/entangled-pedagogy-applied-to-learning-spaces-and-hyflex-teaching/",
+					"display_url": "blog.mahabali.me/educational-te…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9282,
+			"friends_count": 2771,
+			"listed_count": 596,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7829,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31158,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1448966736674496500,
+		"quoted_status_id_str": "1448966736674496544",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5hYMQEN4gO",
+			"expanded": "https://twitter.com/james858499/status/1448966736674496544?t=095VorCWw3CxUY4nHoz_3A&s=19",
+			"display": "twitter.com/james858499/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 15 10:59:25 +0000 2021",
+			"id": 1448966736674496500,
+			"id_str": "1448966736674496544",
+			"full_text": "This was fun (and very useful). Exploring how intelligent mics, motion cameras and video bars can support fusion teaching in our @UoE_EFI MSc in Education Futures. With @jar @timbocop @mhawksey. https://t.co/gpmmO8UgDj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				194
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UoE_EFI",
+						"name": "Edinburgh Futures Institute",
+						"id": 865613814733176800,
+						"id_str": "865613814733176834",
+						"indices": [
+							129,
+							137
+						]
+					},
+					{
+						"screen_name": "jar",
+						"name": "Jen Ross",
+						"id": 1350231,
+						"id_str": "1350231",
+						"indices": [
+							169,
+							173
+						]
+					},
+					{
+						"screen_name": "timbocop",
+						"name": "Tim Fawns",
+						"id": 12120062,
+						"id_str": "12120062",
+						"indices": [
+							174,
+							183
+						]
+					},
+					{
+						"screen_name": "mhawksey",
+						"name": "Martin Hawksey",
+						"id": 13046992,
+						"id_str": "13046992",
+						"indices": [
+							184,
+							193
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1448966525327712300,
+						"id_str": "1448966525327712269",
+						"indices": [
+							195,
+							218
+						],
+						"media_url": "http://pbs.twimg.com/media/FBvDYLmXIA0gIck.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FBvDYLmXIA0gIck.jpg",
+						"url": "https://t.co/gpmmO8UgDj",
+						"display_url": "pic.twitter.com/gpmmO8UgDj",
+						"expanded_url": "https://twitter.com/james858499/status/1448966736674496544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1011,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1356,
+								"h": 1610,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 573,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1448966525327712300,
+						"id_str": "1448966525327712269",
+						"indices": [
+							195,
+							218
+						],
+						"media_url": "http://pbs.twimg.com/media/FBvDYLmXIA0gIck.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FBvDYLmXIA0gIck.jpg",
+						"url": "https://t.co/gpmmO8UgDj",
+						"display_url": "pic.twitter.com/gpmmO8UgDj",
+						"expanded_url": "https://twitter.com/james858499/status/1448966736674496544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1011,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1356,
+								"h": 1610,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 573,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1448966525315129300,
+						"id_str": "1448966525315129373",
+						"indices": [
+							195,
+							218
+						],
+						"media_url": "http://pbs.twimg.com/media/FBvDYLjXIB0YOEM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FBvDYLjXIB0YOEM.jpg",
+						"url": "https://t.co/gpmmO8UgDj",
+						"display_url": "pic.twitter.com/gpmmO8UgDj",
+						"expanded_url": "https://twitter.com/james858499/status/1448966736674496544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2016,
+								"h": 1512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1448966525323554800,
+						"id_str": "1448966525323554820",
+						"indices": [
+							195,
+							218
+						],
+						"media_url": "http://pbs.twimg.com/media/FBvDYLlXsAQO6pg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FBvDYLlXsAQO6pg.jpg",
+						"url": "https://t.co/gpmmO8UgDj",
+						"display_url": "pic.twitter.com/gpmmO8UgDj",
+						"expanded_url": "https://twitter.com/james858499/status/1448966736674496544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2016,
+								"h": 1279,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 431,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 761,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 77978174,
+				"id_str": "77978174",
+				"name": "James Lamb",
+				"screen_name": "james858499",
+				"location": "Edinburgh, Scotland",
+				"description": "Lecturer in Digital Education with https://t.co/NzdoSbgxgb and https://t.co/jaTge8kmZH at Edinburgh University. Learning spaces, digital cultures, multimodality, sound.",
+				"url": "https://t.co/WL19MeUtQb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WL19MeUtQb",
+								"expanded_url": "http://www.james858499.net",
+								"display_url": "james858499.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/NzdoSbgxgb",
+								"expanded_url": "http://digital.education.ed.ac.uk",
+								"display_url": "digital.education.ed.ac.uk",
+								"indices": [
+									35,
+									58
+								]
+							},
+							{
+								"url": "https://t.co/jaTge8kmZH",
+								"expanded_url": "http://efi.ed.ac.uk",
+								"display_url": "efi.ed.ac.uk",
+								"indices": [
+									63,
+									86
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 972,
+				"friends_count": 377,
+				"listed_count": 34,
+				"created_at": "Mon Sep 28 10:17:34 +0000 2009",
+				"favourites_count": 1609,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2398,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/670237658589831168/_8l9DCVd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/670237658589831168/_8l9DCVd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/77978174/1491949542",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 33,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Entangled Pedagogy Applied to Learning Spaces and Hyflex Teaching ... [@Bali_Maha supporting @timbocop in our new learning space https://t.co/5hYMQEN4gO :)]\nhttps://t.co/NTEez8KpOU"
+	},
+	{
+		"created_at": "Mon Nov 08 19:44:54 +0000 2021",
+		"id": 1457796289807077400,
+		"id_str": "1457796289807077381",
+		"full_text": "Automated Testing of Educational  Jupyter Notebook Distributions Using Github Actions https://t.co/MGyiZ9CuNT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MGyiZ9CuNT",
+					"expanded_url": "https://blog.ouseful.info/2021/10/26/automated-testing-of-jupyter-notebooks/",
+					"display_url": "blog.ouseful.info/2021/10/26/aut…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator of @AppsScriptInfo |  @GoogleDevExpert in #GoogleAppsScript | Interests: Hybrid/Fusion Learning",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9282,
+			"friends_count": 2771,
+			"listed_count": 596,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7829,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31158,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Automated Testing of Educational  Jupyter Notebook Distributions Using Github Actions https://t.co/MGyiZ9CuNT"
+	},
+	{
 		"created_at": "Fri Nov 05 22:11:02 +0000 2021",
 		"id": 1456745901544837000,
 		"id_str": "1456745901544837124",
