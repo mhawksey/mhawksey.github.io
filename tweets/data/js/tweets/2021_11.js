@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 24 12:30:42 +0000 2021",
+		"id": 1462903723752046600,
+		"id_str": "1463485223732195334",
+		"full_text": "New to Developer Profile on https://t.co/aBJokfaBrD: Your very own custom URL ➡️  https://t.co/4XKjGhkC9U\n\n📝 Fill out your bio\n\n🔗 Add your other dev links in one place\n\n🥇 Feature your Google awarded achievements and skills https://t.co/vaE3sMhhIe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aBJokfaBrD",
+					"expanded_url": "http://developers.google.com",
+					"display_url": "developers.google.com",
+					"indices": [
+						28,
+						51
+					]
+				},
+				{
+					"url": "https://t.co/4XKjGhkC9U",
+					"expanded_url": "http://goo.gle/3kYRrGb",
+					"display_url": "goo.gle/3kYRrGb",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1462903721084473300,
+					"id_str": "1462903721084473344",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/FE1HLvvWUAAIqiS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE1HLvvWUAAIqiS.jpg",
+					"url": "https://t.co/vaE3sMhhIe",
+					"display_url": "pic.twitter.com/vaE3sMhhIe",
+					"expanded_url": "https://twitter.com/googledevs/status/1462903723752046601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462903721084473300,
+					"id_str": "1462903721084473344",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/FE1HLvvWUAAIqiS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE1HLvvWUAAIqiS.jpg",
+					"url": "https://t.co/vaE3sMhhIe",
+					"display_url": "pic.twitter.com/vaE3sMhhIe",
+					"expanded_url": "https://twitter.com/googledevs/status/1462903723752046601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 50090898,
+			"id_str": "50090898",
+			"name": "Google Developers",
+			"screen_name": "googledevs",
+			"location": "",
+			"description": "Now serving 2 Million subscribers on YouTube. Thanks for tuning in! https://t.co/Zyva4K0CAN",
+			"url": "https://t.co/aPeRMUc1Kj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aPeRMUc1Kj",
+							"expanded_url": "http://developers.google.com",
+							"display_url": "developers.google.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Zyva4K0CAN",
+							"expanded_url": "http://g.co/dev/youtube",
+							"display_url": "g.co/dev/youtube",
+							"indices": [
+								68,
+								91
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2444981,
+			"friends_count": 318,
+			"listed_count": 17441,
+			"created_at": "Tue Jun 23 20:25:29 +0000 2009",
+			"favourites_count": 2238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7482,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1455208311628861449/VEsVhOHQ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1455208311628861449/VEsVhOHQ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/50090898/1635783673",
+			"profile_link_color": "4585F1",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6E8EB",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 91,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New to Developer Profile on https://t.co/aBJokfaBrD: Your very own custom URL ➡️  https://t.co/4XKjGhkC9U\n\n📝 Fill out your bio\n\n🔗 Add your other dev links in one place\n\n🥇 Feature your Google awarded achievements and skills https://t.co/vaE3sMhhIe"
+	},
+	{
 		"created_at": "Mon Nov 22 19:49:33 +0000 2021",
 		"id": 1462870887934439400,
 		"id_str": "1462870887934439433",
