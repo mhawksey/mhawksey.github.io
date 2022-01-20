@@ -1,6 +1,446 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 19 21:53:18 +0000 2022",
+		"id": 1480965035870535700,
+		"id_str": "1483920526494031874",
+		"full_text": "Our next webinar on 21st January is entitled 'Confessions of a Learning Technologist'. Come along to hear more: \nhttps://t.co/GrSqF2SVdG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GrSqF2SVdG",
+					"expanded_url": "https://copyrightliteracy.org/2022/01/11/confessions-of-a-learning-technologist/",
+					"display_url": "copyrightliteracy.org/2022/01/11/con…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3865085596,
+			"id_str": "3865085596",
+			"name": "UK CopyrightLiteracy",
+			"screen_name": "UKCopyrightLit",
+			"location": "England, United Kingdom",
+			"description": "Fostering an understanding of copyright law, licences and exceptions to empower humanity. Tweets by @jsecker and @cbowiemorrison.",
+			"url": "https://t.co/IhWuccsjee",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IhWuccsjee",
+							"expanded_url": "http://copyrightliteracy.org",
+							"display_url": "copyrightliteracy.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2128,
+			"friends_count": 912,
+			"listed_count": 90,
+			"created_at": "Sun Oct 04 21:00:19 +0000 2015",
+			"favourites_count": 4037,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7327,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344574777231609856/gZaAre64_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344574777231609856/gZaAre64_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3865085596/1444855210",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our next webinar on 21st January is entitled 'Confessions of a Learning Technologist'. Come along to hear more: \nhttps://t.co/GrSqF2SVdG"
+	},
+	{
+		"created_at": "Wed Jan 19 21:33:02 +0000 2022",
+		"id": 1483915427977871400,
+		"id_str": "1483915427977871361",
+		"full_text": "@JOE_SCHmoe96 Afraid everything I have is free and either on my blog https://t.co/dLxxMaB7t3 or https://t.co/BamxhNDSSt :)",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JOE_SCHmoe96",
+					"name": "Joe Mulhern",
+					"id": 386808634,
+					"id_str": "386808634",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dLxxMaB7t3",
+					"expanded_url": "https://hawksey.info/blog/category/google/google-apps-script/",
+					"display_url": "hawksey.info/blog/category/…",
+					"indices": [
+						69,
+						92
+					]
+				},
+				{
+					"url": "https://t.co/BamxhNDSSt",
+					"expanded_url": "https://pulse.appsscript.info/",
+					"display_url": "pulse.appsscript.info",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1483904808033607700,
+		"in_reply_to_status_id_str": "1483904808033607685",
+		"in_reply_to_user_id": 386808634,
+		"in_reply_to_user_id_str": "386808634",
+		"in_reply_to_screen_name": "JOE_SCHmoe96",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator/creator @AppsScriptInfo + https://t.co/u2z71WAMb2 |  @GoogleDevExpert in #GoogleAppsScript",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/u2z71WAMb2",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9318,
+			"friends_count": 2780,
+			"listed_count": 596,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31223,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@JOE_SCHmoe96 Afraid everything I have is free and either on my blog https://t.co/dLxxMaB7t3 or https://t.co/BamxhNDSSt :)"
+	},
+	{
+		"created_at": "Wed Jan 19 06:27:21 +0000 2022",
+		"id": 1483687503693557800,
+		"id_str": "1483687503693557769",
+		"full_text": "@cogdog The biology of networks? 'New friends may emerge from each node' :) https://t.co/5nFEYOVFSk",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cogdog",
+					"name": "Alan Levine",
+					"id": 740343,
+					"id_str": "740343",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1483687501118292000,
+					"id_str": "1483687501118291969",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/FJcd693XwAE4hdU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJcd693XwAE4hdU.jpg",
+					"url": "https://t.co/5nFEYOVFSk",
+					"display_url": "pic.twitter.com/5nFEYOVFSk",
+					"expanded_url": "https://twitter.com/mhawksey/status/1483687503693557769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1164,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1079,
+							"h": 1164,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 630,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483687501118292000,
+					"id_str": "1483687501118291969",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/FJcd693XwAE4hdU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJcd693XwAE4hdU.jpg",
+					"url": "https://t.co/5nFEYOVFSk",
+					"display_url": "pic.twitter.com/5nFEYOVFSk",
+					"expanded_url": "https://twitter.com/mhawksey/status/1483687503693557769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1164,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1079,
+							"h": 1164,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 630,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1483648725364916200,
+		"in_reply_to_status_id_str": "1483648725364916225",
+		"in_reply_to_user_id": 740343,
+		"in_reply_to_user_id_str": "740343",
+		"in_reply_to_screen_name": "cogdog",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator/creator @AppsScriptInfo + https://t.co/u2z71WAMb2 |  @GoogleDevExpert in #GoogleAppsScript",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/u2z71WAMb2",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9318,
+			"friends_count": 2780,
+			"listed_count": 596,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31223,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@cogdog The biology of networks? 'New friends may emerge from each node' :) https://t.co/5nFEYOVFSk"
+	},
+	{
 		"created_at": "Mon Jan 17 22:32:07 +0000 2022",
 		"id": 1483205521909891000,
 		"id_str": "1483205521909891079",
