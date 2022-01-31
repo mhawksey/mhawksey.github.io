@@ -1,6 +1,596 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 30 21:25:00 +0000 2022",
+		"id": 1487899674115772400,
+		"id_str": "1487899674115772421",
+		"full_text": "@familysimpson @kiranjoza @alicekeeler Ahh -  did you look at the Autocrat Workspace add-on?  https://t.co/kFG5e2eMCU (not sure if this will work if Gmail is disabled)",
+		"truncated": false,
+		"display_text_range": [
+			39,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "familysimpson",
+					"name": "Ian Simpson",
+					"id": 69112412,
+					"id_str": "69112412",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "kiranjoza",
+					"name": "Kiran Oza",
+					"id": 152409601,
+					"id_str": "152409601",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"screen_name": "alicekeeler",
+					"name": "Alice Keeler",
+					"id": 200715240,
+					"id_str": "200715240",
+					"indices": [
+						26,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kFG5e2eMCU",
+					"expanded_url": "https://cloudlab.newvisions.org/autocrat",
+					"display_url": "cloudlab.newvisions.org/autocrat",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1487895128085827600,
+		"in_reply_to_status_id_str": "1487895128085827585",
+		"in_reply_to_user_id": 69112412,
+		"in_reply_to_user_id_str": "69112412",
+		"in_reply_to_screen_name": "familysimpson",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator/creator @AppsScriptInfo + https://t.co/u2z71WAMb2 |  @GoogleDevExpert in #GoogleAppsScript",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/u2z71WAMb2",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9326,
+			"friends_count": 2783,
+			"listed_count": 594,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7903,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31236,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@familysimpson @kiranjoza @alicekeeler Ahh -  did you look at the Autocrat Workspace add-on?  https://t.co/kFG5e2eMCU (not sure if this will work if Gmail is disabled)"
+	},
+	{
+		"created_at": "Sun Jan 30 18:19:41 +0000 2022",
+		"id": 1487853037519573000,
+		"id_str": "1487853037519572995",
+		"full_text": "@kiranjoza @familysimpson @alicekeeler If your merge is in a Google Sheet formulas can be used to construct custom responses (see @benlcollins solution for constructing these https://t.co/rExzxNZu9z)",
+		"truncated": false,
+		"display_text_range": [
+			39,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kiranjoza",
+					"name": "Kiran Oza",
+					"id": 152409601,
+					"id_str": "152409601",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "familysimpson",
+					"name": "Ian Simpson",
+					"id": 69112412,
+					"id_str": "69112412",
+					"indices": [
+						11,
+						25
+					]
+				},
+				{
+					"screen_name": "alicekeeler",
+					"name": "Alice Keeler",
+					"id": 200715240,
+					"id_str": "200715240",
+					"indices": [
+						26,
+						38
+					]
+				},
+				{
+					"screen_name": "benlcollins",
+					"name": "Ben Collins",
+					"id": 19338407,
+					"id_str": "19338407",
+					"indices": [
+						130,
+						142
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rExzxNZu9z",
+					"expanded_url": "https://www.benlcollins.com/spreadsheets/gmail-mail-merge-for-a-specific-label-with-apps-script/",
+					"display_url": "benlcollins.com/spreadsheets/g…",
+					"indices": [
+						175,
+						198
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1487852745835131000,
+		"in_reply_to_status_id_str": "1487852745835130880",
+		"in_reply_to_user_id": 13046992,
+		"in_reply_to_user_id_str": "13046992",
+		"in_reply_to_screen_name": "mhawksey",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator/creator @AppsScriptInfo + https://t.co/u2z71WAMb2 |  @GoogleDevExpert in #GoogleAppsScript",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/u2z71WAMb2",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9326,
+			"friends_count": 2783,
+			"listed_count": 594,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7903,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31236,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@kiranjoza @familysimpson @alicekeeler If your merge is in a Google Sheet formulas can be used to construct custom responses (see @benlcollins solution for constructing these https://t.co/rExzxNZu9z)"
+	},
+	{
+		"created_at": "Sun Jan 30 18:18:32 +0000 2022",
+		"id": 1487852745835131000,
+		"id_str": "1487852745835130880",
+		"full_text": "@kiranjoza @familysimpson Well @alicekeeler is the queen of custom doc creation and distribution to students. Personally from what I've read in your post I would be looking at keeping it in email linking to a Google Form for feedback/comments.",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			243
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kiranjoza",
+					"name": "Kiran Oza",
+					"id": 152409601,
+					"id_str": "152409601",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "familysimpson",
+					"name": "Ian Simpson",
+					"id": 69112412,
+					"id_str": "69112412",
+					"indices": [
+						11,
+						25
+					]
+				},
+				{
+					"screen_name": "alicekeeler",
+					"name": "Alice Keeler",
+					"id": 200715240,
+					"id_str": "200715240",
+					"indices": [
+						31,
+						43
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1487837208186953700,
+		"in_reply_to_status_id_str": "1487837208186953738",
+		"in_reply_to_user_id": 152409601,
+		"in_reply_to_user_id_str": "152409601",
+		"in_reply_to_screen_name": "kiranjoza",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator/creator @AppsScriptInfo + https://t.co/u2z71WAMb2 |  @GoogleDevExpert in #GoogleAppsScript",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/u2z71WAMb2",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9326,
+			"friends_count": 2783,
+			"listed_count": 594,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7903,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31236,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kiranjoza @familysimpson Well @alicekeeler is the queen of custom doc creation and distribution to students. Personally from what I've read in your post I would be looking at keeping it in email linking to a Google Form for feedback/comments."
+	},
+	{
+		"created_at": "Sun Jan 30 12:59:22 +0000 2022",
+		"id": 1487772428000534500,
+		"id_str": "1487772428000534533",
+		"full_text": "@techupover @AppsScriptInfo @GoogleWorkspace @workspacedevs Hopefully some middle ground can be found. On the plus side it's forced me to do some account spring cleaning deleting training accounts I've not used for years",
+		"truncated": false,
+		"display_text_range": [
+			60,
+			220
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "techupover",
+					"name": "@techupover (Nick Young)",
+					"id": 1273752923009355800,
+					"id_str": "1273752923009355786",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "AppsScriptInfo",
+					"name": "AppsScriptInfo",
+					"id": 322526439,
+					"id_str": "322526439",
+					"indices": [
+						12,
+						27
+					]
+				},
+				{
+					"screen_name": "GoogleWorkspace",
+					"name": "Google Workspace",
+					"id": 17003765,
+					"id_str": "17003765",
+					"indices": [
+						28,
+						44
+					]
+				},
+				{
+					"screen_name": "workspacedevs",
+					"name": "Google Workspace Developers",
+					"id": 111197966,
+					"id_str": "111197966",
+					"indices": [
+						45,
+						59
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1487766301288411100,
+		"in_reply_to_status_id_str": "1487766301288411137",
+		"in_reply_to_user_id": 1273752923009355800,
+		"in_reply_to_user_id_str": "1273752923009355786",
+		"in_reply_to_screen_name": "techupover",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator/creator @AppsScriptInfo + https://t.co/u2z71WAMb2 |  @GoogleDevExpert in #GoogleAppsScript",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/u2z71WAMb2",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9326,
+			"friends_count": 2783,
+			"listed_count": 594,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7903,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31236,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@techupover @AppsScriptInfo @GoogleWorkspace @workspacedevs Hopefully some middle ground can be found. On the plus side it's forced me to do some account spring cleaning deleting training accounts I've not used for years"
+	},
+	{
 		"created_at": "Sat Jan 29 08:03:11 +0000 2022",
 		"id": 1487218069516677000,
 		"id_str": "1487335500138561538",
