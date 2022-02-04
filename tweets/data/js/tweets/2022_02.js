@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 03 21:15:01 +0000 2022",
+		"id": 1489267504631406600,
+		"id_str": "1489346713328533508",
+		"full_text": "#OER22 Call for Proposals deadline approaching - 10 February! We have pushed the submission deadline to as late a date as possible whilst still ensuring a robust peer review process - there will be no extensions! #altc https://t.co/fIXe5NuV6l https://t.co/IcqZ7vvLnY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OER22",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						213,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fIXe5NuV6l",
+					"expanded_url": "http://ow.ly/anLq50HLEY7",
+					"display_url": "ow.ly/anLq50HLEY7",
+					"indices": [
+						219,
+						242
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1489267503071178800,
+					"id_str": "1489267503071178756",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/FKrw51AXMAQUU41.png",
+					"media_url_https": "https://pbs.twimg.com/media/FKrw51AXMAQUU41.png",
+					"url": "https://t.co/IcqZ7vvLnY",
+					"display_url": "pic.twitter.com/IcqZ7vvLnY",
+					"expanded_url": "https://twitter.com/A_L_T/status/1489267504631406592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 634,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1014,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1489267503071178800,
+					"id_str": "1489267503071178756",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/FKrw51AXMAQUU41.png",
+					"media_url_https": "https://pbs.twimg.com/media/FKrw51AXMAQUU41.png",
+					"url": "https://t.co/IcqZ7vvLnY",
+					"display_url": "pic.twitter.com/IcqZ7vvLnY",
+					"expanded_url": "https://twitter.com/A_L_T/status/1489267504631406592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 634,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1014,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41210876,
+			"id_str": "41210876",
+			"name": "ALT - alt.ac.uk",
+			"screen_name": "A_L_T",
+			"location": "UK",
+			"description": "We are the Association for Learning Technology (ALT), the leading professional body for Learning Technology in the UK #altc #CMALT",
+			"url": "http://t.co/d7hBNekdUq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/d7hBNekdUq",
+							"expanded_url": "http://www.alt.ac.uk/",
+							"display_url": "alt.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14494,
+			"friends_count": 3921,
+			"listed_count": 577,
+			"created_at": "Tue May 19 21:06:36 +0000 2009",
+			"favourites_count": 10322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439001186385944576/mrtJJX5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41210876/1633706436",
+			"profile_link_color": "079948",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#OER22 Call for Proposals deadline approaching - 10 February! We have pushed the submission deadline to as late a date as possible whilst still ensuring a robust peer review process - there will be no extensions! #altc https://t.co/fIXe5NuV6l https://t.co/IcqZ7vvLnY"
+	},
+	{
 		"created_at": "Wed Feb 02 19:32:46 +0000 2022",
 		"id": 1488958591553966000,
 		"id_str": "1488958591553966081",
