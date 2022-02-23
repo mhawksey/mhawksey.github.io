@@ -1,6 +1,475 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 22 20:40:32 +0000 2022",
+		"id": 1496223403245809700,
+		"id_str": "1496223403245809679",
+		"full_text": "@mskhogg @znick @AppsScriptInfo @GoogleForEdu @eslweb @SethiDeClercq @AdriannaAstle @TechyLeaderEDU @benlcollins @alicekeeler Have you seen this one from Ben https://t.co/pq1mHHY2sK",
+		"truncated": false,
+		"display_text_range": [
+			126,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mskhogg",
+					"name": "Kimberly Hogg, MEd (she/they) 🖥️🛠️🤖❤️🏳️‍🌈",
+					"id": 205164034,
+					"id_str": "205164034",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "znick",
+					"name": "Nick",
+					"id": 15724402,
+					"id_str": "15724402",
+					"indices": [
+						9,
+						15
+					]
+				},
+				{
+					"screen_name": "AppsScriptInfo",
+					"name": "AppsScriptInfo",
+					"id": 322526439,
+					"id_str": "322526439",
+					"indices": [
+						16,
+						31
+					]
+				},
+				{
+					"screen_name": "GoogleForEdu",
+					"name": "Google for Education",
+					"id": 254218142,
+					"id_str": "254218142",
+					"indices": [
+						32,
+						45
+					]
+				},
+				{
+					"screen_name": "eslweb",
+					"name": "James Abela",
+					"id": 107159982,
+					"id_str": "107159982",
+					"indices": [
+						46,
+						53
+					]
+				},
+				{
+					"screen_name": "SethiDeClercq",
+					"name": "Sethi De Clercq",
+					"id": 126228159,
+					"id_str": "126228159",
+					"indices": [
+						54,
+						68
+					]
+				},
+				{
+					"screen_name": "AdriannaAstle",
+					"name": "𝔸𝕕𝕣𝕚𝕒𝕟𝕟𝕒𝔸𝕤𝕥𝕝𝕖",
+					"id": 3052390460,
+					"id_str": "3052390460",
+					"indices": [
+						69,
+						83
+					]
+				},
+				{
+					"screen_name": "TechyLeaderEDU",
+					"name": "Georgina Dean 🏆 #EdufuturistOfTheYear 2021",
+					"id": 747664630655365100,
+					"id_str": "747664630655365120",
+					"indices": [
+						84,
+						99
+					]
+				},
+				{
+					"screen_name": "benlcollins",
+					"name": "Ben Collins",
+					"id": 19338407,
+					"id_str": "19338407",
+					"indices": [
+						100,
+						112
+					]
+				},
+				{
+					"screen_name": "alicekeeler",
+					"name": "Alice Keeler",
+					"id": 200715240,
+					"id_str": "200715240",
+					"indices": [
+						113,
+						125
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pq1mHHY2sK",
+					"expanded_url": "https://courses.benlcollins.com/p/apps-script-blastoff",
+					"display_url": "courses.benlcollins.com/p/apps-script-…",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1496217194698784800,
+		"in_reply_to_status_id_str": "1496217194698784769",
+		"in_reply_to_user_id": 205164034,
+		"in_reply_to_user_id_str": "205164034",
+		"in_reply_to_screen_name": "mskhogg",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator/creator @AppsScriptInfo + https://t.co/u2z71WAMb2 |  @GoogleDevExpert in #GoogleAppsScript",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/u2z71WAMb2",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9356,
+			"friends_count": 2789,
+			"listed_count": 592,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7928,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31263,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@mskhogg @znick @AppsScriptInfo @GoogleForEdu @eslweb @SethiDeClercq @AdriannaAstle @TechyLeaderEDU @benlcollins @alicekeeler Have you seen this one from Ben https://t.co/pq1mHHY2sK"
+	},
+	{
+		"created_at": "Tue Feb 22 17:26:39 +0000 2022",
+		"id": 1495924063264403500,
+		"id_str": "1496174610261463041",
+		"full_text": "How to get Linkedin profiles [and other Google Custom Search results] in Google Sheets with a formula by @giacomo_io (contributed by @mhawksey) #GoogleWorkspace @WorkspaceDevs #GoogleAppsScript #AppsScript https://t.co/M506lqN4i4 https://t.co/ajdg3gwVFu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleWorkspace",
+					"indices": [
+						144,
+						160
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						176,
+						193
+					]
+				},
+				{
+					"text": "AppsScript",
+					"indices": [
+						194,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "giacomo_io",
+					"name": "Giacomo Melzi",
+					"id": 228172736,
+					"id_str": "228172736",
+					"indices": [
+						105,
+						116
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						133,
+						142
+					]
+				},
+				{
+					"screen_name": "workspacedevs",
+					"name": "Google Workspace Developers",
+					"id": 111197966,
+					"id_str": "111197966",
+					"indices": [
+						161,
+						175
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/M506lqN4i4",
+					"expanded_url": "https://pulse.appsscript.info/p/2022/02/how-to-get-linkedin-profiles-and-other-google-custom-search-results-in-google-sheets-with-a-formula/",
+					"display_url": "pulse.appsscript.info/p/2022/02/how-…",
+					"indices": [
+						206,
+						229
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1495924061494333400,
+					"id_str": "1495924061494333441",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FMKXAhhUUAEnpVv.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FMKXAhhUUAEnpVv.jpg",
+					"url": "https://t.co/ajdg3gwVFu",
+					"display_url": "pic.twitter.com/ajdg3gwVFu",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1495924063264403456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 374,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 374,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 374,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1495924061494333400,
+					"id_str": "1495924061494333441",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FMKXAhhUUAEnpVv.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FMKXAhhUUAEnpVv.jpg",
+					"url": "https://t.co/ajdg3gwVFu",
+					"display_url": "pic.twitter.com/ajdg3gwVFu",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1495924063264403456/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 374,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 374,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 374,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							300,
+							187
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FMKXAhhUUAEnpVv.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322526439,
+			"id_str": "322526439",
+			"name": "AppsScriptInfo",
+			"screen_name": "AppsScriptInfo",
+			"location": "World",
+			"description": "A Google Apps Script Community account to support Google Workspace Devs. Curated by @mhawksey",
+			"url": "https://t.co/pEqPAHFH4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEqPAHFH4F",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1720,
+			"friends_count": 1421,
+			"listed_count": 50,
+			"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+			"favourites_count": 866,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2803,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+			"profile_link_color": "4286F4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How to get Linkedin profiles [and other Google Custom Search results] in Google Sheets with a formula by @giacomo_io (contributed by @mhawksey) #GoogleWorkspace @WorkspaceDevs #GoogleAppsScript #AppsScript https://t.co/M506lqN4i4 https://t.co/ajdg3gwVFu"
+	},
+	{
 		"created_at": "Fri Feb 18 09:56:56 +0000 2022",
 		"id": 1494611884724658200,
 		"id_str": "1494611884724658183",
