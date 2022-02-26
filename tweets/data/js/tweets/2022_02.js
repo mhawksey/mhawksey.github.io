@@ -1,6 +1,655 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 25 15:10:45 +0000 2022",
+		"id": 1497227572316364800,
+		"id_str": "1497227572316364808",
+		"full_text": "@benlcollins Not glossary but I found these posts in this thread useful  https://t.co/sbNGoeBAZL",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "benlcollins",
+					"name": "Ben Collins",
+					"id": 19338407,
+					"id_str": "19338407",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sbNGoeBAZL",
+					"expanded_url": "https://twitter.com/mhawksey/status/1465753468707250182?t=PXndMPp7Z0L6rioA1_gA-Q&s=19",
+					"display_url": "twitter.com/mhawksey/statu…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1497208926328299500,
+		"in_reply_to_status_id_str": "1497208926328299520",
+		"in_reply_to_user_id": 19338407,
+		"in_reply_to_user_id_str": "19338407",
+		"in_reply_to_screen_name": "benlcollins",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator/creator @AppsScriptInfo + https://t.co/u2z71WAMb2 |  @GoogleDevExpert in #GoogleAppsScript",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/u2z71WAMb2",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9364,
+			"friends_count": 2790,
+			"listed_count": 592,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1465753468707250200,
+		"quoted_status_id_str": "1465753468707250182",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sbNGoeBAZL",
+			"expanded": "https://twitter.com/mhawksey/status/1465753468707250182?t=PXndMPp7Z0L6rioA1_gA-Q&s=19",
+			"display": "twitter.com/mhawksey/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 30 18:43:53 +0000 2021",
+			"id": 1465753468707250200,
+			"id_str": "1465753468707250182",
+			"full_text": "What is 'Web3' and Why Should You Care? - \"Web3 aims to fix the issues inherent in both Web 1.0 and 2.0 by creating a decentralized internet that is easily accessible to everyone, while respecting their privacy and anonymity\" https://t.co/wcDcD1sjjz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				249
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wcDcD1sjjz",
+						"expanded_url": "https://lifehacker.com/what-is-web3-and-why-should-you-care-1848133134",
+						"display_url": "lifehacker.com/what-is-web3-a…",
+						"indices": [
+							226,
+							249
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13046992,
+				"id_str": "13046992",
+				"name": "Martin Hawksey",
+				"screen_name": "mhawksey",
+				"location": "Edinburgh, Scotland",
+				"description": "Learning Design and Technology Lead @UoE_EFI | Curator/creator @AppsScriptInfo + https://t.co/u2z71WAMb2 |  @GoogleDevExpert in #GoogleAppsScript",
+				"url": "https://t.co/ic511xTmhG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ic511xTmhG",
+								"expanded_url": "https://hawksey.info/blog/",
+								"display_url": "hawksey.info/blog/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/u2z71WAMb2",
+								"expanded_url": "https://pulse.appsscript.info",
+								"display_url": "pulse.appsscript.info",
+								"indices": [
+									81,
+									104
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 9364,
+				"friends_count": 2790,
+				"listed_count": 592,
+				"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+				"favourites_count": 7883,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 31268,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F5F5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+				"profile_link_color": "4099FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D4D4D4",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@benlcollins Not glossary but I found these posts in this thread useful  https://t.co/sbNGoeBAZL"
+	},
+	{
+		"created_at": "Fri Feb 25 09:46:43 +0000 2022",
+		"id": 1497146028671254500,
+		"id_str": "1497146028671254528",
+		"full_text": "If you are interested in hybrid learning spaces @james858499, @lucila_fdc, @mseangallagher and @j_k_knox have edited a special issue looking at Postdigital Learning Spaces of HE - I've only got as far as the editorial but look V good! #altc https://t.co/xlnC1NNQ1u https://t.co/nALl4KgjDU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						235,
+						240
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "james858499",
+					"name": "James Lamb",
+					"id": 77978174,
+					"id_str": "77978174",
+					"indices": [
+						48,
+						60
+					]
+				},
+				{
+					"screen_name": "lucila_fdc",
+					"name": "Lucila Carvalho",
+					"id": 591754410,
+					"id_str": "591754410",
+					"indices": [
+						62,
+						73
+					]
+				},
+				{
+					"screen_name": "mseangallagher",
+					"name": "Michael Gallagher",
+					"id": 14747568,
+					"id_str": "14747568",
+					"indices": [
+						75,
+						90
+					]
+				},
+				{
+					"screen_name": "j_k_knox",
+					"name": "Jeremy Knox",
+					"id": 21907019,
+					"id_str": "21907019",
+					"indices": [
+						95,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xlnC1NNQ1u",
+					"expanded_url": "https://link.springer.com/journal/42438/volumes-and-issues/4-1",
+					"display_url": "link.springer.com/journal/42438/…",
+					"indices": [
+						241,
+						264
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1497145958106345500,
+					"id_str": "1497145958106345481",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FMbuURHXMAkr30M.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FMbuURHXMAkr30M.jpg",
+					"url": "https://t.co/nALl4KgjDU",
+					"display_url": "pic.twitter.com/nALl4KgjDU",
+					"expanded_url": "https://twitter.com/mhawksey/status/1497146028671254528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 501,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 766,
+							"h": 564,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 766,
+							"h": 564,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1497145958106345500,
+					"id_str": "1497145958106345481",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FMbuURHXMAkr30M.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FMbuURHXMAkr30M.jpg",
+					"url": "https://t.co/nALl4KgjDU",
+					"display_url": "pic.twitter.com/nALl4KgjDU",
+					"expanded_url": "https://twitter.com/mhawksey/status/1497146028671254528/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 501,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 766,
+							"h": 564,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 766,
+							"h": 564,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							383,
+							282
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FMbuURHXMAkr30M.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator/creator @AppsScriptInfo + https://t.co/u2z71WAMb2 |  @GoogleDevExpert in #GoogleAppsScript",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/u2z71WAMb2",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9364,
+			"friends_count": 2790,
+			"listed_count": 592,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you are interested in hybrid learning spaces @james858499, @lucila_fdc, @mseangallagher and @j_k_knox have edited a special issue looking at Postdigital Learning Spaces of HE - I've only got as far as the editorial but look V good! #altc https://t.co/xlnC1NNQ1u https://t.co/nALl4KgjDU"
+	},
+	{
+		"created_at": "Fri Feb 25 09:24:10 +0000 2022",
+		"id": 1497140354021302300,
+		"id_str": "1497140354021302273",
+		"full_text": "Completely forgot I wrote this up \"Using the Google Apps Script Execution API in Chrome Extensions\" - interested to see if it still works  #WorkspaceDevs #AppsScript #GoogleAppsScript  https://t.co/iOfZNIvzZj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WorkspaceDevs",
+					"indices": [
+						139,
+						153
+					]
+				},
+				{
+					"text": "AppsScript",
+					"indices": [
+						154,
+						165
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						166,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iOfZNIvzZj",
+					"expanded_url": "https://hawksey.info/blog/2017/05/using-the-google-apps-script-execution-api-in-chrome-extensions/",
+					"display_url": "hawksey.info/blog/2017/05/u…",
+					"indices": [
+						185,
+						208
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Learning Design and Technology Lead @UoE_EFI | Curator/creator @AppsScriptInfo + https://t.co/u2z71WAMb2 |  @GoogleDevExpert in #GoogleAppsScript",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/u2z71WAMb2",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9364,
+			"friends_count": 2790,
+			"listed_count": 592,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			322526439
+		],
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Completely forgot I wrote this up \"Using the Google Apps Script Execution API in Chrome Extensions\" - interested to see if it still works  #WorkspaceDevs #AppsScript #GoogleAppsScript  https://t.co/iOfZNIvzZj"
+	},
+	{
 		"created_at": "Thu Feb 24 22:40:26 +0000 2022",
 		"id": 1496978353617784800,
 		"id_str": "1496978353617784843",
