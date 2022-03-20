@@ -1,6 +1,701 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Sat Mar 19 09:30:47 +0000 2022",
+		"id": 1504898703944941600,
+		"id_str": "1505114550957486083",
+		"full_text": "Converting Google Sheets cell values to an object array with heading keys using Google Apps Script (contributed by @mhawksey) #GoogleWorkspace @WorkspaceDevs #GoogleAppsScript #AppsScript https://t.co/rATaBjZDhX https://t.co/p5bKafsFVr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleWorkspace",
+					"indices": [
+						126,
+						142
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						158,
+						175
+					]
+				},
+				{
+					"text": "AppsScript",
+					"indices": [
+						176,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						115,
+						124
+					]
+				},
+				{
+					"screen_name": "workspacedevs",
+					"name": "Google Workspace Developers",
+					"id": 111197966,
+					"id_str": "111197966",
+					"indices": [
+						143,
+						157
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rATaBjZDhX",
+					"expanded_url": "https://pulse.appsscript.info/p/2022/03/converting-google-sheets-cell-values-to-an-object-array-with-heading-keys-using-google-apps-script/",
+					"display_url": "pulse.appsscript.info/p/2022/03/conv…",
+					"indices": [
+						188,
+						211
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1504898702229397500,
+					"id_str": "1504898702229397505",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/FOJ5ZXlUYAET-oJ.png",
+					"media_url_https": "https://pbs.twimg.com/media/FOJ5ZXlUYAET-oJ.png",
+					"url": "https://t.co/p5bKafsFVr",
+					"display_url": "pic.twitter.com/p5bKafsFVr",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1504898703944941571/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 664,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 664,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 664,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1504898702229397500,
+					"id_str": "1504898702229397505",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/FOJ5ZXlUYAET-oJ.png",
+					"media_url_https": "https://pbs.twimg.com/media/FOJ5ZXlUYAET-oJ.png",
+					"url": "https://t.co/p5bKafsFVr",
+					"display_url": "pic.twitter.com/p5bKafsFVr",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1504898703944941571/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 664,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 664,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 664,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322526439,
+			"id_str": "322526439",
+			"name": "AppsScriptInfo",
+			"screen_name": "AppsScriptInfo",
+			"location": "World",
+			"description": "A Google Apps Script Community account to support Google Workspace Devs. Curated by @mhawksey",
+			"url": "https://t.co/pEqPAHFH4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEqPAHFH4F",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1772,
+			"friends_count": 1454,
+			"listed_count": 49,
+			"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+			"favourites_count": 873,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2831,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397720452575233/ZhyDgO7G_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+			"profile_link_color": "4286F4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Converting Google Sheets cell values to an object array with heading keys using Google Apps Script (contributed by @mhawksey) #GoogleWorkspace @WorkspaceDevs #GoogleAppsScript #AppsScript https://t.co/rATaBjZDhX https://t.co/p5bKafsFVr"
+	},
+	{
+		"created_at": "Sat Mar 19 09:29:52 +0000 2022",
+		"id": 1504759687631327200,
+		"id_str": "1505114323085148167",
+		"full_text": "Hey educators! @GoogleEDU is excited to hear what you think about this fun challenge that will help you, your colleagues &amp; pupils! You can dabble in these bite-sized tasks &amp; use these resources flexibly. Get started: https://t.co/gb5Fyj6wi5 \n#22DigitalDays #GoogleEDU #GooglePD https://t.co/NPQNW95WH6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			285
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "22DigitalDays",
+					"indices": [
+						250,
+						264
+					]
+				},
+				{
+					"text": "GoogleEDU",
+					"indices": [
+						265,
+						275
+					]
+				},
+				{
+					"text": "GooglePD",
+					"indices": [
+						276,
+						285
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GoogleEDU",
+					"name": "Google Education",
+					"id": 43902507,
+					"id_str": "43902507",
+					"indices": [
+						15,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gb5Fyj6wi5",
+					"expanded_url": "http://bit.ly/22DigiDays",
+					"display_url": "bit.ly/22DigiDays",
+					"indices": [
+						225,
+						248
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1504757342025535500,
+					"id_str": "1504757342025535508",
+					"indices": [
+						286,
+						309
+					],
+					"media_url": "http://pbs.twimg.com/media/FOH41HyX0BQEb2x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOH41HyX0BQEb2x.jpg",
+					"url": "https://t.co/NPQNW95WH6",
+					"display_url": "pic.twitter.com/NPQNW95WH6",
+					"expanded_url": "https://twitter.com/jessrosemarsh/status/1504759687631327240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 535,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 355,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 535,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1504757342025535500,
+					"id_str": "1504757342025535508",
+					"indices": [
+						286,
+						309
+					],
+					"media_url": "http://pbs.twimg.com/media/FOH41HyX0BQEb2x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOH41HyX0BQEb2x.jpg",
+					"url": "https://t.co/NPQNW95WH6",
+					"display_url": "pic.twitter.com/NPQNW95WH6",
+					"expanded_url": "https://twitter.com/jessrosemarsh/status/1504759687631327240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 535,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 355,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 535,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1150728436983447600,
+			"id_str": "1150728436983447552",
+			"name": "jessrosemarsh",
+			"screen_name": "jessrosemarsh",
+			"location": "Worldwide ",
+			"description": "Lifelong Learner • Intl Educator #GoogleEdu #GoogleEI Innovator #SWE13 • SDGs • @USCTeacher #USCTrojan #FightOn! • #IBPYP • \n@feelthemudita • @Nearpod Certified",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1009,
+			"friends_count": 1356,
+			"listed_count": 4,
+			"created_at": "Mon Jul 15 11:26:53 +0000 2019",
+			"favourites_count": 6646,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247238188210536451/aNhTA4qE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247238188210536451/aNhTA4qE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1150728436983447552/1606167761",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 79,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey educators! @GoogleEDU is excited to hear what you think about this fun challenge that will help you, your colleagues &amp; pupils! You can dabble in these bite-sized tasks &amp; use these resources flexibly. Get started: https://t.co/gb5Fyj6wi5 \n#22DigitalDays #GoogleEDU #GooglePD https://t.co/NPQNW95WH6"
+	},
+	{
+		"created_at": "Sat Mar 19 09:26:11 +0000 2022",
+		"id": 1505113394164162600,
+		"id_str": "1505113394164162561",
+		"full_text": "'Revisiting Camera Use in Live Remote Teaching: Considerations for Learning and Equity' &lt;- some great advice and tips in this article which can be equally important when considering hybrid teaching #altc  https://t.co/SU5iKaSVhm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						201,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SU5iKaSVhm",
+					"expanded_url": "https://er.educause.edu/articles/2022/3/revisiting-camera-use-in-live-remote-teaching-considerations-for-learning-and-equity",
+					"display_url": "er.educause.edu/articles/2022/…",
+					"indices": [
+						208,
+						231
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Curator/creator @AppsScriptInfo + https://t.co/u2z71WAMb2 | Google Cloud Champion Innovator and @GoogleDevExpert in #GoogleAppsScript/#Workspace",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/u2z71WAMb2",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9381,
+			"friends_count": 2796,
+			"listed_count": 587,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7904,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'Revisiting Camera Use in Live Remote Teaching: Considerations for Learning and Equity' &lt;- some great advice and tips in this article which can be equally important when considering hybrid teaching #altc  https://t.co/SU5iKaSVhm"
+	},
+	{
+		"created_at": "Sat Mar 19 08:08:33 +0000 2022",
+		"id": 1505093855791788000,
+		"id_str": "1505093855791788032",
+		"full_text": "@peterghorner @AppsScriptInfo @workspacedevs Glad you've found useful. I'm surprised Google have never added it as an option in getValues()  🤷‍♂️",
+		"truncated": false,
+		"display_text_range": [
+			45,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "peterghorner",
+					"name": "Peter Horner #EdTech50",
+					"id": 1085834728228442100,
+					"id_str": "1085834728228442112",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "AppsScriptInfo",
+					"name": "AppsScriptInfo",
+					"id": 322526439,
+					"id_str": "322526439",
+					"indices": [
+						14,
+						29
+					]
+				},
+				{
+					"screen_name": "workspacedevs",
+					"name": "Google Workspace Developers",
+					"id": 111197966,
+					"id_str": "111197966",
+					"indices": [
+						30,
+						44
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1504917347966017500,
+		"in_reply_to_status_id_str": "1504917347966017548",
+		"in_reply_to_user_id": 1085834728228442100,
+		"in_reply_to_user_id_str": "1085834728228442112",
+		"in_reply_to_screen_name": "peterghorner",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Curator/creator @AppsScriptInfo + https://t.co/u2z71WAMb2 | Google Cloud Champion Innovator and @GoogleDevExpert in #GoogleAppsScript/#Workspace",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/u2z71WAMb2",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9381,
+			"friends_count": 2796,
+			"listed_count": 587,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7904,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@peterghorner @AppsScriptInfo @workspacedevs Glad you've found useful. I'm surprised Google have never added it as an option in getValues()  🤷‍♂️"
+	},
+	{
 		"created_at": "Thu Mar 17 16:48:17 +0000 2022",
 		"id": 1504499875005845500,
 		"id_str": "1504499875005845505",
