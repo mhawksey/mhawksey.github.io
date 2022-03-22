@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Mon Mar 21 14:24:21 +0000 2022",
+		"id": 1505913204832100400,
+		"id_str": "1505913204832100356",
+		"full_text": "@BLE1 sorry missed this (covid brain :) Great to see you and catch-up",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLE1",
+					"name": "Sarah Sherman",
+					"id": 12284332,
+					"id_str": "12284332",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1504589512206430200,
+		"in_reply_to_status_id_str": "1504589512206430215",
+		"in_reply_to_user_id": 12284332,
+		"in_reply_to_user_id_str": "12284332",
+		"in_reply_to_screen_name": "BLE1",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Curator/creator @AppsScriptInfo + https://t.co/u2z71WAMb2 | Google Cloud Champion Innovator and @GoogleDevExpert in #GoogleAppsScript/#Workspace",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/u2z71WAMb2",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9383,
+			"friends_count": 2796,
+			"listed_count": 587,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31291,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@BLE1 sorry missed this (covid brain :) Great to see you and catch-up"
+	},
+	{
+		"created_at": "Mon Mar 21 12:07:44 +0000 2022",
+		"id": 1505878824768217000,
+		"id_str": "1505878824768217094",
+		"full_text": "@BethanyLPeters If the script runs and sends emails without values from your Google Sheet usually because column headings don't exactly match (case-sensitive) or there is extra formatting in the brackets {{ }} . Step-by-step vid here to help https://t.co/loItVNnyf4",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			265
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BethanyLPeters",
+					"name": "bethany l. peters, ph.d.",
+					"id": 127603357,
+					"id_str": "127603357",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/loItVNnyf4",
+					"expanded_url": "https://www.youtube.com/watch?v=YTeV4i1W3Zo",
+					"display_url": "youtube.com/watch?v=YTeV4i…",
+					"indices": [
+						242,
+						265
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1505731766409117700,
+		"in_reply_to_status_id_str": "1505731766409117698",
+		"in_reply_to_user_id": 127603357,
+		"in_reply_to_user_id_str": "127603357",
+		"in_reply_to_screen_name": "BethanyLPeters",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Curator/creator @AppsScriptInfo + https://t.co/u2z71WAMb2 | Google Cloud Champion Innovator and @GoogleDevExpert in #GoogleAppsScript/#Workspace",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/u2z71WAMb2",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9383,
+			"friends_count": 2796,
+			"listed_count": 587,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31291,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@BethanyLPeters If the script runs and sends emails without values from your Google Sheet usually because column headings don't exactly match (case-sensitive) or there is extra formatting in the brackets {{ }} . Step-by-step vid here to help https://t.co/loItVNnyf4"
+	},
+	{
 		"created_at": "Sat Mar 19 09:30:47 +0000 2022",
 		"id": 1504898703944941600,
 		"id_str": "1505114550957486083",
@@ -562,7 +807,7 @@ Grailbird.data.tweets_2022_03 =
 		"created_at": "Sat Mar 19 08:08:33 +0000 2022",
 		"id": 1505093855791788000,
 		"id_str": "1505093855791788032",
-		"full_text": "@peterghorner @AppsScriptInfo @workspacedevs Glad you've found useful. I'm surprised Google have never added it as an option in getValues()  🤷‍♂️",
+		"full_text": "@peterghorner @AppsScriptInfo @workspacedevs Glad you've found useful. I'm surprised Google have never added it as an option in getValues()  🤷♂️",
 		"truncated": false,
 		"display_text_range": [
 			45,
@@ -693,7 +938,7 @@ Grailbird.data.tweets_2022_03 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@peterghorner @AppsScriptInfo @workspacedevs Glad you've found useful. I'm surprised Google have never added it as an option in getValues()  🤷‍♂️"
+		"text": "@peterghorner @AppsScriptInfo @workspacedevs Glad you've found useful. I'm surprised Google have never added it as an option in getValues()  🤷♂️"
 	},
 	{
 		"created_at": "Thu Mar 17 16:48:17 +0000 2022",
