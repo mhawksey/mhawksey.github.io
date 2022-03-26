@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Fri Mar 25 21:12:51 +0000 2022",
+		"id": 1507395807087112200,
+		"id_str": "1507465559377469442",
+		"full_text": "Appointment slots on #GoogleCalendar 📆 is getting a major update!\nNew features include a brand new UI, external bookings and auto schedule conflict detection. Read more here ⬇️\nhttps://t.co/T1lgZj1DTK\n@GoogleForEdu @AppsEvents1 https://t.co/G6UYfuJnO3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleCalendar",
+					"indices": [
+						21,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GoogleForEdu",
+					"name": "Google for Education",
+					"id": 254218142,
+					"id_str": "254218142",
+					"indices": [
+						201,
+						214
+					]
+				},
+				{
+					"screen_name": "AppsEvents1",
+					"name": "AppsEvents",
+					"id": 14743131,
+					"id_str": "14743131",
+					"indices": [
+						215,
+						227
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/T1lgZj1DTK",
+					"expanded_url": "https://workspaceupdates.googleblog.com/2022/03/blog-post.html?m=1",
+					"display_url": "workspaceupdates.googleblog.com/2022/03/blog-p…",
+					"indices": [
+						177,
+						200
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1507395773666934800,
+					"id_str": "1507395773666934790",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FOtYeDlXwAY8a2Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FOtYeDlXwAY8a2Q.jpg",
+					"url": "https://t.co/G6UYfuJnO3",
+					"display_url": "pic.twitter.com/G6UYfuJnO3",
+					"expanded_url": "https://twitter.com/peterghorner/status/1507395807087112197/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 482,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1110,
+							"h": 786,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1110,
+							"h": 786,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1507395773666934800,
+					"id_str": "1507395773666934790",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FOtYeDlXwAY8a2Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FOtYeDlXwAY8a2Q.jpg",
+					"url": "https://t.co/G6UYfuJnO3",
+					"display_url": "pic.twitter.com/G6UYfuJnO3",
+					"expanded_url": "https://twitter.com/peterghorner/status/1507395807087112197/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 482,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1110,
+							"h": 786,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1110,
+							"h": 786,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							185,
+							131
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FOtYeDlXwAY8a2Q.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1085834728228442100,
+			"id_str": "1085834728228442112",
+			"name": "Peter Horner #EdTech50",
+			"screen_name": "peterghorner",
+			"location": "",
+			"description": "IT Manager for @bartonpeveril #FE | Google Certified Innovator & Trainer #GoogleEI #VIA20 #GoogleET  | #Edtech50 | #AppsScript | MSc IT | Dad of two girls",
+			"url": "https://t.co/S6O4V0UhIi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/S6O4V0UhIi",
+							"expanded_url": "https://www.youtube.com/channel/UC7XYCCS9FPlqdCoXxu0C6Mg",
+							"display_url": "youtube.com/channel/UC7XYC…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3100,
+			"friends_count": 2151,
+			"listed_count": 36,
+			"created_at": "Thu Jan 17 09:42:27 +0000 2019",
+			"favourites_count": 23583,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1507110713331961869/D1DDbRfH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1507110713331961869/D1DDbRfH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1085834728228442112/1648160697",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 146,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Appointment slots on #GoogleCalendar 📆 is getting a major update!\nNew features include a brand new UI, external bookings and auto schedule conflict detection. Read more here ⬇️\nhttps://t.co/T1lgZj1DTK\n@GoogleForEdu @AppsEvents1 https://t.co/G6UYfuJnO3"
+	},
+	{
 		"created_at": "Thu Mar 24 12:36:04 +0000 2022",
 		"id": 1506973118073655300,
 		"id_str": "1506973118073655302",
