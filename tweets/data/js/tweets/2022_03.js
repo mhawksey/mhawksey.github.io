@@ -1,6 +1,382 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Sun Mar 27 16:15:39 +0000 2022",
+		"id": 1508115543106240500,
+		"id_str": "1508115543106240514",
+		"full_text": "... and preparing for snow on Wednesday :s https://t.co/UdscoDf27G https://t.co/eAC6uzOzum",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UdscoDf27G",
+					"expanded_url": "https://twitter.com/urbaneprofessor/status/1508090769365733387",
+					"display_url": "twitter.com/urbaneprofesso…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1508115541357174800,
+					"id_str": "1508115541357174800",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FO3nGDLXIBANyDa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FO3nGDLXIBANyDa.jpg",
+					"url": "https://t.co/eAC6uzOzum",
+					"display_url": "pic.twitter.com/eAC6uzOzum",
+					"expanded_url": "https://twitter.com/mhawksey/status/1508115543106240514/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 807,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 807,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1508115541357174800,
+					"id_str": "1508115541357174800",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FO3nGDLXIBANyDa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FO3nGDLXIBANyDa.jpg",
+					"url": "https://t.co/eAC6uzOzum",
+					"display_url": "pic.twitter.com/eAC6uzOzum",
+					"expanded_url": "https://twitter.com/mhawksey/status/1508115543106240514/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 807,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 807,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Curator/creator @AppsScriptInfo + https://t.co/u2z71WAMb2 | Google Cloud Champion Innovator and @GoogleDevExpert in #GoogleAppsScript/#Workspace",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/u2z71WAMb2",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9392,
+			"friends_count": 2799,
+			"listed_count": 589,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31298,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1508090769365733400,
+		"quoted_status_id_str": "1508090769365733387",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UdscoDf27G",
+			"expanded": "https://twitter.com/urbaneprofessor/status/1508090769365733387",
+			"display": "twitter.com/urbaneprofesso…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 27 14:37:13 +0000 2022",
+			"id": 1508090769365733400,
+			"id_str": "1508090769365733387",
+			"full_text": "Things that are almost inconceivable - sunbathing on a beach in March in Scotland https://t.co/uigzbWmCVz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				81
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1508090763019702300,
+						"id_str": "1508090763019702273",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/FO3QjwrWUAErQ5T.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FO3QjwrWUAErQ5T.jpg",
+						"url": "https://t.co/uigzbWmCVz",
+						"display_url": "pic.twitter.com/uigzbWmCVz",
+						"expanded_url": "https://twitter.com/urbaneprofessor/status/1508090769365733387/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1508090763019702300,
+						"id_str": "1508090763019702273",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/FO3QjwrWUAErQ5T.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FO3QjwrWUAErQ5T.jpg",
+						"url": "https://t.co/uigzbWmCVz",
+						"display_url": "pic.twitter.com/uigzbWmCVz",
+						"expanded_url": "https://twitter.com/urbaneprofessor/status/1508090769365733387/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 232585099,
+				"id_str": "232585099",
+				"name": "Peter Matthews (he/him) 🌈",
+				"screen_name": "urbaneprofessor",
+				"location": "Edinburgh",
+				"description": "Egregious Regius, Senior GIF Lecturer, Uni. of Felpersham. Aspires to charisma, uniqueness, nerve & talent. Fondle my roundabouts; worry my cows. He is Pink.",
+				"url": "https://t.co/9q70U7IDhs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9q70U7IDhs",
+								"expanded_url": "http://drpetermatthews.blogspot.com/",
+								"display_url": "drpetermatthews.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5823,
+				"friends_count": 4599,
+				"listed_count": 162,
+				"created_at": "Fri Dec 31 15:54:01 +0000 2010",
+				"favourites_count": 47971,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 128497,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1278965770609983488/EIEzmvsz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278965770609983488/EIEzmvsz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/232585099/1368692944",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "... and preparing for snow on Wednesday :s https://t.co/UdscoDf27G https://t.co/eAC6uzOzum"
+	},
+	{
 		"created_at": "Fri Mar 25 21:12:51 +0000 2022",
 		"id": 1507395807087112200,
 		"id_str": "1507465559377469442",
