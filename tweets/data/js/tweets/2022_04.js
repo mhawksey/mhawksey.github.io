@@ -1,6 +1,421 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 12 11:16:37 +0000 2022",
+		"id": 1513838495369998300,
+		"id_str": "1513838495369998338",
+		"full_text": "@choraria 😁 (no trouble for me, thanks for the quick fix) https://t.co/jsHJUeIoSf",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "choraria",
+					"name": "Sourabh Choraria",
+					"id": 1145333591867453400,
+					"id_str": "1145333591867453440",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1513838488248008700,
+					"id_str": "1513838488248008712",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FQI8FZtWQAgiF9D.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FQI8FZtWQAgiF9D.jpg",
+					"url": "https://t.co/jsHJUeIoSf",
+					"display_url": "pic.twitter.com/jsHJUeIoSf",
+					"expanded_url": "https://twitter.com/mhawksey/status/1513838495369998338/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 498,
+							"h": 264,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 498,
+							"h": 264,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 264,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1513838488248008700,
+					"id_str": "1513838488248008712",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FQI8FZtWQAgiF9D.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FQI8FZtWQAgiF9D.jpg",
+					"url": "https://t.co/jsHJUeIoSf",
+					"display_url": "pic.twitter.com/jsHJUeIoSf",
+					"expanded_url": "https://twitter.com/mhawksey/status/1513838495369998338/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 498,
+							"h": 264,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 498,
+							"h": 264,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 264,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							83,
+							44
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FQI8FZtWQAgiF9D.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1513837887132868600,
+		"in_reply_to_status_id_str": "1513837887132868610",
+		"in_reply_to_user_id": 1145333591867453400,
+		"in_reply_to_user_id_str": "1145333591867453440",
+		"in_reply_to_screen_name": "choraria",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Curator/creator @AppsScriptInfo + https://t.co/wvb4AKjEQc | Google Cloud Champion Innovator and @GoogleDevExpert in #GoogleAppsScript/#Workspace",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wvb4AKjEQc",
+							"expanded_url": "http://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9395,
+			"friends_count": 2803,
+			"listed_count": 588,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7927,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31324,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@choraria 😁 (no trouble for me, thanks for the quick fix) https://t.co/jsHJUeIoSf"
+	},
+	{
+		"created_at": "Tue Apr 12 10:49:47 +0000 2022",
+		"id": 1513831743253618700,
+		"id_str": "1513831743253618688",
+		"full_text": "@choraria looks like your latest projects are very popular https://t.co/f9rOrRykvM https://t.co/lkHm0mXXip",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "choraria",
+					"name": "Sourabh Choraria",
+					"id": 1145333591867453400,
+					"id_str": "1145333591867453440",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/f9rOrRykvM",
+					"expanded_url": "https://downforeveryoneorjustme.com/script.gs?proto=https",
+					"display_url": "downforeveryoneorjustme.com/script.gs?prot…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1513831697133023200,
+					"id_str": "1513831697133023237",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FQI16G1XMAUuEiy.png",
+					"media_url_https": "https://pbs.twimg.com/media/FQI16G1XMAUuEiy.png",
+					"url": "https://t.co/lkHm0mXXip",
+					"display_url": "pic.twitter.com/lkHm0mXXip",
+					"expanded_url": "https://twitter.com/mhawksey/status/1513831743253618688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 298,
+							"h": 160,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 298,
+							"h": 160,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 298,
+							"h": 160,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1513831697133023200,
+					"id_str": "1513831697133023237",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FQI16G1XMAUuEiy.png",
+					"media_url_https": "https://pbs.twimg.com/media/FQI16G1XMAUuEiy.png",
+					"url": "https://t.co/lkHm0mXXip",
+					"display_url": "pic.twitter.com/lkHm0mXXip",
+					"expanded_url": "https://twitter.com/mhawksey/status/1513831743253618688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 298,
+							"h": 160,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 298,
+							"h": 160,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 298,
+							"h": 160,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1145333591867453400,
+		"in_reply_to_user_id_str": "1145333591867453440",
+		"in_reply_to_screen_name": "choraria",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Curator/creator @AppsScriptInfo + https://t.co/wvb4AKjEQc | Google Cloud Champion Innovator and @GoogleDevExpert in #GoogleAppsScript/#Workspace",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wvb4AKjEQc",
+							"expanded_url": "http://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9395,
+			"friends_count": 2803,
+			"listed_count": 588,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7927,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31324,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@choraria looks like your latest projects are very popular https://t.co/f9rOrRykvM https://t.co/lkHm0mXXip"
+	},
+	{
 		"created_at": "Mon Apr 11 20:00:32 +0000 2022",
 		"id": 1513607952741159000,
 		"id_str": "1513607952741158912",
@@ -933,7 +1348,7 @@ Grailbird.data.tweets_2022_04 =
 		"created_at": "Mon Apr 11 17:08:18 +0000 2022",
 		"id": 1513564608925253600,
 		"id_str": "1513564608925253642",
-		"full_text": "@choraria Rabbit holes in rabbit holes 😵‍💫",
+		"full_text": "@choraria Rabbit holes in rabbit holes 😵💫",
 		"truncated": false,
 		"display_text_range": [
 			10,
@@ -1044,7 +1459,7 @@ Grailbird.data.tweets_2022_04 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@choraria Rabbit holes in rabbit holes 😵‍💫"
+		"text": "@choraria Rabbit holes in rabbit holes 😵💫"
 	},
 	{
 		"created_at": "Sun Apr 10 08:25:21 +0000 2022",
