@@ -1,6 +1,403 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 15 08:29:54 +0000 2022",
+		"id": 1514883702442057700,
+		"id_str": "1514883702442057732",
+		"full_text": "This post by @choraria is a great reminder that as useful as spreadsheets are the underlying data structure can cause problems particularly the ambiguity of a cell (value and formula). @choraria explores how precedents can be extracted in #GoogleSheets with #AppsScript https://t.co/qTWFAMiyDX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleSheets",
+					"indices": [
+						239,
+						252
+					]
+				},
+				{
+					"text": "AppsScript",
+					"indices": [
+						258,
+						269
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "choraria",
+					"name": "Sourabh Choraria",
+					"id": 1145333591867453400,
+					"id_str": "1145333591867453440",
+					"indices": [
+						13,
+						22
+					]
+				},
+				{
+					"screen_name": "choraria",
+					"name": "Sourabh Choraria",
+					"id": 1145333591867453400,
+					"id_str": "1145333591867453440",
+					"indices": [
+						185,
+						194
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qTWFAMiyDX",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1514199981434974214",
+					"display_url": "twitter.com/AppsScriptInfo…",
+					"indices": [
+						270,
+						293
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Curator/creator @AppsScriptInfo + https://t.co/wvb4AKjEQc | Google Cloud Champion Innovator and @GoogleDevExpert in #GoogleAppsScript/#Workspace",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wvb4AKjEQc",
+							"expanded_url": "http://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9392,
+			"friends_count": 2801,
+			"listed_count": 588,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7930,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31327,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1514199981434974200,
+		"quoted_status_id_str": "1514199981434974214",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qTWFAMiyDX",
+			"expanded": "https://twitter.com/AppsScriptInfo/status/1514199981434974214",
+			"display": "twitter.com/AppsScriptInfo…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 13 11:13:02 +0000 2022",
+			"id": 1514199981434974200,
+			"id_str": "1514199981434974214",
+			"full_text": "Find precedents of cells with formulas in Google Sheets using Apps Script — part 1 by @choraria (contributed by @mhawksey) #GoogleWorkspace @WorkspaceDevs #GoogleAppsScript #AppsScript https://t.co/cWS1oHUdyg https://t.co/B2g0Y5H9OQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				208
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GoogleWorkspace",
+						"indices": [
+							123,
+							139
+						]
+					},
+					{
+						"text": "GoogleAppsScript",
+						"indices": [
+							155,
+							172
+						]
+					},
+					{
+						"text": "AppsScript",
+						"indices": [
+							173,
+							184
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "choraria",
+						"name": "Sourabh Choraria",
+						"id": 1145333591867453400,
+						"id_str": "1145333591867453440",
+						"indices": [
+							86,
+							95
+						]
+					},
+					{
+						"screen_name": "mhawksey",
+						"name": "Martin Hawksey",
+						"id": 13046992,
+						"id_str": "13046992",
+						"indices": [
+							112,
+							121
+						]
+					},
+					{
+						"screen_name": "workspacedevs",
+						"name": "Google Workspace Developers",
+						"id": 111197966,
+						"id_str": "111197966",
+						"indices": [
+							140,
+							154
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/cWS1oHUdyg",
+						"expanded_url": "https://pulse.appsscript.info/p/2022/04/find-precedents-of-cells-with-formulas-in-google-sheets-using-apps-script-part-1/",
+						"display_url": "pulse.appsscript.info/p/2022/04/find…",
+						"indices": [
+							185,
+							208
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1514199979681747000,
+						"id_str": "1514199979681746951",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/media/FQOE2-PVkAcuxNt.png",
+						"media_url_https": "https://pbs.twimg.com/media/FQOE2-PVkAcuxNt.png",
+						"url": "https://t.co/B2g0Y5H9OQ",
+						"display_url": "pic.twitter.com/B2g0Y5H9OQ",
+						"expanded_url": "https://twitter.com/AppsScriptInfo/status/1514199981434974214/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1809,
+								"h": 751,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 498,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 282,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1514199979681747000,
+						"id_str": "1514199979681746951",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/media/FQOE2-PVkAcuxNt.png",
+						"media_url_https": "https://pbs.twimg.com/media/FQOE2-PVkAcuxNt.png",
+						"url": "https://t.co/B2g0Y5H9OQ",
+						"display_url": "pic.twitter.com/B2g0Y5H9OQ",
+						"expanded_url": "https://twitter.com/AppsScriptInfo/status/1514199981434974214/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1809,
+								"h": 751,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 498,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 282,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 322526439,
+				"id_str": "322526439",
+				"name": "AppsScriptInfo",
+				"screen_name": "AppsScriptInfo",
+				"location": "World",
+				"description": "A Google Apps Script Community account to support Google Workspace Devs. Curated by @mhawksey",
+				"url": "https://t.co/db8P5bhqPd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/db8P5bhqPd",
+								"expanded_url": "https://pulse.appsscript.info",
+								"display_url": "pulse.appsscript.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1828,
+				"friends_count": 1469,
+				"listed_count": 48,
+				"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+				"favourites_count": 894,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2897,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1509531998359982080/BbebJ-ka_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509531998359982080/BbebJ-ka_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+				"profile_link_color": "4286F4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This post by @choraria is a great reminder that as useful as spreadsheets are the underlying data structure can cause problems particularly the ambiguity of a cell (value and formula). @choraria explores how precedents can be extracted in #GoogleSheets with #AppsScript https://t.co/qTWFAMiyDX"
+	},
+	{
 		"created_at": "Wed Apr 13 12:39:12 +0000 2022",
 		"id": 1514221663172370400,
 		"id_str": "1514221663172370437",
