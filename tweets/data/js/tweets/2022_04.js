@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 22 10:42:15 +0000 2022",
+		"id": 1517453722678435800,
+		"id_str": "1517453722678435841",
+		"full_text": "@mskhogg @BlakeRobertsVa @KenForde @MrAlexEdTech @Sean4d @AppsScriptInfo @veracross Wondering if @LifeOfSpy @clssrmtechtools or @barrielroberts have done anything with teacher timetables and Apps Script?",
+		"truncated": false,
+		"display_text_range": [
+			84,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mskhogg",
+					"name": "Kimberly Hogg, MEd (she/they) 🖥️🛠️🤖❤️🏳️‍🌈",
+					"id": 205164034,
+					"id_str": "205164034",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "BlakeRobertsVa",
+					"name": "Blake Roberts, M. Ed",
+					"id": 1075784736105267200,
+					"id_str": "1075784736105267200",
+					"indices": [
+						9,
+						24
+					]
+				},
+				{
+					"screen_name": "KenForde",
+					"name": "Ken Forde",
+					"id": 394678380,
+					"id_str": "394678380",
+					"indices": [
+						25,
+						34
+					]
+				},
+				{
+					"screen_name": "MrAlexEdTech",
+					"name": "Alex McMillan 🌍",
+					"id": 708860395574812700,
+					"id_str": "708860395574812672",
+					"indices": [
+						35,
+						48
+					]
+				},
+				{
+					"screen_name": "Sean4d",
+					"name": "Sean Forde",
+					"id": 454317824,
+					"id_str": "454317824",
+					"indices": [
+						49,
+						56
+					]
+				},
+				{
+					"screen_name": "AppsScriptInfo",
+					"name": "AppsScriptInfo",
+					"id": 322526439,
+					"id_str": "322526439",
+					"indices": [
+						57,
+						72
+					]
+				},
+				{
+					"screen_name": "veracross",
+					"name": "Veracross",
+					"id": 150622223,
+					"id_str": "150622223",
+					"indices": [
+						73,
+						83
+					]
+				},
+				{
+					"screen_name": "LifeOfSpy",
+					"name": "Yagisanatode",
+					"id": 2346078620,
+					"id_str": "2346078620",
+					"indices": [
+						97,
+						107
+					]
+				},
+				{
+					"screen_name": "clssrmtechtools",
+					"name": "Adam Morris",
+					"id": 859694936140075000,
+					"id_str": "859694936140075008",
+					"indices": [
+						108,
+						124
+					]
+				},
+				{
+					"screen_name": "barrielroberts",
+					"name": "Baz Roberts",
+					"id": 4409428666,
+					"id_str": "4409428666",
+					"indices": [
+						128,
+						143
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1517443573687279600,
+		"in_reply_to_status_id_str": "1517443573687279616",
+		"in_reply_to_user_id": 205164034,
+		"in_reply_to_user_id_str": "205164034",
+		"in_reply_to_screen_name": "mskhogg",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Curator/creator @AppsScriptInfo + https://t.co/wvb4AKjEQc | Google Cloud Champion Innovator and @GoogleDevExpert in #GoogleAppsScript/#Workspace",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wvb4AKjEQc",
+							"expanded_url": "http://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9395,
+			"friends_count": 2801,
+			"listed_count": 0,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31336,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mskhogg @BlakeRobertsVa @KenForde @MrAlexEdTech @Sean4d @AppsScriptInfo @veracross Wondering if @LifeOfSpy @clssrmtechtools or @barrielroberts have done anything with teacher timetables and Apps Script?"
+	},
+	{
 		"created_at": "Thu Apr 21 18:38:17 +0000 2022",
 		"id": 1517211133781975000,
 		"id_str": "1517211133781975040",
