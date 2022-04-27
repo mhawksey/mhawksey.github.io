@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 26 18:52:52 +0000 2022",
+		"id": 1519026745713823700,
+		"id_str": "1519026745713823744",
+		"full_text": "Had been wondering why out of nowhere I was suddenly getting mastodon follower notifications ... https://t.co/5ci2DRzFFR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1519026738650620000,
+					"id_str": "1519026738650619910",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FRSqxUmXIAYM-Xf.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FRSqxUmXIAYM-Xf.jpg",
+					"url": "https://t.co/5ci2DRzFFR",
+					"display_url": "pic.twitter.com/5ci2DRzFFR",
+					"expanded_url": "https://twitter.com/mhawksey/status/1519026745713823744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519026738650620000,
+					"id_str": "1519026738650619910",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FRSqxUmXIAYM-Xf.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FRSqxUmXIAYM-Xf.jpg",
+					"url": "https://t.co/5ci2DRzFFR",
+					"display_url": "pic.twitter.com/5ci2DRzFFR",
+					"expanded_url": "https://twitter.com/mhawksey/status/1519026745713823744/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							139
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FRSqxUmXIAYM-Xf.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Curator/creator @AppsScriptInfo + https://t.co/wvb4AKjEQc | Google Cloud Champion Innovator and @GoogleDevExpert in #GoogleAppsScript/#Workspace",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wvb4AKjEQc",
+							"expanded_url": "http://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9391,
+			"friends_count": 2797,
+			"listed_count": 585,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7933,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31336,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Had been wondering why out of nowhere I was suddenly getting mastodon follower notifications ... https://t.co/5ci2DRzFFR"
+	},
+	{
 		"created_at": "Fri Apr 22 10:42:15 +0000 2022",
 		"id": 1517453722678435800,
 		"id_str": "1517453722678435841",
@@ -16,7 +214,7 @@ Grailbird.data.tweets_2022_04 =
 			"user_mentions": [
 				{
 					"screen_name": "mskhogg",
-					"name": "Kimberly Hogg, MEd (she/they) 🖥️🛠️🤖❤️🏳️‍🌈",
+					"name": "Kimberly Hogg, MEd (she/they) 🖥️🛠️🤖❤️🏳️🌈",
 					"id": 205164034,
 					"id_str": "205164034",
 					"indices": [
