@@ -1,6 +1,661 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 10 15:47:27 +0000 2022",
+		"id": 1524044729339371500,
+		"id_str": "1524053514019823617",
+		"full_text": "Create Spaces and add members with the Google Chat API (and introducing the Google Workspace Developer Preview program) by @chasmaxson (contributed by @mhawksey) #GoogleWorkspace @WorkspaceDevs #GoogleAppsScript #AppsScript https://t.co/Ejou8uD94R https://t.co/uFbovoafkf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleWorkspace",
+					"indices": [
+						162,
+						178
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						194,
+						211
+					]
+				},
+				{
+					"text": "AppsScript",
+					"indices": [
+						212,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chasmaxson",
+					"name": "Charles Maxson",
+					"id": 993937566029115400,
+					"id_str": "993937566029115393",
+					"indices": [
+						123,
+						134
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						151,
+						160
+					]
+				},
+				{
+					"screen_name": "workspacedevs",
+					"name": "Google Workspace Developers",
+					"id": 111197966,
+					"id_str": "111197966",
+					"indices": [
+						179,
+						193
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ejou8uD94R",
+					"expanded_url": "https://pulse.appsscript.info/p/2022/05/create-spaces-and-add-members-with-the-google-chat-api-and-introducing-the-google-workspace-developer-preview-program/",
+					"display_url": "pulse.appsscript.info/p/2022/05/crea…",
+					"indices": [
+						224,
+						247
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1524044727481340000,
+					"id_str": "1524044727481339905",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/FSZ-mttVEAEv2OY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSZ-mttVEAEv2OY.jpg",
+					"url": "https://t.co/uFbovoafkf",
+					"display_url": "pic.twitter.com/uFbovoafkf",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1524044729339371521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1234,
+							"h": 802,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 780,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 442,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1524044727481340000,
+					"id_str": "1524044727481339905",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/FSZ-mttVEAEv2OY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSZ-mttVEAEv2OY.jpg",
+					"url": "https://t.co/uFbovoafkf",
+					"display_url": "pic.twitter.com/uFbovoafkf",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1524044729339371521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1234,
+							"h": 802,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 780,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 442,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322526439,
+			"id_str": "322526439",
+			"name": "AppsScriptInfo",
+			"screen_name": "AppsScriptInfo",
+			"location": "World",
+			"description": "A Google Apps Script Community account to support Google Workspace Devs. Curated by @mhawksey",
+			"url": "https://t.co/db8P5bhqPd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/db8P5bhqPd",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1871,
+			"friends_count": 1477,
+			"listed_count": 47,
+			"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+			"favourites_count": 905,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2938,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509531998359982080/BbebJ-ka_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509531998359982080/BbebJ-ka_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+			"profile_link_color": "4286F4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Create Spaces and add members with the Google Chat API (and introducing the Google Workspace Developer Preview program) by @chasmaxson (contributed by @mhawksey) #GoogleWorkspace @WorkspaceDevs #GoogleAppsScript #AppsScript https://t.co/Ejou8uD94R https://t.co/uFbovoafkf"
+	},
+	{
+		"created_at": "Tue May 10 12:22:13 +0000 2022",
+		"id": 1523982689556119600,
+		"id_str": "1524001865255600131",
+		"full_text": "\"Use Forms History if: 1 You would like to see if someone has modified a Google Form.\" https://t.co/QK4L3tm22j @mhawksey #googleEDU https://t.co/EX8sP3xyKe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "googleEDU",
+					"indices": [
+						121,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						111,
+						120
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QK4L3tm22j",
+					"expanded_url": "https://workspace.google.com/marketplace/app/forms_history/962542810419",
+					"display_url": "workspace.google.com/marketplace/ap…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1523982686599237600,
+					"id_str": "1523982686599237632",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FSZGLdaX0AA4ULG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSZGLdaX0AA4ULG.jpg",
+					"url": "https://t.co/EX8sP3xyKe",
+					"display_url": "pic.twitter.com/EX8sP3xyKe",
+					"expanded_url": "https://twitter.com/alicekeeler/status/1523982689556119552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1523982686599237600,
+					"id_str": "1523982686599237632",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FSZGLdaX0AA4ULG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSZGLdaX0AA4ULG.jpg",
+					"url": "https://t.co/EX8sP3xyKe",
+					"display_url": "pic.twitter.com/EX8sP3xyKe",
+					"expanded_url": "https://twitter.com/alicekeeler/status/1523982689556119552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://meetedgar.com\" rel=\"nofollow\">MeetEdgar</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200715240,
+			"id_str": "200715240",
+			"name": "Alice Keeler",
+			"screen_name": "alicekeeler",
+			"location": "Ulysses, KS",
+			"description": "Mom, Math Teacher, Developer https://t.co/qTHcUaTYkG, Author, Google Certified Innovator, #GoogleCloudInnovators, MIE, gamification, #coffeeEDU, Google Developer",
+			"url": "https://t.co/9Mh7cfhDE1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9Mh7cfhDE1",
+							"expanded_url": "http://www.alicekeeler.com",
+							"display_url": "alicekeeler.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/qTHcUaTYkG",
+							"expanded_url": "http://Schoolytics.com",
+							"display_url": "Schoolytics.com",
+							"indices": [
+								29,
+								52
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 185588,
+			"friends_count": 6654,
+			"listed_count": 3659,
+			"created_at": "Sun Oct 10 01:43:43 +0000 2010",
+			"favourites_count": 10930,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 327962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/882999585303445504/p-bUxO3H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/882999585303445504/p-bUxO3H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200715240/1525141489",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Use Forms History if: 1 You would like to see if someone has modified a Google Form.\" https://t.co/QK4L3tm22j @mhawksey #googleEDU https://t.co/EX8sP3xyKe"
+	},
+	{
+		"created_at": "Tue May 10 09:43:40 +0000 2022",
+		"id": 1523961963121975300,
+		"id_str": "1523961963121975296",
+		"full_text": "You can view the revision history in Google Docs, Sheets, and Slides, but not Google Forms ... until now. \n\nI've created Forms History which is a #GoogleWorkspace add-on which lets you see if someone has changed a Google Form and also make back-up copies https://t.co/kR2IGTdEF6 https://t.co/s2j1EFINLB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleWorkspace",
+					"indices": [
+						146,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kR2IGTdEF6",
+					"expanded_url": "https://hawksey.info/forms-history/",
+					"display_url": "hawksey.info/forms-history/",
+					"indices": [
+						255,
+						278
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1523959886127804400,
+					"id_str": "1523959886127804418",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FSYxcTCXsAI0BW1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSYxcTCXsAI0BW1.jpg",
+					"url": "https://t.co/s2j1EFINLB",
+					"display_url": "pic.twitter.com/s2j1EFINLB",
+					"expanded_url": "https://twitter.com/mhawksey/status/1523961963121975296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1523959886127804400,
+					"id_str": "1523959886127804418",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FSYxcTCXsAI0BW1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSYxcTCXsAI0BW1.jpg",
+					"url": "https://t.co/s2j1EFINLB",
+					"display_url": "pic.twitter.com/s2j1EFINLB",
+					"expanded_url": "https://twitter.com/mhawksey/status/1523961963121975296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Curator/creator @AppsScriptInfo + https://t.co/wvb4AKjEQc | Google Cloud Champion Innovator and @GoogleDevExpert in #GoogleAppsScript/#Workspace",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wvb4AKjEQc",
+							"expanded_url": "http://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9401,
+			"friends_count": 2799,
+			"listed_count": 586,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 7956,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You can view the revision history in Google Docs, Sheets, and Slides, but not Google Forms ... until now. \n\nI've created Forms History which is a #GoogleWorkspace add-on which lets you see if someone has changed a Google Form and also make back-up copies https://t.co/kR2IGTdEF6 https://t.co/s2j1EFINLB"
+	},
+	{
 		"created_at": "Mon May 09 20:35:00 +0000 2022",
 		"id": 1523753363040784400,
 		"id_str": "1523763487687819265",
