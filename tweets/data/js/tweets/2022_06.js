@@ -1,6 +1,369 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 08 21:14:19 +0000 2022",
+		"id": 1534642777774080000,
+		"id_str": "1534645018425798657",
+		"full_text": "Announcing: Screencast, a new tool coming to every #Chromebook in M103. This easy-to-use app enables Ts &amp; Ss to record, transcribe, trim, annotate, &amp; share lessons &amp; presentations right from their device. Screencasts are stored on Google Drive: https://t.co/HN3Ir2SYhb https://t.co/h9aW9utJTq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Chromebook",
+					"indices": [
+						51,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HN3Ir2SYhb",
+					"expanded_url": "http://goo.gle/38Utxsx",
+					"display_url": "goo.gle/38Utxsx",
+					"indices": [
+						257,
+						280
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1534642720911806500,
+					"id_str": "1534642720911806464",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1534642720911806464/pu/img/Z7pnlO_GtcaBpBYx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1534642720911806464/pu/img/Z7pnlO_GtcaBpBYx.jpg",
+					"url": "https://t.co/h9aW9utJTq",
+					"display_url": "pic.twitter.com/h9aW9utJTq",
+					"expanded_url": "https://twitter.com/GoogleForEdu/status/1534642777774080003/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1534642720911806500,
+					"id_str": "1534642720911806464",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1534642720911806464/pu/img/Z7pnlO_GtcaBpBYx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1534642720911806464/pu/img/Z7pnlO_GtcaBpBYx.jpg",
+					"url": "https://t.co/h9aW9utJTq",
+					"display_url": "pic.twitter.com/h9aW9utJTq",
+					"expanded_url": "https://twitter.com/GoogleForEdu/status/1534642777774080003/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 115280,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1534642720911806464/pu/pl/6MmXm3bCIv5WTn2_.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1534642720911806464/pu/vid/1280x720/iEloi47zNuSnm96-.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1534642720911806464/pu/vid/480x270/KQ1K8AGiJ_xXN7nx.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1534642720911806464/pu/vid/640x360/_Fw6Msw7UoD8T3f9.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 254218142,
+			"id_str": "254218142",
+			"name": "Google for Education",
+			"screen_name": "GoogleForEdu",
+			"location": "USA ",
+			"description": "Helping prepare students to create the future. The best of Google, for education. Follow for product announcements, updates & news #GoogleEdu",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 756849,
+			"friends_count": 884,
+			"listed_count": 6525,
+			"created_at": "Fri Feb 18 21:20:12 +0000 2011",
+			"favourites_count": 3871,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18760,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1455292838934102017/C1ntsrVO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1455292838934102017/C1ntsrVO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/254218142/1651608884",
+			"profile_link_color": "4286F4",
+			"profile_sidebar_border_color": "BBCCFF",
+			"profile_sidebar_fill_color": "EBEFF9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 77,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Announcing: Screencast, a new tool coming to every #Chromebook in M103. This easy-to-use app enables Ts &amp; Ss to record, transcribe, trim, annotate, &amp; share lessons &amp; presentations right from their device. Screencasts are stored on Google Drive: https://t.co/HN3Ir2SYhb https://t.co/h9aW9utJTq"
+	},
+	{
+		"created_at": "Wed Jun 08 17:40:50 +0000 2022",
+		"id": 1534586439240781800,
+		"id_str": "1534591295787786244",
+		"full_text": "Automatically running a Google Apps Script function every quarter or another monthly period greater than one month  (contributed by @mhawksey) #GoogleWorkspace @WorkspaceDevs #GoogleAppsScript #AppsScript https://t.co/mQkPJ7IqoW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleWorkspace",
+					"indices": [
+						143,
+						159
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						175,
+						192
+					]
+				},
+				{
+					"text": "AppsScript",
+					"indices": [
+						193,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						132,
+						141
+					]
+				},
+				{
+					"screen_name": "workspacedevs",
+					"name": "Google Workspace Developers",
+					"id": 111197966,
+					"id_str": "111197966",
+					"indices": [
+						160,
+						174
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mQkPJ7IqoW",
+					"expanded_url": "https://pulse.appsscript.info/p/2022/06/automatically-running-a-google-apps-script-function-every-quarter-or-another-period-greater-than-one-month/",
+					"display_url": "pulse.appsscript.info/p/2022/06/auto…",
+					"indices": [
+						205,
+						228
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322526439,
+			"id_str": "322526439",
+			"name": "AppsScriptInfo",
+			"screen_name": "AppsScriptInfo",
+			"location": "World",
+			"description": "A Google Apps Script Community account to support Google Workspace Devs. Curated by @mhawksey",
+			"url": "https://t.co/db8P5bhqPd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/db8P5bhqPd",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1902,
+			"friends_count": 1517,
+			"listed_count": 47,
+			"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+			"favourites_count": 908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2963,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509531998359982080/BbebJ-ka_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509531998359982080/BbebJ-ka_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+			"profile_link_color": "4286F4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Automatically running a Google Apps Script function every quarter or another monthly period greater than one month  (contributed by @mhawksey) #GoogleWorkspace @WorkspaceDevs #GoogleAppsScript #AppsScript https://t.co/mQkPJ7IqoW"
+	},
+	{
 		"created_at": "Tue Jun 07 21:40:07 +0000 2022",
 		"id": 1534289123057582000,
 		"id_str": "1534289123057582081",
