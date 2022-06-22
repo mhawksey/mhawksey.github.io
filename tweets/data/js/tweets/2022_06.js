@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 21 17:03:58 +0000 2022",
+		"id": 1539293057107083300,
+		"id_str": "1539293057107083264",
+		"full_text": "Been playing around with little #AppSheet ordering/payment app built on the 'public app private data' template. \n\nIt works by launching an #AppsScript web app that reads the cart info from  #GoogleSheets and uses a PayPal payment integration https://t.co/O8Zt9uJHaW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AppSheet",
+					"indices": [
+						32,
+						41
+					]
+				},
+				{
+					"text": "AppsScript",
+					"indices": [
+						139,
+						150
+					]
+				},
+				{
+					"text": "GoogleSheets",
+					"indices": [
+						190,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539292511935643600,
+					"id_str": "1539292511935643649",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1539292511935643649/pu/img/OMkeScnROLP-Rkr7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1539292511935643649/pu/img/OMkeScnROLP-Rkr7.jpg",
+					"url": "https://t.co/O8Zt9uJHaW",
+					"display_url": "pic.twitter.com/O8Zt9uJHaW",
+					"expanded_url": "https://twitter.com/mhawksey/status/1539293057107083264/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 590,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 553,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 313,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539292511935643600,
+					"id_str": "1539292511935643649",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1539292511935643649/pu/img/OMkeScnROLP-Rkr7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1539292511935643649/pu/img/OMkeScnROLP-Rkr7.jpg",
+					"url": "https://t.co/O8Zt9uJHaW",
+					"display_url": "pic.twitter.com/O8Zt9uJHaW",
+					"expanded_url": "https://twitter.com/mhawksey/status/1539293057107083264/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 590,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 553,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 313,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							59,
+							128
+						],
+						"duration_millis": 68223,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1539292511935643649/pu/vid/590x1280/nQHK4jH5OkKCwKg2.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1539292511935643649/pu/pl/-DaIMiO0iPP_Aynw.m3u8?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1539292511935643649/pu/vid/480x1040/l_AwDojmq14dsiWo.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1539292511935643649/pu/vid/320x694/E3USWBMQRtUB3y0J.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Curator/creator @AppsScriptInfo + https://t.co/wvb4AKjEQc | Google Cloud Champion Innovator and @GoogleDevExpert in #GoogleAppsScript/#Workspace",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wvb4AKjEQc",
+							"expanded_url": "http://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9436,
+			"friends_count": 2813,
+			"listed_count": 587,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 8000,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Been playing around with little #AppSheet ordering/payment app built on the 'public app private data' template. \n\nIt works by launching an #AppsScript web app that reads the cart info from  #GoogleSheets and uses a PayPal payment integration https://t.co/O8Zt9uJHaW"
+	},
+	{
 		"created_at": "Mon Jun 20 09:22:48 +0000 2022",
 		"id": 1538814614233833500,
 		"id_str": "1538814614233833472",
