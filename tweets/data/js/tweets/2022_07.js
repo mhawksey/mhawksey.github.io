@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 08 09:50:55 +0000 2022",
+		"id": 1545344673744621600,
+		"id_str": "1545344673744621569",
+		"full_text": "Always a pleasure talking to @alicekeeler. Big thank you to Alice for inviting me on to speak about how you can monitor/manage Google Forms versions with Forms History add-on. Find out more 👇 #GoogleWorkspace #GoogleForms https://t.co/bw1Jln3nNK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleWorkspace",
+					"indices": [
+						192,
+						208
+					]
+				},
+				{
+					"text": "GoogleForms",
+					"indices": [
+						209,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alicekeeler",
+					"name": "Alice Keeler",
+					"id": 200715240,
+					"id_str": "200715240",
+					"indices": [
+						29,
+						41
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bw1Jln3nNK",
+					"expanded_url": "https://twitter.com/alicekeeler/status/1545027948125757440",
+					"display_url": "twitter.com/alicekeeler/st…",
+					"indices": [
+						222,
+						245
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Curator/creator @AppsScriptInfo + https://t.co/wvb4AKjEQc | Google Cloud Champion Innovator and @GoogleDevExpert in #GoogleAppsScript/#Workspace",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wvb4AKjEQc",
+							"expanded_url": "http://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9440,
+			"friends_count": 2811,
+			"listed_count": 587,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 8006,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1545027948125757400,
+		"quoted_status_id_str": "1545027948125757440",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bw1Jln3nNK",
+			"expanded": "https://twitter.com/alicekeeler/status/1545027948125757440",
+			"display": "twitter.com/alicekeeler/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 07 12:52:22 +0000 2022",
+			"id": 1545027948125757400,
+			"id_str": "1545027948125757440",
+			"full_text": "If you missed yesterdays chat with the creator of Forms History @mhawksey here is the recording: https://t.co/H8zTgJj0Zy \n\n#googleForms #googleEDU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				146
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "googleForms",
+						"indices": [
+							123,
+							135
+						]
+					},
+					{
+						"text": "googleEDU",
+						"indices": [
+							136,
+							146
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mhawksey",
+						"name": "Martin Hawksey",
+						"id": 13046992,
+						"id_str": "13046992",
+						"indices": [
+							64,
+							73
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/H8zTgJj0Zy",
+						"expanded_url": "https://youtu.be/39QzCP4bFgM",
+						"display_url": "youtu.be/39QzCP4bFgM",
+						"indices": [
+							97,
+							120
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 200715240,
+				"id_str": "200715240",
+				"name": "Alice Keeler",
+				"screen_name": "alicekeeler",
+				"location": "Ulysses, KS",
+				"description": "Mom, Math Teacher, Developer Schoolytics, Author, Google Certified Innovator, #GoogleCloudInnovators, MIE, gamification, #coffeeEDU, Google Developer Expert",
+				"url": "https://t.co/9Mh7cfhDE1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9Mh7cfhDE1",
+								"expanded_url": "http://www.alicekeeler.com",
+								"display_url": "alicekeeler.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 188147,
+				"friends_count": 6809,
+				"listed_count": 3689,
+				"created_at": "Sun Oct 10 01:43:43 +0000 2010",
+				"favourites_count": 11102,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 331751,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/882999585303445504/p-bUxO3H_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/882999585303445504/p-bUxO3H_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/200715240/1525141489",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Always a pleasure talking to @alicekeeler. Big thank you to Alice for inviting me on to speak about how you can monitor/manage Google Forms versions with Forms History add-on. Find out more 👇 #GoogleWorkspace #GoogleForms https://t.co/bw1Jln3nNK"
+	},
+	{
 		"created_at": "Thu Jul 07 18:29:06 +0000 2022",
 		"id": 1545112689852170200,
 		"id_str": "1545112689852170246",
