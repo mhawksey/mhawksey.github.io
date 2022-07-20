@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 19 11:24:27 +0000 2022",
+		"id": 1549167395960279000,
+		"id_str": "1549354475789377537",
+		"full_text": "Dependent dropdown lists for Google Sheets (and lots of other Google Apps Script goodies) by @max__makhrov (contributed by @mhawksey) #GoogleWorkspace @WorkspaceDevs #GoogleAppsScript #AppsScript https://t.co/4Vv9DvWU5Y https://t.co/hlTmuaI0ha",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleWorkspace",
+					"indices": [
+						134,
+						150
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						166,
+						183
+					]
+				},
+				{
+					"text": "AppsScript",
+					"indices": [
+						184,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "max__makhrov",
+					"name": "Max Makhrov",
+					"id": 1143084225790382100,
+					"id_str": "1143084225790382080",
+					"indices": [
+						93,
+						106
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						123,
+						132
+					]
+				},
+				{
+					"screen_name": "workspacedevs",
+					"name": "Google Workspace Developers",
+					"id": 111197966,
+					"id_str": "111197966",
+					"indices": [
+						151,
+						165
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4Vv9DvWU5Y",
+					"expanded_url": "https://pulse.appsscript.info/p/2022/07/dependent-dropdown-lists-for-google-sheets-and-lots-of-other-google-apps-script-goodies/",
+					"display_url": "pulse.appsscript.info/p/2022/07/depe…",
+					"indices": [
+						196,
+						219
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1549167394156818400,
+					"id_str": "1549167394156818432",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FX-_iYJVsAAQZ_b.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FX-_iYJVsAAQZ_b.jpg",
+					"url": "https://t.co/hlTmuaI0ha",
+					"display_url": "pic.twitter.com/hlTmuaI0ha",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1549167395960279040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 542,
+							"h": 422,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 542,
+							"h": 422,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 542,
+							"h": 422,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549167394156818400,
+					"id_str": "1549167394156818432",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FX-_iYJVsAAQZ_b.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FX-_iYJVsAAQZ_b.jpg",
+					"url": "https://t.co/hlTmuaI0ha",
+					"display_url": "pic.twitter.com/hlTmuaI0ha",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1549167395960279040/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 542,
+							"h": 422,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 542,
+							"h": 422,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 542,
+							"h": 422,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							271,
+							211
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FX-_iYJVsAAQZ_b.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322526439,
+			"id_str": "322526439",
+			"name": "AppsScriptInfo",
+			"screen_name": "AppsScriptInfo",
+			"location": "World",
+			"description": "A Google Apps Script Community account to support Google Workspace Devs. Curated by @mhawksey",
+			"url": "https://t.co/db8P5bhqPd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/db8P5bhqPd",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1993,
+			"friends_count": 1534,
+			"listed_count": 50,
+			"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+			"favourites_count": 925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3022,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509531998359982080/BbebJ-ka_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509531998359982080/BbebJ-ka_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+			"profile_link_color": "4286F4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dependent dropdown lists for Google Sheets (and lots of other Google Apps Script goodies) by @max__makhrov (contributed by @mhawksey) #GoogleWorkspace @WorkspaceDevs #GoogleAppsScript #AppsScript https://t.co/4Vv9DvWU5Y https://t.co/hlTmuaI0ha"
+	},
+	{
 		"created_at": "Thu Jul 14 20:04:46 +0000 2022",
 		"id": 1547673481017340000,
 		"id_str": "1547673481017339906",
