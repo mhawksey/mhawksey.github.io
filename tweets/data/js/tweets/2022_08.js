@@ -1,6 +1,121 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sat Aug 13 16:13:35 +0000 2022",
+		"id": 1558051494728982500,
+		"id_str": "1558486937719152641",
+		"full_text": "Happy to share my Sheet2Pdf #AppsScript library \n🔌https://t.co/MY2sdF6UUE\n\n👉let's you easily automete printing PDFs from Google Sheets.\n👉 supports all PDF settings including page numbers, custom footers and headers\n\nPlease test and contact me with any suggestions!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AppsScript",
+					"indices": [
+						28,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MY2sdF6UUE",
+					"expanded_url": "https://github.com/Max-Makhrov/sheets2pdf_gs",
+					"display_url": "github.com/Max-Makhrov/sh…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143084225790382100,
+			"id_str": "1143084225790382080",
+			"name": "Max Makhrov",
+			"screen_name": "max__makhrov",
+			"location": "Ukraine, Odessa",
+			"description": "Spreadsheets Developer",
+			"url": "https://t.co/ApjxbOnB2h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ApjxbOnB2h",
+							"expanded_url": "https://www.cooltables.online",
+							"display_url": "cooltables.online",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 269,
+			"friends_count": 31,
+			"listed_count": 6,
+			"created_at": "Mon Jun 24 09:11:31 +0000 2019",
+			"favourites_count": 1049,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 398,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1414239929060798466/w7MKflpr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1414239929060798466/w7MKflpr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143084225790382080/1620304299",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy to share my Sheet2Pdf #AppsScript library \n🔌https://t.co/MY2sdF6UUE\n\n👉let's you easily automete printing PDFs from Google Sheets.\n👉 supports all PDF settings including page numbers, custom footers and headers\n\nPlease test and contact me with any suggestions!"
+	},
+	{
 		"created_at": "Fri Aug 12 10:22:56 +0000 2022",
 		"id": 1558006884027728000,
 		"id_str": "1558036304562208768",
