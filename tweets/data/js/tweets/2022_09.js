@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 09 22:06:02 +0000 2022",
+		"id": 1568360105015447600,
+		"id_str": "1568360105015447553",
+		"full_text": "In case you haven't seen @benlcollins https://t.co/P8FHlJjpH8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "benlcollins",
+					"name": "Ben Collins",
+					"id": 19338407,
+					"id_str": "19338407",
+					"indices": [
+						25,
+						37
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/P8FHlJjpH8",
+					"expanded_url": "https://twitter.com/max__makhrov/status/1568121852806963200",
+					"display_url": "twitter.com/max__makhrov/s…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Curator/creator @AppsScriptInfo + https://t.co/wvb4AKjEQc | Google Cloud Champion Innovator and @GoogleDevExpert in #GoogleAppsScript/#Workspace",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wvb4AKjEQc",
+							"expanded_url": "http://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9485,
+			"friends_count": 2826,
+			"listed_count": 588,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 8046,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31488,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1568121852806963200,
+		"quoted_status_id_str": "1568121852806963200",
+		"quoted_status_permalink": {
+			"url": "https://t.co/P8FHlJjpH8",
+			"expanded": "https://twitter.com/max__makhrov/status/1568121852806963200",
+			"display": "twitter.com/max__makhrov/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 09 06:19:18 +0000 2022",
+			"id": 1568121852806963200,
+			"id_str": "1568121852806963200",
+			"full_text": "It's breaking the rules!\n\nBYROW + LAMBDA in Google Sheets can convert any function into array:\n\n=BYROW(M3:M6,LAMBDA(r,FORMULATEXT(r)))\n\n#GoogleSheets #🤯 https://t.co/k6kzAA8smI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				152
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GoogleSheets",
+						"indices": [
+							136,
+							149
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1568121792367042600,
+						"id_str": "1568121792367042560",
+						"indices": [
+							153,
+							176
+						],
+						"media_url": "http://pbs.twimg.com/media/FcMWdj6WIAAGW5D.png",
+						"media_url_https": "https://pbs.twimg.com/media/FcMWdj6WIAAGW5D.png",
+						"url": "https://t.co/k6kzAA8smI",
+						"display_url": "pic.twitter.com/k6kzAA8smI",
+						"expanded_url": "https://twitter.com/max__makhrov/status/1568121852806963200/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 746,
+								"h": 317,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 746,
+								"h": 317,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 289,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1568121792367042600,
+						"id_str": "1568121792367042560",
+						"indices": [
+							153,
+							176
+						],
+						"media_url": "http://pbs.twimg.com/media/FcMWdj6WIAAGW5D.png",
+						"media_url_https": "https://pbs.twimg.com/media/FcMWdj6WIAAGW5D.png",
+						"url": "https://t.co/k6kzAA8smI",
+						"display_url": "pic.twitter.com/k6kzAA8smI",
+						"expanded_url": "https://twitter.com/max__makhrov/status/1568121852806963200/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 746,
+								"h": 317,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 746,
+								"h": 317,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 289,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1143084225790382100,
+				"id_str": "1143084225790382080",
+				"name": "Max Makhrov",
+				"screen_name": "max__makhrov",
+				"location": "Ukraine, Odessa",
+				"description": "Spreadsheets Developer",
+				"url": "https://t.co/ApjxbOnB2h",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ApjxbOnB2h",
+								"expanded_url": "https://www.cooltables.online",
+								"display_url": "cooltables.online",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 285,
+				"friends_count": 33,
+				"listed_count": 6,
+				"created_at": "Mon Jun 24 09:11:31 +0000 2019",
+				"favourites_count": 1141,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 427,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1414239929060798466/w7MKflpr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1414239929060798466/w7MKflpr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143084225790382080/1620304299",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In case you haven't seen @benlcollins https://t.co/P8FHlJjpH8"
+	},
+	{
 		"created_at": "Tue Sep 06 20:49:20 +0000 2022",
 		"id": 1567253638598348800,
 		"id_str": "1567253638598348800",
