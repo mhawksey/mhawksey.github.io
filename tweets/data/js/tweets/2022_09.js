@@ -1,6 +1,173 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 16 19:47:30 +0000 2022",
+		"id": 1570861955468107800,
+		"id_str": "1570861955468107778",
+		"full_text": "@mozart_34 @ChanelGreco @aryanirani123 @LifeOfSpy @barrielroberts @benlcollins Agree with comments on audio. Hardest bit for me is finding time (doing live made production easier)",
+		"truncated": false,
+		"display_text_range": [
+			79,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mozart_34",
+					"name": "Mozart García",
+					"id": 83852970,
+					"id_str": "83852970",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "ChanelGreco",
+					"name": "Chanel Greco",
+					"id": 1710909806,
+					"id_str": "1710909806",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"screen_name": "aryanirani123",
+					"name": "Aryan Irani",
+					"id": 815158584375840800,
+					"id_str": "815158584375840768",
+					"indices": [
+						24,
+						38
+					]
+				},
+				{
+					"screen_name": "LifeOfSpy",
+					"name": "Yagisanatode",
+					"id": 2346078620,
+					"id_str": "2346078620",
+					"indices": [
+						39,
+						49
+					]
+				},
+				{
+					"screen_name": "barrielroberts",
+					"name": "Baz Roberts",
+					"id": 4409428666,
+					"id_str": "4409428666",
+					"indices": [
+						50,
+						65
+					]
+				},
+				{
+					"screen_name": "benlcollins",
+					"name": "Ben Collins",
+					"id": 19338407,
+					"id_str": "19338407",
+					"indices": [
+						66,
+						78
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1570795479293886500,
+		"in_reply_to_status_id_str": "1570795479293886465",
+		"in_reply_to_user_id": 83852970,
+		"in_reply_to_user_id_str": "83852970",
+		"in_reply_to_screen_name": "mozart_34",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Curator/creator @AppsScriptInfo + https://t.co/wvb4AKjEQc | Google Cloud Champion Innovator and @GoogleDevExpert in #GoogleAppsScript/#Workspace",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wvb4AKjEQc",
+							"expanded_url": "http://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9494,
+			"friends_count": 2826,
+			"listed_count": 588,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 8047,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mozart_34 @ChanelGreco @aryanirani123 @LifeOfSpy @barrielroberts @benlcollins Agree with comments on audio. Hardest bit for me is finding time (doing live made production easier)"
+	},
+	{
 		"created_at": "Thu Sep 15 20:26:39 +0000 2022",
 		"id": 1570508541273964500,
 		"id_str": "1570509421012463619",
