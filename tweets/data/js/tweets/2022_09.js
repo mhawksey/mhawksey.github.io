@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 25 07:19:25 +0000 2022",
+		"id": 1573422537056346000,
+		"id_str": "1573935185850155009",
+		"full_text": "Hey #GoogleWorkspaceDevelopers! A new #YouTube channel has quietly launched today for folks who want to learn more about what the #WorkspaceDeveloperPlatform offers! Check it out and subscribe here -&gt; https://t.co/8TxPFiVrME",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleWorkspaceDevelopers",
+					"indices": [
+						4,
+						30
+					]
+				},
+				{
+					"text": "YouTube",
+					"indices": [
+						38,
+						46
+					]
+				},
+				{
+					"text": "WorkspaceDeveloperPlatform",
+					"indices": [
+						130,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8TxPFiVrME",
+					"expanded_url": "https://www.youtube.com/channel/UCUcg6az6etU_gRtZVAhBXaw",
+					"display_url": "youtube.com/channel/UCUcg6…",
+					"indices": [
+						204,
+						227
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 993937566029115400,
+			"id_str": "993937566029115393",
+			"name": "Charles Maxson",
+			"screen_name": "chasmaxson",
+			"location": "California",
+			"description": "Developer Advocate for #GoogleWorkspace @Google",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 427,
+			"friends_count": 83,
+			"listed_count": 17,
+			"created_at": "Tue May 08 19:35:57 +0000 2018",
+			"favourites_count": 118,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 129,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1521900870824173568/ZaCGLc98_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1521900870824173568/ZaCGLc98_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/993937566029115393/1573837916",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey #GoogleWorkspaceDevelopers! A new #YouTube channel has quietly launched today for folks who want to learn more about what the #WorkspaceDeveloperPlatform offers! Check it out and subscribe here -&gt; https://t.co/8TxPFiVrME"
+	},
+	{
 		"created_at": "Thu Sep 22 18:15:45 +0000 2022",
 		"id": 1573013196973248500,
 		"id_str": "1573013196973248514",
