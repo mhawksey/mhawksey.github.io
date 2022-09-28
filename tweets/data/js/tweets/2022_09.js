@@ -1,6 +1,411 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 27 20:49:02 +0000 2022",
+		"id": 1572654392230412300,
+		"id_str": "1574863707825389568",
+		"full_text": "Check out this blog post to see how you can go from a user filling out a #GoogleForm to automatically creating a #VM in #GoogleCloud! \n\nThanks for sharing @AppsScriptInfo @mhawksey @meteatamel \n#AppsScript #GoogleWorkspace https://t.co/IryXk3WlIm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleForm",
+					"indices": [
+						73,
+						84
+					]
+				},
+				{
+					"text": "VM",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "GoogleCloud",
+					"indices": [
+						120,
+						132
+					]
+				},
+				{
+					"text": "AppsScript",
+					"indices": [
+						194,
+						205
+					]
+				},
+				{
+					"text": "GoogleWorkspace",
+					"indices": [
+						206,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppsScriptInfo",
+					"name": "AppsScriptInfo",
+					"id": 322526439,
+					"id_str": "322526439",
+					"indices": [
+						155,
+						170
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						171,
+						180
+					]
+				},
+				{
+					"screen_name": "meteatamel",
+					"name": "Mete Atamel",
+					"id": 75778654,
+					"id_str": "75778654",
+					"indices": [
+						181,
+						192
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IryXk3WlIm",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1572318954819063809",
+					"display_url": "twitter.com/AppsScriptInfo…",
+					"indices": [
+						223,
+						246
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 111197966,
+			"id_str": "111197966",
+			"name": "Google Workspace Developers",
+			"screen_name": "workspacedevs",
+			"location": "",
+			"description": "Official Google Workspace Developer feed.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 334598,
+			"friends_count": 45,
+			"listed_count": 2772,
+			"created_at": "Thu Feb 04 03:22:30 +0000 2010",
+			"favourites_count": 61,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 851,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1313391216726163461/Z1ew7zfp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1313391216726163461/Z1ew7zfp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/111197966/1601971842",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1572318954819063800,
+		"quoted_status_id_str": "1572318954819063809",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IryXk3WlIm",
+			"expanded": "https://twitter.com/AppsScriptInfo/status/1572318954819063809",
+			"display": "twitter.com/AppsScriptInfo…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 20 20:17:05 +0000 2022",
+			"id": 1572318954819063800,
+			"id_str": "1572318954819063809",
+			"full_text": "Creating a custom workflows using Google Forms and Google Sheets for provisioning virtual machines (VM) in Google Cloud by @meteatamel (contributed by @mhawksey) #GoogleWorkspace @WorkspaceDevs #GoogleAppsScript #AppsScript https://t.co/JFgDG3Kd6c https://t.co/ZCAnanOeQX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				247
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GoogleWorkspace",
+						"indices": [
+							162,
+							178
+						]
+					},
+					{
+						"text": "GoogleAppsScript",
+						"indices": [
+							194,
+							211
+						]
+					},
+					{
+						"text": "AppsScript",
+						"indices": [
+							212,
+							223
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "meteatamel",
+						"name": "Mete Atamel",
+						"id": 75778654,
+						"id_str": "75778654",
+						"indices": [
+							123,
+							134
+						]
+					},
+					{
+						"screen_name": "mhawksey",
+						"name": "Martin Hawksey",
+						"id": 13046992,
+						"id_str": "13046992",
+						"indices": [
+							151,
+							160
+						]
+					},
+					{
+						"screen_name": "workspacedevs",
+						"name": "Google Workspace Developers",
+						"id": 111197966,
+						"id_str": "111197966",
+						"indices": [
+							179,
+							193
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/JFgDG3Kd6c",
+						"expanded_url": "https://pulse.appsscript.info/p/2022/09/creating-a-custom-workflows-using-google-forms-and-google-sheets-for-provisioning-virtual-machines-vm-in-google-cloud/",
+						"display_url": "pulse.appsscript.info/p/2022/09/crea…",
+						"indices": [
+							224,
+							247
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1572318952784801800,
+						"id_str": "1572318952784801792",
+						"indices": [
+							248,
+							271
+						],
+						"media_url": "http://pbs.twimg.com/media/FdH_wc5aMAApYJH.png",
+						"media_url_https": "https://pbs.twimg.com/media/FdH_wc5aMAApYJH.png",
+						"url": "https://t.co/ZCAnanOeQX",
+						"display_url": "pic.twitter.com/ZCAnanOeQX",
+						"expanded_url": "https://twitter.com/AppsScriptInfo/status/1572318954819063809/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 571,
+								"h": 414,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 571,
+								"h": 414,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 571,
+								"h": 414,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1572318952784801800,
+						"id_str": "1572318952784801792",
+						"indices": [
+							248,
+							271
+						],
+						"media_url": "http://pbs.twimg.com/media/FdH_wc5aMAApYJH.png",
+						"media_url_https": "https://pbs.twimg.com/media/FdH_wc5aMAApYJH.png",
+						"url": "https://t.co/ZCAnanOeQX",
+						"display_url": "pic.twitter.com/ZCAnanOeQX",
+						"expanded_url": "https://twitter.com/AppsScriptInfo/status/1572318954819063809/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 571,
+								"h": 414,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 571,
+								"h": 414,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 571,
+								"h": 414,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 322526439,
+				"id_str": "322526439",
+				"name": "AppsScriptInfo",
+				"screen_name": "AppsScriptInfo",
+				"location": "World",
+				"description": "A Google Apps Script Community account to support Google Workspace Devs. Curated by @mhawksey",
+				"url": "https://t.co/db8P5bhqPd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/db8P5bhqPd",
+								"expanded_url": "https://pulse.appsscript.info",
+								"display_url": "pulse.appsscript.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2119,
+				"friends_count": 1550,
+				"listed_count": 51,
+				"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+				"favourites_count": 958,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3092,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1509531998359982080/BbebJ-ka_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509531998359982080/BbebJ-ka_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+				"profile_link_color": "4286F4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out this blog post to see how you can go from a user filling out a #GoogleForm to automatically creating a #VM in #GoogleCloud! \n\nThanks for sharing @AppsScriptInfo @mhawksey @meteatamel \n#AppsScript #GoogleWorkspace https://t.co/IryXk3WlIm"
+	},
+	{
 		"created_at": "Sun Sep 25 07:19:25 +0000 2022",
 		"id": 1573422537056346000,
 		"id_str": "1573935185850155009",
