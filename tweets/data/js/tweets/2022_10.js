@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 07 05:38:40 +0000 2022",
+		"id": 1578134643291066400,
+		"id_str": "1578258485912907776",
+		"full_text": "Live and pre-recorded tech talks for Google Workspace Admins (contributed by @mhawksey) #GoogleWorkspace @WorkspaceDevs #GoogleAppsScript #AppsScript https://t.co/qeJ7SuTJOF https://t.co/yBPTMEfMEO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleWorkspace",
+					"indices": [
+						88,
+						104
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						120,
+						137
+					]
+				},
+				{
+					"text": "AppsScript",
+					"indices": [
+						138,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						77,
+						86
+					]
+				},
+				{
+					"screen_name": "workspacedevs",
+					"name": "Google Workspace Developers",
+					"id": 111197966,
+					"id_str": "111197966",
+					"indices": [
+						105,
+						119
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qeJ7SuTJOF",
+					"expanded_url": "https://pulse.appsscript.info/p/2022/10/live-and-pre-recorded-tech-talks-for-google-workspace-admins/",
+					"display_url": "pulse.appsscript.info/p/2022/10/live…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1578134641223299000,
+					"id_str": "1578134641223299072",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FeapGEnacAA49LA.png",
+					"media_url_https": "https://pbs.twimg.com/media/FeapGEnacAA49LA.png",
+					"url": "https://t.co/yBPTMEfMEO",
+					"display_url": "pic.twitter.com/yBPTMEfMEO",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1578134643291066368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 823,
+							"h": 649,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 536,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 823,
+							"h": 649,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578134641223299000,
+					"id_str": "1578134641223299072",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FeapGEnacAA49LA.png",
+					"media_url_https": "https://pbs.twimg.com/media/FeapGEnacAA49LA.png",
+					"url": "https://t.co/yBPTMEfMEO",
+					"display_url": "pic.twitter.com/yBPTMEfMEO",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1578134643291066368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 823,
+							"h": 649,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 536,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 823,
+							"h": 649,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322526439,
+			"id_str": "322526439",
+			"name": "AppsScriptInfo",
+			"screen_name": "AppsScriptInfo",
+			"location": "World",
+			"description": "A Google Apps Script Community account to support Google Workspace Devs. Curated by @mhawksey",
+			"url": "https://t.co/db8P5bhqPd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/db8P5bhqPd",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2135,
+			"friends_count": 1547,
+			"listed_count": 53,
+			"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+			"favourites_count": 964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509531998359982080/BbebJ-ka_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509531998359982080/BbebJ-ka_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+			"profile_link_color": "4286F4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Live and pre-recorded tech talks for Google Workspace Admins (contributed by @mhawksey) #GoogleWorkspace @WorkspaceDevs #GoogleAppsScript #AppsScript https://t.co/qeJ7SuTJOF https://t.co/yBPTMEfMEO"
+	},
+	{
 		"created_at": "Thu Oct 06 20:00:38 +0000 2022",
 		"id": 1578113019418218500,
 		"id_str": "1578113019418218496",
