@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 13 18:02:14 +0000 2022",
+		"id": 1580619937256964000,
+		"id_str": "1580619937256964096",
+		"full_text": "@benlcollins @JuanMatMat1 @SteveWebster22 @chasmaxson Looks like Tables are now Database in AppSheet https://t.co/W5MBwu8iEH",
+		"truncated": false,
+		"display_text_range": [
+			54,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "benlcollins",
+					"name": "Ben Collins",
+					"id": 19338407,
+					"id_str": "19338407",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "JuanMatMat1",
+					"name": "Juan Mat Mat",
+					"id": 1546236778478190600,
+					"id_str": "1546236778478190594",
+					"indices": [
+						13,
+						25
+					]
+				},
+				{
+					"screen_name": "SteveWebster22",
+					"name": "Steve Webster",
+					"id": 3431975507,
+					"id_str": "3431975507",
+					"indices": [
+						26,
+						41
+					]
+				},
+				{
+					"screen_name": "chasmaxson",
+					"name": "Charles Maxson",
+					"id": 993937566029115400,
+					"id_str": "993937566029115393",
+					"indices": [
+						42,
+						53
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580619934752772000,
+					"id_str": "1580619934752772107",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe99dMfXEAsLZ1Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe99dMfXEAsLZ1Z.jpg",
+					"url": "https://t.co/W5MBwu8iEH",
+					"display_url": "pic.twitter.com/W5MBwu8iEH",
+					"expanded_url": "https://twitter.com/mhawksey/status/1580619937256964096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 835,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 277,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 489,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580619934752772000,
+					"id_str": "1580619934752772107",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe99dMfXEAsLZ1Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe99dMfXEAsLZ1Z.jpg",
+					"url": "https://t.co/W5MBwu8iEH",
+					"display_url": "pic.twitter.com/W5MBwu8iEH",
+					"expanded_url": "https://twitter.com/mhawksey/status/1580619937256964096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 835,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 277,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 489,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1580606130874908700,
+		"in_reply_to_status_id_str": "1580606130874908672",
+		"in_reply_to_user_id": 19338407,
+		"in_reply_to_user_id_str": "19338407",
+		"in_reply_to_screen_name": "benlcollins",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Curator/creator @AppsScriptInfo + https://t.co/wvb4AKjEQc | Google Cloud Champion Innovator and @GoogleDevExpert in #GoogleAppsScript/#Workspace",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wvb4AKjEQc",
+							"expanded_url": "http://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9527,
+			"friends_count": 2831,
+			"listed_count": 0,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 8061,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31521,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@benlcollins @JuanMatMat1 @SteveWebster22 @chasmaxson Looks like Tables are now Database in AppSheet https://t.co/W5MBwu8iEH"
+	},
+	{
 		"created_at": "Wed Oct 12 16:13:19 +0000 2022",
 		"id": 1580230142924054500,
 		"id_str": "1580230142924054535",
