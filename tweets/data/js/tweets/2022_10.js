@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 17 16:11:26 +0000 2022",
+		"id": 1582041604579242000,
+		"id_str": "1582041604579241986",
+		"full_text": "Nice op. to meet @workspacedevs in person if you are in the vicinity of Paris or London. I've registered for the London event on the 9th and look forward to meeting other #GoogleAppsScript/#AppsScript coders https://t.co/VdCiqPrfi0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						171,
+						188
+					]
+				},
+				{
+					"text": "AppsScript",
+					"indices": [
+						189,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "workspacedevs",
+					"name": "Google Workspace Developers",
+					"id": 111197966,
+					"id_str": "111197966",
+					"indices": [
+						17,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VdCiqPrfi0",
+					"expanded_url": "https://twitter.com/workspacedevs/status/1582038733662040064",
+					"display_url": "twitter.com/workspacedevs/…",
+					"indices": [
+						208,
+						231
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Curator/creator @AppsScriptInfo + https://t.co/wvb4AKjEQc | Google Cloud Champion Innovator and @GoogleDevExpert in #GoogleAppsScript/#Workspace",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wvb4AKjEQc",
+							"expanded_url": "http://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9531,
+			"friends_count": 2833,
+			"listed_count": 589,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 8068,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1582038733662040000,
+		"quoted_status_id_str": "1582038733662040064",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VdCiqPrfi0",
+			"expanded": "https://twitter.com/workspacedevs/status/1582038733662040064",
+			"display": "twitter.com/workspacedevs/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 17 16:00:01 +0000 2022",
+			"id": 1582038733662040000,
+			"id_str": "1582038733662040064",
+			"full_text": "📣 Announcing the Google Workspace Developer Summit\n\n🇫🇷 Paris &amp; London 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | November 8 &amp; 9\n\nRegister now ➡️ https://t.co/FPDH5nFpKY\n\n#GoogleWorkspace #nocode #developers #chatbots #AppsScript https://t.co/4ATpriRdJ5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				203
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GoogleWorkspace",
+						"indices": [
+							145,
+							161
+						]
+					},
+					{
+						"text": "nocode",
+						"indices": [
+							162,
+							169
+						]
+					},
+					{
+						"text": "developers",
+						"indices": [
+							170,
+							181
+						]
+					},
+					{
+						"text": "chatbots",
+						"indices": [
+							182,
+							191
+						]
+					},
+					{
+						"text": "AppsScript",
+						"indices": [
+							192,
+							203
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FPDH5nFpKY",
+						"expanded_url": "https://goo.gle/3CDByNp",
+						"display_url": "goo.gle/3CDByNp",
+						"indices": [
+							120,
+							143
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1582038731422417000,
+						"id_str": "1582038731422416899",
+						"indices": [
+							204,
+							227
+						],
+						"media_url": "http://pbs.twimg.com/media/FfSH2B9XwAMzdGz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FfSH2B9XwAMzdGz.jpg",
+						"url": "https://t.co/4ATpriRdJ5",
+						"display_url": "pic.twitter.com/4ATpriRdJ5",
+						"expanded_url": "https://twitter.com/workspacedevs/status/1582038733662040064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1582038731422417000,
+						"id_str": "1582038731422416899",
+						"indices": [
+							204,
+							227
+						],
+						"media_url": "http://pbs.twimg.com/media/FfSH2B9XwAMzdGz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FfSH2B9XwAMzdGz.jpg",
+						"url": "https://t.co/4ATpriRdJ5",
+						"display_url": "pic.twitter.com/4ATpriRdJ5",
+						"expanded_url": "https://twitter.com/workspacedevs/status/1582038733662040064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 111197966,
+				"id_str": "111197966",
+				"name": "Google Workspace Developers",
+				"screen_name": "workspacedevs",
+				"location": "",
+				"description": "Official Google Workspace Developer feed.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 335105,
+				"friends_count": 45,
+				"listed_count": 2766,
+				"created_at": "Thu Feb 04 03:22:30 +0000 2010",
+				"favourites_count": 62,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 869,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1313391216726163461/Z1ew7zfp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1313391216726163461/Z1ew7zfp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/111197966/1601971842",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nice op. to meet @workspacedevs in person if you are in the vicinity of Paris or London. I've registered for the London event on the 9th and look forward to meeting other #GoogleAppsScript/#AppsScript coders https://t.co/VdCiqPrfi0"
+	},
+	{
 		"created_at": "Sat Oct 15 17:31:17 +0000 2022",
 		"id": 1581336924861497300,
 		"id_str": "1581336924861497344",
