@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Mon Nov 21 23:14:37 +0000 2022",
+		"id": 1594831164887695400,
+		"id_str": "1594831677838483456",
+		"full_text": "r/GoogleAppsScript – AutoScript – create Google Apps Script code with help of AI #nocode (contributed by @mhawksey) #GoogleWorkspace @WorkspaceDevs #GoogleAppsScript #AppsScript https://t.co/B6QUbGhXak https://t.co/uEIXi223PD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "nocode",
+					"indices": [
+						81,
+						88
+					]
+				},
+				{
+					"text": "GoogleWorkspace",
+					"indices": [
+						116,
+						132
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						148,
+						165
+					]
+				},
+				{
+					"text": "AppsScript",
+					"indices": [
+						166,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						105,
+						114
+					]
+				},
+				{
+					"screen_name": "workspacedevs",
+					"name": "Google Workspace Developers",
+					"id": 111197966,
+					"id_str": "111197966",
+					"indices": [
+						133,
+						147
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/B6QUbGhXak",
+					"expanded_url": "https://pulse.appsscript.info/p/2022/11/r-googleappsscript-autoscript-create-google-apps-script-code-with-help-of-ai-nocode/",
+					"display_url": "pulse.appsscript.info/p/2022/11/r-go…",
+					"indices": [
+						178,
+						201
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1594831162819874800,
+					"id_str": "1594831162819874816",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FiH6fiiaEAA_6m0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiH6fiiaEAA_6m0.jpg",
+					"url": "https://t.co/uEIXi223PD",
+					"display_url": "pic.twitter.com/uEIXi223PD",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1594831164887695360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1594831162819874800,
+					"id_str": "1594831162819874816",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FiH6fiiaEAA_6m0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiH6fiiaEAA_6m0.jpg",
+					"url": "https://t.co/uEIXi223PD",
+					"display_url": "pic.twitter.com/uEIXi223PD",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1594831164887695360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322526439,
+			"id_str": "322526439",
+			"name": "AppsScriptInfo",
+			"screen_name": "AppsScriptInfo",
+			"location": "World",
+			"description": "A Google Apps Script Community account to support Google Workspace Devs. Curated by @mhawksey",
+			"url": "https://t.co/db8P5bhqPd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/db8P5bhqPd",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2189,
+			"friends_count": 1540,
+			"listed_count": 56,
+			"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+			"favourites_count": 980,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509531998359982080/BbebJ-ka_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509531998359982080/BbebJ-ka_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+			"profile_link_color": "4286F4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "r/GoogleAppsScript – AutoScript – create Google Apps Script code with help of AI #nocode (contributed by @mhawksey) #GoogleWorkspace @WorkspaceDevs #GoogleAppsScript #AppsScript https://t.co/B6QUbGhXak https://t.co/uEIXi223PD"
+	},
+	{
 		"created_at": "Sun Nov 20 09:06:52 +0000 2022",
 		"id": 1594255946657976300,
 		"id_str": "1594255946657976323",
