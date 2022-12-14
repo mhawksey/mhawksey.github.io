@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Tue Dec 13 07:16:22 +0000 2022",
+		"id": 1602428867217862700,
+		"id_str": "1602563062514450434",
+		"full_text": "Fix Google Apps Script file order problems with Exports by @brucemcpherson (contributed by @mhawksey) #GoogleWorkspace @WorkspaceDevs #GoogleAppsScript #AppsScript https://t.co/UnsFwHgeow https://t.co/puE52J9WJF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleWorkspace",
+					"indices": [
+						102,
+						118
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						134,
+						151
+					]
+				},
+				{
+					"text": "AppsScript",
+					"indices": [
+						152,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brucemcpherson",
+					"name": "Bruce McPherson 🇪🇺🇫🇷🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+					"id": 17517365,
+					"id_str": "17517365",
+					"indices": [
+						59,
+						74
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						91,
+						100
+					]
+				},
+				{
+					"screen_name": "workspacedevs",
+					"name": "Google Workspace Developers",
+					"id": 111197966,
+					"id_str": "111197966",
+					"indices": [
+						119,
+						133
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UnsFwHgeow",
+					"expanded_url": "https://pulse.appsscript.info/p/2022/12/fix-google-apps-script-file-order-problems-with-exports/",
+					"display_url": "pulse.appsscript.info/p/2022/12/fix-…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1602428865259147300,
+					"id_str": "1602428865259147264",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/Fjz4kBuakAAHa5m.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fjz4kBuakAAHa5m.png",
+					"url": "https://t.co/puE52J9WJF",
+					"display_url": "pic.twitter.com/puE52J9WJF",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1602428867217862657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 645,
+							"h": 443,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 645,
+							"h": 443,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 645,
+							"h": 443,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1602428865259147300,
+					"id_str": "1602428865259147264",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/Fjz4kBuakAAHa5m.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fjz4kBuakAAHa5m.png",
+					"url": "https://t.co/puE52J9WJF",
+					"display_url": "pic.twitter.com/puE52J9WJF",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1602428867217862657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 645,
+							"h": 443,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 645,
+							"h": 443,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 645,
+							"h": 443,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322526439,
+			"id_str": "322526439",
+			"name": "AppsScriptInfo",
+			"screen_name": "AppsScriptInfo",
+			"location": "World",
+			"description": "A Google Apps Script Community account to support Google Workspace Devs. Curated by @mhawksey",
+			"url": "https://t.co/db8P5bhqPd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/db8P5bhqPd",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2204,
+			"friends_count": 1539,
+			"listed_count": 56,
+			"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+			"favourites_count": 979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509531998359982080/BbebJ-ka_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509531998359982080/BbebJ-ka_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+			"profile_link_color": "4286F4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fix Google Apps Script file order problems with Exports by @brucemcpherson (contributed by @mhawksey) #GoogleWorkspace @WorkspaceDevs #GoogleAppsScript #AppsScript https://t.co/UnsFwHgeow https://t.co/puE52J9WJF"
+	},
+	{
 		"created_at": "Sat Dec 10 16:00:21 +0000 2022",
 		"id": 1601607761489690600,
 		"id_str": "1601607761489690625",
