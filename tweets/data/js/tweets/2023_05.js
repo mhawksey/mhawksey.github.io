@@ -1,0 +1,222 @@
+Grailbird.data.tweets_2023_05 = 
+[
+	{
+		"created_at": "Tue May 09 18:33:03 +0000 2023",
+		"id": 1656004371774152700,
+		"id_str": "1656004371774152721",
+		"full_text": "Very clever stuff from @benlcollins - Bullet Chart in Google Sheets with Sparklines and Named Functions\n https://t.co/Pz8M5lV8aD https://t.co/Otvk67dxzJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "benlcollins",
+					"name": "Ben Collins",
+					"id": 19338407,
+					"id_str": "19338407",
+					"indices": [
+						23,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Pz8M5lV8aD",
+					"expanded_url": "https://www.benlcollins.com/spreadsheets/bullet-chart-in-google-sheets/",
+					"display_url": "benlcollins.com/spreadsheets/b…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1656004362106273800,
+					"id_str": "1656004362106273792",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FvtPMYXXgAAN-Wl.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FvtPMYXXgAAN-Wl.jpg",
+					"url": "https://t.co/Otvk67dxzJ",
+					"display_url": "pic.twitter.com/Otvk67dxzJ",
+					"expanded_url": "https://twitter.com/mhawksey/status/1656004371774152721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 976,
+							"h": 550,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 976,
+							"h": 550,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1656004362106273800,
+					"id_str": "1656004362106273792",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FvtPMYXXgAAN-Wl.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FvtPMYXXgAAN-Wl.jpg",
+					"url": "https://t.co/Otvk67dxzJ",
+					"display_url": "pic.twitter.com/Otvk67dxzJ",
+					"expanded_url": "https://twitter.com/mhawksey/status/1656004371774152721/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 976,
+							"h": 550,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 976,
+							"h": 550,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							488,
+							275
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FvtPMYXXgAAN-Wl.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Curator/creator @AppsScriptInfo + https://t.co/wvb4AKjEQc | Google Cloud Champion Innovator and @GoogleDevExpert in #GoogleAppsScript/#Workspace",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wvb4AKjEQc",
+							"expanded_url": "http://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9491,
+			"friends_count": 2779,
+			"listed_count": 582,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 8002,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31571,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Very clever stuff from @benlcollins - Bullet Chart in Google Sheets with Sparklines and Named Functions\n https://t.co/Pz8M5lV8aD https://t.co/Otvk67dxzJ"
+	}
+]
