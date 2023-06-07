@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2023_06 = 
 [
 	{
+		"created_at": "Tue Jun 06 17:44:21 +0000 2023",
+		"id": 1666138975075958800,
+		"id_str": "1666138975075958806",
+		"full_text": "@helenwhd I'm less familiar these days but Google Education Groups (GEG) might be another place to check out (@GEG_UK)\n\nThere is also https://t.co/6UXyZz8ShE",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "helenwhd",
+					"name": "Helen Whitehead 💙 @helenwhd@mastodon.world",
+					"id": 15171220,
+					"id_str": "15171220",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "GEG_UK",
+					"name": "GEG UK",
+					"id": 2355155758,
+					"id_str": "2355155758",
+					"indices": [
+						110,
+						117
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6UXyZz8ShE",
+					"expanded_url": "https://www.googlecloudcommunity.com/gc/Google-Workspace/ct-p/google-workspace",
+					"display_url": "googlecloudcommunity.com/gc/Google-Work…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1666138299310669800,
+		"in_reply_to_status_id_str": "1666138299310669849",
+		"in_reply_to_user_id": 13046992,
+		"in_reply_to_user_id_str": "13046992",
+		"in_reply_to_screen_name": "mhawksey",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Curator/creator @AppsScriptInfo + https://t.co/wvb4AKjEQc | Google Cloud Champion Innovator and @GoogleDevExpert in #GoogleAppsScript/#Workspace",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wvb4AKjEQc",
+							"expanded_url": "http://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9500,
+			"friends_count": 2781,
+			"listed_count": 579,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 8003,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31581,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@helenwhd I'm less familiar these days but Google Education Groups (GEG) might be another place to check out (@GEG_UK)\n\nThere is also https://t.co/6UXyZz8ShE"
+	},
+	{
+		"created_at": "Tue Jun 06 17:41:40 +0000 2023",
+		"id": 1666138299310669800,
+		"id_str": "1666138299310669849",
+		"full_text": "@helenwhd The Workspace Admins showcase a lot of community content. https://t.co/h7RZ9FxfFW\n\n @WorkspaceRecap is a great way to hear about/understand new features. \n\nThe EDUCAUSE Connect Workspace community has lots of high quality discussion  https://t.co/m4YofWwpDG",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "helenwhd",
+					"name": "Helen Whitehead 💙 @helenwhd@mastodon.world",
+					"id": 15171220,
+					"id_str": "15171220",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "WorkspaceRecap",
+					"name": "Google Workspace Recap",
+					"id": 1334723671298994200,
+					"id_str": "1334723671298994177",
+					"indices": [
+						94,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/h7RZ9FxfFW",
+					"expanded_url": "https://www.youtube.com/@WorkspaceAdmins/about?app=desktop",
+					"display_url": "youtube.com/@WorkspaceAdmi…",
+					"indices": [
+						68,
+						91
+					]
+				},
+				{
+					"url": "https://t.co/m4YofWwpDG",
+					"expanded_url": "https://connect.educause.edu/community-home/digestviewer?CommunityKey=5bf0ca49-c3ea-4998-ab6c-bc39b25fb47b",
+					"display_url": "connect.educause.edu/community-home…",
+					"indices": [
+						244,
+						267
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1666136523111116800,
+		"in_reply_to_status_id_str": "1666136523111116815",
+		"in_reply_to_user_id": 15171220,
+		"in_reply_to_user_id_str": "15171220",
+		"in_reply_to_screen_name": "helenwhd",
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Curator/creator @AppsScriptInfo + https://t.co/wvb4AKjEQc | Google Cloud Champion Innovator and @GoogleDevExpert in #GoogleAppsScript/#Workspace",
+			"url": "https://t.co/ic511xTmhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic511xTmhG",
+							"expanded_url": "https://hawksey.info/blog/",
+							"display_url": "hawksey.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wvb4AKjEQc",
+							"expanded_url": "http://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9500,
+			"friends_count": 2781,
+			"listed_count": 579,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 8003,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31581,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@helenwhd The Workspace Admins showcase a lot of community content. https://t.co/h7RZ9FxfFW\n\n @WorkspaceRecap is a great way to hear about/understand new features. \n\nThe EDUCAUSE Connect Workspace community has lots of high quality discussion  https://t.co/m4YofWwpDG"
+	},
+	{
 		"created_at": "Mon Jun 05 21:19:20 +0000 2023",
 		"id": 1665828737768915000,
 		"id_str": "1665830687969095683",
