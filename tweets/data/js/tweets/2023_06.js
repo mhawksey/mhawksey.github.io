@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2023_06 = 
 [
 	{
+		"created_at": "Mon Jun 12 21:57:16 +0000 2023",
+		"id": 1668372498688385000,
+		"id_str": "1668376951013232641",
+		"full_text": "Using Apps Script tasks as part of Google Cloud Application Integration workflows (contributed by @mhawksey) #GoogleWorkspace @WorkspaceDevs #GoogleAppsScript #AppsScript https://t.co/UJ4HxcCn9D https://t.co/mWfeBoyEec",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleWorkspace",
+					"indices": [
+						109,
+						125
+					]
+				},
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						141,
+						158
+					]
+				},
+				{
+					"text": "AppsScript",
+					"indices": [
+						159,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						98,
+						107
+					]
+				},
+				{
+					"screen_name": "workspacedevs",
+					"name": "Google Workspace Developers",
+					"id": 111197966,
+					"id_str": "111197966",
+					"indices": [
+						126,
+						140
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UJ4HxcCn9D",
+					"expanded_url": "https://pulse.appsscript.info/p/2023/06/using-apps-script-tasks-as-part-of-google-cloud-application-integration-workflows/",
+					"display_url": "pulse.appsscript.info/p/2023/06/usin…",
+					"indices": [
+						171,
+						194
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1668372496830312400,
+					"id_str": "1668372496830312448",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/Fyc_8kqaMAAh59c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fyc_8kqaMAAh59c.jpg",
+					"url": "https://t.co/mWfeBoyEec",
+					"display_url": "pic.twitter.com/mWfeBoyEec",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1668372498688385024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1622,
+							"h": 946,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 397,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1668372496830312400,
+					"id_str": "1668372496830312448",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/Fyc_8kqaMAAh59c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fyc_8kqaMAAh59c.jpg",
+					"url": "https://t.co/mWfeBoyEec",
+					"display_url": "pic.twitter.com/mWfeBoyEec",
+					"expanded_url": "https://twitter.com/AppsScriptInfo/status/1668372498688385024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1622,
+							"h": 946,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 397,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322526439,
+			"id_str": "322526439",
+			"name": "AppsScriptInfo",
+			"screen_name": "AppsScriptInfo",
+			"location": "World",
+			"description": "A Google Apps Script Community account to support Google Workspace Devs. Curated by @mhawksey",
+			"url": "https://t.co/db8P5bhqPd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/db8P5bhqPd",
+							"expanded_url": "https://pulse.appsscript.info",
+							"display_url": "pulse.appsscript.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2338,
+			"friends_count": 1535,
+			"listed_count": 58,
+			"created_at": "Thu Jun 23 09:39:20 +0000 2011",
+			"favourites_count": 946,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3240,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509531998359982080/BbebJ-ka_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509531998359982080/BbebJ-ka_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526439/1559297130",
+			"profile_link_color": "4286F4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Using Apps Script tasks as part of Google Cloud Application Integration workflows (contributed by @mhawksey) #GoogleWorkspace @WorkspaceDevs #GoogleAppsScript #AppsScript https://t.co/UJ4HxcCn9D https://t.co/mWfeBoyEec"
+	},
+	{
 		"created_at": "Tue Jun 06 17:44:21 +0000 2023",
 		"id": 1666138975075958800,
 		"id_str": "1666138975075958806",
